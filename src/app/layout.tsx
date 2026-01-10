@@ -16,8 +16,8 @@ const jakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "Italy Universities Map | YouthLink",
-  description: "Explore all Italian universities on an interactive map",
+  title: "Universities Map | Global University Explorer",
+  description: "Interactive world map of universities. Currently featuring Italy with 104+ universities. Explore, search, and find your perfect university. More countries coming soon!",
 };
 
 export default function RootLayout({

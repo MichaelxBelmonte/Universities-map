@@ -3,9 +3,9 @@ import UniversitiesClient from "@/components/UniversitiesClient";
 import Header from "@/components/Header";
 
 export const metadata = {
-  title: "Italy Universities Map | YouthLink",
+  title: "Universities Map | Explore Global Universities",
   description:
-    "Interactive map of all Italian universities - explore public, private, telematic, and special status institutions.",
+    "Interactive world map of universities. Currently featuring 104 Italian universities - explore public, private, online, and special institutions. More countries coming soon!",
 };
 
 export default async function UniversitiesPage() {

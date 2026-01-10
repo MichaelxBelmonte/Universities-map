@@ -7,10 +7,13 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Made with AI](https://img.shields.io/badge/Made%20with-AI%20%F0%9F%A4%96-purple)
+[![Deploy with Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?logo=vercel)](https://universities-map.vercel.app/universities)
 
 **An interactive world map of universities to guide students in their academic journey**
 
 *Built by humans, perfected by AI (yes, Claude helped a lot... don't tell the professors! 🤫)*
+
+### 🌐 [**VIEW LIVE DEMO →**](https://universities-map.vercel.app/universities)
 
 [Report Bug](https://github.com/MichaelxBelmonte/Universities-map/issues) · [Request Feature](https://github.com/MichaelxBelmonte/Universities-map/issues)
 
@@ -108,11 +111,18 @@ Each university entry includes:
 
 ## 🏃 Getting Started
 
-### Prerequisites
+### 🌐 Just Want to See It?
+👉 **[Visit the Live Demo](https://universities-map.vercel.app/universities)** - No installation needed!
+
+---
+
+### 💻 Want to Run It Locally?
+
+#### Prerequisites
 - Node.js 18+
 - npm or yarn or pnpm
 
-### Installation
+#### Installation
 
 1. **Clone the repository**
 ```bash

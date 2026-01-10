@@ -3,7 +3,8 @@ export type Language = "en" | "it";
 export const translations = {
   en: {
     // Header
-    appTitle: "Italy Universities Map",
+    appTitle: "Universities Map",
+    appSubtitle: "Currently: Italy",
     universities: "universities",
     campuses: "campuses",
     onMap: "on map",
@@ -28,7 +29,7 @@ export const translations = {
     adjustFilters: "Try adjusting your filters",
     noValidCoords: "No universities with valid coordinates found",
     openWebsite: "Open official website",
-    resetView: "Reset view to Italy",
+    resetView: "Reset view",
 
     // Language
     language: "Language",
@@ -37,7 +38,8 @@ export const translations = {
   },
   it: {
     // Header
-    appTitle: "Mappa Università Italiane",
+    appTitle: "Universities Map",
+    appSubtitle: "Attualmente: Italia",
     universities: "università",
     campuses: "sedi",
     onMap: "sulla mappa",
@@ -62,7 +64,7 @@ export const translations = {
     adjustFilters: "Prova a modificare i filtri",
     noValidCoords: "Nessuna università con coordinate valide",
     openWebsite: "Apri sito ufficiale",
-    resetView: "Torna alla vista Italia",
+    resetView: "Reimposta vista",
 
     // Language
     language: "Lingua",

@@ -42,9 +42,14 @@ export default function Header({ stats }: HeaderProps) {
               </svg>
             </div>
             <div>
-              <h1 className="text-xl font-semibold tracking-tight">
-                {t("appTitle")}
-              </h1>
+              <div className="flex items-center gap-2">
+                <h1 className="text-xl font-semibold tracking-tight">
+                  {t("appTitle")}
+                </h1>
+                <span className="px-2 py-0.5 text-xs font-medium rounded-full bg-gradient-to-r from-green-500/20 to-red-500/20 border border-white/10 text-white/70">
+                  🇮🇹 {t("appSubtitle")}
+                </span>
+              </div>
               <p className="text-sm text-white/50">
                 <span className="stat-glow-cyan font-medium">{stats.total}</span>{" "}
                 {t("universities")} •{" "}
