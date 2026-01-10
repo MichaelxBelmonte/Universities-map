@@ -1,0 +1,95 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "lum",
+    "name": "Università LUM Giuseppe Degennaro",
+    "official_url": "https://www.lum.it",
+    "country": "Italy",
+    "city": "Casamassima (Bari)",
+    "campuses": [
+      {"city": "Casamassima (Bari)", "address": "", "notes": "Main campus"}
+    ],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Casamassima, Bari"},
+    "source_url": "https://www.lum.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "Private university in Puglia. Medicine program available. Bank financing partnerships. Merit scholarships for high school scores >90/100."
+  },
+  "programs": [
+    {"type":"program","university_id":"lum","degree_level":"bachelor","program_name":"Economia ed Organizzazione Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Casamassima (Bari)","duration_years":3,"ects_total":180,"source_url":"https://www.lum.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"lum","degree_level":"bachelor","program_name":"Business Economics and Organization","class_code":"L-18","language":["English"],"campus_city":"Casamassima (Bari)","duration_years":3,"ects_total":180,"source_url":"https://www.lum.it","last_checked":"2026-01-10","confidence":0.9,"notes":"English-taught."},
+    {"type":"program","university_id":"lum","degree_level":"bachelor","program_name":"Ingegneria Gestionale","class_code":"L-9","language":["Italian"],"campus_city":"Casamassima (Bari)","duration_years":3,"ects_total":180,"source_url":"https://www.lum.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"lum","degree_level":"bachelor","program_name":"Ingegneria Informatica per la Transizione Digitale","class_code":"L-8","language":["Italian"],"campus_city":"Casamassima (Bari)","duration_years":3,"ects_total":180,"source_url":"https://www.lum.it","last_checked":"2026-01-10","confidence":0.9,"notes":"NEW 2025/26. AI, ML, IoT, Cybersecurity."},
+    {"type":"program","university_id":"lum","degree_level":"bachelor","program_name":"Diritto delle Amministrazioni Pubbliche","class_code":"L-14","language":["Italian"],"campus_city":"Casamassima (Bari)","duration_years":3,"ects_total":180,"source_url":"https://www.lum.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"lum","degree_level":"bachelor","program_name":"Enogastronomia ed Hôtellèrie Internazionale","class_code":"L-26","language":["Italian"],"campus_city":"Casamassima (Bari)","duration_years":3,"ects_total":180,"source_url":"https://www.lum.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"lum","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Casamassima (Bari)","duration_years":3,"ects_total":180,"source_url":"https://www.lum.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Health Sciences."},
+    {"type":"program","university_id":"lum","degree_level":"master","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Casamassima (Bari)","duration_years":5,"ects_total":300,"source_url":"https://www.lum.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico."},
+    {"type":"program","university_id":"lum","degree_level":"master","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Casamassima (Bari)","duration_years":6,"ects_total":360,"source_url":"https://www.lum.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. €16,500/year."},
+    {"type":"program","university_id":"lum","degree_level":"master","program_name":"Odontoiatria e Protesi Dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Casamassima (Bari)","duration_years":6,"ects_total":360,"source_url":"https://www.lum.it","last_checked":"2026-01-10","confidence":0.9,"notes":"NEW 2025/26. Ciclo Unico."},
+    {"type":"program","university_id":"lum","degree_level":"master","program_name":"Economia e Management","class_code":"LM-77","language":["Italian"],"campus_city":"Casamassima (Bari)","duration_years":2,"ects_total":120,"source_url":"https://www.lum.it","last_checked":"2026-01-10","confidence":0.9,"notes":""}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"lum",
+    "program_name":"Medicine and Surgery",
+    "degree_level_scope":"single_cycle",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma, entrance exam",
+      "documents_required":[],
+      "tests_required":["LUM Medicine entrance exam"],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"Medicine 2026/27",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"September 2026",
+      "notes":"Test fee €200 non-refundable"
+    }],
+    "application_fee":{"amount":200,"currency":"EUR","notes":"Test fee, non-refundable via pagoPA"},
+    "how_to_apply_url":"https://www.lum.it/en/registrations/",
+    "source_url":"https://www.lum.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Medicine: entrance exam required, €200 test fee. Other programs may have different requirements."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"lum",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Medicine and Surgery","amount_min":16500,"amount_max":16500,"currency":"EUR","period":"year","notes":"Fixed, not ISEE-based"},
+      {"student_group":"Other programs","amount_min":8000,"amount_max":12000,"currency":"EUR","period":"year","notes":"Varies by program, fixed rates"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Regional tax ADISU (ISEE ≤25K)","amount":130,"currency":"EUR","notes":"First bracket"},
+      {"fee_name":"Regional tax ADISU (25-50K)","amount":160,"currency":"EUR","notes":"Second bracket"},
+      {"fee_name":"Regional tax ADISU (>50K)","amount":180,"currency":"EUR","notes":"Third bracket"},
+      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":"One-time"}
+    ],
+    "payment_schedule_notes":"Medicine: 3 rates (€8,500 by Apr 15, second by Sep 8, third by Nov 6). Bank financing available via Avvera, Deutsche Bank, BNL, Intesa Sanpaolo.",
+    "source_url":"https://www.lum.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Private university with fixed fees. Medicine €16,500/year. Bank financing partnerships available."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"lum",
+    "scholarship_name":"Merit Scholarships",
+    "description":"Partial scholarships for high school graduates with >90/100",
+    "eligibility":"Maturità score > 90/100",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.lum.it",
+    "source_url":"https://www.lum.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Merit scholarships for >90/100 maturità. ADISU Puglia regional scholarships also available."
+  }],
+  "opportunities": []
+}

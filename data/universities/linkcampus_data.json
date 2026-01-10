@@ -1,0 +1,103 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "linkcampus",
+    "name": "Link Campus University",
+    "official_url": "https://www.unilink.it",
+    "country": "Italy",
+    "city": "Rome",
+    "campuses": [
+      {"city": "Rome", "address": "", "notes": "Main campus"},
+      {"city": "Fano", "address": "", "notes": "Healthcare campus"},
+      {"city": "Novedrate", "address": "", "notes": "Healthcare campus"}
+    ],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "source_url": "https://www.unilink.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "Private university with Medicine program. Blended learning options. Studiosì financing available up to €50,000."
+  },
+  "programs": [
+    {"type":"program","university_id":"linkcampus","degree_level":"bachelor","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"source_url":"https://www.unilink.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico."},
+    {"type":"program","university_id":"linkcampus","degree_level":"bachelor","program_name":"DAMS - Produzione Audiovisiva e Teatrale","class_code":"L-3","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unilink.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"linkcampus","degree_level":"bachelor","program_name":"Ingegneria dell'Intelligenza Artificiale","class_code":"L-8","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unilink.it","last_checked":"2026-01-10","confidence":0.9,"notes":"AI Engineering."},
+    {"type":"program","university_id":"linkcampus","degree_level":"bachelor","program_name":"Economia e Management d'Impresa e delle Istituzioni","class_code":"L-18","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unilink.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"linkcampus","degree_level":"bachelor","program_name":"Scienze delle Comunicazioni, Media e Tecnologie Digitali","class_code":"L-20","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unilink.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"linkcampus","degree_level":"bachelor","program_name":"Scienze delle Attività Motorie e Sportive","class_code":"L-22","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unilink.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"linkcampus","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unilink.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"linkcampus","degree_level":"bachelor","program_name":"Scienze Politiche, Diplomatiche e Governo delle Amministrazioni","class_code":"L-36","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unilink.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"linkcampus","degree_level":"bachelor","program_name":"Scienze della Difesa e della Sicurezza","class_code":"L/DS","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unilink.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Defense and security."},
+    {"type":"program","university_id":"linkcampus","degree_level":"bachelor","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"source_url":"https://www.unilink.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Primary education."},
+    {"type":"program","university_id":"linkcampus","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unilink.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Also available at Fano and Novedrate campuses."},
+    {"type":"program","university_id":"linkcampus","degree_level":"bachelor","program_name":"Fisioterapia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unilink.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"linkcampus","degree_level":"bachelor","program_name":"Osteopatia","class_code":"L/SNT4","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unilink.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"linkcampus","degree_level":"bachelor","program_name":"Tecniche di Radiologia Medica","class_code":"L/SNT3","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unilink.it","last_checked":"2026-01-10","confidence":0.9,"notes":""}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"linkcampus",
+    "program_name":"Medicine and Surgery",
+    "degree_level_scope":"single_cycle",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma, entrance exam",
+      "documents_required":[],
+      "tests_required":["Link Campus Medicine test"],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"Medicine 2025",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"Test at Rome, Fano, Novedrate locations"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unilink.it",
+    "source_url":"https://www.unilink.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Medicine entrance exam required. Various healthcare programs available."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"linkcampus",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Medicine Year 1","amount_min":20050,"amount_max":20050,"currency":"EUR","period":"year","notes":"4 rates: €5,200 + 3x€4,950"},
+      {"student_group":"Medicine Years 2+","amount_min":19800,"amount_max":19800,"currency":"EUR","period":"year","notes":""},
+      {"student_group":"Infermieristica/Radiologia","amount_min":7500,"amount_max":8000,"currency":"EUR","period":"year","notes":"First rate €2,900"},
+      {"student_group":"Fisioterapia/Osteopatia","amount_min":10000,"amount_max":12000,"currency":"EUR","period":"year","notes":"First rate €4,400"},
+      {"student_group":"Other programs (Blended)","amount_min":6000,"amount_max":6000,"currency":"EUR","period":"year","notes":""},
+      {"student_group":"Standard programs","amount_min":6000,"amount_max":8000,"currency":"EUR","period":"year","notes":"Varies by program"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Enrollment fee","amount":500,"currency":"EUR","notes":"Diritti di iscrizione"},
+      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"Annual"},
+      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":"One-time"}
+    ],
+    "payment_schedule_notes":"4 installments. Studiosì financing available up to €50,000 for master's and single-cycle programs.",
+    "source_url":"https://www.unilink.it/iscrizione/tasse-e-rette",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Medicine €20,050/year. Healthcare €7,500-€12,000. Other programs ~€6,000-€8,000. Studiosì financing available."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"linkcampus",
+    "scholarship_name":"Partial Scholarships",
+    "description":"Partial scholarships for neo-diplomati",
+    "eligibility":"Recent high school graduates",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.unilink.it",
+    "source_url":"https://www.unilink.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Partial scholarships for first-year students. Studiosì financing up to €50,000."
+  }],
+  "opportunities": []
+}

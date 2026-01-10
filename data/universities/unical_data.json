@@ -1,0 +1,155 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unical",
+    "name": "Università della Calabria",
+    "official_url": "https://www.unical.it",
+    "country": "Italy",
+    "city": "Rende",
+    "campuses": [
+      {"city": "Rende", "address": "Via Pietro Bucci, 87036 Rende (CS)", "notes": "Main campus - Arcavacata"}
+    ],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Via Pietro Bucci, 87036 Rende CS"},
+    "source_url": "https://www.unical.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "84 courses across sciences, engineering, medical-health, socio-economic, humanities, and teacher education. Tax ID: 80003950781"
+  },
+  "programs": [
+    {"type":"program","university_id":"unical","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Rende","duration_years":3,"ects_total":180,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/2026"},
+    {"type":"program","university_id":"unical","degree_level":"bachelor","program_name":"Fisioterapia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Rende","duration_years":3,"ects_total":180,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/2026"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Scritture, Immagini e Media Digitali","class_code":"LM-14","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/2026"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Linguaggi della Comunicazione e dello Spettacolo","class_code":"LM-65","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/2026"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Scienze Storiche e del Patrimonio Culturale","class_code":"LM-84","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/2026"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Civil Engineering for Infrastructural Regeneration","class_code":"LM-23","language":["English"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/2026 - English-taught"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Ingegneria Chimica","class_code":"LM-22","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DIMES department"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Ingegneria Elettronica","class_code":"LM-29","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DIMES department"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Ingegneria Informatica","class_code":"LM-32","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DIMES department"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Robotics and Automation Engineering","class_code":"LM-25","language":["English"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DIMES - English-taught"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Telecommunication Engineering","class_code":"LM-27","language":["English"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DIMES - English-taught"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Artificial Intelligence and Computer Science","class_code":"LM-18","language":["English"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DeMaCS - English-taught"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Ingegneria Meccanica","class_code":"LM-33","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DiMEG department"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Ingegneria Energetica","class_code":"LM-30","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DiMEG department"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Ingegneria Civile","class_code":"LM-23","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DInCi department"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Scienze delle Politiche e dei Servizi Sociali","class_code":"LM-87","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DiSPeS department"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Scienze delle Pubbliche Amministrazioni","class_code":"LM-63","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DiSPeS department"},
+    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Scienze della Politica e Istituzioni Internazionali","class_code":"LM-52","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DiSPeS department"}
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unical",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma or equivalent",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [{"intake_name": "fall", "application_open_date": "", "application_deadline": "", "start_date": ""}],
+      "application_fee": {"amount": null, "currency": "EUR", "notes": ""},
+      "how_to_apply_url": "https://www.unical.it/didattica/iscriversi/",
+      "source_url": "https://www.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.7,
+      "notes": "Third admission phase in Sept 2025 with 1600+ places available. PagoPA payments available."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unical",
+      "program_name": "",
+      "degree_level_scope": "all",
+      "student_category": "all",
+      "fee_structure": {
+        "annual_tuition": {
+          "min": 156,
+          "max": 2800,
+          "currency": "EUR",
+          "notes": "ISEE-based progressive rates. Divided into 4 installments."
+        },
+        "other_fees": [
+          {"name": "Bollo (stamp duty)", "amount": 16, "currency": "EUR", "frequency": "annual"},
+          {"name": "Tassa Regionale Calabria", "amount_min": 130, "amount_max": 160, "currency": "EUR", "frequency": "annual", "notes": "€130 (ISEE <€40K), €140 (€40-100K), €160 (>€100K or no ISEE)"}
+        ],
+        "payment_schedule": "4 installments"
+      },
+      "exemptions": [
+        {"name": "Esonero totale", "description": "Full tuition exemption for ISEE up to €20,000", "eligibility": "ISEE <= €20,000"},
+        {"name": "Partial reduction", "description": "Progressive reduction for ISEE €20,001-€30,000", "eligibility": "ISEE €20,001-€30,000"},
+        {"name": "Merit-based reduction", "description": "Additional reductions for high-performing students", "eligibility": "Based on CFU and weighted average grade"},
+        {"name": "Disability exemption", "description": "Full exemption for students with disability >= 66%", "eligibility": "Disability certificate >= 66%"},
+        {"name": "Siblings discount", "description": "Reduction for multiple siblings enrolled", "eligibility": "Two or more siblings enrolled at UniCal"}
+      ],
+      "source_url": "https://www.unical.it/didattica/tasse-e-agevolazioni/",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "ISEE-based system with 4 installment payments. Esonero totale for ISEE under €20K."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarship",
+      "university_id": "unical",
+      "scholarship_name": "Borsa di Studio Regione Calabria",
+      "provider": "Regione Calabria - Settore Diritto allo Studio",
+      "amount": {
+        "min": 2000,
+        "max": 5500,
+        "currency": "EUR",
+        "frequency": "annual",
+        "notes": "In sede: €2,000-2,500, Pendolare: €3,000-3,500, Fuori sede: €5,000-5,500"
+      },
+      "eligibility": {
+        "academic_requirements": "Minimum 10 CFU for renewals (first year), 25 CFU (second year onwards)",
+        "financial_requirements": "ISEE up to €26,306.25 (2024/25 threshold)",
+        "nationality_requirements": "Italian, EU, and non-EU students with valid residence permit",
+        "other_requirements": "Enrolled in eligible degree programs"
+      },
+      "benefits": [
+        "Cash grant (€2,000-€5,500/year)",
+        "Free or subsidized housing in university residences",
+        "Free meals at university canteens (CUC)",
+        "Textbook contributions"
+      ],
+      "application_deadline": "September-October annually",
+      "renewable": true,
+      "source_url": "https://www.unical.it/didattica/borse-di-studio/",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Calabria regional scholarship. UniCal has extensive on-campus housing (residenze universitarie)."
+    },
+    {
+      "type": "scholarship",
+      "university_id": "unical",
+      "scholarship_name": "Borse di Collaborazione",
+      "provider": "Universita della Calabria",
+      "amount": {
+        "min": 1000,
+        "max": 2000,
+        "currency": "EUR",
+        "frequency": "annual",
+        "notes": "Part-time work opportunities (150 hours max)"
+      },
+      "eligibility": {
+        "academic_requirements": "Good academic standing",
+        "financial_requirements": "ISEE-based priority",
+        "nationality_requirements": "All enrolled students",
+        "other_requirements": "Available for library, administrative support, tutoring"
+      },
+      "benefits": ["Part-time paid work experience within university"],
+      "application_deadline": "Various throughout year",
+      "renewable": true,
+      "source_url": "https://www.unical.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.7,
+      "notes": "Student work opportunities for additional income"
+    }
+  ],
+  "opportunities": []
+}

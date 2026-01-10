@@ -1,0 +1,122 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unirc",
+    "name": "Università degli Studi di Reggio Calabria \"Mediterranea\"",
+    "official_url": "https://unirc.it",
+    "country": "Italy",
+    "city": "Reggio Calabria",
+    "campuses": [{"city": "Reggio Calabria", "address": "", "notes": "Main campus"}],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Reggio Calabria"},
+    "source_url": "https://www.unirc.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.8,
+    "notes": "5 Departments, 28 Courses: 14 triennale, 11 magistrale, 3 ciclo unico. 10 macro areas. SSL cert expired."
+  },
+  "programs": [
+    {"type":"program","university_id":"unirc","degree_level":"bachelor","program_name":"Ingegneria Civile e Ambientale per lo Sviluppo Sostenibile","class_code":"L-7","language":["Italian","English"],"campus_city":"Reggio Calabria","duration_years":3,"ects_total":180,"source_url":"https://www.unirc.it/corsi/offerta-formativa-25-26","last_checked":"2026-01-04","confidence":0.8,"notes":"Curricula: Civile, Infrastrutture trasporto, Ambientale, Civil Engineering"},
+    {"type":"program","university_id":"unirc","degree_level":"bachelor","program_name":"Ingegneria Informatica e delle Telecomunicazioni","class_code":"L-8","language":["Italian"],"campus_city":"Reggio Calabria","duration_years":3,"ects_total":180,"source_url":"https://www.unirc.it/corsi/offerta-formativa-25-26","last_checked":"2026-01-04","confidence":0.8,"notes":""},
+    {"type":"program","university_id":"unirc","degree_level":"bachelor","program_name":"Ingegneria Gestionale","class_code":"L-9","language":["Italian"],"campus_city":"Reggio Calabria","duration_years":3,"ects_total":180,"source_url":"https://www.unirc.it/corsi/offerta-formativa-25-26","last_checked":"2026-01-04","confidence":0.8,"notes":"Curricula: Automazione Industriale, Energia Sostenibile, Processi Aziendali"},
+    {"type":"program","university_id":"unirc","degree_level":"bachelor","program_name":"Ingegneria Elettronica e Biomedica","class_code":"L-8","language":["Italian"],"campus_city":"Reggio Calabria","duration_years":3,"ects_total":180,"source_url":"https://www.unirc.it/corsi/offerta-formativa-25-26","last_checked":"2026-01-04","confidence":0.8,"notes":"New from 2024-2025"},
+    {"type":"program","university_id":"unirc","degree_level":"master","program_name":"Ingegneria per la Gestione Sostenibile dell'Ambiente e dell'Energia","class_code":"LM-30/LM-35","language":["Italian"],"campus_city":"Reggio Calabria","duration_years":2,"ects_total":120,"source_url":"https://www.unirc.it/corsi/offerta-formativa-25-26","last_checked":"2026-01-04","confidence":0.8,"notes":"Interclasse"},
+    {"type":"program","university_id":"unirc","degree_level":"master","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Reggio Calabria","duration_years":5,"ects_total":300,"source_url":"https://www.unirc.it/corsi/offerta-formativa-25-26","last_checked":"2026-01-04","confidence":0.8,"notes":"Ciclo Unico, programmazione nazionale"},
+    {"type":"program","university_id":"unirc","degree_level":"bachelor","program_name":"Scienze dell'Educazione e della Formazione","class_code":"L-19","language":["Italian"],"campus_city":"Reggio Calabria","duration_years":3,"ects_total":180,"source_url":"https://www.unirc.it/corsi/offerta-formativa-25-26","last_checked":"2026-01-04","confidence":0.8,"notes":"Curricula: Educatore infanzia, Educatore socio-pedagogico"},
+    {"type":"program","university_id":"unirc","degree_level":"master","program_name":"Progettazione Pedagogica e Gestione dei Servizi Educativi per i Minori","class_code":"LM-50","language":["Italian"],"campus_city":"Reggio Calabria","duration_years":2,"ects_total":120,"source_url":"https://www.unirc.it/corsi/offerta-formativa-25-26","last_checked":"2026-01-04","confidence":0.8,"notes":""},
+    {"type":"program","university_id":"unirc","degree_level":"bachelor","program_name":"Scienze Biologiche per l'Ambiente","class_code":"L-13","language":["Italian"],"campus_city":"Reggio Calabria","duration_years":3,"ects_total":180,"source_url":"https://www.unirc.it/corsi/offerta-formativa-25-26","last_checked":"2026-01-04","confidence":0.8,"notes":"Inter-ateneo with Unicz"},
+    {"type":"program","university_id":"unirc","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Reggio Calabria","duration_years":3,"ects_total":180,"source_url":"https://www.unirc.it/corsi/offerta-formativa-25-26","last_checked":"2026-01-04","confidence":0.8,"notes":"Inter-ateneo with Unicz, programmazione nazionale"}
+  ],
+  "admissions": [{"type":"admissions","university_id":"unirc","program_name":"","degree_level_scope":"general","applicant_scope":"all","requirements":{"academic_requirements":"Secondary school diploma","documents_required":[],"tests_required":[],"portfolio_required":false,"interview_required":false},"intakes":[{"intake_name":"fall","application_open_date":"","application_deadline":"","start_date":""}],"application_fee":{"amount":null,"currency":"EUR","notes":""},"how_to_apply_url":"https://www.unirc.it","source_url":"https://www.unirc.it","last_checked":"2026-01-04","confidence":0.7,"notes":"Most programs open access. National programs have specific deadlines."}],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unirc",
+      "program_name": "",
+      "degree_level_scope": "all",
+      "student_category": "all",
+      "fee_structure": {
+        "annual_tuition": {
+          "min": 156,
+          "max": 2600,
+          "currency": "EUR",
+          "notes": "ISEE-based progressive rates"
+        },
+        "other_fees": [
+          {"name": "Bollo (stamp duty)", "amount": 16, "currency": "EUR", "frequency": "annual"},
+          {"name": "Tassa Regionale Calabria", "amount_min": 130, "amount_max": 160, "currency": "EUR", "frequency": "annual", "notes": "€130 (ISEE <€40K), €140 (€40-100K), €160 (>€100K or no ISEE)"}
+        ],
+        "payment_schedule": "2 installments"
+      },
+      "exemptions": [
+        {"name": "No Tax Area", "description": "Full tuition exemption for ISEE up to €22,000", "eligibility": "ISEE <= €22,000"},
+        {"name": "Partial Exemption", "description": "Partial reduction for ISEE €22,001-€30,000", "eligibility": "ISEE €22,001-€30,000"},
+        {"name": "Merit-based reduction", "description": "Additional discounts for excellent academic performance", "eligibility": "Based on GPA and CFU acquisition"},
+        {"name": "Disability exemption", "description": "Full exemption for students with disability >= 66%", "eligibility": "Disability certificate >= 66%"}
+      ],
+      "source_url": "https://www.unirc.it/studenti/tasse-contributi.php",
+      "last_checked": "2026-01-10",
+      "confidence": 0.8,
+      "notes": "No Tax Area for ISEE <= €22K. Partial exemption for €22K-€30K bracket."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarship",
+      "university_id": "unirc",
+      "scholarship_name": "Borsa di Studio Regione Calabria",
+      "provider": "Regione Calabria - Diritto allo Studio Universitario",
+      "amount": {
+        "min": 2000,
+        "max": 5500,
+        "currency": "EUR",
+        "frequency": "annual",
+        "notes": "In sede: ~€2,000, Pendolare: ~€3,000, Fuori sede: ~€5,500"
+      },
+      "eligibility": {
+        "academic_requirements": "Minimum CFU requirements based on year of enrollment",
+        "financial_requirements": "ISEE <= €26,306.25, ISPE <= €57,187.53",
+        "nationality_requirements": "Italian, EU citizens, non-EU with residence permit",
+        "other_requirements": "Enrolled in degree programs at Mediterranea"
+      },
+      "benefits": [
+        "Cash grant (€2,000-€5,500/year)",
+        "Meal subsidies at university canteen",
+        "Housing support for out-of-town students",
+        "Textbook contributions"
+      ],
+      "application_deadline": "September-October annually",
+      "renewable": true,
+      "source_url": "https://www.unirc.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.8,
+      "notes": "Calabria regional scholarship for right to study (DSU)."
+    },
+    {
+      "type": "scholarship",
+      "university_id": "unirc",
+      "scholarship_name": "Borse di Collaborazione Mediterranea",
+      "provider": "Universita Mediterranea di Reggio Calabria",
+      "amount": {
+        "min": 800,
+        "max": 1500,
+        "currency": "EUR",
+        "frequency": "annual",
+        "notes": "Part-time student work (150 hours)"
+      },
+      "eligibility": {
+        "academic_requirements": "Good academic standing",
+        "financial_requirements": "ISEE-based priority ranking",
+        "nationality_requirements": "All enrolled students",
+        "other_requirements": "Available for tutoring, library, admin support"
+      },
+      "benefits": ["Paid part-time work within university"],
+      "application_deadline": "Various calls throughout year",
+      "renewable": true,
+      "source_url": "https://www.unirc.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.7,
+      "notes": "Student work opportunities for supplementary income"
+    }
+  ],
+  "opportunities": []
+}

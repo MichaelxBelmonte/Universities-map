@@ -1,0 +1,144 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unicz",
+    "name": "Università degli Studi di Catanzaro \"Magna Graecia\"",
+    "official_url": "https://web.unicz.it",
+    "country": "Italy",
+    "city": "Catanzaro",
+    "campuses": [
+      {"city": "Catanzaro", "address": "Campus Universitario 'Salvatore Venuta', Viale Europa, 88100 Catanzaro", "notes": "Main campus"}
+    ],
+    "languages_offered": ["Italian"],
+    "contacts": {"email": "protocollo@cert.unicz.it", "phone": "+39 0961 3694001", "address": "Campus Universitario Salvatore Venuta, Viale Europa, 88100 Catanzaro"},
+    "source_url": "https://web.unicz.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "Toll-free: 800 453 444 (Mon-Fri 9-18, Sat 9-13)"
+  },
+  "programs": [
+    {"type":"program","university_id":"unicz","degree_level":"master","program_name":"Farmacia","class_code":"LM-13","language":["Italian"],"campus_city":"Catanzaro","duration_years":5,"ects_total":300,"source_url":"https://web.unicz.it","last_checked":"2026-01-04","confidence":0.8,"notes":"Ciclo Unico"},
+    {"type":"program","university_id":"unicz","degree_level":"bachelor","program_name":"Ingegneria Informatica e Biomedica","class_code":"L-8","language":["Italian"],"campus_city":"Catanzaro","duration_years":3,"ects_total":180,"source_url":"https://web.unicz.it","last_checked":"2026-01-04","confidence":0.8,"notes":""},
+    {"type":"program","university_id":"unicz","degree_level":"bachelor","program_name":"Economia Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Catanzaro","duration_years":3,"ects_total":180,"source_url":"https://web.unicz.it","last_checked":"2026-01-04","confidence":0.8,"notes":""},
+    {"type":"program","university_id":"unicz","degree_level":"master","program_name":"Organizzazione dei Servizi della Pubblica Amministrazione","class_code":"LM-63","language":["Italian"],"campus_city":"Catanzaro","duration_years":2,"ects_total":120,"source_url":"https://web.unicz.it","last_checked":"2026-01-04","confidence":0.8,"notes":""},
+    {"type":"program","university_id":"unicz","degree_level":"master","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Catanzaro","duration_years":5,"ects_total":300,"source_url":"https://web.unicz.it","last_checked":"2026-01-04","confidence":0.8,"notes":"Ciclo Unico"},
+    {"type":"program","university_id":"unicz","degree_level":"master","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Catanzaro","duration_years":6,"ects_total":360,"source_url":"https://web.unicz.it","last_checked":"2026-01-04","confidence":0.8,"notes":"Ciclo Unico, accesso programmato nazionale. Semestre filtro available."},
+    {"type":"program","university_id":"unicz","degree_level":"master","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Catanzaro","duration_years":5,"ects_total":300,"source_url":"https://web.unicz.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/2026 - Ciclo Unico, accesso programmato"},
+    {"type":"program","university_id":"unicz","degree_level":"bachelor","program_name":"Scienze Chimiche e Cosmetiche","class_code":"L-27","language":["Italian"],"campus_city":"Catanzaro","duration_years":3,"ects_total":180,"source_url":"https://web.unicz.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/2026"},
+    {"type":"program","university_id":"unicz","degree_level":"bachelor","program_name":"Sociologia e Servizio Sociale","class_code":"L-39/L-40","language":["Italian"],"campus_city":"Catanzaro","duration_years":3,"ects_total":180,"source_url":"https://web.unicz.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/2026 - Interclasse. First in Calabria."}
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unicz",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma or equivalent",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [{"intake_name": "fall", "application_open_date": "", "application_deadline": "", "start_date": ""}],
+      "application_fee": {"amount": null, "currency": "EUR", "notes": ""},
+      "how_to_apply_url": "https://web.unicz.it",
+      "source_url": "https://web.unicz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.6,
+      "notes": "Medicine has semester filter with open access from 2025/2026"
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unicz",
+      "program_name": "",
+      "degree_level_scope": "all",
+      "student_category": "all",
+      "fee_structure": {
+        "annual_tuition": {
+          "min": 156,
+          "max": 2700,
+          "currency": "EUR",
+          "notes": "ISEE-based progressive rates. Managed via Fondazione UMG."
+        },
+        "other_fees": [
+          {"name": "Bollo (stamp duty)", "amount": 16, "currency": "EUR", "frequency": "annual"},
+          {"name": "Tassa Regionale Calabria", "amount_min": 130, "amount_max": 160, "currency": "EUR", "frequency": "annual", "notes": "€130 (ISEE <€40K), €140 (€40-100K), €160 (>€100K or no ISEE)"}
+        ],
+        "payment_schedule": "2-3 installments"
+      },
+      "exemptions": [
+        {"name": "No Tax Area", "description": "Full tuition exemption for very low ISEE", "eligibility": "ISEE <= €22,000"},
+        {"name": "Partial Exemption", "description": "Reduced fees based on ISEE brackets", "eligibility": "ISEE €22,001-€30,000"},
+        {"name": "Merit exemptions", "description": "Reductions for excellent academic performance", "eligibility": "Based on weighted average and CFU"},
+        {"name": "Disability exemption", "description": "Full exemption for students with disability >= 66%", "eligibility": "Disability certificate >= 66%"}
+      ],
+      "source_url": "https://web.unicz.it/it/page/tasse-e-contributi",
+      "last_checked": "2026-01-10",
+      "confidence": 0.8,
+      "notes": "ISEE-based system administered through Fondazione UMG (Universita Magna Graecia)."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarship",
+      "university_id": "unicz",
+      "scholarship_name": "Borsa di Studio Regione Calabria",
+      "provider": "Regione Calabria - Diritto allo Studio",
+      "amount": {
+        "min": 2000,
+        "max": 5500,
+        "currency": "EUR",
+        "frequency": "annual",
+        "notes": "In sede: ~€2,000, Pendolare: ~€3,000, Fuori sede: ~€5,500"
+      },
+      "eligibility": {
+        "academic_requirements": "Minimum CFU requirements (varies by year)",
+        "financial_requirements": "ISEE up to €26,306.25",
+        "nationality_requirements": "Italian, EU, non-EU with valid permit",
+        "other_requirements": "Enrolled in degree programs at UMG"
+      },
+      "benefits": [
+        "Cash grant based on residency status",
+        "Meal subsidies",
+        "Housing support for fuori sede students"
+      ],
+      "application_deadline": "September-October annually",
+      "renewable": true,
+      "source_url": "https://web.unicz.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.8,
+      "notes": "Calabria regional scholarship administered through university services."
+    },
+    {
+      "type": "scholarship",
+      "university_id": "unicz",
+      "scholarship_name": "Borse Fondazione UMG",
+      "provider": "Fondazione Universita Magna Graecia",
+      "amount": {
+        "min": 500,
+        "max": 3000,
+        "currency": "EUR",
+        "frequency": "varies",
+        "notes": "Various scholarship programs through the foundation"
+      },
+      "eligibility": {
+        "academic_requirements": "Merit-based, varies by program",
+        "financial_requirements": "Some programs ISEE-based",
+        "nationality_requirements": "Generally all students",
+        "other_requirements": "Specific to each scholarship"
+      },
+      "benefits": ["Cash grants", "Research opportunities", "Internship funding"],
+      "application_deadline": "Varies by program",
+      "renewable": false,
+      "source_url": "https://web.unicz.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.7,
+      "notes": "Additional scholarships through Fondazione UMG beyond regional DSU."
+    }
+  ],
+  "opportunities": []
+}

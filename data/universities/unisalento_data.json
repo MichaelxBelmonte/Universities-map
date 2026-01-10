@@ -1,0 +1,95 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unisalento",
+    "name": "Università del Salento",
+    "official_url": "https://www.unisalento.it",
+    "country": "Italy",
+    "city": "Lecce",
+    "campuses": [{"city": "Lecce", "address": "", "notes": "Main campus in southern Puglia (Salento)"}],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Lecce"},
+    "source_url": "https://www.unisalento.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.95,
+    "notes": "Salento university in Lecce. No tax area €25,000. Moderate fee increases (€88-€200) after student union negotiations."
+  },
+  "programs": [
+    {"type":"program","university_id":"unisalento","degree_level":"bachelor","program_name":"Economia Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Lecce","duration_years":3,"ects_total":180,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unisalento","degree_level":"bachelor","program_name":"Economia e Finanza","class_code":"L-33","language":["Italian"],"campus_city":"Lecce","duration_years":3,"ects_total":180,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unisalento","degree_level":"bachelor","program_name":"Ingegneria Civile","class_code":"L-7","language":["Italian"],"campus_city":"Lecce","duration_years":3,"ects_total":180,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unisalento","degree_level":"bachelor","program_name":"Ingegneria Informatica","class_code":"L-8","language":["Italian"],"campus_city":"Lecce","duration_years":3,"ects_total":180,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unisalento","degree_level":"bachelor","program_name":"Ingegneria Gestionale","class_code":"L-9","language":["Italian"],"campus_city":"Lecce","duration_years":3,"ects_total":180,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":"NEW 2025/26"},
+    {"type":"program","university_id":"unisalento","degree_level":"bachelor","program_name":"Ingegneria Meccanica","class_code":"L-9","language":["Italian"],"campus_city":"Lecce","duration_years":3,"ects_total":180,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":"NEW 2025/26"},
+    {"type":"program","university_id":"unisalento","degree_level":"bachelor","program_name":"Fisica","class_code":"L-30","language":["Italian"],"campus_city":"Lecce","duration_years":3,"ects_total":180,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unisalento","degree_level":"bachelor","program_name":"Matematica","class_code":"L-35","language":["Italian"],"campus_city":"Lecce","duration_years":3,"ects_total":180,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unisalento","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Lecce","duration_years":3,"ects_total":180,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unisalento","degree_level":"bachelor","program_name":"Beni Culturali","class_code":"L-1","language":["Italian"],"campus_city":"Lecce","duration_years":3,"ects_total":180,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unisalento","degree_level":"bachelor","program_name":"Lettere","class_code":"L-10","language":["Italian"],"campus_city":"Lecce","duration_years":3,"ects_total":180,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unisalento","degree_level":"bachelor","program_name":"Lingue, Culture e Letterature Straniere","class_code":"L-11","language":["Italian"],"campus_city":"Lecce","duration_years":3,"ects_total":180,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unisalento","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Lecce","duration_years":3,"ects_total":180,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unisalento","degree_level":"master","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Lecce","duration_years":5,"ects_total":300,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
+    {"type":"program","university_id":"unisalento","degree_level":"master","program_name":"Fisica Medica","class_code":"LM-17","language":["Italian"],"campus_city":"Lecce","duration_years":2,"ects_total":120,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":"NEW 2025/26"},
+    {"type":"program","university_id":"unisalento","degree_level":"master","program_name":"Scienze Infermieristiche e Ostetriche","class_code":"LM/SNT1","language":["Italian"],"campus_city":"Lecce","duration_years":2,"ects_total":120,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":"NEW 2025/26"},
+    {"type":"program","university_id":"unisalento","degree_level":"master","program_name":"Management dei Territori, delle Aziende Pubbliche e del Turismo","class_code":"LM-77","language":["Italian","English"],"campus_city":"Lecce","duration_years":2,"ects_total":120,"source_url":"https://www.unisalento.it","last_checked":"2026-01-10","confidence":0.85,"notes":"NEW 2025/26 - Bilingual"}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"unisalento",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"fall",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":""
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unisalento.it/studenti/iscrizioni",
+    "source_url":"https://www.unisalento.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":""
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"unisalento",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"ISEE ≤ 25000","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"No Tax Area"},
+      {"student_group":"ISEE 25001-25500","amount_min":755,"amount_max":755,"currency":"EUR","period":"year","notes":"First bracket above no tax area"},
+      {"student_group":"ISEE above threshold","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Progressive based on ISEE and merit"},
+      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
+    ],
+    "additional_fees":[],
+    "payment_schedule_notes":"",
+    "source_url":"https://www.unisalento.it/studenti/iscrizioni/tasse-e-contributi",
+    "last_checked":"2026-01-04",
+    "confidence":0.95,
+    "notes":"No tax area €25,000. Fee increases capped at €88-€200 after Link-Udu union negotiations. ISEE 25001-25500 pays €755."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"unisalento",
+    "scholarship_name":"ADISU Puglia Regional Scholarship",
+    "description":"Regional scholarship for students with low ISEE",
+    "eligibility":"ISEE threshold + merit requirements",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"",
+    "source_url":"https://www.unisalento.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.8,
+    "notes":""
+  }],
+  "opportunities": []
+}

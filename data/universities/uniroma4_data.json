@@ -1,0 +1,87 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "uniroma4",
+    "name": "Università degli Studi di Roma \"Foro Italico\"",
+    "official_url": "https://www.uniroma4.it",
+    "country": "Italy",
+    "city": "Rome",
+    "campuses": [
+      {"city": "Rome", "address": "Piazza Lauro de Bosis 6", "notes": "Foro Italico sports complex"}
+    ],
+    "languages_offered": ["Italian"],
+    "contacts": {"email": "", "phone": "", "address": "Piazza Lauro de Bosis 6, Rome"},
+    "source_url": "https://www.uniroma4.it",
+    "last_checked": "2026-01-05",
+    "confidence": 0.9,
+    "notes": "Italy's only university dedicated to sports and movement sciences. State university (statale). ISEE-based fees."
+  },
+  "programs": [
+    {"type":"program","university_id":"uniroma4","degree_level":"bachelor","program_name":"Scienze Motorie e Sportive","class_code":"L-22","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma4.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Numero programmato. Italy's only dedicated sports university."},
+    {"type":"program","university_id":"uniroma4","degree_level":"master","program_name":"Management dello Sport","class_code":"LM-47","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma4.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Sport management."},
+    {"type":"program","university_id":"uniroma4","degree_level":"master","program_name":"Attività Motorie Preventive e Adattate","class_code":"LM-67","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma4.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Preventive and adapted physical activity."},
+    {"type":"program","university_id":"uniroma4","degree_level":"master","program_name":"Scienza e Tecnica dello Sport","class_code":"LM-68","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma4.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Sport science and technique."},
+    {"type":"program","university_id":"uniroma4","degree_level":"master","program_name":"European Master of Science in Health and Physical Activity","class_code":"LM-67 INT","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma4.it","last_checked":"2026-01-10","confidence":0.85,"notes":"International joint degree."}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"uniroma4",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":["Admission test for limited enrollment programs"],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"A.A. 2025/2026",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"Standard academic year intake"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.uniroma4.it",
+    "source_url":"https://www.uniroma4.it",
+    "last_checked":"2026-01-05",
+    "confidence":0.9,
+    "notes":"Sports science programs with admission tests. Limited enrollment (numero programmato)."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"uniroma4",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"ISEE-based range","amount_min":1400,"amount_max":1700,"currency":"EUR","period":"year","notes":"Varies by ISEE bracket"},
+      {"student_group":"No tax area","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"ISEE below threshold"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Regional tax (Lazio)","amount":140,"currency":"EUR","notes":"Via LazioDisco"},
+      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":""}
+    ],
+    "payment_schedule_notes":"Standard installment plans available.",
+    "source_url":"https://www.uniroma4.it",
+    "last_checked":"2026-01-05",
+    "confidence":0.9,
+    "notes":"ISEE-based fees €1,400-€1,700/year. No tax area applies per national law."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"uniroma4",
+    "scholarship_name":"LazioDisco Regional Scholarships",
+    "description":"Regional right to study benefits",
+    "eligibility":"ISEE and merit requirements",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.laziodisco.it",
+    "source_url":"https://www.uniroma4.it",
+    "last_checked":"2026-01-05",
+    "confidence":0.9,
+    "notes":"Regional scholarships via LazioDisco for eligible students."
+  }],
+  "opportunities": []
+}

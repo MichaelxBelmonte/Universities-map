@@ -1,0 +1,105 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unitelma",
+    "name": "UnitelmaSapienza",
+    "official_url": "https://www.unitelmasapienza.it",
+    "country": "Italy",
+    "city": "Rome",
+    "campuses": [
+      {"city": "Rome", "address": "", "notes": "Affiliated with La Sapienza"},
+      {"city": "Online", "address": "", "notes": "Telematic delivery"}
+    ],
+    "languages_offered": ["Italian"],
+    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "source_url": "https://www.unitelmasapienza.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "Telematic arm of La Sapienza Roma. Strong discounts for Sapienza alumni and PA employees. Part-time option from 2025/26."
+  },
+  "programs": [
+    {"type":"program","university_id":"unitelma","degree_level":"bachelor","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Online","duration_years":5,"ects_total":300,"source_url":"https://www.unitelmasapienza.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. 5 indirizzi including DASS (Diritto Ambiente Sviluppo Sostenibile). Telematic."},
+    {"type":"program","university_id":"unitelma","degree_level":"bachelor","program_name":"Scienze dell'Amministrazione e della Sicurezza","class_code":"L-16","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unitelmasapienza.it","last_checked":"2026-01-10","confidence":0.9,"notes":"PA and security focus."},
+    {"type":"program","university_id":"unitelma","degree_level":"bachelor","program_name":"Scienze Politiche e delle Relazioni Internazionali","class_code":"L-36","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unitelmasapienza.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Governance Globale. Two curricula."},
+    {"type":"program","university_id":"unitelma","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unitelmasapienza.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Inter-ateneo program."},
+    {"type":"program","university_id":"unitelma","degree_level":"bachelor","program_name":"Informatica","class_code":"L-31","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unitelmasapienza.it","last_checked":"2026-01-10","confidence":0.9,"notes":"New ordinamento from 2025/26."},
+    {"type":"program","university_id":"unitelma","degree_level":"bachelor","program_name":"Economia Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unitelmasapienza.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unitelma","degree_level":"bachelor","program_name":"Archeologia e Culture del Mondo Antico","class_code":"L-1","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unitelmasapienza.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unitelma","degree_level":"master","program_name":"Economia, Management e Innovazione","class_code":"LM-77","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unitelmasapienza.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unitelma","degree_level":"master","program_name":"Scienze della Pubblica Amministrazione","class_code":"LM-63","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unitelmasapienza.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unitelma","degree_level":"master","program_name":"Scienze dell'Educazione degli Adulti e Formazione Continua","class_code":"LM-57","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unitelmasapienza.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unitelma","degree_level":"master","program_name":"Psicologia Cognitiva Applicata","class_code":"LM-51","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unitelmasapienza.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Inter-ateneo with Sapienza."}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"unitelma",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"rolling",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"Year-round enrollment"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unitelmasapienza.it",
+    "source_url":"https://www.unitelmasapienza.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Open enrollment. Part-time option available from 2025/26."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"unitelma",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Bachelor (standard)","amount_min":2100,"amount_max":2100,"currency":"EUR","period":"year","notes":"€650 + €1,450"},
+      {"student_group":"Master's (standard)","amount_min":2300,"amount_max":2300,"currency":"EUR","period":"year","notes":"€650 + €1,650"},
+      {"student_group":"Under 26 (Progetto Giovani) Year 1","amount_min":980,"amount_max":980,"currency":"EUR","period":"year","notes":"First year"},
+      {"student_group":"Under 26 (Progetto Giovani) Year 2","amount_min":1150,"amount_max":1150,"currency":"EUR","period":"year","notes":"Second year"},
+      {"student_group":"Under 26 (Progetto Giovani) Year 3","amount_min":1300,"amount_max":1300,"currency":"EUR","period":"year","notes":"Third year"},
+      {"student_group":"Ex Sapienza students/alumni","amount_min":850,"amount_max":850,"currency":"EUR","period":"year","notes":"Progetto Sapienza"},
+      {"student_group":"Sapienza employees","amount_min":850,"amount_max":850,"currency":"EUR","period":"year","notes":"Telma consortium members"},
+      {"student_group":"PA 110 e Lode (public employees)","amount_min":200,"amount_max":200,"currency":"EUR","period":"year","notes":"Excludes Informatica and Psicologia"},
+      {"student_group":"Convention bachelor","amount_min":1600,"amount_max":1600,"currency":"EUR","period":"year","notes":"Via partner entities"},
+      {"student_group":"Convention master","amount_min":1800,"amount_max":1800,"currency":"EUR","period":"year","notes":"Via partner entities"},
+      {"student_group":"Part-time enrollment","amount_min":1365,"amount_max":1495,"currency":"EUR","period":"year","notes":"65% of standard rate"},
+      {"student_group":"Single course (1)","amount_min":250,"amount_max":250,"currency":"EUR","period":"course","notes":""},
+      {"student_group":"Single course (2+)","amount_min":200,"amount_max":200,"currency":"EUR","period":"course","notes":"Per course"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"Annual"},
+      {"fee_name":"Graduation fee","amount":300,"currency":"EUR","notes":"Pergamena"}
+    ],
+    "payment_schedule_notes":"€650 at enrollment, balance within 90 days. Part-time pays 65%.",
+    "source_url":"https://www.unitelmasapienza.it/studenti/tasse-e-contributi/importi-e-altri-contributi/",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Standard €2,100-€2,300. PA 110 e Lode: only €200 for public employees. Under 26: €980 first year. Part-time 65% discount."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"unitelma",
+    "scholarship_name":"PA 110 e Lode",
+    "description":"€200/year for public administration employees",
+    "eligibility":"Public administration employees (Ministry program)",
+    "amount":{"min":1900,"max":2100,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.unitelmasapienza.it/studenti/tasse-e-contributi/sconti-e-promozioni/",
+    "source_url":"https://www.unitelmasapienza.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Massive discount for PA employees. Also: Under 26, Sapienza alumni, conventions."
+  }],
+  "opportunities": []
+}

@@ -1,0 +1,88 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unisr",
+    "name": "Università Vita-Salute San Raffaele",
+    "official_url": "https://www.unisr.it",
+    "country": "Italy",
+    "city": "Milan",
+    "campuses": [{"city": "Milan", "address": "", "notes": "San Raffaele Hospital campus"}],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Milan"},
+    "source_url": "https://www.unisr.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.95,
+    "notes": "Private research university. Medicine, Psychology, Philosophy. Associated with San Raffaele Hospital. IMD Program (English medicine)."
+  },
+  "programs": [
+    {"type":"program","university_id":"unisr","degree_level":"single_cycle","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Milan","duration_years":6,"ects_total":360,"department":"Medicine","source_url":"https://www.unisr.it","last_checked":"2026-01-04","confidence":0.95,"notes":"€20,140/year"},
+    {"type":"program","university_id":"unisr","degree_level":"single_cycle","program_name":"International MD Program (IMD)","class_code":"LM-41","language":["English"],"campus_city":"Milan","duration_years":6,"ects_total":360,"department":"Medicine","source_url":"https://www.unisr.it","last_checked":"2026-01-04","confidence":0.95,"notes":"€20,690/year"},
+    {"type":"program","university_id":"unisr","degree_level":"single_cycle","program_name":"Odontoiatria e Protesi Dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Milan","duration_years":6,"ects_total":360,"department":"Medicine","source_url":"https://www.unisr.it","last_checked":"2026-01-04","confidence":0.9,"notes":"€25,000-€50,000/year"},
+    {"type":"program","university_id":"unisr","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"department":"Psychology","source_url":"https://www.unisr.it","last_checked":"2026-01-04","confidence":0.95,"notes":"€6,800/year"},
+    {"type":"program","university_id":"unisr","degree_level":"master","program_name":"Psicologia","class_code":"LM-51","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"department":"Psychology","source_url":"https://www.unisr.it","last_checked":"2026-01-04","confidence":0.95,"notes":"€7,600/year"},
+    {"type":"program","university_id":"unisr","degree_level":"bachelor","program_name":"Filosofia","class_code":"L-5","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"department":"Philosophy","source_url":"https://www.unisr.it","last_checked":"2026-01-04","confidence":0.95,"notes":"€5,400/year"}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"unisr",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[{"test_name":"San Raffaele Admission Test","min_score":"","notes":"Competitive entrance exam for Medicine"}],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"fall",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":""
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unisr.it",
+    "source_url":"https://www.unisr.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Selective admission test for Medicine. Separate IMD test for English program."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"unisr",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Medicine (Italian)","amount_min":20140,"amount_max":20140,"currency":"EUR","period":"year","notes":"3 installments: €6,940 + €6,700 + €6,500"},
+      {"student_group":"Medicine (IMD English)","amount_min":20690,"amount_max":20690,"currency":"EUR","period":"year","notes":"3 installments: €7,190 + €7,000 + €6,500"},
+      {"student_group":"Dentistry","amount_min":25000,"amount_max":50000,"currency":"EUR","period":"year","notes":"Variable"},
+      {"student_group":"Psychology Bachelor","amount_min":6800,"amount_max":6800,"currency":"EUR","period":"year","notes":""},
+      {"student_group":"Psychology Master","amount_min":7600,"amount_max":7600,"currency":"EUR","period":"year","notes":""},
+      {"student_group":"Philosophy Bachelor","amount_min":5400,"amount_max":5400,"currency":"EUR","period":"year","notes":""}
+    ],
+    "additional_fees":[
+      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"2025/26"}
+    ],
+    "payment_schedule_notes":"3 installments per year.",
+    "source_url":"https://www.unisr.it/en/servizi/tasse-contributi",
+    "last_checked":"2026-01-04",
+    "confidence":0.95,
+    "notes":"Fixed fees by program. Medicine €20,140-€20,690. Psychology €6,800-€7,600. Philosophy €5,400. Dentistry €25,000-€50,000."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"unisr",
+    "scholarship_name":"San Raffaele Merit Scholarship",
+    "description":"Merit and need-based scholarships",
+    "eligibility":"Merit and/or ISEE-based",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.unisr.it",
+    "source_url":"https://www.unisr.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.8,
+    "notes":"Free dining, subsidized housing, international mobility grants available."
+  }],
+  "opportunities": []
+}

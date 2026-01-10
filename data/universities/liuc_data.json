@@ -1,0 +1,97 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "liuc",
+    "name": "LIUC Università Carlo Cattaneo",
+    "official_url": "https://www.liuc.it",
+    "country": "Italy",
+    "city": "Castellanza (Varese)",
+    "campuses": [
+      {"city": "Castellanza (Varese)", "address": "", "notes": "Main campus"}
+    ],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Castellanza, Varese"},
+    "source_url": "https://www.liuc.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "Private university focused on business and engineering. Strong merit scholarships for high maturità scores. English programs available."
+  },
+  "programs": [
+    {"type":"program","university_id":"liuc","degree_level":"bachelor","program_name":"Economia e Management","class_code":"L-18","language":["Italian"],"campus_city":"Castellanza (Varese)","duration_years":3,"ects_total":180,"source_url":"https://www.liuc.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"liuc","degree_level":"bachelor","program_name":"Business Economics","class_code":"L-18","language":["English"],"campus_city":"Castellanza (Varese)","duration_years":3,"ects_total":180,"source_url":"https://www.liuc.it","last_checked":"2026-01-10","confidence":0.9,"notes":"English-taught. 3 years entirely in English."},
+    {"type":"program","university_id":"liuc","degree_level":"bachelor","program_name":"Analytics for Economics and Management","class_code":"L-18","language":["English"],"campus_city":"Castellanza (Varese)","duration_years":3,"ects_total":180,"source_url":"https://www.liuc.it","last_checked":"2026-01-10","confidence":0.9,"notes":"English-taught."},
+    {"type":"program","university_id":"liuc","degree_level":"bachelor","program_name":"Ingegneria Gestionale","class_code":"L-9","language":["Italian"],"campus_city":"Castellanza (Varese)","duration_years":3,"ects_total":180,"source_url":"https://www.liuc.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"liuc","degree_level":"bachelor","program_name":"Industrial Engineering and Management","class_code":"L-9","language":["English"],"campus_city":"Castellanza (Varese)","duration_years":3,"ects_total":180,"source_url":"https://www.liuc.it","last_checked":"2026-01-10","confidence":0.9,"notes":"English-taught."},
+    {"type":"program","university_id":"liuc","degree_level":"master","program_name":"Economia, Management e Governance","class_code":"LM-77","language":["Italian"],"campus_city":"Castellanza (Varese)","duration_years":2,"ects_total":120,"source_url":"https://www.liuc.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"liuc","degree_level":"master","program_name":"International Business Management","class_code":"LM-77","language":["English"],"campus_city":"Castellanza (Varese)","duration_years":2,"ects_total":120,"source_url":"https://www.liuc.it","last_checked":"2026-01-10","confidence":0.9,"notes":"English-taught."},
+    {"type":"program","university_id":"liuc","degree_level":"master","program_name":"Ingegneria Gestionale","class_code":"LM-31","language":["Italian"],"campus_city":"Castellanza (Varese)","duration_years":2,"ects_total":120,"source_url":"https://www.liuc.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"liuc","degree_level":"master","program_name":"Manufacturing Strategy","class_code":"LM-31","language":["English"],"campus_city":"Castellanza (Varese)","duration_years":2,"ects_total":120,"source_url":"https://www.liuc.it","last_checked":"2026-01-10","confidence":0.9,"notes":"English-taught. Dual degree with Stevens Institute available (€21,500/year)."}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"liuc",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma, entrance evaluation",
+      "documents_required":[],
+      "tests_required":["LIUC admission test"],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"A.A. 2025/2026",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"5 payment rates throughout year"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.liuc.it/entra-in-liuc/",
+    "source_url":"https://www.liuc.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Private university admission. Merit scholarships available for high school scores."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"liuc",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Ingegneria Gestionale (Italian)","amount_min":7500,"amount_max":7500,"currency":"EUR","period":"year","notes":"Bachelor"},
+      {"student_group":"Ingegneria Gestionale (English)","amount_min":9700,"amount_max":9700,"currency":"EUR","period":"year","notes":"Bachelor"},
+      {"student_group":"Economia e Management (Italian)","amount_min":7900,"amount_max":7900,"currency":"EUR","period":"year","notes":"Bachelor"},
+      {"student_group":"Business Economics/Analytics (English)","amount_min":8900,"amount_max":8900,"currency":"EUR","period":"year","notes":"Bachelor"},
+      {"student_group":"LM Economia, Management e Governance","amount_min":9500,"amount_max":9500,"currency":"EUR","period":"year","notes":"Master's"},
+      {"student_group":"LM Ingegneria Gestionale","amount_min":8800,"amount_max":8800,"currency":"EUR","period":"year","notes":"Master's"},
+      {"student_group":"Dual Degree Stevens Institute","amount_min":21500,"amount_max":21500,"currency":"EUR","period":"year","notes":"International dual degree"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"Annual"},
+      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":"One-time"},
+      {"fee_name":"Spring graduation fee","amount":1000,"currency":"EUR","notes":"If graduating in spring session"}
+    ],
+    "payment_schedule_notes":"5 installments throughout the year. Merit reductions apply to full rate.",
+    "source_url":"https://www.liuc.it/entra-in-liuc/laurea-triennale/tasse-e-contributi/",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"€7,500-€9,700 bachelor, €8,800-€21,500 master. Merit discounts: 50% for 97-100/100 maturità, 25% for 94-96/100. Sibling discount 10%."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"liuc",
+    "scholarship_name":"Merit Scholarships",
+    "description":"Tuition reductions based on maturità scores",
+    "eligibility":"High school diploma with high scores",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.liuc.it/entra-in-liuc/borse-di-studio-e-agevolazioni-economiche/",
+    "source_url":"https://www.liuc.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"50% reduction for 97-100/100. 25% for 94-96/100. 10% sibling discount. La scelta che ti premia: up to €3,500 off."
+  }],
+  "opportunities": []
+}

@@ -1,0 +1,98 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unimol",
+    "name": "Università degli Studi del Molise",
+    "official_url": "https://www.unimol.it",
+    "country": "Italy",
+    "city": "Campobasso",
+    "campuses": [
+      {"city": "Campobasso", "address": "", "notes": "Main campus"},
+      {"city": "Termoli", "address": "", "notes": "Secondary campus"},
+      {"city": "Isernia", "address": "", "notes": "Secondary campus"},
+      {"city": "Pesche", "address": "", "notes": "Science campus"}
+    ],
+    "languages_offered": ["Italian"],
+    "contacts": {"email": "", "phone": "", "address": "Campobasso"},
+    "source_url": "https://www.unimol.it",
+    "last_checked": "2026-01-05",
+    "confidence": 0.9,
+    "notes": "State university of the Molise region. ISEE-based fees. Maturità bonuses available."
+  },
+  "programs": [
+    {"type":"program","university_id":"unimol","degree_level":"bachelor","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Campobasso","duration_years":5,"ects_total":300,"source_url":"https://www.unimol.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Multiple curricula."},
+    {"type":"program","university_id":"unimol","degree_level":"bachelor","program_name":"Economia Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Campobasso","duration_years":3,"ects_total":180,"source_url":"https://www.unimol.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unimol","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Campobasso","duration_years":3,"ects_total":180,"source_url":"https://www.unimol.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unimol","degree_level":"bachelor","program_name":"Scienze e Tecnologie Agrarie","class_code":"L-25","language":["Italian"],"campus_city":"Campobasso","duration_years":3,"ects_total":180,"source_url":"https://www.unimol.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unimol","degree_level":"bachelor","program_name":"Tecnologie Forestali e Ambientali","class_code":"L-25","language":["Italian"],"campus_city":"Campobasso","duration_years":3,"ects_total":180,"source_url":"https://www.unimol.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unimol","degree_level":"bachelor","program_name":"Scienze e Tecnologie Alimentari","class_code":"L-26","language":["Italian"],"campus_city":"Campobasso","duration_years":3,"ects_total":180,"source_url":"https://www.unimol.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unimol","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Pesche","duration_years":3,"ects_total":180,"source_url":"https://www.unimol.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Campus Pesche."},
+    {"type":"program","university_id":"unimol","degree_level":"bachelor","program_name":"Informatica","class_code":"L-31","language":["Italian"],"campus_city":"Pesche","duration_years":3,"ects_total":180,"source_url":"https://www.unimol.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Campus Pesche."},
+    {"type":"program","university_id":"unimol","degree_level":"bachelor","program_name":"Scienze Turistiche","class_code":"L-15","language":["Italian"],"campus_city":"Termoli","duration_years":3,"ects_total":180,"source_url":"https://www.unimol.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Campus Termoli."},
+    {"type":"program","university_id":"unimol","degree_level":"bachelor","program_name":"Ingegneria Edile","class_code":"L-7","language":["Italian"],"campus_city":"Termoli","duration_years":3,"ects_total":180,"source_url":"https://www.unimol.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Campus Termoli."},
+    {"type":"program","university_id":"unimol","degree_level":"master","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Campobasso","duration_years":6,"ects_total":360,"source_url":"https://www.unimol.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico."},
+    {"type":"program","university_id":"unimol","degree_level":"master","program_name":"Istituzioni, Governance and Global Studies","class_code":"LM-62","language":["Italian","English"],"campus_city":"Campobasso","duration_years":2,"ects_total":120,"source_url":"https://www.unimol.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Dual degree with Universidad Nacional de Cordoba."}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"unimol",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"A.A. 2025/2026",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"Standard academic year"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unimol.it",
+    "source_url":"https://www.unimol.it",
+    "last_checked":"2026-01-05",
+    "confidence":0.9,
+    "notes":"Open enrollment for most programs. Some programs have admission tests."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"unimol",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"First rate (all students)","amount_min":156,"amount_max":156,"currency":"EUR","period":"year","notes":"Fixed first installment"},
+      {"student_group":"ISEE-based total","amount_min":156,"amount_max":2500,"currency":"EUR","period":"year","notes":"4 additional ISEE-based rates"},
+      {"student_group":"No tax area (ISEE ≤€22K)","amount_min":0,"amount_max":156,"currency":"EUR","period":"year","notes":"Only stamp duty + regional tax"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Regional tax (Molise)","amount":140,"currency":"EUR","notes":""},
+      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":""}
+    ],
+    "payment_schedule_notes":"5 installments: first fixed €156, then 4 ISEE-based rates.",
+    "source_url":"https://www.unimol.it",
+    "last_checked":"2026-01-05",
+    "confidence":0.9,
+    "notes":"First rate €156 fixed. 4 additional ISEE-based rates. Maturità bonuses: 100/100 = 30% off, 100 e lode = 50% off."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"unimol",
+    "scholarship_name":"Maturità Merit Bonuses",
+    "description":"Tuition reductions based on high school diploma score",
+    "eligibility":"100/100 or 100 e lode at maturità",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.unimol.it",
+    "source_url":"https://www.unimol.it",
+    "last_checked":"2026-01-05",
+    "confidence":0.9,
+    "notes":"100/100 maturità: 30% reduction. 100 e lode: 50% reduction on tuition."
+  }],
+  "opportunities": []
+}

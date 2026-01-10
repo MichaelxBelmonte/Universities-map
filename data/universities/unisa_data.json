@@ -1,0 +1,118 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unisa",
+    "name": "Università degli Studi di Salerno",
+    "official_url": "https://www.unisa.it",
+    "country": "Italy",
+    "city": "Fisciano",
+    "campuses": [{"city": "Fisciano", "address": "Via Giovanni Paolo II, 132, Fisciano (SA)", "notes": "Main campus"}],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Via Giovanni Paolo II, 132, Fisciano (SA)"},
+    "source_url": "https://www.unisa.it",
+    "last_checked": "2026-01-05",
+    "confidence": 0.95,
+    "notes": "90 courses across humanities, legal-economic, engineering, and IT fields. Focus on innovative, attractive programs aligned with job market needs."
+  },
+  "programs": [
+    {"type":"program","university_id":"unisa","degree_level":"master","program_name":"Scienze Infermieristiche e Ostetriche","class_code":"LM/SNT1","language":["Italian"],"campus_city":"Fisciano","duration_years":2,"ects_total":120,"source_url":"https://www.unisa.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW"},
+    {"type":"program","university_id":"unisa","degree_level":"master","program_name":"Management dei Sistemi Turistici per lo Sviluppo Sostenibile","class_code":"LM-49","language":["Italian","English"],"campus_city":"Fisciano","duration_years":2,"ects_total":120,"source_url":"https://www.unisa.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW - Double Degree with Universidad de Extremadura, Spain"},
+    {"type":"program","university_id":"unisa","degree_level":"bachelor","program_name":"Scienze del Servizio Sociale","class_code":"L-39","language":["Italian"],"campus_city":"Fisciano","duration_years":3,"ects_total":180,"source_url":"https://www.unisa.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW - Experimental"},
+    {"type":"program","university_id":"unisa","degree_level":"master","program_name":"Data Science e Gestione dell'Innovazione","class_code":"LM-91","language":["Italian"],"campus_city":"Fisciano","duration_years":2,"ects_total":120,"source_url":"https://www.unisa.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW"}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"unisa",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"fall",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":""
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unisa.it",
+    "source_url":"https://www.unisa.it",
+    "last_checked":"2026-01-05",
+    "confidence":0.9,
+    "notes":"Expanding English-language offerings and international programs including double degrees and joint degrees."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"unisa",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"No Tax Area (ISEE ≤ €30,000)","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"FULL EXEMPTION - highest no tax area threshold in Italy"},
+      {"student_group":"ISEE > €30,000","amount_min":500,"amount_max":2500,"currency":"EUR","period":"year","notes":"Progressive ISEE-based contributions"},
+      {"student_group":"No ISEE submitted","amount_min":2500,"amount_max":2500,"currency":"EUR","period":"year","notes":"Maximum rate applies"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Regional tax (ISEE < €25,500)","amount":125.50,"currency":"EUR","notes":"ADISURC Campania"},
+      {"fee_name":"Regional tax (€25,500 < ISEE < €51,000)","amount":146.50,"currency":"EUR","notes":""},
+      {"fee_name":"Regional tax (ISEE > €51,000 or no ISEE)","amount":167.50,"currency":"EUR","notes":""},
+      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":""},
+      {"fee_name":"Late ISEE fee (after Oct 15 - Dec 1)","amount":50,"currency":"EUR","notes":""},
+      {"fee_name":"Late ISEE fee (after Dec 1 - Mar 2)","amount":100,"currency":"EUR","notes":""}
+    ],
+    "payment_schedule_notes":"ISEE deadline: Oct 15, 2025. Late submission with penalties until Mar 2, 2026.",
+    "source_url":"https://web.unisa.it/didattica/segreteria/tasse-e-contributi",
+    "last_checked":"2026-01-05",
+    "confidence":0.95,
+    "notes":"BEST VALUE: No Tax Area at €30,000 ISEE (highest in Italy). Merit requirements: 1st year = none, 2nd year = 10 CFU, 3rd+ year = 25 CFU."
+  }],
+  "scholarships": [
+    {
+      "type":"scholarships",
+      "university_id":"unisa",
+      "scholarship_name":"ADISURC Borsa di Studio",
+      "description":"Regional scholarship covering tuition, housing, and living expenses",
+      "eligibility":"ISEE ≤ €25,500 + CFU merit requirements",
+      "amount":{"min":2827,"max":7015,"currency":"EUR","period":"year"},
+      "deadline":"Check ADISURC website",
+      "how_to_apply_url":"https://www.adisurcampania.it/borse-e-contributi/borse-di-studio",
+      "source_url":"https://www.adisurcampania.it",
+      "last_checked":"2026-01-05",
+      "confidence":0.95,
+      "notes":"Amounts: €7,015 (fuori sede), €4,100 (pendolare), €2,827 (in sede). Requires 20 CFU by Nov 30 for full amount."
+    },
+    {
+      "type":"scholarships",
+      "university_id":"unisa",
+      "scholarship_name":"Esonero No Tax Area",
+      "description":"Full tuition exemption for low-income students",
+      "eligibility":"ISEE ≤ €30,000 + merit requirements (CFU)",
+      "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+      "deadline":"Oct 15 (no penalty)",
+      "how_to_apply_url":"https://web.unisa.it/didattica/segreteria/tasse-e-contributi",
+      "source_url":"https://web.unisa.it",
+      "last_checked":"2026-01-05",
+      "confidence":0.95,
+      "notes":"Automatic exemption with valid ISEE. Highest no tax area threshold in Italy at €30,000."
+    },
+    {
+      "type":"scholarships",
+      "university_id":"unisa",
+      "scholarship_name":"Alloggio ADISURC",
+      "description":"Student housing in regional residences",
+      "eligibility":"ISEE requirements + merit",
+      "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+      "deadline":"Check ADISURC website",
+      "how_to_apply_url":"https://www.adisurcampania.it",
+      "source_url":"https://www.adisurcampania.it",
+      "last_checked":"2026-01-05",
+      "confidence":0.9,
+      "notes":"Housing places in regional student residences."
+    }
+  ],
+  "opportunities": []
+}

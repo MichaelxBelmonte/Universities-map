@@ -1,0 +1,109 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "hunimed",
+    "name": "Humanitas University",
+    "official_url": "https://www.hunimed.eu",
+    "country": "Italy",
+    "city": "Milan",
+    "campuses": [{"city": "Pieve Emanuele (Milan)", "address": "", "notes": "Humanitas Research Hospital campus"}],
+    "languages_offered": ["English"],
+    "contacts": {"email": "", "phone": "", "address": "Milan"},
+    "source_url": "https://www.hunimed.eu",
+    "last_checked": "2026-01-04",
+    "confidence": 0.95,
+    "notes": "Private medical university. English-taught programs. MEDTEC School (joint with Politecnico). Associated with Humanitas Research Hospital."
+  },
+  "programs": [
+    {"type":"program","university_id":"hunimed","degree_level":"single_cycle","program_name":"Medicine and Surgery","class_code":"LM-41","language":["English"],"campus_city":"Milan","duration_years":6,"ects_total":360,"department":"Medicine","source_url":"https://www.hunimed.eu","last_checked":"2026-01-04","confidence":0.95,"notes":""},
+    {"type":"program","university_id":"hunimed","degree_level":"single_cycle","program_name":"MEDTEC School","class_code":"","language":["English"],"campus_city":"Milan","duration_years":6,"ects_total":360,"department":"Medicine + Engineering","source_url":"https://www.hunimed.eu","last_checked":"2026-01-04","confidence":0.95,"notes":"Joint program with Politecnico di Milano"},
+    {"type":"program","university_id":"hunimed","degree_level":"bachelor","program_name":"Nursing","class_code":"L/SNT1","language":["English"],"campus_city":"Milan","duration_years":3,"ects_total":180,"department":"Nursing","source_url":"https://www.hunimed.eu","last_checked":"2026-01-04","confidence":0.9,"notes":""}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"hunimed",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma with science background",
+      "documents_required":[],
+      "tests_required":[{"test_name":"Humanitas Admission Test","min_score":"","notes":"Competitive entrance exam"}],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"fall",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":""
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.hunimed.eu",
+    "source_url":"https://www.hunimed.eu",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Selective admission test. Top 30 ranked eligible for partial scholarships."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"hunimed",
+    "program_name":"Medicine/MEDTEC",
+    "degree_level_scope":"single_cycle",
+    "tuition":[
+      {"student_group":"ISEP < 30000","amount_min":10000,"amount_max":10000,"currency":"EUR","period":"year","notes":"Lowest bracket"},
+      {"student_group":"ISEP 30001-50000","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Middle bracket"},
+      {"student_group":"ISEP 50001-80000","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Higher bracket"},
+      {"student_group":"ISEP > 80000","amount_min":20000,"amount_max":20000,"currency":"EUR","period":"year","notes":"Maximum fee"}
+    ],
+    "additional_fees":[],
+    "payment_schedule_notes":"ISEP-based fee calculation for EU students. 4 income categories.",
+    "source_url":"https://www.hunimed.eu/fees-scholarships/",
+    "last_checked":"2026-01-04",
+    "confidence":0.95,
+    "notes":"€10,000-€20,000/year for Medicine/MEDTEC based on ISEP. Non-EU students different rates. Does not include housing, meals, books."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"hunimed",
+    "scholarship_name":"Fondazione Rocca Full Scholarship",
+    "description":"Full scholarship for EU students in Italy",
+    "eligibility":"ISEE < €50,000 + merit",
+    "amount":{"min":10000,"max":23000,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.hunimed.eu/fees-scholarships/",
+    "source_url":"https://www.hunimed.eu",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"1 scholarship 2025/26. Value €10,000-€23,000 depending on fee bracket."
+  },
+  {
+    "type":"scholarships",
+    "university_id":"hunimed",
+    "scholarship_name":"Non-EU Scholarship",
+    "description":"Scholarship for non-EU students",
+    "eligibility":"Non-EU students with merit",
+    "amount":{"min":18000,"max":18000,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.hunimed.eu/fees-scholarships/",
+    "source_url":"https://www.hunimed.eu",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"3 scholarships 2025/26, €18,000/year each."
+  },
+  {
+    "type":"scholarships",
+    "university_id":"hunimed",
+    "scholarship_name":"Intesa Sanpaolo Per Merito Loan",
+    "description":"Student loan for Italian residents",
+    "eligibility":"Italian residents, enrolled students",
+    "amount":{"min":null,"max":40000,"currency":"EUR","period":"total"},
+    "deadline":"",
+    "how_to_apply_url":"",
+    "source_url":"https://www.hunimed.eu",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"€8,000/year max for 5 years. Semester installments."
+  }],
+  "opportunities": []
+}

@@ -1,0 +1,96 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "lumsa",
+    "name": "Libera Università Maria Ss. Assunta (LUMSA)",
+    "official_url": "https://lumsa.it",
+    "country": "Italy",
+    "city": "Rome",
+    "campuses": [
+      {"city": "Rome", "address": "Via di Porta Castello 44", "notes": "Main campus"},
+      {"city": "Palermo", "address": "", "notes": "Secondary campus"}
+    ],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "economato.roma@lumsa.it", "phone": "", "address": "Rome"},
+    "source_url": "https://lumsa.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "Private Catholic university. 8 ISEE-based contribution brackets. Part-time enrollment option with proportional fees."
+  },
+  "programs": [
+    {"type":"program","university_id":"lumsa","degree_level":"bachelor","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"source_url":"https://lumsa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico."},
+    {"type":"program","university_id":"lumsa","degree_level":"bachelor","program_name":"Scienze dell'Educazione","class_code":"L-19","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://lumsa.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"lumsa","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://lumsa.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"lumsa","degree_level":"bachelor","program_name":"Scienze della Comunicazione","class_code":"L-20","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://lumsa.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"lumsa","degree_level":"bachelor","program_name":"Economia Aziendale e Management","class_code":"L-18","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://lumsa.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"lumsa","degree_level":"bachelor","program_name":"Lingue e Letterature Moderne","class_code":"L-11","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://lumsa.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"lumsa","degree_level":"bachelor","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"source_url":"https://lumsa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico."},
+    {"type":"program","university_id":"lumsa","degree_level":"bachelor","program_name":"Servizio Sociale","class_code":"L-39","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://lumsa.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Also at Palermo."},
+    {"type":"program","university_id":"lumsa","degree_level":"master","program_name":"Psicologia","class_code":"LM-51","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://lumsa.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"lumsa","degree_level":"master","program_name":"Programmazione e Gestione delle Politiche e dei Servizi Sociali","class_code":"LM-87","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://lumsa.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Also at Palermo."},
+    {"type":"program","university_id":"lumsa","degree_level":"master","program_name":"Scienze Pedagogiche","class_code":"LM-85","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://lumsa.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"lumsa","degree_level":"master","program_name":"Management e Comunicazione d'Impresa","class_code":"LM-77","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://lumsa.it","last_checked":"2026-01-10","confidence":0.85,"notes":""}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"lumsa",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"fall",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"Study suspension request deadline: Oct 9, 2025"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://lumsa.it",
+    "source_url":"https://lumsa.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":""
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"lumsa",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"ISEE brackets 1-7","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Proportional to ISEE"},
+      {"student_group":"No ISEE declared (Bracket 8)","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Maximum fees applied"},
+      {"student_group":"Part-time students","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Proportional to CFU enrolled"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Study suspension fee","amount":300,"currency":"EUR","notes":"Per year + €16 stamp duty"},
+      {"fee_name":"Study resumption fee","amount":300,"currency":"EUR","notes":"Per year of interruption"}
+    ],
+    "payment_schedule_notes":"4 installments. First rate at enrollment with regional DSU tax.",
+    "source_url":"https://lumsa.it/it/Tasse-Contributi",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"8 ISEE-based brackets. No ISEE = maximum bracket. Part-time = fees proportional to CFU. 85 scholarships available."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"lumsa",
+    "scholarship_name":"LUMSA Merit Scholarships",
+    "description":"85 scholarships for tuition reimbursement",
+    "eligibility":"Merit and economic need",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://lumsa.it",
+    "source_url":"https://lumsa.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"85 scholarships for tuition reimbursement 2024/25. Similar expected for 2025/26."
+  }],
+  "opportunities": []
+}

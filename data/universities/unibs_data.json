@@ -1,0 +1,101 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unibs",
+    "name": "Università degli Studi di Brescia",
+    "official_url": "https://www.unibs.it",
+    "country": "Italy",
+    "city": "Brescia",
+    "campuses": [
+      {"city": "Brescia", "address": "", "notes": "Main campus"},
+      {"city": "Mantova", "address": "", "notes": ""},
+      {"city": "Cremona", "address": "", "notes": ""},
+      {"city": "Chiari", "address": "", "notes": ""}
+    ],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Brescia"},
+    "source_url": "https://www.unibs.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "64 degree programs: 34 undergraduate, 30 graduate (including ciclo unico). 1 inter-university master. 12 doctoral programs. 48 specialization schools. Multiple regional campuses."
+  },
+  "programs": [
+    {"type":"program","university_id":"unibs","degree_level":"bachelor","program_name":"Economia e Gestione Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unibs","degree_level":"bachelor","program_name":"Economia","class_code":"L-33","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unibs","degree_level":"bachelor","program_name":"Ingegneria Civile","class_code":"L-7","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unibs","degree_level":"bachelor","program_name":"Ingegneria dell'Informazione","class_code":"L-8","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unibs","degree_level":"bachelor","program_name":"Ingegneria Meccanica e dei Materiali","class_code":"L-9","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unibs","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Multiple sites: Brescia, Mantova, Cremona, Chiari"},
+    {"type":"program","university_id":"unibs","degree_level":"bachelor","program_name":"Fisioterapia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unibs","degree_level":"bachelor","program_name":"Scienze Motorie","class_code":"L-22","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unibs","degree_level":"bachelor","program_name":"Biotecnologie","class_code":"L-2","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unibs","degree_level":"master","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Brescia","duration_years":5,"ects_total":300,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
+    {"type":"program","university_id":"unibs","degree_level":"master","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Brescia","duration_years":6,"ects_total":360,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico, programmazione nazionale"},
+    {"type":"program","university_id":"unibs","degree_level":"master","program_name":"Odontoiatria e Protesi Dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Brescia","duration_years":6,"ects_total":360,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
+    {"type":"program","university_id":"unibs","degree_level":"master","program_name":"Ingegneria Edile-Architettura","class_code":"LM-4","language":["Italian"],"campus_city":"Brescia","duration_years":5,"ects_total":300,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
+    {"type":"program","university_id":"unibs","degree_level":"master","program_name":"Scienze per la Pace: Trasformazione dei Conflitti e Cooperazione allo Sviluppo","class_code":"LM-81","language":["Italian"],"campus_city":"Brescia","duration_years":2,"ects_total":120,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Inter-ateneo con Università di Pisa"},
+    {"type":"program","university_id":"unibs","degree_level":"master","program_name":"Scienza del Movimento per la Salute ed il Benessere","class_code":"LM-67","language":["Italian"],"campus_city":"Brescia","duration_years":2,"ects_total":120,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unibs","degree_level":"master","program_name":"Ingegneria Informatica","class_code":"LM-32","language":["Italian"],"campus_city":"Brescia","duration_years":2,"ects_total":120,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unibs","degree_level":"master","program_name":"Ingegneria Meccanica","class_code":"LM-33","language":["Italian"],"campus_city":"Brescia","duration_years":2,"ects_total":120,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unibs","degree_level":"master","program_name":"Economia e Management","class_code":"LM-77","language":["Italian"],"campus_city":"Brescia","duration_years":2,"ects_total":120,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unibs","degree_level":"master","program_name":"Banking and Finance","class_code":"LM-77","language":["English"],"campus_city":"Brescia","duration_years":2,"ects_total":120,"source_url":"https://www.unibs.it","last_checked":"2026-01-10","confidence":0.85,"notes":"English-taught"}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"unibs",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"fall",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":""
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://corsi.unibs.it",
+    "source_url":"https://www.unibs.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Healthcare profession programs across regional sites."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"unibs",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"ISEE ≤ no tax area threshold","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"No Tax Area exemption"},
+      {"student_group":"ISEE above threshold","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Progressive based on ISEE"},
+      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
+    ],
+    "additional_fees":[],
+    "payment_schedule_notes":"",
+    "source_url":"https://www.unibs.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.7,
+    "notes":"Check DSU Lombardia for regional scholarship and fee details."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"unibs",
+    "scholarship_name":"DSU Lombardia Regional Scholarship",
+    "description":"Regional scholarship for students with low ISEE",
+    "eligibility":"ISEE threshold + merit requirements",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"",
+    "source_url":"https://www.unibs.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.8,
+    "notes":""
+  }],
+  "opportunities": []
+}

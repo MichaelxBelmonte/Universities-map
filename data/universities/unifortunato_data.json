@@ -1,0 +1,95 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unifortunato",
+    "name": "Università Telematica Giustino Fortunato",
+    "official_url": "https://www.unifortunato.eu",
+    "country": "Italy",
+    "city": "Benevento",
+    "campuses": [
+      {"city": "Benevento", "address": "", "notes": "Headquarters"},
+      {"city": "Rome", "address": "", "notes": "Exam center"},
+      {"city": "Milan", "address": "", "notes": "Exam center"},
+      {"city": "Catania", "address": "", "notes": "Exam center"},
+      {"city": "Palermo", "address": "", "notes": "Exam center"},
+      {"city": "Online", "address": "", "notes": "Telematic delivery"}
+    ],
+    "languages_offered": ["Italian"],
+    "contacts": {"email": "", "phone": "", "address": "Benevento"},
+    "source_url": "https://www.unifortunato.eu",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "Telematic university based in Campania. Exempt from regional tax per Campania regional law. Convention discounts up to 20%."
+  },
+  "programs": [
+    {"type":"program","university_id":"unifortunato","degree_level":"bachelor","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Online","duration_years":5,"ects_total":300,"source_url":"https://www.unifortunato.eu","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Telematic."},
+    {"type":"program","university_id":"unifortunato","degree_level":"bachelor","program_name":"Diritto ed Economia delle Imprese","class_code":"L-14","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unifortunato.eu","last_checked":"2026-01-10","confidence":0.9,"notes":"Business law."},
+    {"type":"program","university_id":"unifortunato","degree_level":"bachelor","program_name":"Operatore Giuridico d'Impresa","class_code":"L-14","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unifortunato.eu","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unifortunato","degree_level":"bachelor","program_name":"Scienze e Tecnologie dei Trasporti","class_code":"L-28","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unifortunato.eu","last_checked":"2026-01-10","confidence":0.9,"notes":"Transport sciences."},
+    {"type":"program","university_id":"unifortunato","degree_level":"bachelor","program_name":"Scienze dell'Educazione","class_code":"L-19","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unifortunato.eu","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unifortunato","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unifortunato.eu","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unifortunato","degree_level":"bachelor","program_name":"Ingegneria Informatica","class_code":"L-8","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unifortunato.eu","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unifortunato","degree_level":"master","program_name":"Economia Aziendale","class_code":"LM-77","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unifortunato.eu","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unifortunato","degree_level":"master","program_name":"Psicologia Comportamentale e Cognitiva Applicata","class_code":"LM-51","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unifortunato.eu","last_checked":"2026-01-10","confidence":0.85,"notes":""}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"unifortunato",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"rolling",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"Year-round enrollment"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unifortunato.eu",
+    "source_url":"https://www.unifortunato.eu",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Open enrollment. Multiple exam centers across Italy."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"unifortunato",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Standard courses","amount_min":2500,"amount_max":4500,"currency":"EUR","period":"year","notes":"Varies by program"},
+      {"student_group":"Convention rate (20% off)","amount_min":2000,"amount_max":3600,"currency":"EUR","period":"year","notes":"Via CAF CISL, ANACNA, etc."},
+      {"student_group":"Single courses (per CFU)","amount_min":50,"amount_max":50,"currency":"EUR","period":"credit","notes":"Max €500 per course"},
+      {"student_group":"Single courses (>24 CFU)","amount_min":30,"amount_max":30,"currency":"EUR","period":"credit","notes":"Reduced rate for bulk"}
+    ],
+    "additional_fees":[],
+    "payment_schedule_notes":"Payment via postal account (CCP). 3 installments available. No regional tax (Campania exemption for telematic universities).",
+    "source_url":"https://www.unifortunato.eu/guida-studente/index.php/tasse-universitarie/",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"€2,500-€4,500/year. Exempt from regional tax per Campania law. 20% convention discounts available."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"unifortunato",
+    "scholarship_name":"Convention Discounts and Merit Scholarships",
+    "description":"20% discounts via conventions and merit-based scholarships",
+    "eligibility":"CAF CISL members, ANACNA, Urbe Aero ATO, merit-based",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.unifortunato.eu",
+    "source_url":"https://www.unifortunato.eu",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"20% discounts via conventions. Merit scholarships available via bando."
+  }],
+  "opportunities": []
+}

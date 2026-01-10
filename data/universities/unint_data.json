@@ -1,0 +1,94 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unint",
+    "name": "Università degli Studi Internazionali di Roma - UNINT",
+    "official_url": "https://www.unint.eu",
+    "country": "Italy",
+    "city": "Rome",
+    "campuses": [
+      {"city": "Rome", "address": "", "notes": "Main campus"}
+    ],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "source_url": "https://www.unint.eu",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "Private university specializing in languages and international studies. Fixed fees (no ISEE brackets). Merit reductions for master's based on triennale grade."
+  },
+  "programs": [
+    {"type":"program","university_id":"unint","degree_level":"bachelor","program_name":"Lingue per l'Interpretariato e la Traduzione","class_code":"L-12","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unint.eu","last_checked":"2026-01-10","confidence":0.9,"notes":"#2 in Italy among private universities (Censis 2025). 10 languages available including Arabic, Chinese, Japanese."},
+    {"type":"program","university_id":"unint","degree_level":"bachelor","program_name":"Economia e Management Internazionale","class_code":"L-18","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unint.eu","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unint","degree_level":"bachelor","program_name":"Scienze Politiche e Relazioni Internazionali","class_code":"L-36","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unint.eu","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unint","degree_level":"master","program_name":"Interpretazione e Traduzione","class_code":"LM-94","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unint.eu","last_checked":"2026-01-10","confidence":0.85,"notes":"Conference interpreting."},
+    {"type":"program","university_id":"unint","degree_level":"master","program_name":"Lingue per la Didattica Innovativa e l'Interculturalità","class_code":"LM-37","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unint.eu","last_checked":"2026-01-10","confidence":0.85,"notes":"Open until April 30, 2026."},
+    {"type":"program","university_id":"unint","degree_level":"master","program_name":"Economia e Management Internazionale","class_code":"LM-77","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unint.eu","last_checked":"2026-01-10","confidence":0.85,"notes":"Indirizzi: Lusso, HR Management, Marketing ed Export Digitale."},
+    {"type":"program","university_id":"unint","degree_level":"master","program_name":"International Relations, Global Management and Economic Diplomacy","class_code":"LM-52","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unint.eu","last_checked":"2026-01-10","confidence":0.85,"notes":"English-taught."},
+    {"type":"program","university_id":"unint","degree_level":"master","program_name":"Investigazione, Criminalità e Sicurezza Internazionale","class_code":"LM-52","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unint.eu","last_checked":"2026-01-10","confidence":0.85,"notes":"Includes Cybersecurity track."},
+    {"type":"program","university_id":"unint","degree_level":"master","program_name":"Psicologia Clinica e della Riabilitazione","class_code":"LM-51","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unint.eu","last_checked":"2026-01-10","confidence":0.85,"notes":""}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"unint",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"A.A. 2025/2026",
+      "application_open_date":"",
+      "application_deadline":"November 5, 2025",
+      "start_date":"",
+      "notes":"LM-37 open until April 30, 2026"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unint.eu/entra-in-unint/come-iscriversi/",
+    "source_url":"https://www.unint.eu",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Enrollment deadline November 5, 2025. Late enrollment with €250 mora."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"unint",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Standard (all programs)","amount_min":6900,"amount_max":6900,"currency":"EUR","period":"year","notes":"Fixed, not ISEE-based"},
+      {"student_group":"LM with 101-105 triennale grade","amount_min":6000,"amount_max":6000,"currency":"EUR","period":"year","notes":"Master's discount"},
+      {"student_group":"LM with 106-110 or UNINT/conv.","amount_min":5700,"amount_max":5700,"currency":"EUR","period":"year","notes":"Master's discount"},
+      {"student_group":"LM with 110 e lode","amount_min":5550,"amount_max":5550,"currency":"EUR","period":"year","notes":"Master's discount"},
+      {"student_group":"Double degree","amount_min":9900,"amount_max":9900,"currency":"EUR","period":"year","notes":"Dual laurea program"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"Via DiscoLazio pagoPA"},
+      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":"One-time"}
+    ],
+    "payment_schedule_notes":"6 installments. Late first rate: €250 mora.",
+    "source_url":"https://www.unint.eu/entra-in-unint/tasse-e-contributi-2025-2026/",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Fixed €6,900/year for bachelor's. Master's discounts based on triennale grade: €5,550-€6,000. 40% scholarships available."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"unint",
+    "scholarship_name":"40% Tuition Reduction",
+    "description":"40% reduction on standard fee",
+    "eligibility":"Merit-based, apply via bando",
+    "amount":{"min":2760,"max":2760,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.unint.eu/entra-in-unint/borse-di-studio-e-agevolazioni-a-a-2025-2026/",
+    "source_url":"https://www.unint.eu",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"40% partial scholarships for L-12, L-18, L-36, LM-94, LM-77, LM-52, LM-51, LM-37. DiSCo Lazio regional scholarships also available."
+  }],
+  "opportunities": []
+}

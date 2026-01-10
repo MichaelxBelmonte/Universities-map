@@ -1,0 +1,106 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unipegaso",
+    "name": "Università Telematica Pegaso",
+    "official_url": "https://www.unipegaso.it",
+    "country": "Italy",
+    "city": "Naples",
+    "campuses": [
+      {"city": "Naples", "address": "", "notes": "Headquarters"},
+      {"city": "Online", "address": "", "notes": "Telematic delivery with exam centers nationwide"}
+    ],
+    "languages_offered": ["Italian"],
+    "contacts": {"email": "", "phone": "", "address": "Naples"},
+    "source_url": "https://www.unipegaso.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "Largest telematic university in Italy. 100% online. Multiple conventions and discounts. Exam centers throughout Italy."
+  },
+  "programs": [
+    {"type":"program","university_id":"unipegaso","degree_level":"bachelor","program_name":"Scienze Motorie","class_code":"L-22","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unipegaso.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unipegaso","degree_level":"bachelor","program_name":"Economia Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unipegaso.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unipegaso","degree_level":"bachelor","program_name":"Scienze dell'Educazione e della Formazione","class_code":"L-19","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unipegaso.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unipegaso","degree_level":"bachelor","program_name":"Informatica","class_code":"L-31","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unipegaso.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unipegaso","degree_level":"bachelor","program_name":"Ingegneria Civile","class_code":"L-7","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unipegaso.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unipegaso","degree_level":"bachelor","program_name":"Lettere, Sapere Umanistico e Formazione","class_code":"L-10","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unipegaso.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unipegaso","degree_level":"bachelor","program_name":"Filosofia e Scienze Umane","class_code":"L-5","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unipegaso.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unipegaso","degree_level":"bachelor","program_name":"Scienze Turistiche","class_code":"L-15","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unipegaso.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unipegaso","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unipegaso.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unipegaso","degree_level":"bachelor","program_name":"Scienze Politiche e Relazioni Internazionali","class_code":"L-14","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unipegaso.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unipegaso","degree_level":"master","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Online","duration_years":5,"ects_total":300,"source_url":"https://www.unipegaso.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Telematic."},
+    {"type":"program","university_id":"unipegaso","degree_level":"master","program_name":"Scienze delle Attività Motorie Preventive e Adattate","class_code":"LM-67","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unipegaso.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unipegaso","degree_level":"master","program_name":"Management dello Sport e delle Attività Motorie","class_code":"LM-47","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unipegaso.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unipegaso","degree_level":"master","program_name":"Scienze Economiche","class_code":"LM-56","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unipegaso.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unipegaso","degree_level":"master","program_name":"Scienze Pedagogiche","class_code":"LM-85","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unipegaso.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"unipegaso",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"rolling",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"Rolling admissions throughout the year"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unipegaso.it/iscriviti",
+    "source_url":"https://www.unipegaso.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Open enrollment. 100% online. Exams at distributed centers."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"unipegaso",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Standard Bachelor/Single cycle","amount_min":3600,"amount_max":3600,"currency":"EUR","period":"year","notes":"Full rate"},
+      {"student_group":"Standard Master's","amount_min":3900,"amount_max":3900,"currency":"EUR","period":"year","notes":"Full rate"},
+      {"student_group":"Convention rate","amount_min":1900,"amount_max":1900,"currency":"EUR","period":"year","notes":"+ €150 for non-Naples exams"},
+      {"student_group":"All Inclusive formula","amount_min":2600,"amount_max":2600,"currency":"EUR","period":"year","notes":"Includes services"},
+      {"student_group":"Futuro Sicuro (17-20 years)","amount_min":1700,"amount_max":1700,"currency":"EUR","period":"year","notes":"First-time enrollment"},
+      {"student_group":"START program","amount_min":1700,"amount_max":1700,"currency":"EUR","period":"year","notes":"No CFU recognition"},
+      {"student_group":"Military/Police personnel","amount_min":1500,"amount_max":1600,"currency":"EUR","period":"year","notes":"€1,500 standard, €1,600 Premium"},
+      {"student_group":"Disability > 45%","amount_min":1488,"amount_max":1488,"currency":"EUR","period":"year","notes":"€124/month"},
+      {"student_group":"DSA students","amount_min":1968,"amount_max":1968,"currency":"EUR","period":"year","notes":"€164/month"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Service contribution","amount":240,"currency":"EUR","notes":"Annual, rateizable"},
+      {"fee_name":"Distributed exam centers","amount":175,"currency":"EUR","notes":"One-time to unlock non-Naples exams"},
+      {"fee_name":"Regional tax (ADISURC)","amount":null,"currency":"EUR","notes":"€125.50-€167.50 based on ISEE"}
+    ],
+    "payment_schedule_notes":"12 monthly installments available. Online or bank transfer.",
+    "source_url":"https://www.unipegaso.it/studenti/agevolazioni-economiche",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Standard €3,600-€3,900. Many discounts: convention €1,900, military €1,500, young students €1,700, disability €124/month."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"unipegaso",
+    "scholarship_name":"Various Discount Programs",
+    "description":"Multiple discount programs based on category",
+    "eligibility":"Various: military, young, disability, DSA, conventions",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.unipegaso.it/studenti/agevolazioni-economiche",
+    "source_url":"https://www.unipegaso.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Discounts up to 50%+ for eligible categories."
+  }],
+  "opportunities": []
+}

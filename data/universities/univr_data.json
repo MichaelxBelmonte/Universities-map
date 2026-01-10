@@ -1,0 +1,97 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "univr",
+    "name": "Università degli Studi di Verona",
+    "official_url": "https://www.univr.it",
+    "country": "Italy",
+    "city": "Verona",
+    "campuses": [{"city": "Verona", "address": "", "notes": "Main campus"}],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Verona"},
+    "source_url": "https://www.univr.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "86 degree programs (11 in other languages). 28,739 enrolled students (2023/24). Professional Master's Programmes available. PhD Schools."
+  },
+  "programs": [
+    {"type":"program","university_id":"univr","degree_level":"bachelor","program_name":"Economia Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Verona","duration_years":3,"ects_total":180,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Also available at Vicenza"},
+    {"type":"program","university_id":"univr","degree_level":"bachelor","program_name":"Economia e Commercio","class_code":"L-33","language":["Italian"],"campus_city":"Verona","duration_years":3,"ects_total":180,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Also available at Vicenza"},
+    {"type":"program","university_id":"univr","degree_level":"bachelor","program_name":"Scienze Motorie e Sportive","class_code":"L-22","language":["Italian"],"campus_city":"Verona","duration_years":3,"ects_total":180,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"univr","degree_level":"bachelor","program_name":"Scienze dei Servizi Giuridici","class_code":"L-14","language":["Italian"],"campus_city":"Verona","duration_years":3,"ects_total":180,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"univr","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Verona","duration_years":3,"ects_total":180,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Accesso programmato"},
+    {"type":"program","university_id":"univr","degree_level":"bachelor","program_name":"Fisioterapia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Verona","duration_years":3,"ects_total":180,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Accesso programmato"},
+    {"type":"program","university_id":"univr","degree_level":"bachelor","program_name":"Biotecnologie","class_code":"L-2","language":["Italian"],"campus_city":"Verona","duration_years":3,"ects_total":180,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"univr","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Verona","duration_years":3,"ects_total":180,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"univr","degree_level":"bachelor","program_name":"Informatica","class_code":"L-31","language":["Italian"],"campus_city":"Verona","duration_years":3,"ects_total":180,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"univr","degree_level":"bachelor","program_name":"Lingue e Culture per l'Editoria","class_code":"L-11","language":["Italian"],"campus_city":"Verona","duration_years":3,"ects_total":180,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"univr","degree_level":"master","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Verona","duration_years":5,"ects_total":300,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
+    {"type":"program","university_id":"univr","degree_level":"master","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Verona","duration_years":6,"ects_total":360,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Accesso programmato - TOLC"},
+    {"type":"program","university_id":"univr","degree_level":"master","program_name":"Odontoiatria e Protesi Dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Verona","duration_years":6,"ects_total":360,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
+    {"type":"program","university_id":"univr","degree_level":"master","program_name":"Scienze Motorie Preventive ed Adattate","class_code":"LM-67","language":["Italian"],"campus_city":"Verona","duration_years":2,"ects_total":120,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"univr","degree_level":"master","program_name":"Scienze dello Sport e della Prestazione Fisica","class_code":"LM-68","language":["Italian"],"campus_city":"Verona","duration_years":2,"ects_total":120,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"univr","degree_level":"master","program_name":"Scienze Giuridiche e Criminologiche per la Sicurezza e l'Intelligence","class_code":"LM-SC-GIUR","language":["Italian"],"campus_city":"Verona","duration_years":2,"ects_total":120,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":"NEW 2025/26"},
+    {"type":"program","university_id":"univr","degree_level":"master","program_name":"Economia e Management","class_code":"LM-77","language":["Italian"],"campus_city":"Verona","duration_years":2,"ects_total":120,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"univr","degree_level":"master","program_name":"Biotecnologie Mediche","class_code":"LM-9","language":["Italian"],"campus_city":"Verona","duration_years":2,"ects_total":120,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"univr","degree_level":"master","program_name":"Bioinformatics","class_code":"LM-18","language":["English"],"campus_city":"Verona","duration_years":2,"ects_total":120,"source_url":"https://www.univr.it","last_checked":"2026-01-10","confidence":0.85,"notes":"English-taught"}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"univr",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"fall",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":""
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.univr.it/en/degree-programmes",
+    "source_url":"https://www.univr.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"11 degree programs in languages other than Italian."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"univr",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"ISEE ≤ €27,000","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"No Tax Area - ~8000 students benefit"},
+      {"student_group":"ISEE €27,001-€50,000","amount_min":300,"amount_max":1800,"currency":"EUR","period":"year","notes":"Progressive based on ISEE"},
+      {"student_group":"ISEE > €50,000 or no ISEE","amount_min":1800,"amount_max":2500,"currency":"EUR","period":"year","notes":"Full contribution"},
+      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
+    ],
+    "additional_fees":[],
+    "payment_schedule_notes":"",
+    "source_url":"https://www.univr.it/it/i-nostri-servizi/futuri-studenti/contributi-universitari-esoneri-e-incentivi",
+    "last_checked":"2026-01-04",
+    "confidence":0.7,
+    "notes":"Check ESU Verona for regional scholarship details."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"univr",
+    "scholarship_name":"ESU Verona Regional Scholarship",
+    "description":"Regional scholarship for students with low ISEE",
+    "eligibility":"ISEE threshold + merit requirements",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"",
+    "source_url":"https://www.univr.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.8,
+    "notes":""
+  }],
+  "opportunities": []
+}

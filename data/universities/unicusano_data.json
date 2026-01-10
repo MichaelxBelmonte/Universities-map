@@ -1,0 +1,104 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unicusano",
+    "name": "Università degli Studi Niccolò Cusano",
+    "official_url": "https://www.unicusano.it",
+    "country": "Italy",
+    "city": "Rome",
+    "campuses": [
+      {"city": "Rome", "address": "", "notes": "Main campus with residential option"},
+      {"city": "Online", "address": "", "notes": "Telematic delivery nationwide"}
+    ],
+    "languages_offered": ["Italian"],
+    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "source_url": "https://www.unicusano.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "Telematic university with unique physical campus option. Multiple methodologies: telematic, integrated, blended. Click Days scholarship program."
+  },
+  "programs": [
+    {"type":"program","university_id":"unicusano","degree_level":"bachelor","program_name":"Economia Aziendale e Management","class_code":"L-18","language":["Italian"],"campus_city":"Rome/Online","duration_years":3,"ects_total":180,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Multiple curricula. TOTAL LEARNING methodology."},
+    {"type":"program","university_id":"unicusano","degree_level":"bachelor","program_name":"Scienze Politiche e Relazioni Internazionali","class_code":"L-36","language":["Italian"],"campus_city":"Rome/Online","duration_years":3,"ects_total":180,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unicusano","degree_level":"bachelor","program_name":"Scienze dell'Educazione e della Formazione","class_code":"L-19","language":["Italian"],"campus_city":"Rome/Online","duration_years":3,"ects_total":180,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unicusano","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Rome/Online","duration_years":3,"ects_total":180,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unicusano","degree_level":"bachelor","program_name":"Ingegneria Civile","class_code":"L-7","language":["Italian"],"campus_city":"Rome/Online","duration_years":3,"ects_total":180,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unicusano","degree_level":"bachelor","program_name":"Ingegneria Industriale","class_code":"L-9","language":["Italian"],"campus_city":"Rome/Online","duration_years":3,"ects_total":180,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Multiple curricula. Telematic."},
+    {"type":"program","university_id":"unicusano","degree_level":"bachelor","program_name":"Ingegneria Informatica","class_code":"L-8","language":["Italian"],"campus_city":"Rome/Online","duration_years":3,"ects_total":180,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unicusano","degree_level":"bachelor","program_name":"Lettere - Studi Umanistici","class_code":"L-10","language":["Italian"],"campus_city":"Rome/Online","duration_years":3,"ects_total":180,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Multiple curricula. Telematic."},
+    {"type":"program","university_id":"unicusano","degree_level":"bachelor","program_name":"Sociologia","class_code":"L-40","language":["Italian"],"campus_city":"Rome/Online","duration_years":3,"ects_total":180,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unicusano","degree_level":"bachelor","program_name":"Scienze della Comunicazione","class_code":"L-20","language":["Italian"],"campus_city":"Rome/Online","duration_years":3,"ects_total":180,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unicusano","degree_level":"master","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Rome/Online","duration_years":5,"ects_total":300,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Multiple curricula."},
+    {"type":"program","university_id":"unicusano","degree_level":"master","program_name":"Psicologia Clinica e della Riabilitazione","class_code":"LM-51","language":["Italian"],"campus_city":"Rome/Online","duration_years":2,"ects_total":120,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unicusano","degree_level":"master","program_name":"Scienze Pedagogiche","class_code":"LM-85","language":["Italian"],"campus_city":"Rome/Online","duration_years":2,"ects_total":120,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unicusano","degree_level":"master","program_name":"Scienze Economiche","class_code":"LM-56","language":["Italian"],"campus_city":"Rome/Online","duration_years":2,"ects_total":120,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unicusano","degree_level":"master","program_name":"Ingegneria Civile","class_code":"LM-23","language":["Italian"],"campus_city":"Rome/Online","duration_years":2,"ects_total":120,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unicusano","degree_level":"master","program_name":"Ingegneria Elettronica","class_code":"LM-29","language":["Italian"],"campus_city":"Rome/Online","duration_years":2,"ects_total":120,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"unicusano","degree_level":"master","program_name":"Relazioni Internazionali","class_code":"LM-52","language":["Italian"],"campus_city":"Rome/Online","duration_years":2,"ects_total":120,"source_url":"https://www.unicusano.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"unicusano",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"rolling",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"Year-round enrollment"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unicusano.it/iscriversi-universita/retta-annuale-e-diritti-di-segreteria",
+    "source_url":"https://www.unicusano.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Open enrollment. Multiple study methodologies available."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"unicusano",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Bachelor (telematic)","amount_min":3000,"amount_max":3000,"currency":"EUR","period":"year","notes":"Total Learning methodology"},
+      {"student_group":"Bachelor (integrated)","amount_min":3300,"amount_max":3300,"currency":"EUR","period":"year","notes":"Integrated methodology"},
+      {"student_group":"Bachelor (blended)","amount_min":3600,"amount_max":3600,"currency":"EUR","period":"year","notes":"Blended methodology"},
+      {"student_group":"Master's (telematic)","amount_min":4000,"amount_max":4000,"currency":"EUR","period":"year","notes":"Total Learning methodology"},
+      {"student_group":"Master's (integrated)","amount_min":4100,"amount_max":4100,"currency":"EUR","period":"year","notes":"Integrated methodology"},
+      {"student_group":"Master's (blended)","amount_min":4100,"amount_max":4100,"currency":"EUR","period":"year","notes":"Blended methodology"},
+      {"student_group":"Master's Excellence","amount_min":5000,"amount_max":5000,"currency":"EUR","period":"year","notes":"Percorso Eccellenza"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":"One-time at enrollment"}
+    ],
+    "payment_schedule_notes":"Single payment via direct debit (SDD). Convention discounts available.",
+    "source_url":"https://www.unicusano.it/iscriversi-universita/retta-annuale-e-diritti-di-segreteria",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"€3,000-€5,000/year depending on methodology and level. Military/police conventions available."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"unicusano",
+    "scholarship_name":"Click Days Scholarships",
+    "description":"Full 5-year scholarships through Click Days program",
+    "eligibility":"Merit-based selection during Click Days events",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.unicusano.it",
+    "source_url":"https://www.unicusano.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Annual Click Days events offer full scholarships. Military/police conventions also available."
+  }],
+  "opportunities": []
+}

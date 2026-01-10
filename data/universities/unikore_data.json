@@ -1,0 +1,149 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unikore",
+    "name": "Università degli Studi di Enna Kore",
+    "official_url": "https://www.unikore.it",
+    "country": "Italy",
+    "city": "Enna",
+    "campuses": [{"city": "Enna", "address": "", "notes": "Central Sicily campus"}],
+    "languages_offered": ["Italian"],
+    "contacts": {"email": "", "phone": "", "address": "Enna"},
+    "source_url": "https://www.unikore.it",
+    "last_checked": "2026-01-05",
+    "confidence": 0.95,
+    "notes": "Private university in central Sicily. Founded 2004. Highest student satisfaction in Italy (AlmaLaurea). Faculties: Human Sciences, Economics/Law, Engineering, Architecture, Sports."
+  },
+  "programs": [
+    {"type":"program","university_id":"unikore","degree_level":"bachelor","program_name":"Scienze delle Attività Motorie e Sportive","class_code":"L-22","language":["Italian"],"campus_city":"Enna","duration_years":3,"ects_total":180,"source_url":"https://www.unikore.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unikore","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Enna","duration_years":3,"ects_total":180,"source_url":"https://www.unikore.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unikore","degree_level":"bachelor","program_name":"Servizio Sociale e Scienze Criminologiche","class_code":"L-39","language":["Italian"],"campus_city":"Enna","duration_years":3,"ects_total":180,"source_url":"https://www.unikore.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unikore","degree_level":"bachelor","program_name":"Ingegneria Aerospaziale","class_code":"L-9","language":["Italian"],"campus_city":"Enna","duration_years":3,"ects_total":180,"source_url":"https://www.unikore.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unikore","degree_level":"bachelor","program_name":"Tecnologie per il Costruito e la Sostenibilità Ambientale","class_code":"LP-01","language":["Italian"],"campus_city":"Enna","duration_years":3,"ects_total":180,"source_url":"https://www.unikore.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Laurea professionalizzante"},
+    {"type":"program","university_id":"unikore","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Enna","duration_years":3,"ects_total":180,"source_url":"https://www.unikore.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Immediately qualifying for nursing profession"},
+    {"type":"program","university_id":"unikore","degree_level":"master","program_name":"Psicologia Clinica","class_code":"LM-51","language":["Italian"],"campus_city":"Enna","duration_years":2,"ects_total":120,"source_url":"https://www.unikore.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unikore","degree_level":"master","program_name":"Ingegneria dell'Intelligenza Artificiale e della Sicurezza Informatica","class_code":"LM-32","language":["Italian"],"campus_city":"Enna","duration_years":2,"ects_total":120,"source_url":"https://www.unikore.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unikore","degree_level":"master","program_name":"Lingue per la Comunicazione e i Servizi Culturali","class_code":"LM-38","language":["Italian"],"campus_city":"Enna","duration_years":2,"ects_total":120,"source_url":"https://www.unikore.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unikore","degree_level":"master","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Enna","duration_years":6,"ects_total":360,"source_url":"https://www.unikore.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Ciclo Unico - 6 years. Premium tuition €18,000/year."}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"unikore",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":["Mandatory entry test (non-blocking)"],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"fall",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":""
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unikore.it",
+    "source_url":"https://www.unikore.it",
+    "last_checked":"2026-01-05",
+    "confidence":0.9,
+    "notes":"Mandatory entry test for all students to assess knowledge, but not blocking enrollment. Medicine has separate competitive admission."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"unikore",
+    "program_name":"Standard Programs (Triennale/Magistrale)",
+    "degree_level_scope":"bachelor_master",
+    "tuition":[
+      {"student_group":"All students (standard programs)","amount_min":3500,"amount_max":3500,"currency":"EUR","period":"year","notes":"Fixed fee, ISEE-progressive within this amount"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Fixed contribution (1st year immatricolati 2024-25)","amount":1000,"currency":"EUR","notes":"Reduced from €1,500. Remains fixed for entire course + 1 fuori corso"},
+      {"fee_name":"Attendance fee","amount":2500,"currency":"EUR","notes":"Due by Dec 23 each year"},
+      {"fee_name":"Regional tax (DSU)","amount":140,"currency":"EUR","notes":"Included in fixed contribution"}
+    ],
+    "payment_schedule_notes":"€1,000 at enrollment + €2,500 by Dec 23. Total €3,500/year.",
+    "source_url":"https://unikore.it/futuri-studenti/sistema-delle-tasse/",
+    "last_checked":"2026-01-05",
+    "confidence":0.95,
+    "notes":"Private university: €3,500/year fixed for all standard programs. ISEE-based proportionality applies within this structure."
+  },
+  {
+    "type":"tuition",
+    "university_id":"unikore",
+    "program_name":"Infermieristica",
+    "degree_level_scope":"bachelor",
+    "tuition":[
+      {"student_group":"All students","amount_min":3000,"amount_max":3000,"currency":"EUR","period":"year","notes":"Reduced rate for nursing"}
+    ],
+    "additional_fees":[],
+    "payment_schedule_notes":"",
+    "source_url":"https://unikore.it/futuri-studenti/sistema-delle-tasse/",
+    "last_checked":"2026-01-05",
+    "confidence":0.95,
+    "notes":"Nursing degree: €3,000/year (€500 less than standard programs)."
+  },
+  {
+    "type":"tuition",
+    "university_id":"unikore",
+    "program_name":"Medicina e Chirurgia",
+    "degree_level_scope":"master",
+    "tuition":[
+      {"student_group":"All students","amount_min":18000,"amount_max":18000,"currency":"EUR","period":"year","notes":"6-year program, includes regional tax"}
+    ],
+    "additional_fees":[],
+    "payment_schedule_notes":"3 installments: €7,000 (enrollment) + €5,500 (December) + €5,500 (March).",
+    "source_url":"https://unikore.it/futuri-studenti/sistema-delle-tasse/",
+    "last_checked":"2026-01-05",
+    "confidence":0.95,
+    "notes":"Medicine: €18,000/year fixed. Premium private medical school."
+  }],
+  "scholarships": [
+    {
+      "type":"scholarships",
+      "university_id":"unikore",
+      "scholarship_name":"Borsa di Studio Medicina (Top 5)",
+      "description":"100% tuition waiver for top 5 eligible Medicine candidates",
+      "eligibility":"Top 5 candidates with ISEE < €30,000",
+      "amount":{"min":18000,"max":18000,"currency":"EUR","period":"year"},
+      "deadline":"Admission deadline",
+      "how_to_apply_url":"https://www.unikore.it",
+      "source_url":"https://www.unikore.it",
+      "last_checked":"2026-01-05",
+      "confidence":0.95,
+      "notes":"First 5 eligible candidates in Medicine admission ranking with ISEE < €30,000 receive 100% tuition coverage (€18,000 value)."
+    },
+    {
+      "type":"scholarships",
+      "university_id":"unikore",
+      "scholarship_name":"ERSU Sicilia Borse di Studio",
+      "description":"Regional scholarship for low-income students",
+      "eligibility":"ISEE requirements + merit (CFU)",
+      "amount":{"min":2000,"max":5500,"currency":"EUR","period":"year"},
+      "deadline":"Check ERSU website",
+      "how_to_apply_url":"https://www.ersusicilia.it",
+      "source_url":"https://www.ersusicilia.it",
+      "last_checked":"2026-01-05",
+      "confidence":0.85,
+      "notes":"Regional scholarships available even for private university students in Sicily."
+    },
+    {
+      "type":"scholarships",
+      "university_id":"unikore",
+      "scholarship_name":"Agevolazioni ISEE",
+      "description":"ISEE-based fee reductions",
+      "eligibility":"Based on family income (ISEE)",
+      "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+      "deadline":"",
+      "how_to_apply_url":"https://unikore.it/futuri-studenti/sistema-delle-tasse/",
+      "source_url":"https://www.unikore.it",
+      "last_checked":"2026-01-05",
+      "confidence":0.9,
+      "notes":"ISEE-based proportionality principle applies to fee calculation."
+    }
+  ],
+  "opportunities": []
+}

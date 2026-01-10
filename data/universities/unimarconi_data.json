@@ -1,0 +1,101 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unimarconi",
+    "name": "Università Telematica Guglielmo Marconi",
+    "official_url": "https://www.unimarconi.it",
+    "country": "Italy",
+    "city": "Rome",
+    "campuses": [
+      {"city": "Rome", "address": "", "notes": "Headquarters, free exam sessions"},
+      {"city": "Online", "address": "", "notes": "Telematic delivery"}
+    ],
+    "languages_offered": ["Italian"],
+    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "source_url": "https://www.unimarconi.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "One of Italy's 11 recognized telematic universities. Lowest fees among telematic universities. Part-time option at 50% cost. Military/PA discounts."
+  },
+  "programs": [
+    {"type":"program","university_id":"unimarconi","degree_level":"bachelor","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Online","duration_years":5,"ects_total":300,"source_url":"https://www.unimarconi.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Telematic."},
+    {"type":"program","university_id":"unimarconi","degree_level":"bachelor","program_name":"Economia Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimarconi.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Telematic."},
+    {"type":"program","university_id":"unimarconi","degree_level":"bachelor","program_name":"Ingegneria Informatica","class_code":"L-8","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimarconi.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unimarconi","degree_level":"bachelor","program_name":"Ingegneria per l'Innovazione e la Sostenibilità","class_code":"L-7/L-9","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimarconi.it","last_checked":"2026-01-10","confidence":0.9,"notes":"New 2025/26. Interclasse L-7 e L-9."},
+    {"type":"program","university_id":"unimarconi","degree_level":"bachelor","program_name":"Ingegneria Gestionale","class_code":"L-9","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimarconi.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unimarconi","degree_level":"bachelor","program_name":"Lettere","class_code":"L-10","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimarconi.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unimarconi","degree_level":"bachelor","program_name":"Scienze Politiche","class_code":"L-36","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimarconi.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unimarconi","degree_level":"bachelor","program_name":"Scienze Motorie e Sportive","class_code":"L-22","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimarconi.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unimarconi","degree_level":"bachelor","program_name":"Scienze dell'Educazione e della Formazione","class_code":"L-19","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimarconi.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unimarconi","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimarconi.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unimarconi","degree_level":"master","program_name":"Ingegneria Informatica","class_code":"LM-32","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unimarconi.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unimarconi","degree_level":"master","program_name":"Scienze dell'Educazione degli Adulti e della Formazione Continua","class_code":"LM-57","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unimarconi.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unimarconi","degree_level":"master","program_name":"Psicologia del Lavoro e delle Organizzazioni","class_code":"LM-51","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unimarconi.it","last_checked":"2026-01-10","confidence":0.85,"notes":""}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"unimarconi",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"rolling",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"Year-round enrollment"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unimarconi.it",
+    "source_url":"https://www.unimarconi.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Open enrollment. Multiple exam sessions throughout year."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"unimarconi",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Standard (all-inclusive)","amount_min":2760,"amount_max":2760,"currency":"EUR","period":"year","notes":"Includes segreteria and exam fees"},
+      {"student_group":"Federconsumatori rate","amount_min":2346,"amount_max":2346,"currency":"EUR","period":"year","notes":"Official comparison rate"},
+      {"student_group":"Military/Police (Forze Armate/Ordine)","amount_min":1500,"amount_max":1500,"currency":"EUR","period":"year","notes":"Also for direct family"},
+      {"student_group":"Part-time enrollment","amount_min":1380,"amount_max":1380,"currency":"EUR","period":"year","notes":"50% of standard"},
+      {"student_group":"PA employees/Teachers/ATA","amount_min":2000,"amount_max":2200,"currency":"EUR","period":"year","notes":"Discounted rate"},
+      {"student_group":"Convention bachelor (25% off)","amount_min":2070,"amount_max":2070,"currency":"EUR","period":"year","notes":"Via partner entities"},
+      {"student_group":"Convention LM/Giurisprudenza (10% off)","amount_min":2484,"amount_max":2484,"currency":"EUR","period":"year","notes":"Via partner entities"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Regional tax (Lazio)","amount":140,"currency":"EUR","notes":"Via LazioDisco pagoPA"},
+      {"fee_name":"External exam location fee","amount":null,"currency":"EUR","notes":"Rome exams free, other locations charged"}
+    ],
+    "payment_schedule_notes":"Monthly installments €135-€230 available. Up to 12 rates for masters.",
+    "source_url":"https://www.unimarconi.it/tasse-universitarie/",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Among lowest telematic fees: €2,346-€2,760. Military €1,500. Part-time 50% off. Convention discounts available."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"unimarconi",
+    "scholarship_name":"Category Discounts",
+    "description":"Reduced rates for military, PA, teachers, and convention members",
+    "eligibility":"Military, police, PA employees, teachers, convention partners",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.unimarconi.it",
+    "source_url":"https://www.unimarconi.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Military/police + family: €1,500/year. PA/teachers discounted. Part-time: 50% off. Conventions: 10-25% off."
+  }],
+  "opportunities": []
+}

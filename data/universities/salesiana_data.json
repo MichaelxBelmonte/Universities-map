@@ -1,0 +1,94 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "salesiana",
+    "name": "Università Pontificia Salesiana",
+    "official_url": "https://www.unisal.it",
+    "country": "Vatican City / Italy",
+    "city": "Rome",
+    "campuses": [
+      {"city": "Rome (Nuovo Salario)", "address": "Piazza dell'Ateneo Salesiano", "notes": "Main campus"}
+    ],
+    "languages_offered": ["Italian", "English", "Spanish"],
+    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "source_url": "https://www.unisal.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "Salesian pontifical university. Focus on education, communication, theology, philosophy. 50% discount for UPS alumni. Degrees recognized by Holy See."
+  },
+  "programs": [
+    {"type":"program","university_id":"salesiana","degree_level":"bachelor","program_name":"Baccalaureato in Psicologia","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unisal.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Pontifical first-cycle degree. Faculty of Education Sciences."},
+    {"type":"program","university_id":"salesiana","degree_level":"bachelor","program_name":"Baccalaureato in Scienze dell'Educazione","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unisal.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Pedagogia sociale."},
+    {"type":"program","university_id":"salesiana","degree_level":"bachelor","program_name":"Baccalaureato in Comunicazione Sociale","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unisal.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Media digitali e cultura."},
+    {"type":"program","university_id":"salesiana","degree_level":"bachelor","program_name":"Baccalaureato in Filosofia","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unisal.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"salesiana","degree_level":"bachelor","program_name":"Baccalaureato in Teologia","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"source_url":"https://www.unisal.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Pontifical theology degree."},
+    {"type":"program","university_id":"salesiana","degree_level":"bachelor","program_name":"Baccalaureato in Letteratura Cristiana e Classica","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unisal.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"salesiana","degree_level":"bachelor","program_name":"Baccalaureato in Terzo Settore (ETS)","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unisal.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Management e Diritto degli ETS. Third sector focus."},
+    {"type":"program","university_id":"salesiana","degree_level":"master","program_name":"Licenza in Psicologia","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unisal.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Pontifical second-cycle."},
+    {"type":"program","university_id":"salesiana","degree_level":"master","program_name":"Licenza in Comunicazione Sociale, Media Digitali e Cultura","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unisal.it","last_checked":"2026-01-10","confidence":0.85,"notes":"New curriculum including AI. 2024/25 intake open."},
+    {"type":"program","university_id":"salesiana","degree_level":"master","program_name":"Licenza in Scienze dell'Educazione","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unisal.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"salesiana","degree_level":"master","program_name":"Licenza in Etica, Economia e Diritto del Terzo Settore","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unisal.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Third sector ethics and law."},
+    {"type":"program","university_id":"salesiana","degree_level":"phd","program_name":"Dottorato in Psicologia","class_code":"PhD","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":0,"source_url":"https://www.unisal.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Pontifical doctorate."},
+    {"type":"program","university_id":"salesiana","degree_level":"phd","program_name":"Dottorato in Scienze dell'Educazione","class_code":"PhD","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":0,"source_url":"https://www.unisal.it","last_checked":"2026-01-10","confidence":0.85,"notes":""}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"salesiana",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"international",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma, varies by faculty",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"Academic Year",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":""
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unisal.it",
+    "source_url":"https://www.unisal.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Pontifical degrees. Strong in education sciences and social communication."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"salesiana",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Theology/Philosophy/Education/Letters","amount_min":2150,"amount_max":2150,"currency":"EUR","period":"year","notes":"Standard faculties"},
+      {"student_group":"Communication Sciences","amount_min":2500,"amount_max":3000,"currency":"EUR","period":"year","notes":"Varies by year"},
+      {"student_group":"Doctorate","amount_min":1400,"amount_max":1400,"currency":"EUR","period":"year","notes":"Annual during triennium"},
+      {"student_group":"UPS Alumni/Pontifical univ. students","amount_min":1075,"amount_max":1075,"currency":"EUR","period":"year","notes":"50% discount"}
+    ],
+    "additional_fees":[],
+    "payment_schedule_notes":"Payment via postal order or bank transfer. Non-refundable.",
+    "source_url":"https://www.unisal.it/index.php/segreteria-generale/tasse-e-contributi",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"€2,150/year standard. 50% discount for UPS alumni and pontifical university students."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"salesiana",
+    "scholarship_name":"Pro Universitate Don Bosco",
+    "description":"Scholarships for tuition support",
+    "eligibility":"Financial need, from second year onwards",
+    "amount":{"min":1000,"max":1000,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.unisal.it",
+    "source_url":"https://www.unisal.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Type C scholarship €1,000. Apply before each semester starting from second year."
+  }],
+  "opportunities": []
+}

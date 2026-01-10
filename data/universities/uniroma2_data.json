@@ -1,0 +1,92 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "uniroma2",
+    "name": "Università degli Studi di Roma \"Tor Vergata\"",
+    "official_url": "https://web.uniroma2.it",
+    "country": "Italy",
+    "city": "Rome",
+    "campuses": [{"city": "Rome", "address": "", "notes": "Tor Vergata campus"}],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Rome - Tor Vergata"},
+    "source_url": "https://web.uniroma2.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "118 degree programs (triennale, magistrale, ciclo unico). 130 post-lauream courses, 53 specialization schools, 38 doctoral programs. 6 Macroareas: Economia, Giurisprudenza, Ingegneria, Lettere e Filosofia, Medicina e Chirurgia, Scienze MFN. 18 departments, 33,000 students."
+  },
+  "programs": [
+    {"type":"program","university_id":"uniroma2","degree_level":"bachelor","program_name":"Economia e Finanza","class_code":"L-33","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"department":"Macroarea di Economia","source_url":"https://economia.uniroma2.it","last_checked":"2026-01-04","confidence":0.8,"notes":"Lessons start Sept 29, 2025"},
+    {"type":"program","university_id":"uniroma2","degree_level":"bachelor","program_name":"Economia e Management","class_code":"L-18","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"department":"Macroarea di Economia","source_url":"https://economia.uniroma2.it","last_checked":"2026-01-04","confidence":0.8,"notes":"Lessons start Sept 29, 2025"},
+    {"type":"program","university_id":"uniroma2","degree_level":"master","program_name":"Business Administration","class_code":"LM-77","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"department":"Macroarea di Economia","source_url":"https://economia.uniroma2.it","last_checked":"2026-01-04","confidence":0.8,"notes":""},
+    {"type":"program","university_id":"uniroma2","degree_level":"master","program_name":"Economics","class_code":"LM-56","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"department":"Macroarea di Economia","source_url":"https://economia.uniroma2.it","last_checked":"2026-01-04","confidence":0.8,"notes":""},
+    {"type":"program","university_id":"uniroma2","degree_level":"master","program_name":"European Economy and Business Law","class_code":"LM-90","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"department":"Macroarea di Economia","source_url":"https://economia.uniroma2.it","last_checked":"2026-01-04","confidence":0.8,"notes":""},
+    {"type":"program","university_id":"uniroma2","degree_level":"master","program_name":"Finance and Banking","class_code":"LM-77","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"department":"Macroarea di Economia","source_url":"https://economia.uniroma2.it","last_checked":"2026-01-04","confidence":0.8,"notes":""},
+    {"type":"program","university_id":"uniroma2","degree_level":"bachelor","program_name":"Scienze dell'educazione e della formazione","class_code":"L-19","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"department":"Macroarea di Lettere e Filosofia","source_url":"https://web.uniroma2.it","last_checked":"2026-01-04","confidence":0.8,"notes":"Second admission round 2025/26"},
+    {"type":"program","university_id":"uniroma2","degree_level":"bachelor","program_name":"Digital Humanities","class_code":"L-20","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"department":"Macroarea di Lettere e Filosofia","source_url":"https://web.uniroma2.it","last_checked":"2026-01-04","confidence":0.8,"notes":"Enrollment open 2025/26"},
+    {"type":"program","university_id":"uniroma2","degree_level":"ciclo_unico","program_name":"Conservazione e restauro dei beni culturali","class_code":"LMR/02","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"department":"","source_url":"https://web.uniroma2.it","last_checked":"2026-01-04","confidence":0.8,"notes":"Admission bando 2025/26 published"}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"uniroma2",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"fall",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"2025-09-29",
+      "notes":"Economics faculty lessons start Sept 29, 2025"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://orientamento.uniroma2.it",
+    "source_url":"https://web.uniroma2.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Open Day triennali: July 16, 2025. Open Day magistrali: June 5, 2025."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"uniroma2",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"ISEE < 26000","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"No Tax Area - full exemption"},
+      {"student_group":"ISEE 26000-28000","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"60% reduction on contribution"},
+      {"student_group":"ISEE 28001-30000","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"55% reduction on contribution"},
+      {"student_group":"Siblings enrolled","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Partial reduction"},
+      {"student_group":"Non-resident students","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Partial reduction"},
+      {"student_group":"110/110 laureati (magistrale enrollment)","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Partial reduction"},
+      {"student_group":"Students on maternity leave","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Partial reduction"},
+      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
+    ],
+    "additional_fees":[],
+    "payment_schedule_notes":"ISEE-U attestation must be presented at CAF convenzionato. Rates recalculated once ISEE is acquired. Viewable on Delphi.",
+    "source_url":"https://www-2023.studenti.uniroma2.it/en/tassazione-2024-2025/",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"No surcharge for second degree. Tax calculator available on website."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"uniroma2",
+    "scholarship_name":"DiSCo Lazio Regional Scholarship",
+    "description":"Regional scholarship covering tuition, accommodation, meals for eligible students",
+    "eligibility":"ISEE threshold + merit requirements",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"",
+    "source_url":"https://web.uniroma2.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.8,
+    "notes":"Lazio regional agency for right to study"
+  }],
+  "opportunities": []
+}

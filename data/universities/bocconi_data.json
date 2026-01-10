@@ -1,0 +1,84 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "bocconi",
+    "name": "Universit\u00e0 Commerciale Luigi Bocconi",
+    "official_url": "https://www.unibocconi.it",
+    "country": "Italy",
+    "city": "Milan",
+    "campuses": [{"city": "Milan", "address": "Via Sarfatti 25, 20136 Milano", "notes": "Main campus in central Milan"}],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Via Sarfatti 25, 20136 Milano"},
+    "source_url": "https://www.unibocconi.it",
+    "last_checked": "2026-01-04",
+    "confidence": 1.0,
+    "notes": "Top-ranked Italian private university for Economics, Management, Finance, Political Science, Data Science, AI and Law. Highly selective. Max 110 students per class."
+  },
+  "programs": [
+    {"type":"program","university_id":"bocconi","degree_level":"bachelor","program_name":"CLEAM - Economia Aziendale e Management","class_code":"L-18","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unibocconi.it/en/programs/bachelor-science-programs","last_checked":"2026-01-04","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"bocconi","degree_level":"bachelor","program_name":"CLEACC - Economia e Management per Arte, Cultura e Comunicazione","class_code":"L-18","language":["Italian","English"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unibocconi.it/en/programs/bachelor-science-programs","last_checked":"2026-01-04","confidence":0.9,"notes":"Economics and Management for Arts, Culture and Communication"},
+    {"type":"program","university_id":"bocconi","degree_level":"bachelor","program_name":"BIEM - International Economics and Management","class_code":"L-18","language":["English"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unibocconi.it/en/programs/bachelor-science-programs","last_checked":"2026-01-04","confidence":0.9,"notes":"Focus on enterprises operating internationally"},
+    {"type":"program","university_id":"bocconi","degree_level":"bachelor","program_name":"BESS - Economic and Social Sciences","class_code":"L-33","language":["English"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unibocconi.it/en/programs/bachelor-science-programs","last_checked":"2026-01-04","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"bocconi","degree_level":"bachelor","program_name":"BIEF - International Economics and Finance","class_code":"L-33","language":["English"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unibocconi.it/en/programs/bachelor-science-programs","last_checked":"2026-01-04","confidence":0.9,"notes":"Two curricula available"},
+    {"type":"program","university_id":"bocconi","degree_level":"bachelor","program_name":"BEMACS - Economics, Management and Computer Science","class_code":"L-33","language":["English"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unibocconi.it/en/programs/bachelor-science-programs","last_checked":"2026-01-04","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"bocconi","degree_level":"bachelor","program_name":"BAI - Mathematical and Computing Sciences for Artificial Intelligence","class_code":"L-35","language":["English"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unibocconi.it/en/programs/bachelor-science-programs","last_checked":"2026-01-04","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"bocconi","degree_level":"bachelor","program_name":"World Bachelor in Business (WBB)","class_code":"L-18","language":["English"],"campus_city":"Milan","duration_years":4,"ects_total":240,"source_url":"https://www.unibocconi.it/en/programs/bachelor-science-programs","last_checked":"2026-01-04","confidence":0.9,"notes":"4-year program with USC Marshall and HKUST"},
+    {"type":"program","university_id":"bocconi","degree_level":"ciclo_unico","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Milan","duration_years":5,"ects_total":300,"source_url":"https://www.unibocconi.it/en/programs","last_checked":"2026-01-04","confidence":0.9,"notes":"Law - 5-year cycle"},
+    {"type":"program","university_id":"bocconi","degree_level":"master","program_name":"Management","class_code":"LM-77","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unibocconi.it/en/programs","last_checked":"2026-01-04","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"bocconi","degree_level":"master","program_name":"International Management","class_code":"LM-77","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unibocconi.it/en/programs","last_checked":"2026-01-04","confidence":0.9,"notes":"CEMS MIM partner"},
+    {"type":"program","university_id":"bocconi","degree_level":"master","program_name":"Marketing Management","class_code":"LM-77","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unibocconi.it/en/programs","last_checked":"2026-01-04","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"bocconi","degree_level":"master","program_name":"Finance","class_code":"LM-16","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unibocconi.it/en/programs","last_checked":"2026-01-04","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"bocconi","degree_level":"master","program_name":"Accounting, Financial Management and Control","class_code":"LM-77","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unibocconi.it/en/programs","last_checked":"2026-01-04","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"bocconi","degree_level":"master","program_name":"Economics and Management of Government and International Organizations","class_code":"LM-77","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unibocconi.it/en/programs","last_checked":"2026-01-04","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"bocconi","degree_level":"master","program_name":"Economic and Social Sciences","class_code":"LM-56","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unibocconi.it/en/programs","last_checked":"2026-01-04","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"bocconi","degree_level":"master","program_name":"Economics","class_code":"LM-56","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unibocconi.it/en/programs","last_checked":"2026-01-04","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"bocconi","degree_level":"master","program_name":"Data Science and Business Analytics","class_code":"LM-91","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unibocconi.it/en/programs","last_checked":"2026-01-04","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"bocconi","degree_level":"master","program_name":"Cyber Risk Strategy and Governance (CYBER)","class_code":"LM-91","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unibocconi.it/en/programs","last_checked":"2026-01-04","confidence":0.9,"notes":"Joint program with Politecnico di Milano"},
+    {"type":"program","university_id":"bocconi","degree_level":"master","program_name":"Transformative Sustainability (TS)","class_code":"LM-56","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unibocconi.it/en/programs","last_checked":"2026-01-04","confidence":0.9,"notes":"Joint program with Politecnico di Milano"},
+    {"type":"program","university_id":"bocconi","degree_level":"master","program_name":"Politics and Policy Analysis","class_code":"LM-62","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unibocconi.it/en/programs","last_checked":"2026-01-04","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"bocconi","degree_level":"master","program_name":"Law and Business Administration","class_code":"LM-77","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unibocconi.it/en/programs","last_checked":"2026-01-04","confidence":0.9,"notes":""}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"bocconi",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma / Bachelor's for Master's",
+      "documents_required":["High school diploma/transcript","CV","Motivation","English proficiency"],
+      "tests_required":[{"test_name":"Bocconi Test / SAT / ACT","min_score":"","notes":"Admission test required for bachelor"}],
+      "portfolio_required":false,
+      "interview_required":true
+    },
+    "intakes":[
+      {"intake_name":"Early Session","application_open_date":"","application_deadline":"November","start_date":"September"},
+      {"intake_name":"Winter Session","application_open_date":"","application_deadline":"January","start_date":"September"},
+      {"intake_name":"Spring Session","application_open_date":"","application_deadline":"March","start_date":"September"}
+    ],
+    "application_fee":{"amount":100,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unibocconi.it/it/entrare-bocconi",
+    "source_url":"https://www.unibocconi.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.95,
+    "notes":"Highly selective admission. Multiple application sessions."
+  }],
+  "tuition": [
+    {"type":"tuition","university_id":"bocconi","program_name":"","degree_level_scope":"bachelor","tuition":[{"student_group":"Bachelor/Law 1st year 2025-26","amount_min":17000,"amount_max":17000,"currency":"EUR","period":"year","notes":"Full fee before reductions"},{"student_group":"ISEE < 25000","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"ISU Bocconi scholarship covers 100%"},{"student_group":"ISEE < 50000","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"60-80% reduction available"}],"additional_fees":[],"payment_schedule_notes":"","source_url":"https://www.unibocconi.it","last_checked":"2026-01-04","confidence":0.95,"notes":"Bachelor/Law ~EUR 17,000/year. ISU Bocconi scholarship for ISEE < 24,335 covers 100% + housing + meals."},
+    {"type":"tuition","university_id":"bocconi","program_name":"","degree_level_scope":"master","tuition":[{"student_group":"Master's 1st year 2025-26","amount_min":18500,"amount_max":18500,"currency":"EUR","period":"year","notes":"Full fee before reductions"}],"additional_fees":[{"fee_name":"Graduation fee (Master's)","amount":365,"currency":"EUR","notes":""}],"payment_schedule_notes":"","source_url":"https://www.unibocconi.it","last_checked":"2026-01-04","confidence":0.95,"notes":"Master's ~EUR 18,500/year. Same ISEE reductions apply."}
+  ],
+  "scholarships": [{
+    "type":"scholarship",
+    "university_id":"bocconi",
+    "scholarship_name":"ISU Bocconi Scholarship",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "eligibility":{"degree_levels":["bachelor","master","ciclo_unico"],"nationalities":["all"],"merit_based":true,"need_based":true,"other_criteria":"ISEE < 24,335.11 and ISPEE < 52,902.43"},
+    "application_deadline":"",
+    "renewable":true,
+    "source_url":"https://www.unibocconi.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.95,
+    "notes":"Covers 100% tuition + free housing + subsidized meals for students with ISEE < 25,000."
+  }],
+  "opportunities": []
+}

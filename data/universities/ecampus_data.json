@@ -1,0 +1,105 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "ecampus",
+    "name": "Università Telematica eCampus",
+    "official_url": "https://www.uniecampus.it",
+    "country": "Italy",
+    "city": "Novedrate",
+    "campuses": [
+      {"city": "Novedrate (Como)", "address": "", "notes": "Headquarters"},
+      {"city": "Online", "address": "", "notes": "Telematic delivery with exam centers nationwide"}
+    ],
+    "languages_offered": ["Italian"],
+    "contacts": {"email": "", "phone": "", "address": "Novedrate (Como)"},
+    "source_url": "https://www.uniecampus.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "Major telematic university. Standard and innovative courses. Multiple conventions available. 30% discount with Carta Giovani Nazionale."
+  },
+  "programs": [
+    {"type":"program","university_id":"ecampus","degree_level":"bachelor","program_name":"Economia","class_code":"L-33","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic. No test ingresso."},
+    {"type":"program","university_id":"ecampus","degree_level":"bachelor","program_name":"Ingegneria Civile e Ambientale","class_code":"L-7","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic. No test ingresso."},
+    {"type":"program","university_id":"ecampus","degree_level":"bachelor","program_name":"Ingegneria Informatica e dell'Automazione","class_code":"L-8","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic. No test ingresso."},
+    {"type":"program","university_id":"ecampus","degree_level":"bachelor","program_name":"Ingegneria Industriale","class_code":"L-9","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic. No test ingresso."},
+    {"type":"program","university_id":"ecampus","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic. No test ingresso."},
+    {"type":"program","university_id":"ecampus","degree_level":"bachelor","program_name":"Lettere - Studi Umanistici","class_code":"L-10","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic. Multiple curricula."},
+    {"type":"program","university_id":"ecampus","degree_level":"bachelor","program_name":"Scienze della Comunicazione","class_code":"L-20","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"ecampus","degree_level":"bachelor","program_name":"Scienze dell'Educazione","class_code":"L-19","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"ecampus","degree_level":"bachelor","program_name":"Design e Discipline della Moda","class_code":"L-3","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"ecampus","degree_level":"bachelor","program_name":"Lingue e Culture Europee e del Resto del Mondo","class_code":"L-11","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"ecampus","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"ecampus","degree_level":"master","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Online","duration_years":5,"ects_total":300,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Telematic."},
+    {"type":"program","university_id":"ecampus","degree_level":"master","program_name":"Psicologia","class_code":"LM-51","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"ecampus","degree_level":"master","program_name":"Scienze Pedagogiche","class_code":"LM-85","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"ecampus","degree_level":"master","program_name":"Ingegneria Civile","class_code":"LM-23","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"ecampus","degree_level":"master","program_name":"Ingegneria Informatica","class_code":"LM-32","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"ecampus","degree_level":"master","program_name":"Scienze Economiche","class_code":"LM-56","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.uniecampus.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"ecampus",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"rolling",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"Rolling admissions throughout the year"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.uniecampus.it",
+    "source_url":"https://www.uniecampus.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Open enrollment. 100% online. Exams at distributed centers."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"ecampus",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Standard courses","amount_min":3900,"amount_max":3900,"currency":"EUR","period":"year","notes":"Full rate"},
+      {"student_group":"Convention rate","amount_min":2600,"amount_max":2600,"currency":"EUR","period":"year","notes":"Via partners like AteneiOnline"},
+      {"student_group":"Innovative courses (Droni, Gaming, etc.)","amount_min":5900,"amount_max":5900,"currency":"EUR","period":"year","notes":"Premium programs"},
+      {"student_group":"Carta Giovani Nazionale","amount_min":2730,"amount_max":2730,"currency":"EUR","period":"year","notes":"30% off standard rate"},
+      {"student_group":"Disability ≥66%","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Enrollment fee","amount":250,"currency":"EUR","notes":"One-time"},
+      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"Annual"},
+      {"fee_name":"Exam fee","amount":150,"currency":"EUR","notes":""},
+      {"fee_name":"Graduation fee","amount":332,"currency":"EUR","notes":"Including stamps"}
+    ],
+    "payment_schedule_notes":"10 monthly installments (€260/month with convention). Not ISEE-based.",
+    "source_url":"https://www.ateneionline.it/ecampus-universita-telematica/costi-ecampus-convenzioni/",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Standard €3,900, convention €2,600, innovative €5,900. Conventions: ACI, military, unions (5-30% off or €200-€2,000 savings). Masters €600-€16,950."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"ecampus",
+    "scholarship_name":"Convention Discounts",
+    "description":"Various discounts through partner conventions",
+    "eligibility":"Membership in partner organizations",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.uniecampus.it",
+    "source_url":"https://www.uniecampus.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"5-30% discounts via ACI, military, unions, sports associations, etc."
+  }],
+  "opportunities": []
+}

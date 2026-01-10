@@ -1,0 +1,90 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unipr",
+    "name": "Università degli Studi di Parma",
+    "official_url": "https://www.unipr.it",
+    "country": "Italy",
+    "city": "Parma",
+    "campuses": [{"city": "Parma", "address": "", "notes": "Main campus with 9 departments"}],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Parma"},
+    "source_url": "https://www.unipr.it",
+    "last_checked": "2026-01-04",
+    "confidence": 1.0,
+    "notes": "105 degree programs: 49 lauree triennali, 49 lauree magistrali, 7 ciclo unico. 33,000 students. 5 new programs for 2025-26 (3 in English). Nine academic departments."
+  },
+  "programs": [
+    {"type":"program","university_id":"unipr","degree_level":"master","program_name":"Global Studies for Sustainable Local and International Development and Cooperation","class_code":"LM","language":["English"],"campus_city":"Parma","duration_years":2,"ects_total":120,"department":"Dipartimento di Discipline Umanistiche, Sociali e delle Imprese Culturali","source_url":"https://www.unipr.it","last_checked":"2026-01-04","confidence":0.9,"notes":"NEW 2025/26 - Blended format. International cooperation focus."},
+    {"type":"program","university_id":"unipr","degree_level":"master","program_name":"Storia, Critica e Linguaggi delle Arti e dello Spettacolo","class_code":"LM","language":["Italian"],"campus_city":"Parma","duration_years":2,"ects_total":120,"department":"Humanities","source_url":"https://www.unipr.it","last_checked":"2026-01-04","confidence":0.9,"notes":"NEW 2025/26 - Art and entertainment leadership roles."},
+    {"type":"program","university_id":"unipr","degree_level":"master","program_name":"Innovazione Organizzativa, Digitale e Amministrativa della P.A.","class_code":"LM","language":["Italian"],"campus_city":"Parma","duration_years":2,"ects_total":120,"department":"","source_url":"https://www.unipr.it","last_checked":"2026-01-04","confidence":0.9,"notes":"NEW 2025/26 - Distance learning format. Public administration leadership."},
+    {"type":"program","university_id":"unipr","degree_level":"master","program_name":"Advanced Molecular Sciences for Health Products","class_code":"LM","language":["English"],"campus_city":"Parma","duration_years":2,"ects_total":120,"department":"","source_url":"https://www.unipr.it","last_checked":"2026-01-04","confidence":0.9,"notes":"NEW 2025/26 - Blended format. Health product design and evaluation."},
+    {"type":"program","university_id":"unipr","degree_level":"bachelor","program_name":"Studi Filosofici - Filosofia","class_code":"L","language":["Italian"],"campus_city":"Parma","duration_years":3,"ects_total":180,"department":"","source_url":"https://www.unipr.it","last_checked":"2026-01-04","confidence":0.9,"notes":"Restructured 2025/26 with two curricula: FILOSOFIA and FILOSOFIA E SCIENZE UMANE"},
+    {"type":"program","university_id":"unipr","degree_level":"bachelor","program_name":"New Bachelor in English","class_code":"L","language":["English"],"campus_city":"Parma","duration_years":3,"ects_total":180,"department":"","source_url":"https://www.unipr.it","last_checked":"2026-01-04","confidence":0.7,"notes":"NEW 2025/26 - First fully English-taught bachelor program"}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"unipr",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"fall",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":""
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://corsi.unipr.it",
+    "source_url":"https://www.unipr.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Course selection portal: corsi.unipr.it. ISEE communication deadline: Nov 4, 2025 at 17:00."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"unipr",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"ISEE ≤ 27000","amount_min":156,"amount_max":156,"currency":"EUR","period":"year","notes":"No Tax Area - only regional tax + bollo"},
+      {"student_group":"ISEE 27001-70000","amount_min":156,"amount_max":null,"currency":"EUR","period":"year","notes":"Graduated contribution based on ISEE, merit, seniority, discipline"},
+      {"student_group":"ISEE > 70000 or no ISEE","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Maximum absolute contribution for their area"},
+      {"student_group":"Disability L.104 or ≥66%","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"},
+      {"student_group":"Children of disability pension recipients (ISEE ≤27000)","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"},
+      {"student_group":"Children of victims of duty (L.266/2005, ISEE ≤27000)","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"},
+      {"student_group":"Military/police athletes","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption if enrolled within 1 year beyond normal duration"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Tassa regionale","amount":140,"currency":"EUR","notes":"Regional tax"},
+      {"fee_name":"Bollo virtuale","amount":16,"currency":"EUR","notes":"Virtual stamp duty"}
+    ],
+    "payment_schedule_notes":"First rate €156 at enrollment. Second rate (50% contribution) by Nov 18, 2025. Third rate (50% contribution) by Apr 30, 2026. No late fees, but immediate career block for late payment.",
+    "source_url":"https://www.unipr.it/importi-di-tasse-e-contributi",
+    "last_checked":"2026-01-04",
+    "confidence":0.95,
+    "notes":"Contribution formula considers: ISEE value, CFU earned (merit), enrollment seniority (increases after 1 year beyond normal duration), discipline area. No tax area at €27,000 higher than MUR minimum. Abolished: late fees, conditional enrollment."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"unipr",
+    "scholarship_name":"ER.GO Regional Scholarship",
+    "description":"Regional scholarship for students with low ISEE",
+    "eligibility":"ISEE within threshold + merit requirements",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"2025-11-04",
+    "how_to_apply_url":"https://www.er-go.it",
+    "source_url":"https://www.er-go.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Application open July 3 - Nov 4, 2025 (5pm) on ER.GO website"
+  }],
+  "opportunities": []
+}

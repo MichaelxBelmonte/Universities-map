@@ -1,0 +1,94 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "uer",
+    "name": "Università Europea di Roma",
+    "official_url": "https://www.uer.it",
+    "country": "Italy",
+    "city": "Rome",
+    "campuses": [
+      {"city": "Rome", "address": "", "notes": "Main campus"}
+    ],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "source_url": "https://www.uer.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "Private Catholic university with Medicine program. Strong merit scholarships for diploma scores. DiscoLazio scholarships available."
+  },
+  "programs": [
+    {"type":"program","university_id":"uer","degree_level":"bachelor","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Rome","duration_years":6,"ects_total":360,"source_url":"https://www.uer.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. New from 2024/25."},
+    {"type":"program","university_id":"uer","degree_level":"bachelor","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"source_url":"https://www.uer.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico."},
+    {"type":"program","university_id":"uer","degree_level":"bachelor","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"source_url":"https://www.uer.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Abilitante all'insegnamento."},
+    {"type":"program","university_id":"uer","degree_level":"bachelor","program_name":"Economia e Gestione Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.uer.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"uer","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.uer.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"uer","degree_level":"bachelor","program_name":"Turismo e Valorizzazione del Territorio","class_code":"L-15","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.uer.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"uer","degree_level":"master","program_name":"Economia e Management dell'Innovazione","class_code":"LM-77","language":["Italian","English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uer.it","last_checked":"2026-01-10","confidence":0.85,"notes":"1 year in English."},
+    {"type":"program","university_id":"uer","degree_level":"master","program_name":"Psicologia","class_code":"LM-51","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uer.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Access to Esame di Stato and Albo Psicologi."}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"uer",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"A.A. 2025/2026",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"Medicine has separate bando"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.uer.it/immatricolazione-e-tasse/",
+    "source_url":"https://www.uer.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Medicine has entrance exam with separate bando. Other programs have standard enrollment."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"uer",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Bachelor (standard)","amount_min":3300,"amount_max":6400,"currency":"EUR","period":"year","notes":"Varies by program"},
+      {"student_group":"Master's (standard)","amount_min":4800,"amount_max":6700,"currency":"EUR","period":"year","notes":""},
+      {"student_group":"Economia/Psicologia/Giurisprudenza","amount_min":6900,"amount_max":6900,"currency":"EUR","period":"year","notes":""},
+      {"student_group":"Formazione Primaria/Turismo","amount_min":3600,"amount_max":3600,"currency":"EUR","period":"year","notes":""},
+      {"student_group":"Medicine enrollment fee","amount_min":4000,"amount_max":4000,"currency":"EUR","period":"year","notes":"Plus rates"},
+      {"student_group":"Medicine Year 1","amount_min":4000,"amount_max":4000,"currency":"EUR","period":"year","notes":"Enrollment + first rate €3,500"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"Via DiscoLazio pagoPA"},
+      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":"One-time"}
+    ],
+    "payment_schedule_notes":"4 rates. IV rate by May 8, 2026. Medicine has specific bando deadlines.",
+    "source_url":"https://www.uer.it/tasse-universitarie/",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"€3,300-€6,900 depending on program. Merit reductions: 100% for 100/100 diploma, 20% for ≥80/100, 10% for all. Master's 20% off for timely graduates."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"uer",
+    "scholarship_name":"Merit Reductions",
+    "description":"Tuition reductions based on maturità score",
+    "eligibility":"Diploma score thresholds",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.uer.it/immatricolazione-e-tasse/",
+    "source_url":"https://www.uer.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"100% off for 100/100 maturità. 20% for ≥80/100. 10% for all pre-enrolled. DiscoLazio scholarships exempt from all fees."
+  }],
+  "opportunities": []
+}

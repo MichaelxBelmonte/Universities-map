@@ -1,0 +1,101 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unisob",
+    "name": "Università degli Studi Suor Orsola Benincasa",
+    "official_url": "https://www.unisob.na.it",
+    "country": "Italy",
+    "city": "Naples",
+    "campuses": [
+      {"city": "Naples", "address": "", "notes": "Main campus"}
+    ],
+    "languages_offered": ["Italian"],
+    "contacts": {"email": "", "phone": "", "address": "Naples"},
+    "source_url": "https://www.unisob.na.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "Private university in Naples. ISEE-based third rate system. Strong in humanities, education, and law."
+  },
+  "programs": [
+    {"type":"program","university_id":"unisob","degree_level":"bachelor","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Naples","duration_years":5,"ects_total":300,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico."},
+    {"type":"program","university_id":"unisob","degree_level":"bachelor","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Naples","duration_years":5,"ects_total":300,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Abilitante."},
+    {"type":"program","university_id":"unisob","degree_level":"bachelor","program_name":"Conservazione e Restauro dei Beni Culturali","class_code":"LMR/02","language":["Italian"],"campus_city":"Naples","duration_years":5,"ects_total":300,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico."},
+    {"type":"program","university_id":"unisob","degree_level":"bachelor","program_name":"Economia Aziendale e Green Economy","class_code":"L-18","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unisob","degree_level":"bachelor","program_name":"Lingue e Culture Moderne","class_code":"L-11","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unisob","degree_level":"bachelor","program_name":"Scienze dei Beni Culturali: Turismo, Arte, Archeologia","class_code":"L-1","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unisob","degree_level":"bachelor","program_name":"Scienze del Servizio Sociale","class_code":"L-39","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Diritti e inclusione."},
+    {"type":"program","university_id":"unisob","degree_level":"bachelor","program_name":"Scienze della Comunicazione","class_code":"L-20","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unisob","degree_level":"bachelor","program_name":"Scienze dell'Educazione","class_code":"L-19","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unisob","degree_level":"bachelor","program_name":"Scienze e Tecniche di Psicologia Cognitiva","class_code":"L-24","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"unisob","degree_level":"master","program_name":"Comunicazione Pubblica e d'Impresa","class_code":"LM-59","language":["Italian"],"campus_city":"Naples","duration_years":2,"ects_total":120,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unisob","degree_level":"master","program_name":"Consulenza Pedagogica","class_code":"LM-85","language":["Italian"],"campus_city":"Naples","duration_years":2,"ects_total":120,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unisob","degree_level":"master","program_name":"Digital Humanities","class_code":"LM-43","language":["Italian"],"campus_city":"Naples","duration_years":2,"ects_total":120,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Beni culturali e materie letterarie."},
+    {"type":"program","university_id":"unisob","degree_level":"master","program_name":"Economia, Management e Sostenibilità","class_code":"LM-77","language":["Italian"],"campus_city":"Naples","duration_years":2,"ects_total":120,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unisob","degree_level":"master","program_name":"Lingue Moderne per la Comunicazione e la Cooperazione Internazionale","class_code":"LM-38","language":["Italian"],"campus_city":"Naples","duration_years":2,"ects_total":120,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unisob","degree_level":"master","program_name":"Psicologia","class_code":"LM-51","language":["Italian"],"campus_city":"Naples","duration_years":2,"ects_total":120,"source_url":"https://www.unisob.na.it","last_checked":"2026-01-10","confidence":0.85,"notes":""}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"unisob",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"A.A. 2025/2026",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"Various programs have different deadlines"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unisob.na.it",
+    "source_url":"https://www.unisob.na.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Mix of open access and limited enrollment programs."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"unisob",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Giurisprudenza (enrollment contrib.)","amount_min":550,"amount_max":550,"currency":"EUR","period":"year","notes":"Administrative contribution"},
+      {"student_group":"Scienze della formazione primaria (enrollment contrib.)","amount_min":700,"amount_max":700,"currency":"EUR","period":"year","notes":"Administrative contribution"},
+      {"student_group":"Scienze della comunicazione (enrollment contrib.)","amount_min":600,"amount_max":600,"currency":"EUR","period":"year","notes":"Administrative contribution"},
+      {"student_group":"Economia aziendale e Green Economy (enrollment contrib.)","amount_min":500,"amount_max":500,"currency":"EUR","period":"year","notes":"Administrative contribution"},
+      {"student_group":"Total fees (varies by ISEE)","amount_min":2000,"amount_max":5000,"currency":"EUR","period":"year","notes":"3 rates, third varies by ISEE"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Regional tax (max)","amount":167.50,"currency":"EUR","notes":"If no ISEE declared"},
+      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":"One-time"}
+    ],
+    "payment_schedule_notes":"3 rates. Third rate varies by ISEE and can be split into 5 monthly installments if >€300. II rate: Jan 30, III rate: Mar 31.",
+    "source_url":"https://www.unisob.na.it/universita/normeamministrative/3000c2_n.htm",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"ISEE-based system. First two rates fixed by program, third varies. 20% reduction for final-year students with 1 exam left."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"unisob",
+    "scholarship_name":"ISEE-based Reductions",
+    "description":"Third rate varies by ISEE bracket",
+    "eligibility":"Based on ISEE declaration",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.unisob.na.it/universita/normeamministrative/fasce.htm",
+    "source_url":"https://www.unisob.na.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"ISEE-based third rate. Final year students with 1 exam left get 20% reduction."
+  }],
+  "opportunities": []
+}

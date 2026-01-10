@@ -1,0 +1,98 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "unipv",
+    "name": "Università degli Studi di Pavia",
+    "official_url": "https://portale.unipv.it",
+    "country": "Italy",
+    "city": "Pavia",
+    "campuses": [{"city": "Pavia", "address": "", "notes": "Historic campus, founded 1361"}],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Pavia"},
+    "source_url": "https://portale.unipv.it",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "One of the oldest universities in the world. 9 disciplinary areas: Economics, Pharmacy, Law, Engineering, Letters/Philosophy/Languages, Medicine/Sports Sciences/Psychology, Musicology/Cultural Heritage, Mathematical-Physical-Natural Sciences, Political Sciences/Communication."
+  },
+  "programs": [
+    {"type":"program","university_id":"unipv","degree_level":"bachelor","program_name":"Economia e Gestione Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Pavia","duration_years":3,"ects_total":180,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unipv","degree_level":"bachelor","program_name":"Economia","class_code":"L-33","language":["Italian"],"campus_city":"Pavia","duration_years":3,"ects_total":180,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unipv","degree_level":"bachelor","program_name":"Ingegneria Civile e Ambientale","class_code":"L-7","language":["Italian"],"campus_city":"Pavia","duration_years":3,"ects_total":180,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unipv","degree_level":"bachelor","program_name":"Ingegneria Elettronica e Informatica","class_code":"L-8","language":["Italian"],"campus_city":"Pavia","duration_years":3,"ects_total":180,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unipv","degree_level":"bachelor","program_name":"Ingegneria Industriale","class_code":"L-9","language":["Italian"],"campus_city":"Pavia","duration_years":3,"ects_total":180,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unipv","degree_level":"bachelor","program_name":"Lettere","class_code":"L-10","language":["Italian"],"campus_city":"Pavia","duration_years":3,"ects_total":180,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unipv","degree_level":"bachelor","program_name":"Lingue e Culture Moderne","class_code":"L-11","language":["Italian"],"campus_city":"Pavia","duration_years":3,"ects_total":180,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unipv","degree_level":"bachelor","program_name":"Filosofia","class_code":"L-5","language":["Italian"],"campus_city":"Pavia","duration_years":3,"ects_total":180,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unipv","degree_level":"bachelor","program_name":"Scienze Politiche e delle Relazioni Internazionali","class_code":"L-36","language":["Italian"],"campus_city":"Pavia","duration_years":3,"ects_total":180,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unipv","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Pavia","duration_years":3,"ects_total":180,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unipv","degree_level":"bachelor","program_name":"Fisica","class_code":"L-30","language":["Italian"],"campus_city":"Pavia","duration_years":3,"ects_total":180,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unipv","degree_level":"bachelor","program_name":"Matematica","class_code":"L-35","language":["Italian"],"campus_city":"Pavia","duration_years":3,"ects_total":180,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unipv","degree_level":"bachelor","program_name":"Musicologia","class_code":"L-3","language":["Italian"],"campus_city":"Cremona","duration_years":3,"ects_total":180,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Campus Cremona"},
+    {"type":"program","university_id":"unipv","degree_level":"bachelor","program_name":"Scienze Letterarie e dei Beni Culturali","class_code":"L-1","language":["Italian"],"campus_city":"Cremona","duration_years":3,"ects_total":180,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Campus Cremona"},
+    {"type":"program","university_id":"unipv","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Pavia","duration_years":3,"ects_total":180,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
+    {"type":"program","university_id":"unipv","degree_level":"master","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Pavia","duration_years":5,"ects_total":300,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
+    {"type":"program","university_id":"unipv","degree_level":"master","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Pavia","duration_years":6,"ects_total":360,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
+    {"type":"program","university_id":"unipv","degree_level":"master","program_name":"Odontoiatria e Protesi Dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Pavia","duration_years":6,"ects_total":360,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
+    {"type":"program","university_id":"unipv","degree_level":"master","program_name":"Farmacia","class_code":"LM-13","language":["Italian"],"campus_city":"Pavia","duration_years":5,"ects_total":300,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
+    {"type":"program","university_id":"unipv","degree_level":"master","program_name":"Conservazione e Restauro dei Beni Culturali","class_code":"LMR/02","language":["Italian"],"campus_city":"Cremona","duration_years":5,"ects_total":300,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Campus Cremona"},
+    {"type":"program","university_id":"unipv","degree_level":"master","program_name":"Social Sciences and Global Challenges","class_code":"LM-90","language":["English"],"campus_city":"Pavia","duration_years":2,"ects_total":120,"source_url":"https://portale.unipv.it","last_checked":"2026-01-10","confidence":0.85,"notes":"English-taught, deadline Oct 2"}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"unipv",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"fall",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":""
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://portale.unipv.it/didattica/corsi-di-laurea/offerta-formativa",
+    "source_url":"https://portale.unipv.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Founded 1361. Strong collegial system with historic colleges."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"unipv",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"ISEE ≤ no tax area threshold","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"No Tax Area exemption"},
+      {"student_group":"ISEE above threshold","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Progressive based on ISEE"},
+      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
+    ],
+    "additional_fees":[],
+    "payment_schedule_notes":"",
+    "source_url":"https://portale.unipv.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.7,
+    "notes":"Check DSU Lombardia for regional scholarship and fee details."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"unipv",
+    "scholarship_name":"DSU Lombardia Regional Scholarship",
+    "description":"Regional scholarship for students with low ISEE",
+    "eligibility":"ISEE threshold + merit requirements",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"",
+    "source_url":"https://portale.unipv.it",
+    "last_checked":"2026-01-04",
+    "confidence":0.8,
+    "notes":"Collegio system offers additional housing and scholarship opportunities."
+  }],
+  "opportunities": []
+}

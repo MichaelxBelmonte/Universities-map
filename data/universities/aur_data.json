@@ -1,0 +1,96 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "aur",
+    "name": "The American University of Rome",
+    "official_url": "https://aur.edu",
+    "country": "Italy",
+    "city": "Rome",
+    "campuses": [
+      {"city": "Rome", "address": "", "notes": "American university campus"}
+    ],
+    "languages_offered": ["English"],
+    "contacts": {"email": "finance@aur.edu", "phone": "", "address": "Rome"},
+    "source_url": "https://aur.edu",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "American university in Rome. US/Canadian citizens pay in USD, others in EUR. Liberal arts focus with graduate programs."
+  },
+  "programs": [
+    {"type":"program","university_id":"aur","degree_level":"bachelor","program_name":"International Business","class_code":"BA","language":["English"],"campus_city":"Rome","duration_years":4,"ects_total":240,"source_url":"https://aur.edu","last_checked":"2026-01-10","confidence":0.9,"notes":"American 4-year BA. Middle States accredited."},
+    {"type":"program","university_id":"aur","degree_level":"bachelor","program_name":"International Relations and Global Politics","class_code":"BA","language":["English"],"campus_city":"Rome","duration_years":4,"ects_total":240,"source_url":"https://aur.edu","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"aur","degree_level":"bachelor","program_name":"Communication","class_code":"BA","language":["English"],"campus_city":"Rome","duration_years":4,"ects_total":240,"source_url":"https://aur.edu","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"aur","degree_level":"bachelor","program_name":"Fine Arts","class_code":"BA","language":["English"],"campus_city":"Rome","duration_years":4,"ects_total":240,"source_url":"https://aur.edu","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"aur","degree_level":"bachelor","program_name":"Film and Digital Media","class_code":"BA","language":["English"],"campus_city":"Rome","duration_years":4,"ects_total":240,"source_url":"https://aur.edu","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"aur","degree_level":"bachelor","program_name":"Art History","class_code":"BA","language":["English"],"campus_city":"Rome","duration_years":4,"ects_total":240,"source_url":"https://aur.edu","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"aur","degree_level":"bachelor","program_name":"Archaeology and Classics","class_code":"BA","language":["English"],"campus_city":"Rome","duration_years":4,"ects_total":240,"source_url":"https://aur.edu","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"aur","degree_level":"bachelor","program_name":"English Writing, Literature, and Publishing","class_code":"BA","language":["English"],"campus_city":"Rome","duration_years":4,"ects_total":240,"source_url":"https://aur.edu","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"aur","degree_level":"bachelor","program_name":"Religious Studies","class_code":"BA","language":["English"],"campus_city":"Rome","duration_years":4,"ects_total":240,"source_url":"https://aur.edu","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"aur","degree_level":"bachelor","program_name":"Psychology","class_code":"BA","language":["English"],"campus_city":"Rome","duration_years":4,"ects_total":240,"source_url":"https://aur.edu","last_checked":"2026-01-10","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"aur","degree_level":"master","program_name":"Peace Studies","class_code":"MA","language":["English"],"campus_city":"Rome","duration_years":1.25,"ects_total":90,"source_url":"https://aur.edu","last_checked":"2026-01-10","confidence":0.9,"notes":"15-month program. 3 semesters."},
+    {"type":"program","university_id":"aur","degree_level":"master","program_name":"Sustainable Cultural Heritage","class_code":"MA","language":["English"],"campus_city":"Rome","duration_years":1.25,"ects_total":90,"source_url":"https://aur.edu","last_checked":"2026-01-10","confidence":0.9,"notes":"15-month program."},
+    {"type":"program","university_id":"aur","degree_level":"master","program_name":"Food Studies","class_code":"MA","language":["English"],"campus_city":"Rome","duration_years":1.25,"ects_total":90,"source_url":"https://aur.edu","last_checked":"2026-01-10","confidence":0.9,"notes":"15-month program."}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"aur",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"international",
+    "requirements":{
+      "academic_requirements":"High school diploma, English proficiency",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"Fall 2025 / Spring 2026",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"€500/$500 enrollment deposit"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://aur.edu",
+    "source_url":"https://aur.edu",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"American-style admissions. Rolling basis."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"aur",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Undergraduate (EUR)","amount_min":19500,"amount_max":20530,"currency":"EUR","period":"year","notes":"Full-time estimated cost"},
+      {"student_group":"Undergraduate (USD)","amount_min":26780,"amount_max":26780,"currency":"USD","period":"year","notes":"Full-time estimated cost"},
+      {"student_group":"Graduate MA (3 semesters total)","amount_min":27400,"amount_max":27400,"currency":"USD","period":"program","notes":"Full program tuition"},
+      {"student_group":"Graduate annual (USD)","amount_min":24400,"amount_max":25530,"currency":"USD","period":"year","notes":"Estimated cost"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Enrollment deposit","amount":500,"currency":"EUR","notes":"Refundable under conditions"}
+    ],
+    "payment_schedule_notes":"Payment by semester. Currency locked at first payment. Mastercard, Visa, Amex accepted.",
+    "source_url":"https://aur.edu/undergraduate-tuition-and-fees",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"€19,500-€20,530/year EUR or ~$26,780/year USD. US/Canada citizens must pay in USD."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"aur",
+    "scholarship_name":"AUR Scholarships",
+    "description":"Merit and need-based financial aid",
+    "eligibility":"Academic merit, financial need",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://aur.edu",
+    "source_url":"https://aur.edu",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Various scholarships available. Contact finance@aur.edu for details."
+  }],
+  "opportunities": []
+}

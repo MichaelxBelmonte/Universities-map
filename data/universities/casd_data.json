@@ -1,0 +1,89 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "casd",
+    "name": "Centro Alti Studi per la Difesa (CASD) - Scuola Superiore Universitaria",
+    "official_url": "https://www.unicasd.it",
+    "country": "Italy",
+    "city": "Rome",
+    "campuses": [
+      {"city": "Rome", "address": "Piazza della Rovere 83, Palazzo Salviati", "notes": "Main campus"}
+    ],
+    "languages_offered": ["Italian"],
+    "contacts": {"email": "", "phone": "", "address": "Piazza della Rovere 83, Rome"},
+    "source_url": "https://www.unicasd.it",
+    "last_checked": "2026-01-05",
+    "confidence": 0.9,
+    "notes": "Military university of the Ministry of Defence. Ordinamento speciale. Offers PhD, Masters, and advanced courses in Defence and Security Sciences. Open to military and civilian students."
+  },
+  "programs": [
+    {"type":"program","university_id":"casd","degree_level":"phd","program_name":"Dottorato in Scienze della Difesa e della Sicurezza","class_code":"PhD","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":0,"source_url":"https://www.unicasd.it","last_checked":"2026-01-10","confidence":0.9,"notes":"XLI ciclo 2025/26. Defence and security sciences. Free for selected candidates."},
+    {"type":"program","university_id":"casd","degree_level":"master","program_name":"Master in Studi Internazionali Strategico-Militari (SISM)","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":1,"ects_total":60,"source_url":"https://www.mastersism.it","last_checked":"2026-01-10","confidence":0.9,"notes":"II livello. Sept 2024 - June 2025."},
+    {"type":"program","university_id":"casd","degree_level":"master","program_name":"Master in Leadership e Soft Skills","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":1,"ects_total":60,"source_url":"https://www.unicasd.it","last_checked":"2026-01-10","confidence":0.9,"notes":"II livello. 1st edition."},
+    {"type":"program","university_id":"casd","degree_level":"master","program_name":"Master in Leadership, Change Management & Digital Innovation - DAOSAN","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":1,"ects_total":60,"source_url":"https://www.unicasd.it","last_checked":"2026-01-10","confidence":0.9,"notes":"II livello. Partnership with Università di Salerno."},
+    {"type":"program","university_id":"casd","degree_level":"master","program_name":"Corso di Alta Formazione in Strategie di Difesa e Resilienza","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":0.5,"ects_total":30,"source_url":"https://www.unicasd.it","last_checked":"2026-01-10","confidence":0.85,"notes":"For complex organizations and state entities."},
+    {"type":"program","university_id":"casd","degree_level":"master","program_name":"Corso di Alta Formazione in Wargaming Professionale","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":0.5,"ects_total":30,"source_url":"https://www.unicasd.it","last_checked":"2026-01-10","confidence":0.85,"notes":"1st edition. Theory, design and conduct of professional wargaming."}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"casd",
+    "program_name":"",
+    "degree_level_scope":"postgraduate",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Laurea magistrale/specialistica for most programs",
+      "documents_required":["Degree certificate"],
+      "tests_required":["Selection procedure varies by program"],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"A.A. 2025/2026",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"Multiple bandi: DIUDOM, COCIM, SISM, IASD, Dottorato"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.unicasd.it",
+    "source_url":"https://www.difesa.it/smd/casd/",
+    "last_checked":"2026-01-05",
+    "confidence":0.9,
+    "notes":"Postgraduate institution. PhD in Defence and Security Sciences, Masters, and advanced courses. Open to military personnel and civilians."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"casd",
+    "program_name":"",
+    "degree_level_scope":"postgraduate",
+    "tuition":[
+      {"student_group":"Master programs (e.g., SISM)","amount_min":2000,"amount_max":2000,"currency":"EUR","period":"program","notes":"Annual master programs"},
+      {"student_group":"PhD (Dottorato)","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Free for selected candidates"},
+      {"student_group":"Advanced courses","amount_min":500,"amount_max":1500,"currency":"EUR","period":"course","notes":"Varies by course"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":""},
+      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":""}
+    ],
+    "payment_schedule_notes":"Installment plans available for Masters.",
+    "source_url":"https://www.unicasd.it",
+    "last_checked":"2026-01-05",
+    "confidence":0.9,
+    "notes":"Masters ~€2,000. PhD positions typically funded. Scholarships available (up to €500 per student for some programs)."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"casd",
+    "scholarship_name":"CASD Scholarships",
+    "description":"Fee reductions for master students",
+    "eligibility":"Merit-based selection",
+    "amount":{"min":500,"max":500,"currency":"EUR","period":"program"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.unicasd.it",
+    "source_url":"https://www.unicasd.it",
+    "last_checked":"2026-01-05",
+    "confidence":0.9,
+    "notes":"Up to 4 scholarships of €500 available on second installment for some Masters."
+  }],
+  "opportunities": []
+}

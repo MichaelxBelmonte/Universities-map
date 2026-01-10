@@ -1,0 +1,113 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "luiss",
+    "name": "LUISS Guido Carli",
+    "official_url": "https://www.luiss.it",
+    "country": "Italy",
+    "city": "Rome",
+    "campuses": [{"city": "Rome - Viale Romania", "address": "Viale Romania", "notes": "Main campus, Master's programs"}, {"city": "Rome - Via Parenzo", "address": "Via Parenzo", "notes": "Law and Global Law"}, {"city": "Rome - Viale Pola", "address": "Viale Pola", "notes": "Law programs"}],
+    "languages_offered": ["Italian", "English"],
+    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "source_url": "https://www.luiss.it",
+    "last_checked": "2026-01-05",
+    "confidence": 0.95,
+    "notes": "Elite private university. 4 departments: Business, Economics, Political Science, Law. Fixed fees (not ISEE-based) but scholarships available."
+  },
+  "programs": [
+    {"type":"program","university_id":"luiss","degree_level":"bachelor","program_name":"Economia e Management","class_code":"L-18","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Department of Business and Management"},
+    {"type":"program","university_id":"luiss","degree_level":"bachelor","program_name":"Management and Computer Science","class_code":"L-18","language":["English"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
+    {"type":"program","university_id":"luiss","degree_level":"bachelor","program_name":"Economics and Business","class_code":"L-33","language":["English"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Department of Economics and Finance"},
+    {"type":"program","university_id":"luiss","degree_level":"bachelor","program_name":"Scienze Politiche","class_code":"L-36","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Department of Political Science"},
+    {"type":"program","university_id":"luiss","degree_level":"bachelor","program_name":"Politics, Philosophy and Economics","class_code":"L-36","language":["English"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught PPE program"},
+    {"type":"program","university_id":"luiss","degree_level":"ciclo_unico","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":"LUISS School of Law"},
+    {"type":"program","university_id":"luiss","degree_level":"ciclo_unico","program_name":"Global Law and Transnational Legal Studies","class_code":"LMG/01","language":["English"],"campus_city":"Rome","duration_years":5,"ects_total":300,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught law degree"},
+    {"type":"program","university_id":"luiss","degree_level":"master","program_name":"Consulenza Aziendale","class_code":"LM-77","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"luiss","degree_level":"master","program_name":"Economia e Direzione delle Imprese","class_code":"LM-77","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"luiss","degree_level":"master","program_name":"Economia e Finanza","class_code":"LM-56","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"luiss","degree_level":"master","program_name":"Economia, Regole e Mercati (Law and Economics)","class_code":"LM-56","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"luiss","degree_level":"master","program_name":"Corporate Finance","class_code":"LM-77","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"luiss","degree_level":"master","program_name":"Marketing","class_code":"LM-77","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"luiss","degree_level":"master","program_name":"Management","class_code":"LM-77","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"luiss","degree_level":"master","program_name":"Digital Transformation Management","class_code":"LM-77","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"luiss","degree_level":"master","program_name":"Data Science and Management","class_code":"LM-91","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"luiss","degree_level":"master","program_name":"European Studies","class_code":"LM-52","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"luiss","degree_level":"master","program_name":"International Relations","class_code":"LM-52","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"luiss","degree_level":"master","program_name":"Government and Policies","class_code":"LM-62","language":["Italian","English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
+    {"type":"program","university_id":"luiss","degree_level":"master","program_name":"Law, Digital Innovation and Sustainability","class_code":"LM-90","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":"LUISS School of Law"},
+    {"type":"program","university_id":"luiss","degree_level":"master","program_name":"Comparative, European and Transnational Law","class_code":"LM-90","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.luiss.it","last_checked":"2026-01-05","confidence":0.9,"notes":"LUISS School of Law"}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"luiss",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[{"test_name":"LUISS Test","min_score":"","notes":"70 questions in 90 minutes: 70% psycho-aptitude, 30% subject-specific"}],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"fall",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"September"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.luiss.it/ammissione",
+    "source_url":"https://www.luiss.it",
+    "last_checked":"2026-01-05",
+    "confidence":0.95,
+    "notes":"Selective admission test. Preparation courses available."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"luiss",
+    "program_name":"",
+    "degree_level_scope":"bachelor",
+    "tuition":[
+      {"student_group":"Bachelor/Law (fixed fee)","amount_min":11600,"amount_max":12600,"currency":"EUR","period":"year","notes":"€11,600-12,300 for Economics/Business/Political Science, €12,600 for Law"},
+      {"student_group":"Master's (fixed fee)","amount_min":13000,"amount_max":13300,"currency":"EUR","period":"year","notes":"Varies by program"}
+    ],
+    "additional_fees":[
+      {"fee_name":"Regional DSU tax (DiSCo Lazio)","amount":140,"currency":"EUR","notes":""}
+    ],
+    "payment_schedule_notes":"3 installments: 1st at enrollment, 2nd by Nov 25, 3rd by Feb 24. Fixed fee not based on ISEE.",
+    "source_url":"https://www.luiss.it/studenti/agevolazioni-economiche/esoneri-e-borse-di-studio/aa-2025-2026",
+    "last_checked":"2026-01-05",
+    "confidence":0.95,
+    "notes":"Fixed fee €11,600-12,600/year (Bachelor/Law), €13,000-€13,300 (Master's). Not ISEE-based but scholarships available. Residence €7,500-€10,000/year (50% reduction for low ISEE)."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"luiss",
+    "scholarship_name":"LUISS Merit & Need Scholarship",
+    "description":"Full or partial scholarships for meritorious students with economic need",
+    "eligibility":"Merit and/or low ISEE",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.luiss.it/studenti/agevolazioni-economiche/esoneri-e-borse-di-studio",
+    "source_url":"https://www.luiss.it",
+    "last_checked":"2026-01-05",
+    "confidence":0.9,
+    "notes":"Various scholarships: ISEE-based, merit-based, international students, athletes, disabled students."
+  },
+  {
+    "type":"scholarships",
+    "university_id":"luiss",
+    "scholarship_name":"DiSCo Lazio Regional Scholarship",
+    "description":"Regional scholarship from Lazio region",
+    "eligibility":"ISEE threshold + merit",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.laziodisco.it",
+    "source_url":"https://www.luiss.it",
+    "last_checked":"2026-01-05",
+    "confidence":0.8,
+    "notes":"Housing and transport contributions available. Available also to private university students."
+  }],
+  "opportunities": []
+}

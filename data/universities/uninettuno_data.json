@@ -1,0 +1,100 @@
+{
+  "university": {
+    "type": "university",
+    "university_id": "uninettuno",
+    "name": "Università Telematica Internazionale UNINETTUNO",
+    "official_url": "https://www.uninettunouniversity.net",
+    "country": "Italy",
+    "city": "Rome",
+  "campuses": [
+      {"city": "Rome", "address": "", "notes": "Headquarters"},
+      {"city": "Online", "address": "", "notes": "International telematic delivery"}
+    ],
+    "languages_offered": ["Italian", "English", "Arabic", "French"],
+    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "source_url": "https://www.uninettunouniversity.net",
+    "last_checked": "2026-01-04",
+    "confidence": 0.9,
+    "notes": "International telematic university. Multiple languages. Year-round enrollment. Partnership with Banca Sella for student loans."
+  },
+  "programs": [
+    {"type":"program","university_id":"uninettuno","degree_level":"bachelor","program_name":"Economia e Gestione delle Imprese","class_code":"L-18","language":["Italian","English","Arabic"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uninettunouniversity.net","last_checked":"2026-01-10","confidence":0.85,"notes":"Multiple languages available."},
+    {"type":"program","university_id":"uninettuno","degree_level":"bachelor","program_name":"Ingegneria Gestionale","class_code":"L-9","language":["Italian","English"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uninettunouniversity.net","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"uninettuno","degree_level":"bachelor","program_name":"Ingegneria Informatica","class_code":"L-8","language":["Italian","English"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uninettunouniversity.net","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"uninettuno","degree_level":"bachelor","program_name":"Conservazione e Valorizzazione dei Beni Culturali","class_code":"L-1","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uninettunouniversity.net","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"uninettuno","degree_level":"bachelor","program_name":"Scienze della Comunicazione","class_code":"L-20","language":["Italian","English"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uninettunouniversity.net","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"uninettuno","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uninettunouniversity.net","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"uninettuno","degree_level":"bachelor","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Online","duration_years":5,"ects_total":300,"source_url":"https://www.uninettunouniversity.net","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Telematic."},
+    {"type":"program","university_id":"uninettuno","degree_level":"master","program_name":"Ingegneria Gestionale","class_code":"LM-31","language":["Italian","English"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.uninettunouniversity.net","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"uninettuno","degree_level":"master","program_name":"Scienze Economiche","class_code":"LM-56","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.uninettunouniversity.net","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
+    {"type":"program","university_id":"uninettuno","degree_level":"master","program_name":"Psicologia del Lavoro e delle Organizzazioni","class_code":"LM-51","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.uninettunouniversity.net","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."}
+  ],
+  "admissions": [{
+    "type":"admissions",
+    "university_id":"uninettuno",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "applicant_scope":"all",
+    "requirements":{
+      "academic_requirements":"Secondary school diploma",
+      "documents_required":[],
+      "tests_required":[],
+      "portfolio_required":false,
+      "interview_required":false
+    },
+    "intakes":[{
+      "intake_name":"rolling",
+      "application_open_date":"",
+      "application_deadline":"",
+      "start_date":"",
+      "notes":"Year-round enrollment without additional costs"
+    }],
+    "application_fee":{"amount":null,"currency":"EUR","notes":""},
+    "how_to_apply_url":"https://www.uninettunouniversity.net/it/iscrizione-studenti.aspx",
+    "source_url":"https://www.uninettunouniversity.net",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Open enrollment year-round. Masters and single courses also available."
+  }],
+  "tuition": [{
+    "type":"tuition",
+    "university_id":"uninettuno",
+    "program_name":"",
+    "degree_level_scope":"general",
+    "tuition":[
+      {"student_group":"Standard courses","amount_min":2000,"amount_max":2200,"currency":"EUR","period":"year","notes":"Varies by program"},
+      {"student_group":"Single payment discount","amount_min":1900,"amount_max":2200,"currency":"EUR","period":"year","notes":"Pay full year upfront"},
+      {"student_group":"Convention rate","amount_min":1900,"amount_max":1900,"currency":"EUR","period":"year","notes":"Via partners"},
+      {"student_group":"Single courses (1 subject)","amount_min":400,"amount_max":400,"currency":"EUR","period":"course","notes":""},
+      {"student_group":"Single courses (2 subjects)","amount_min":750,"amount_max":750,"currency":"EUR","period":"course","notes":""},
+      {"student_group":"Single courses (3 subjects)","amount_min":1000,"amount_max":1000,"currency":"EUR","period":"course","notes":""}
+    ],
+    "additional_fees":[
+      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":""},
+      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":""},
+      {"fee_name":"Graduation fee","amount":250,"currency":"EUR","notes":"One-time"},
+      {"fee_name":"Transfer fee","amount":250,"currency":"EUR","notes":"If transferring out"},
+      {"fee_name":"Study withdrawal fee","amount":300,"currency":"EUR","notes":""}
+    ],
+    "payment_schedule_notes":"2 installments: €1,000 at enrollment, €1,000 later. Or single payment discount.",
+    "source_url":"https://www.uninettunouniversity.net/it/tasse-universitarie.aspx",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"€2,000-€2,200/year standard. Convention €1,900. Single payment may save €100+. Banca Sella/FaiCredit loans available."
+  }],
+  "scholarships": [{
+    "type":"scholarships",
+    "university_id":"uninettuno",
+    "scholarship_name":"Convention Discounts",
+    "description":"Reduced fees through partner conventions",
+    "eligibility":"Partnership membership",
+    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
+    "deadline":"",
+    "how_to_apply_url":"https://www.uninettunouniversity.net/it/accordi-convenzioni-universita.aspx",
+    "source_url":"https://www.uninettunouniversity.net",
+    "last_checked":"2026-01-04",
+    "confidence":0.9,
+    "notes":"Non-cumulative conventions. Financing available via Banca Sella."
+  }],
+  "opportunities": []
+}
