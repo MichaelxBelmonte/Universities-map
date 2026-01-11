@@ -62,35 +62,31 @@ export default function Header({ stats }: HeaderProps) {
           </div>
         </div>
 
-        <div className="flex items-center gap-2 sm:gap-4 flex-shrink-0">
-          {/* Stats badges - hidden on mobile */}
+        <div className="flex items-center gap-3 sm:gap-4 flex-shrink-0">
+          {/* Tech-style stats - hidden on mobile */}
           <div
-            className="hidden md:flex items-center gap-2 lg:gap-3 text-sm animate-fade-in-up"
+            className="hidden md:flex items-center gap-4 lg:gap-6 text-xs font-mono animate-fade-in-up"
             style={{ animationDelay: "100ms" }}
           >
-            <div className="flex items-center gap-1.5 px-2 lg:px-3 py-1.5 rounded-full bg-blue-500/10 border border-blue-500/20">
-              <span className="stat-glow-blue font-semibold text-xs lg:text-sm">
-                {stats.byCategory.statale}
-              </span>
-              <span className="text-white/50 text-xs lg:text-sm hidden lg:inline">{t("statale")}</span>
+            <div className="flex flex-col items-center">
+              <span className="text-blue-400 font-bold text-sm lg:text-base">{stats.byCategory.statale}</span>
+              <span className="text-white/40 text-[10px] uppercase tracking-wider">{t("statale")}</span>
             </div>
-            <div className="hidden lg:flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-purple-500/10 border border-purple-500/20">
-              <span className="stat-glow-purple font-semibold">
-                {stats.byCategory.non_statale}
-              </span>
-              <span className="text-white/50">{t("nonStatale")}</span>
+            <div className="hidden lg:flex flex-col items-center">
+              <span className="text-purple-400 font-bold text-sm lg:text-base">{stats.byCategory.non_statale}</span>
+              <span className="text-white/40 text-[10px] uppercase tracking-wider">{t("nonStatale")}</span>
             </div>
-            <div className="hidden xl:flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-emerald-500/10 border border-emerald-500/20">
-              <span className="stat-glow-green font-semibold">
-                {stats.byCategory.telematica}
-              </span>
-              <span className="text-white/50">{t("telematica")}</span>
+            <div className="hidden lg:flex flex-col items-center">
+              <span className="text-emerald-400 font-bold text-sm lg:text-base">{stats.byCategory.telematica}</span>
+              <span className="text-white/40 text-[10px] uppercase tracking-wider">{t("telematica")}</span>
             </div>
-            <div className="hidden 2xl:flex items-center gap-1.5 px-3 py-1.5 rounded-full bg-amber-500/10 border border-amber-500/20">
-              <span className="stat-glow-amber font-semibold">
-                {stats.byCategory.ordinamento_speciale}
-              </span>
-              <span className="text-white/50">{t("speciale")}</span>
+            <div className="hidden xl:flex flex-col items-center">
+              <span className="text-amber-400 font-bold text-sm lg:text-base">{stats.byCategory.ordinamento_speciale}</span>
+              <span className="text-white/40 text-[10px] uppercase tracking-wider">{t("speciale")}</span>
+            </div>
+            <div className="hidden xl:flex flex-col items-center">
+              <span className="text-gray-400 font-bold text-sm lg:text-base">{stats.byCategory.other}</span>
+              <span className="text-white/40 text-[10px] uppercase tracking-wider">{t("other")}</span>
             </div>
           </div>
 
