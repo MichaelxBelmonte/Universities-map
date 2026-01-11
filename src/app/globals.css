@@ -312,10 +312,7 @@ h1, h2, h3, h4, h5, h6 {
   background: var(--yl-dark) !important;
 }
 
-/* Dark map tiles filter */
-.leaflet-tile-pane {
-  filter: brightness(0.6) contrast(1.2) saturate(0.8) hue-rotate(180deg) invert(1);
-}
+/* Dark map tiles - using CartoDB dark_all, no filter needed */
 
 /* Custom markers */
 .custom-marker {
@@ -399,6 +396,18 @@ h1, h2, h3, h4, h5, h6 {
 .leaflet-popup-content {
   margin: 16px 20px !important;
   color: var(--text-primary) !important;
+  max-width: 280px !important;
+  overflow-wrap: break-word !important;
+  word-wrap: break-word !important;
+}
+
+/* Tech popup specific styles */
+.tech-popup .leaflet-popup-content-wrapper {
+  max-width: 320px !important;
+}
+
+.tech-popup .leaflet-popup-content {
+  max-width: 280px !important;
 }
 
 .leaflet-popup-tip {
@@ -821,4 +830,34 @@ a:active {
   .leaflet-popup-content {
     font-size: 13px !important;
   }
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   FULLSCREEN MAP
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+.map-fullscreen-container {
+  position: relative;
+  background: var(--yl-dark);
+}
+
+.map-fullscreen-container:fullscreen {
+  width: 100vw !important;
+  height: 100vh !important;
+}
+
+.map-fullscreen-container:fullscreen .leaflet-container {
+  width: 100vw !important;
+  height: 100vh !important;
+}
+
+/* Webkit fullscreen */
+.map-fullscreen-container:-webkit-full-screen {
+  width: 100vw !important;
+  height: 100vh !important;
+}
+
+.map-fullscreen-container:-webkit-full-screen .leaflet-container {
+  width: 100vw !important;
+  height: 100vh !important;
 }

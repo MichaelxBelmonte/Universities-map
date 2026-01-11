@@ -1,6 +1,6 @@
 "use client";
 
-import {
+import React, {
   forwardRef,
   useImperativeHandle,
   useRef,
@@ -91,10 +91,12 @@ function MarkerClusterGroup({
     return `
       <div style="
         font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, monospace;
-        min-width: 220px;
+        min-width: 200px;
+        max-width: 280px;
         padding: 4px;
+        box-sizing: border-box;
       ">
-        <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 8px;">
+        <div style="display: flex; align-items: flex-start; gap: 8px; margin-bottom: 8px;">
           <div style="
             width: 8px;
             height: 8px;
@@ -102,6 +104,7 @@ function MarkerClusterGroup({
             border-radius: 50%;
             box-shadow: 0 0 8px ${config.glow};
             flex-shrink: 0;
+            margin-top: 4px;
           "></div>
           <h3 style="
             font-weight: 600;
@@ -109,6 +112,9 @@ function MarkerClusterGroup({
             margin: 0;
             color: rgba(255,255,255,0.95);
             line-height: 1.3;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
+            hyphens: auto;
           ">${uni.name}</h3>
         </div>
 
@@ -117,6 +123,8 @@ function MarkerClusterGroup({
             font-size: 11px;
             color: rgba(255,255,255,0.4);
             margin: 0 0 8px 16px;
+            word-wrap: break-word;
+            overflow-wrap: break-word;
           ">${uni.campusName}</p>
         ` : ''}
 
@@ -126,6 +134,7 @@ function MarkerClusterGroup({
           gap: 8px;
           margin-left: 16px;
           margin-bottom: 12px;
+          flex-wrap: wrap;
         ">
           <span style="
             font-size: 10px;
@@ -297,10 +306,52 @@ function MarkerClusterGroup({
 function MapControls({ language }: { language: Language }) {
   const map = useMap();
   const resetViewText = translations[language].resetView;
+  const [isFullscreen, setIsFullscreen] = React.useState(false);
+
+  const toggleFullscreen = () => {
+    const container = map.getContainer().closest('.map-fullscreen-container');
+    if (!container) return;
+
+    if (!document.fullscreenElement) {
+      container.requestFullscreen().then(() => {
+        setIsFullscreen(true);
+        setTimeout(() => map.invalidateSize(), 100);
+      }).catch(() => {});
+    } else {
+      document.exitFullscreen().then(() => {
+        setIsFullscreen(false);
+        setTimeout(() => map.invalidateSize(), 100);
+      }).catch(() => {});
+    }
+  };
+
+  React.useEffect(() => {
+    const handleFullscreenChange = () => {
+      setIsFullscreen(!!document.fullscreenElement);
+      setTimeout(() => map.invalidateSize(), 100);
+    };
+    document.addEventListener('fullscreenchange', handleFullscreenChange);
+    return () => document.removeEventListener('fullscreenchange', handleFullscreenChange);
+  }, [map]);
 
   return (
     <div className="leaflet-top leaflet-right" style={{ marginTop: "10px", marginRight: "10px" }}>
-      <div className="leaflet-control">
+      <div className="leaflet-control flex flex-col gap-2">
+        <button
+          onClick={toggleFullscreen}
+          className="w-9 h-9 flex items-center justify-center bg-[#0a0e17]/90 border border-cyan-500/20 rounded-lg hover:bg-[#0a0e17] hover:border-cyan-500/40 transition-all"
+          title={isFullscreen ? "Exit fullscreen" : "Fullscreen"}
+        >
+          {isFullscreen ? (
+            <svg className="w-4 h-4 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 9V4.5M9 9H4.5M9 9L3.75 3.75M9 15v4.5M9 15H4.5M9 15l-5.25 5.25M15 9h4.5M15 9V4.5M15 9l5.25-5.25M15 15h4.5M15 15v4.5m0-4.5l5.25 5.25" />
+            </svg>
+          ) : (
+            <svg className="w-4 h-4 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15" />
+            </svg>
+          )}
+        </button>
         <button
           onClick={() => map.setView([42.5, 12.5], 6, { animate: true })}
           className="w-9 h-9 flex items-center justify-center bg-[#0a0e17]/90 border border-cyan-500/20 rounded-lg hover:bg-[#0a0e17] hover:border-cyan-500/40 transition-all"
@@ -346,36 +397,38 @@ const UniversitiesMap = forwardRef<MapRef, UniversitiesMapProps>(
     ];
 
     return (
-      <MapContainer
-        center={[42.5, 12.5]}
-        zoom={6}
-        minZoom={5}
-        maxZoom={18}
-        maxBounds={italyBounds}
-        maxBoundsViscosity={0.8}
-        className="w-full h-full touch-pan-xy"
-        zoomControl={true}
-        scrollWheelZoom={true}
-        doubleClickZoom={true}
-        dragging={true}
-        ref={(map) => {
-          if (map) {
-            mapInstanceRef.current = map;
-          }
-        }}
-      >
-        <TileLayer
-          attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a>'
-          url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-        />
-        <MarkerClusterGroup
-          universities={universities}
-          selectedId={selectedId}
-          onSelect={onSelect}
-          language={language}
-        />
-        <MapControls language={language} />
-      </MapContainer>
+      <div className="map-fullscreen-container w-full h-full">
+        <MapContainer
+          center={[42.5, 12.5]}
+          zoom={6}
+          minZoom={5}
+          maxZoom={18}
+          maxBounds={italyBounds}
+          maxBoundsViscosity={0.8}
+          className="w-full h-full touch-pan-xy"
+          zoomControl={true}
+          scrollWheelZoom={true}
+          doubleClickZoom={true}
+          dragging={true}
+          ref={(map) => {
+            if (map) {
+              mapInstanceRef.current = map;
+            }
+          }}
+        >
+          <TileLayer
+            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
+            url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
+          />
+          <MarkerClusterGroup
+            universities={universities}
+            selectedId={selectedId}
+            onSelect={onSelect}
+            language={language}
+          />
+          <MapControls language={language} />
+        </MapContainer>
+      </div>
     );
   }
 );
