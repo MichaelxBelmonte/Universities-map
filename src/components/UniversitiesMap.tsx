@@ -24,18 +24,55 @@ import { useTheme } from "@/lib/theme/ThemeContext";
 // Fix for default marker icons
 delete (L.Icon.Default.prototype as unknown as { _getIconUrl?: unknown })._getIconUrl;
 
-// Category colors matching sidebar
-const CATEGORY_COLORS: Record<string, { main: string; glow: string }> = {
-  statale: { main: "#60a5fa", glow: "rgba(96,165,250,0.6)" },
-  non_statale: { main: "#c084fc", glow: "rgba(192,132,252,0.6)" },
-  telematica: { main: "#34d399", glow: "rgba(52,211,153,0.6)" },
-  ordinamento_speciale: { main: "#fbbf24", glow: "rgba(251,191,36,0.6)" },
-  other: { main: "#9ca3af", glow: "rgba(156,163,175,0.6)" },
-};
+// Category colors for dark and light themes
+const CATEGORY_COLORS = {
+  dark: {
+    statale: { main: "#60a5fa", glow: "rgba(96,165,250,0.6)" },
+    non_statale: { main: "#c084fc", glow: "rgba(192,132,252,0.6)" },
+    telematica: { main: "#34d399", glow: "rgba(52,211,153,0.6)" },
+    ordinamento_speciale: { main: "#fbbf24", glow: "rgba(251,191,36,0.6)" },
+    other: { main: "#9ca3af", glow: "rgba(156,163,175,0.6)" },
+  },
+  light: {
+    statale: { main: "#2563eb", glow: "rgba(37,99,235,0.4)" },
+    non_statale: { main: "#9333ea", glow: "rgba(147,51,234,0.4)" },
+    telematica: { main: "#059669", glow: "rgba(5,150,105,0.4)" },
+    ordinamento_speciale: { main: "#d97706", glow: "rgba(217,119,6,0.4)" },
+    other: { main: "#6b7280", glow: "rgba(107,114,128,0.4)" },
+  },
+} as const;
+
+// Theme colors for UI elements
+const THEME_COLORS = {
+  dark: {
+    bg: "rgba(10,14,23,0.9)",
+    bgSecondary: "rgba(10,14,23,0.8)",
+    border: "rgba(255,255,255,0.1)",
+    text: "rgba(255,255,255,0.95)",
+    textSecondary: "rgba(255,255,255,0.4)",
+    textMuted: "rgba(255,255,255,0.2)",
+    accent: "#22d3ee",
+    accentBg: "rgba(34,211,238,0.1)",
+    accentBorder: "rgba(34,211,238,0.2)",
+  },
+  light: {
+    bg: "rgba(255,255,255,0.95)",
+    bgSecondary: "rgba(255,255,255,0.9)",
+    border: "rgba(0,0,0,0.1)",
+    text: "rgba(0,0,0,0.9)",
+    textSecondary: "rgba(0,0,0,0.5)",
+    textMuted: "rgba(0,0,0,0.2)",
+    accent: "#0891b2",
+    accentBg: "rgba(8,145,178,0.1)",
+    accentBorder: "rgba(8,145,178,0.2)",
+  },
+} as const;
 
 // Tech-style marker - minimal dot with glow
-const createCategoryIcon = (category: string) => {
-  const config = CATEGORY_COLORS[category] || CATEGORY_COLORS.other;
+const createCategoryIcon = (category: string, isDark: boolean) => {
+  const colors = isDark ? CATEGORY_COLORS.dark : CATEGORY_COLORS.light;
+  const config = colors[category as keyof typeof colors] || colors.other;
+  const borderColor = isDark ? "rgba(10,14,23,0.8)" : "rgba(255,255,255,0.9)";
 
   return L.divIcon({
     className: "custom-marker",
@@ -45,8 +82,8 @@ const createCategoryIcon = (category: string) => {
         height: 16px;
         background: ${config.main};
         border-radius: 50%;
-        border: 2px solid rgba(10,14,23,0.8);
-        box-shadow: 0 0 12px ${config.glow}, 0 0 4px ${config.glow}, inset 0 1px 2px rgba(255,255,255,0.3);
+        border: 2px solid ${borderColor};
+        box-shadow: 0 0 12px ${config.glow}, 0 0 4px ${config.glow};
         cursor: pointer;
       "></div>
     `,
@@ -71,22 +108,26 @@ function MarkerClusterGroup({
   selectedId,
   onSelect,
   language,
+  isDark,
 }: {
   universities: University[];
   selectedId: string | null;
   onSelect: (id: string) => void;
   language: Language;
+  isDark: boolean;
 }) {
   const map = useMap();
   const clusterGroupRef = useRef<L.MarkerClusterGroup | null>(null);
   const markersRef = useRef<Map<string, L.Marker>>(new Map());
   const activePopupRef = useRef<L.Popup | null>(null);
 
-  // Tech-style popup content
+  // Theme-aware popup content
   const createPopupContent = (uni: University) => {
     const categoryLabels = getCategoryLabels(language);
     const openWebsiteText = translations[language].openWebsite;
-    const config = CATEGORY_COLORS[uni.category] || CATEGORY_COLORS.other;
+    const catColors = isDark ? CATEGORY_COLORS.dark : CATEGORY_COLORS.light;
+    const theme = isDark ? THEME_COLORS.dark : THEME_COLORS.light;
+    const config = catColors[uni.category as keyof typeof catColors] || catColors.other;
     const categoryLabel = categoryLabels[uni.category as keyof typeof categoryLabels] || categoryLabels.other;
 
     return `
@@ -111,7 +152,7 @@ function MarkerClusterGroup({
             font-weight: 600;
             font-size: 13px;
             margin: 0;
-            color: rgba(255,255,255,0.95);
+            color: ${theme.text};
             line-height: 1.3;
             word-wrap: break-word;
             overflow-wrap: break-word;
@@ -122,7 +163,7 @@ function MarkerClusterGroup({
         ${uni.campusName ? `
           <p style="
             font-size: 11px;
-            color: rgba(255,255,255,0.4);
+            color: ${theme.textSecondary};
             margin: 0 0 8px 16px;
             word-wrap: break-word;
             overflow-wrap: break-word;
@@ -144,10 +185,10 @@ function MarkerClusterGroup({
             color: ${config.main};
           ">${categoryLabel}</span>
           ${uni.city ? `
-            <span style="color: rgba(255,255,255,0.2);">•</span>
+            <span style="color: ${theme.textMuted};">•</span>
             <span style="
               font-size: 10px;
-              color: rgba(255,255,255,0.4);
+              color: ${theme.textSecondary};
             ">${uni.city}</span>
           ` : ''}
         </div>
@@ -160,18 +201,16 @@ function MarkerClusterGroup({
             display: inline-flex;
             align-items: center;
             gap: 6px;
-            color: #22d3ee;
+            color: ${theme.accent};
             font-size: 11px;
             text-decoration: none;
             margin-left: 16px;
             padding: 6px 10px;
-            background: rgba(34,211,238,0.1);
-            border: 1px solid rgba(34,211,238,0.2);
+            background: ${theme.accentBg};
+            border: 1px solid ${theme.accentBorder};
             border-radius: 6px;
             transition: all 0.2s;
           "
-          onmouseover="this.style.background='rgba(34,211,238,0.2)'"
-          onmouseout="this.style.background='rgba(34,211,238,0.1)'"
         >
           <span style="text-transform: uppercase; letter-spacing: 0.05em;">${openWebsiteText}</span>
           <svg width="10" height="10" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
@@ -183,59 +222,64 @@ function MarkerClusterGroup({
   };
 
   useEffect(() => {
-    if (!clusterGroupRef.current) {
-      clusterGroupRef.current = L.markerClusterGroup({
-        chunkedLoading: true,
-        maxClusterRadius: 50,
-        spiderfyOnMaxZoom: true,
-        showCoverageOnHover: false,
-        zoomToBoundsOnClick: true,
-        removeOutsideVisibleBounds: false,
-        animate: true,
-        iconCreateFunction: (cluster) => {
-          const count = cluster.getChildCount();
-          let size = 36;
-          let fontSize = 11;
+    const theme = isDark ? THEME_COLORS.dark : THEME_COLORS.light;
 
-          if (count > 50) {
-            size = 48;
-            fontSize = 13;
-          } else if (count > 10) {
-            size = 42;
-            fontSize = 12;
-          }
-
-          return L.divIcon({
-            html: `
-              <div style="
-                width: ${size}px;
-                height: ${size}px;
-                background: rgba(10,14,23,0.9);
-                border: 1px solid rgba(34,211,238,0.3);
-                border-radius: 50%;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-                font-family: ui-monospace, SFMono-Regular, monospace;
-                font-size: ${fontSize}px;
-                font-weight: 700;
-                color: #22d3ee;
-                box-shadow: 0 0 20px rgba(34,211,238,0.3), inset 0 0 20px rgba(34,211,238,0.1);
-              ">${count}</div>
-            `,
-            className: "custom-cluster",
-            iconSize: L.point(size, size),
-          });
-        },
-      });
-      map.addLayer(clusterGroupRef.current);
+    // Remove existing cluster group if theme changed
+    if (clusterGroupRef.current) {
+      map.removeLayer(clusterGroupRef.current);
+      clusterGroupRef.current = null;
     }
 
-    clusterGroupRef.current.clearLayers();
+    clusterGroupRef.current = L.markerClusterGroup({
+      chunkedLoading: true,
+      maxClusterRadius: 50,
+      spiderfyOnMaxZoom: true,
+      showCoverageOnHover: false,
+      zoomToBoundsOnClick: true,
+      removeOutsideVisibleBounds: false,
+      animate: true,
+      iconCreateFunction: (cluster) => {
+        const count = cluster.getChildCount();
+        let size = 36;
+        let fontSize = 11;
+
+        if (count > 50) {
+          size = 48;
+          fontSize = 13;
+        } else if (count > 10) {
+          size = 42;
+          fontSize = 12;
+        }
+
+        return L.divIcon({
+          html: `
+            <div style="
+              width: ${size}px;
+              height: ${size}px;
+              background: ${theme.bg};
+              border: 1px solid ${theme.accentBorder};
+              border-radius: 50%;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              font-family: ui-monospace, SFMono-Regular, monospace;
+              font-size: ${fontSize}px;
+              font-weight: 700;
+              color: ${theme.accent};
+              box-shadow: 0 0 20px ${theme.accentBg};
+            ">${count}</div>
+          `,
+          className: "custom-cluster",
+          iconSize: L.point(size, size),
+        });
+      },
+    });
+    map.addLayer(clusterGroupRef.current);
+
     markersRef.current.clear();
 
     universities.forEach((uni) => {
-      const icon = createCategoryIcon(uni.category);
+      const icon = createCategoryIcon(uni.category, isDark);
       const marker = L.marker([uni.lat, uni.lng], { icon });
 
       const popup = L.popup({
@@ -270,10 +314,11 @@ function MarkerClusterGroup({
 
     return () => {
       if (clusterGroupRef.current) {
-        clusterGroupRef.current.clearLayers();
+        map.removeLayer(clusterGroupRef.current);
+        clusterGroupRef.current = null;
       }
     };
-  }, [universities, map, onSelect, language]);
+  }, [universities, map, onSelect, language, isDark]);
 
   useEffect(() => {
     if (selectedId) {
@@ -404,6 +449,7 @@ export interface MapRef {
 const UniversitiesMap = forwardRef<MapRef, UniversitiesMapProps>(
   function UniversitiesMap({ universities, selectedId, onSelect, language }, ref) {
     const mapInstanceRef = useRef<L.Map | null>(null);
+    const { isDark } = useTheme();
 
     useImperativeHandle(ref, () => ({
       focusOnUniversity: (id: string) => {
@@ -446,6 +492,7 @@ const UniversitiesMap = forwardRef<MapRef, UniversitiesMapProps>(
             selectedId={selectedId}
             onSelect={onSelect}
             language={language}
+            isDark={isDark}
           />
           <MapControls language={language} />
         </MapContainer>

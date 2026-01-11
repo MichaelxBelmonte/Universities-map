@@ -440,10 +440,13 @@ h1, h2, h3, h4, h5, h6 {
 
 .leaflet-container {
   font-family: var(--font-jakarta), system-ui, sans-serif;
-  background: var(--yl-dark) !important;
+  background: var(--bg-primary) !important;
 }
 
-/* Dark map tiles - using CartoDB dark_all, no filter needed */
+/* Hide Leaflet attribution */
+.leaflet-control-attribution {
+  display: none !important;
+}
 
 /* Custom markers */
 .custom-marker {
@@ -483,11 +486,9 @@ h1, h2, h3, h4, h5, h6 {
 .cluster-marker.cluster-small {
   width: 44px !important;
   height: 44px !important;
-  background: linear-gradient(135deg, var(--accent-cyan) 0%, var(--accent-blue) 100%) !important;
+  background: linear-gradient(135deg, var(--accent-primary) 0%, var(--accent-secondary) 100%) !important;
   font-size: 13px !important;
-  box-shadow:
-    0 0 20px rgba(0, 212, 255, 0.4),
-    0 4px 12px rgba(0, 0, 0, 0.3) !important;
+  box-shadow: var(--shadow-glow) !important;
 }
 
 .cluster-marker.cluster-medium {
@@ -495,9 +496,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 54px !important;
   background: linear-gradient(135deg, var(--accent-purple) 0%, var(--accent-magenta) 100%) !important;
   font-size: 14px !important;
-  box-shadow:
-    0 0 24px rgba(139, 92, 246, 0.4),
-    0 4px 12px rgba(0, 0, 0, 0.3) !important;
+  box-shadow: var(--shadow-md) !important;
 }
 
 .cluster-marker.cluster-large {
@@ -505,22 +504,17 @@ h1, h2, h3, h4, h5, h6 {
   height: 64px !important;
   background: linear-gradient(135deg, var(--accent-magenta) 0%, var(--accent-pink) 100%) !important;
   font-size: 15px !important;
-  box-shadow:
-    0 0 28px rgba(217, 70, 239, 0.4),
-    0 4px 12px rgba(0, 0, 0, 0.3) !important;
+  box-shadow: var(--shadow-lg) !important;
 }
 
-/* Glassmorphic popup */
+/* Popup styling - theme aware */
 .leaflet-popup-content-wrapper {
-  background: rgba(12, 16, 24, 0.9) !important;
+  background: var(--popup-bg) !important;
   backdrop-filter: blur(20px) saturate(150%);
   -webkit-backdrop-filter: blur(20px) saturate(150%);
-  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  border: 1px solid var(--popup-border) !important;
   border-radius: 16px !important;
-  box-shadow:
-    0 0 0 1px rgba(255, 255, 255, 0.05) inset,
-    0 20px 50px rgba(0, 0, 0, 0.6),
-    0 0 60px rgba(0, 212, 255, 0.1) !important;
+  box-shadow: var(--shadow-lg) !important;
   color: var(--text-primary) !important;
 }
 
@@ -542,8 +536,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .leaflet-popup-tip {
-  background: rgba(12, 16, 24, 0.9) !important;
-  border: 1px solid rgba(255, 255, 255, 0.1) !important;
+  background: var(--popup-bg) !important;
+  border: 1px solid var(--popup-border) !important;
   box-shadow: none !important;
 }
 
@@ -558,66 +552,43 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .university-popup a {
-  color: var(--accent-cyan) !important;
+  color: var(--accent-primary) !important;
   text-decoration: none;
   transition: all 0.2s ease;
 }
 
 .university-popup a:hover {
-  color: var(--accent-blue) !important;
-  text-shadow: 0 0 10px rgba(0, 212, 255, 0.5);
+  color: var(--accent-secondary) !important;
 }
 
-/* Map controls */
+/* Map controls - zoom buttons */
 .leaflet-control-zoom {
   border: none !important;
   overflow: hidden;
   border-radius: 12px !important;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4) !important;
+  box-shadow: var(--shadow-md) !important;
 }
 
 .leaflet-control-zoom a {
-  background: rgba(12, 16, 24, 0.9) !important;
+  background: var(--popup-bg) !important;
   backdrop-filter: blur(10px);
   color: var(--text-primary) !important;
   border: none !important;
-  border-bottom: 1px solid rgba(255, 255, 255, 0.08) !important;
+  border-bottom: 1px solid var(--border-secondary) !important;
   width: 36px !important;
   height: 36px !important;
   line-height: 36px !important;
   font-size: 18px !important;
+  transition: all 0.2s ease !important;
 }
 
 .leaflet-control-zoom a:hover {
-  background: rgba(255, 255, 255, 0.1) !important;
-  color: var(--accent-cyan) !important;
+  background: var(--hover-bg) !important;
+  color: var(--accent-primary) !important;
 }
 
 .leaflet-control-zoom a:last-child {
   border-bottom: none !important;
-}
-
-.leaflet-control-attribution {
-  background: rgba(6, 8, 13, 0.8) !important;
-  backdrop-filter: blur(10px);
-  color: var(--text-tertiary) !important;
-  border-radius: 8px 0 0 0 !important;
-  padding: 4px 8px !important;
-  font-size: 10px !important;
-}
-
-.leaflet-control-attribution a {
-  color: var(--text-secondary) !important;
-}
-
-/* Hide attribution on mobile */
-@media (max-width: 640px) {
-  .leaflet-control-attribution {
-    max-width: 180px;
-    overflow: hidden;
-    text-overflow: ellipsis;
-    white-space: nowrap;
-  }
 }
 
 /* ═══════════════════════════════════════════════════════════════════════════

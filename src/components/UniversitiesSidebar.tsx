@@ -23,20 +23,13 @@ const ALL_CATEGORIES: UniversityCategory[] = [
   "other",
 ];
 
-const CATEGORY_COLORS: Record<UniversityCategory, string> = {
-  statale: "bg-blue-400",
-  non_statale: "bg-purple-400",
-  telematica: "bg-emerald-400",
-  ordinamento_speciale: "bg-amber-400",
-  other: "bg-gray-400",
-};
-
-const CATEGORY_TEXT_COLORS: Record<UniversityCategory, string> = {
-  statale: "text-blue-400",
-  non_statale: "text-purple-400",
-  telematica: "text-emerald-400",
-  ordinamento_speciale: "text-amber-400",
-  other: "text-gray-400",
+// Map categories to CSS variable names
+const CATEGORY_VAR_MAP: Record<UniversityCategory, string> = {
+  statale: "statale",
+  non_statale: "non-statale",
+  telematica: "telematica",
+  ordinamento_speciale: "speciale",
+  other: "other",
 };
 
 export default function UniversitiesSidebar({
@@ -65,22 +58,35 @@ export default function UniversitiesSidebar({
   }, [universities]);
 
   return (
-    <div className="h-full flex flex-col w-full bg-[#0a0e17]/95">
+    <div
+      className="h-full flex flex-col w-full"
+      style={{ background: "color-mix(in srgb, var(--bg-secondary) 95%, transparent)" }}
+    >
       {/* Header */}
-      <div className="p-4 border-b border-cyan-500/10 flex-shrink-0">
+      <div
+        className="p-4 flex-shrink-0"
+        style={{ borderBottom: "1px solid var(--border-accent)" }}
+      >
         <div className="flex items-center justify-between mb-4">
           <div className="flex items-center gap-2">
-            <div className="w-1 h-4 bg-gradient-to-b from-cyan-400 to-blue-500 rounded-full" />
-            <h2 className="text-sm font-bold text-white uppercase tracking-wider">
+            <div
+              className="w-1 h-4 rounded-full"
+              style={{ background: "linear-gradient(to bottom, var(--accent-primary), var(--accent-secondary))" }}
+            />
+            <h2
+              className="text-sm font-bold uppercase tracking-wider"
+              style={{ color: "var(--text-primary)" }}
+            >
               {t("sidebarTitle")}
             </h2>
           </div>
           <button
             onClick={onClose}
-            className="sm:hidden p-2 hover:bg-white/5 rounded-lg transition-colors"
+            className="sm:hidden p-2 rounded-lg transition-colors"
+            style={{ color: "var(--text-tertiary)" }}
             aria-label="Close"
           >
-            <svg className="w-5 h-5 text-white/40" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
             </svg>
           </button>
@@ -93,10 +99,16 @@ export default function UniversitiesSidebar({
             placeholder={t("searchPlaceholder")}
             value={filters.search}
             onChange={(e) => onSearchChange(e.target.value)}
-            className="w-full bg-white/[0.03] border border-white/[0.08] rounded-lg pl-10 pr-10 py-2.5 text-sm text-white placeholder-white/30 focus:outline-none focus:border-cyan-500/40 focus:bg-white/[0.05] transition-all font-mono"
+            className="w-full rounded-lg pl-10 pr-10 py-2.5 text-sm font-mono transition-all focus:outline-none"
+            style={{
+              background: "var(--glass-bg)",
+              border: "1px solid var(--border-primary)",
+              color: "var(--text-primary)",
+            }}
           />
           <svg
-            className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4 text-cyan-500/50"
+            className="absolute left-3 top-1/2 -translate-y-1/2 w-4 h-4"
+            style={{ color: "var(--accent-primary)", opacity: 0.5 }}
             fill="none"
             stroke="currentColor"
             viewBox="0 0 24 24"
@@ -106,7 +118,8 @@ export default function UniversitiesSidebar({
           {filters.search && (
             <button
               onClick={() => onSearchChange("")}
-              className="absolute right-3 top-1/2 -translate-y-1/2 text-white/30 hover:text-white/60 transition-colors"
+              className="absolute right-3 top-1/2 -translate-y-1/2 transition-colors"
+              style={{ color: "var(--text-tertiary)" }}
             >
               <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
@@ -119,20 +132,26 @@ export default function UniversitiesSidebar({
         <div className="mt-3 flex flex-wrap gap-1.5">
           {ALL_CATEGORIES.map((category) => {
             const isActive = filters.categories.includes(category);
+            const varName = CATEGORY_VAR_MAP[category];
             return (
               <button
                 key={category}
                 onClick={() => onCategoryToggle(category)}
-                className={`
-                  flex items-center gap-1.5 px-2.5 py-1.5 rounded-md text-[11px] font-mono uppercase tracking-wide
-                  transition-all duration-200 touch-manipulation
-                  ${isActive
-                    ? `bg-white/10 border border-white/20 ${CATEGORY_TEXT_COLORS[category]}`
-                    : "bg-white/[0.02] border border-white/[0.06] text-white/40 hover:bg-white/[0.05] hover:text-white/60"
-                  }
-                `}
+                className="flex items-center gap-1.5 px-2.5 py-1.5 rounded-md text-[11px] font-mono uppercase tracking-wide transition-all duration-200 touch-manipulation"
+                style={{
+                  background: isActive ? `var(--cat-${varName}-bg)` : "var(--glass-bg)",
+                  border: `1px solid ${isActive ? `var(--cat-${varName})` : "var(--border-secondary)"}`,
+                  color: isActive ? `var(--cat-${varName})` : "var(--text-tertiary)",
+                }}
               >
-                <div className={`w-1.5 h-1.5 rounded-full ${CATEGORY_COLORS[category]} ${isActive ? "shadow-sm" : "opacity-50"}`} />
+                <div
+                  className="w-1.5 h-1.5 rounded-full"
+                  style={{
+                    background: `var(--cat-${varName})`,
+                    opacity: isActive ? 1 : 0.5,
+                    boxShadow: isActive ? `0 0 6px var(--cat-${varName}-glow)` : "none",
+                  }}
+                />
                 {categoryLabels[category]}
               </button>
             );
@@ -143,7 +162,8 @@ export default function UniversitiesSidebar({
         {hasActiveFilters && (
           <button
             onClick={onClearFilters}
-            className="mt-3 text-[11px] text-cyan-400/80 hover:text-cyan-400 transition-colors flex items-center gap-1 font-mono uppercase tracking-wide"
+            className="mt-3 text-[11px] transition-colors flex items-center gap-1 font-mono uppercase tracking-wide"
+            style={{ color: "var(--accent-primary)" }}
           >
             <svg className="w-3 h-3" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
@@ -154,11 +174,20 @@ export default function UniversitiesSidebar({
       </div>
 
       {/* Results count */}
-      <div className="px-4 py-2 border-b border-white/[0.04] flex-shrink-0 flex items-center justify-between">
-        <span className="text-[11px] text-white/40 font-mono uppercase tracking-wide">
+      <div
+        className="px-4 py-2 flex-shrink-0 flex items-center justify-between"
+        style={{ borderBottom: "1px solid var(--border-secondary)" }}
+      >
+        <span
+          className="text-[11px] font-mono uppercase tracking-wide"
+          style={{ color: "var(--text-tertiary)" }}
+        >
           Results
         </span>
-        <span className="text-xs font-mono text-cyan-400 font-bold">
+        <span
+          className="text-xs font-mono font-bold"
+          style={{ color: "var(--accent-primary)" }}
+        >
           {sortedUniversities.length}
         </span>
       </div>
@@ -167,16 +196,31 @@ export default function UniversitiesSidebar({
       <div className="flex-1 overflow-y-auto">
         {sortedUniversities.length === 0 ? (
           <div className="p-8 text-center">
-            <div className="w-12 h-12 rounded-lg bg-white/[0.03] border border-white/[0.06] flex items-center justify-center mx-auto mb-3">
-              <svg className="w-6 h-6 text-white/20" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <div
+              className="w-12 h-12 rounded-lg flex items-center justify-center mx-auto mb-3"
+              style={{
+                background: "var(--glass-bg)",
+                border: "1px solid var(--border-secondary)",
+              }}
+            >
+              <svg
+                className="w-6 h-6"
+                style={{ color: "var(--text-muted)" }}
+                fill="none"
+                stroke="currentColor"
+                viewBox="0 0 24 24"
+              >
                 <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M9.172 16.172a4 4 0 015.656 0M9 10h.01M15 10h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z" />
               </svg>
             </div>
-            <p className="text-white/40 text-xs font-mono">{t("noResults")}</p>
+            <p className="text-xs font-mono" style={{ color: "var(--text-tertiary)" }}>
+              {t("noResults")}
+            </p>
             {hasActiveFilters && (
               <button
                 onClick={onClearFilters}
-                className="mt-2 text-xs text-cyan-400 hover:text-cyan-300 transition-colors font-mono"
+                className="mt-2 text-xs font-mono transition-colors"
+                style={{ color: "var(--accent-primary)" }}
               >
                 Clear filters
               </button>
@@ -184,43 +228,57 @@ export default function UniversitiesSidebar({
           </div>
         ) : (
           <ul>
-            {sortedUniversities.map((uni, index) => {
+            {sortedUniversities.map((uni) => {
               const isSelected = selectedId === uni.id;
+              const varName = CATEGORY_VAR_MAP[uni.category];
 
               return (
                 <li key={uni.id}>
                   <button
                     onClick={() => onUniversityClick(uni.id)}
-                    className={`
-                      w-full text-left px-4 py-3 transition-all duration-150
-                      touch-manipulation border-b border-white/[0.04]
-                      ${isSelected
-                        ? "bg-cyan-500/10 border-l-2 border-l-cyan-400"
-                        : "hover:bg-white/[0.03] border-l-2 border-l-transparent"
-                      }
-                    `}
+                    className="w-full text-left px-4 py-3 transition-all duration-150 touch-manipulation"
+                    style={{
+                      background: isSelected ? "var(--selected-bg)" : "transparent",
+                      borderBottom: "1px solid var(--border-secondary)",
+                      borderLeft: isSelected ? "2px solid var(--selected-border)" : "2px solid transparent",
+                    }}
                   >
                     <div className="flex items-start justify-between gap-3">
                       <div className="flex-1 min-w-0">
                         <div className="flex items-center gap-2">
-                          <div className={`w-1.5 h-1.5 rounded-full ${CATEGORY_COLORS[uni.category]} flex-shrink-0`} />
-                          <h3 className={`text-sm font-medium truncate ${isSelected ? "text-cyan-400" : "text-white/90"}`}>
+                          <div
+                            className="w-1.5 h-1.5 rounded-full flex-shrink-0"
+                            style={{ background: `var(--cat-${varName})` }}
+                          />
+                          <h3
+                            className="text-sm font-medium truncate"
+                            style={{ color: isSelected ? "var(--accent-primary)" : "var(--text-primary)" }}
+                          >
                             {uni.name}
                           </h3>
                         </div>
                         {uni.campusName && (
-                          <p className="text-[11px] text-white/30 mt-0.5 ml-3.5 truncate font-mono">
+                          <p
+                            className="text-[11px] mt-0.5 ml-3.5 truncate font-mono"
+                            style={{ color: "var(--text-tertiary)" }}
+                          >
                             {uni.campusName}
                           </p>
                         )}
                         <div className="flex items-center gap-2 mt-1.5 ml-3.5">
-                          <span className={`text-[10px] font-mono uppercase tracking-wide ${CATEGORY_TEXT_COLORS[uni.category]}`}>
+                          <span
+                            className="text-[10px] font-mono uppercase tracking-wide"
+                            style={{ color: `var(--cat-${varName})` }}
+                          >
                             {categoryLabels[uni.category]}
                           </span>
                           {uni.city && (
                             <>
-                              <span className="text-white/20">•</span>
-                              <span className="text-[10px] text-white/30 truncate font-mono">
+                              <span style={{ color: "var(--text-muted)" }}>•</span>
+                              <span
+                                className="text-[10px] truncate font-mono"
+                                style={{ color: "var(--text-tertiary)" }}
+                              >
                                 {uni.city}
                               </span>
                             </>
@@ -232,7 +290,8 @@ export default function UniversitiesSidebar({
                         target="_blank"
                         rel="noopener noreferrer"
                         onClick={(e) => e.stopPropagation()}
-                        className="flex-shrink-0 p-1.5 text-white/20 hover:text-cyan-400 transition-colors rounded hover:bg-white/5"
+                        className="flex-shrink-0 p-1.5 transition-colors rounded"
+                        style={{ color: "var(--text-muted)" }}
                         title="Open website"
                       >
                         <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
