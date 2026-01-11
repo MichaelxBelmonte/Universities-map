@@ -19,6 +19,7 @@ import "leaflet.markercluster";
 import type { University } from "@/lib/types";
 import type { Language } from "@/lib/i18n/translations";
 import { translations } from "@/lib/i18n/translations";
+import { useTheme } from "@/lib/theme/ThemeContext";
 
 // Fix for default marker icons
 delete (L.Icon.Default.prototype as unknown as { _getIconUrl?: unknown })._getIconUrl;
@@ -302,6 +303,21 @@ function MarkerClusterGroup({
   return null;
 }
 
+// Theme-aware tile layer
+function ThemeAwareTileLayer() {
+  const { isDark } = useTheme();
+  const tileUrl = isDark
+    ? "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
+    : "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png";
+
+  return (
+    <TileLayer
+      attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
+      url={tileUrl}
+    />
+  );
+}
+
 // Map controls
 function MapControls({ language }: { language: Language }) {
   const map = useMap();
@@ -339,25 +355,33 @@ function MapControls({ language }: { language: Language }) {
       <div className="leaflet-control flex flex-col gap-2">
         <button
           onClick={toggleFullscreen}
-          className="w-9 h-9 flex items-center justify-center bg-[#0a0e17]/90 border border-cyan-500/20 rounded-lg hover:bg-[#0a0e17] hover:border-cyan-500/40 transition-all"
+          className="w-9 h-9 flex items-center justify-center rounded-lg transition-all"
+          style={{
+            background: "color-mix(in srgb, var(--bg-secondary) 90%, transparent)",
+            border: "1px solid var(--border-accent)",
+          }}
           title={isFullscreen ? "Exit fullscreen" : "Fullscreen"}
         >
           {isFullscreen ? (
-            <svg className="w-4 h-4 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg className="w-4 h-4" style={{ color: "var(--accent-primary)" }} fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 9V4.5M9 9H4.5M9 9L3.75 3.75M9 15v4.5M9 15H4.5M9 15l-5.25 5.25M15 9h4.5M15 9V4.5M15 9l5.25-5.25M15 15h4.5M15 15v4.5m0-4.5l5.25 5.25" />
             </svg>
           ) : (
-            <svg className="w-4 h-4 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <svg className="w-4 h-4" style={{ color: "var(--accent-primary)" }} fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3.75 3.75v4.5m0-4.5h4.5m-4.5 0L9 9M3.75 20.25v-4.5m0 4.5h4.5m-4.5 0L9 15M20.25 3.75h-4.5m4.5 0v4.5m0-4.5L15 9m5.25 11.25h-4.5m4.5 0v-4.5m0 4.5L15 15" />
             </svg>
           )}
         </button>
         <button
           onClick={() => map.setView([42.5, 12.5], 6, { animate: true })}
-          className="w-9 h-9 flex items-center justify-center bg-[#0a0e17]/90 border border-cyan-500/20 rounded-lg hover:bg-[#0a0e17] hover:border-cyan-500/40 transition-all"
+          className="w-9 h-9 flex items-center justify-center rounded-lg transition-all"
+          style={{
+            background: "color-mix(in srgb, var(--bg-secondary) 90%, transparent)",
+            border: "1px solid var(--border-accent)",
+          }}
           title={resetViewText}
         >
-          <svg className="w-4 h-4 text-cyan-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <svg className="w-4 h-4" style={{ color: "var(--accent-primary)" }} fill="none" stroke="currentColor" viewBox="0 0 24 24">
             <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M3 12l2-2m0 0l7-7 7 7M5 10v10a1 1 0 001 1h3m10-11l2 2m-2-2v10a1 1 0 01-1 1h-3m-6 0a1 1 0 001-1v-4a1 1 0 011-1h2a1 1 0 011 1v4a1 1 0 001 1m-6 0h6" />
           </svg>
         </button>
@@ -416,10 +440,7 @@ const UniversitiesMap = forwardRef<MapRef, UniversitiesMapProps>(
             }
           }}
         >
-          <TileLayer
-            attribution='&copy; <a href="https://www.openstreetmap.org/copyright">OSM</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
-            url="https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png"
-          />
+          <ThemeAwareTileLayer />
           <MarkerClusterGroup
             universities={universities}
             selectedId={selectedId}

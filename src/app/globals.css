@@ -1,45 +1,176 @@
 @import "tailwindcss";
 
 /* ═══════════════════════════════════════════════════════════════════════════
-   YOUTHLINK - LIQUID GLASS DESIGN SYSTEM
-   A modern, tech-forward glassmorphism aesthetic
+   YOUTHLINK - CENTRALIZED COLOR SYSTEM
+   Supports both light and dark themes
    ═══════════════════════════════════════════════════════════════════════════ */
 
-:root {
-  /* Core palette */
-  --yl-dark: #06080d;
-  --yl-dark-elevated: #0c1018;
-  --yl-dark-surface: #121620;
+/* ═══════════════════════════════════════════════════════════════════════════
+   DARK THEME (Default)
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+:root,
+[data-theme="dark"] {
+  /* Background colors */
+  --bg-primary: #06080d;
+  --bg-secondary: #0a0e17;
+  --bg-tertiary: #0c1018;
+  --bg-elevated: #121620;
+  --bg-surface: #1a1f2e;
 
   /* Glass effect colors */
   --glass-bg: rgba(255, 255, 255, 0.03);
+  --glass-bg-hover: rgba(255, 255, 255, 0.05);
   --glass-border: rgba(255, 255, 255, 0.08);
   --glass-border-hover: rgba(255, 255, 255, 0.15);
   --glass-glow: rgba(99, 179, 237, 0.15);
-
-  /* Accent gradients */
-  --accent-cyan: #00d4ff;
-  --accent-blue: #0099ff;
-  --accent-purple: #8b5cf6;
-  --accent-magenta: #d946ef;
-  --accent-pink: #f472b6;
 
   /* Text colors */
   --text-primary: rgba(255, 255, 255, 0.95);
   --text-secondary: rgba(255, 255, 255, 0.65);
   --text-tertiary: rgba(255, 255, 255, 0.4);
+  --text-muted: rgba(255, 255, 255, 0.2);
 
-  /* Category colors - vibrant neon variants */
-  --cat-statale: #3b82f6;
-  --cat-statale-glow: rgba(59, 130, 246, 0.3);
-  --cat-non-statale: #a855f7;
-  --cat-non-statale-glow: rgba(168, 85, 247, 0.3);
-  --cat-telematica: #10b981;
-  --cat-telematica-glow: rgba(16, 185, 129, 0.3);
-  --cat-speciale: #f59e0b;
-  --cat-speciale-glow: rgba(245, 158, 11, 0.3);
+  /* Border colors */
+  --border-primary: rgba(255, 255, 255, 0.1);
+  --border-secondary: rgba(255, 255, 255, 0.06);
+  --border-accent: rgba(34, 211, 238, 0.3);
+
+  /* Accent colors */
+  --accent-primary: #22d3ee;
+  --accent-primary-hover: #06b6d4;
+  --accent-primary-glow: rgba(34, 211, 238, 0.3);
+  --accent-secondary: #0099ff;
+  --accent-purple: #8b5cf6;
+  --accent-magenta: #d946ef;
+  --accent-pink: #f472b6;
+
+  /* Category colors */
+  --cat-statale: #60a5fa;
+  --cat-statale-bg: rgba(96, 165, 250, 0.15);
+  --cat-statale-glow: rgba(96, 165, 250, 0.4);
+
+  --cat-non-statale: #c084fc;
+  --cat-non-statale-bg: rgba(192, 132, 252, 0.15);
+  --cat-non-statale-glow: rgba(192, 132, 252, 0.4);
+
+  --cat-telematica: #34d399;
+  --cat-telematica-bg: rgba(52, 211, 153, 0.15);
+  --cat-telematica-glow: rgba(52, 211, 153, 0.4);
+
+  --cat-speciale: #fbbf24;
+  --cat-speciale-bg: rgba(251, 191, 36, 0.15);
+  --cat-speciale-glow: rgba(251, 191, 36, 0.4);
+
+  --cat-other: #9ca3af;
+  --cat-other-bg: rgba(156, 163, 175, 0.15);
+  --cat-other-glow: rgba(156, 163, 175, 0.4);
+
+  /* Map tile URL */
+  --map-tiles: "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png";
+
+  /* Shadows */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 20px rgba(0, 0, 0, 0.4);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.5);
+  --shadow-glow: 0 0 20px var(--accent-primary-glow);
+
+  /* Popup/Modal backgrounds */
+  --popup-bg: rgba(12, 16, 24, 0.95);
+  --popup-border: rgba(255, 255, 255, 0.1);
+
+  /* Selection states */
+  --selected-bg: rgba(34, 211, 238, 0.1);
+  --selected-border: #22d3ee;
+  --hover-bg: rgba(255, 255, 255, 0.03);
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   LIGHT THEME
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+[data-theme="light"] {
+  /* Background colors */
+  --bg-primary: #ffffff;
+  --bg-secondary: #f8fafc;
+  --bg-tertiary: #f1f5f9;
+  --bg-elevated: #ffffff;
+  --bg-surface: #e2e8f0;
+
+  /* Glass effect colors */
+  --glass-bg: rgba(0, 0, 0, 0.02);
+  --glass-bg-hover: rgba(0, 0, 0, 0.04);
+  --glass-border: rgba(0, 0, 0, 0.08);
+  --glass-border-hover: rgba(0, 0, 0, 0.15);
+  --glass-glow: rgba(59, 130, 246, 0.1);
+
+  /* Text colors */
+  --text-primary: rgba(0, 0, 0, 0.9);
+  --text-secondary: rgba(0, 0, 0, 0.65);
+  --text-tertiary: rgba(0, 0, 0, 0.45);
+  --text-muted: rgba(0, 0, 0, 0.25);
+
+  /* Border colors */
+  --border-primary: rgba(0, 0, 0, 0.1);
+  --border-secondary: rgba(0, 0, 0, 0.06);
+  --border-accent: rgba(59, 130, 246, 0.4);
+
+  /* Accent colors */
+  --accent-primary: #0891b2;
+  --accent-primary-hover: #0e7490;
+  --accent-primary-glow: rgba(8, 145, 178, 0.2);
+  --accent-secondary: #0066cc;
+  --accent-purple: #7c3aed;
+  --accent-magenta: #c026d3;
+  --accent-pink: #ec4899;
+
+  /* Category colors */
+  --cat-statale: #2563eb;
+  --cat-statale-bg: rgba(37, 99, 235, 0.1);
+  --cat-statale-glow: rgba(37, 99, 235, 0.3);
+
+  --cat-non-statale: #9333ea;
+  --cat-non-statale-bg: rgba(147, 51, 234, 0.1);
+  --cat-non-statale-glow: rgba(147, 51, 234, 0.3);
+
+  --cat-telematica: #059669;
+  --cat-telematica-bg: rgba(5, 150, 105, 0.1);
+  --cat-telematica-glow: rgba(5, 150, 105, 0.3);
+
+  --cat-speciale: #d97706;
+  --cat-speciale-bg: rgba(217, 119, 6, 0.1);
+  --cat-speciale-glow: rgba(217, 119, 6, 0.3);
+
   --cat-other: #6b7280;
+  --cat-other-bg: rgba(107, 114, 128, 0.1);
   --cat-other-glow: rgba(107, 114, 128, 0.3);
+
+  /* Map tile URL */
+  --map-tiles: "https://{s}.basemaps.cartocdn.com/light_all/{z}/{x}/{y}{r}.png";
+
+  /* Shadows */
+  --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 20px rgba(0, 0, 0, 0.1);
+  --shadow-lg: 0 8px 32px rgba(0, 0, 0, 0.15);
+  --shadow-glow: 0 0 20px var(--accent-primary-glow);
+
+  /* Popup/Modal backgrounds */
+  --popup-bg: rgba(255, 255, 255, 0.98);
+  --popup-border: rgba(0, 0, 0, 0.1);
+
+  /* Selection states */
+  --selected-bg: rgba(8, 145, 178, 0.1);
+  --selected-border: #0891b2;
+  --hover-bg: rgba(0, 0, 0, 0.03);
+}
+
+/* Legacy variables for backwards compatibility */
+:root {
+  --yl-dark: var(--bg-primary);
+  --yl-dark-elevated: var(--bg-tertiary);
+  --yl-dark-surface: var(--bg-elevated);
+  --accent-cyan: var(--accent-primary);
+  --accent-blue: var(--accent-secondary);
 }
 
 @theme inline {

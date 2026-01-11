@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { Sora, Plus_Jakarta_Sans } from "next/font/google";
 import { LanguageProvider } from "@/lib/i18n/LanguageContext";
+import { ThemeProvider } from "@/lib/theme/ThemeContext";
 import "./globals.css";
 
 const sora = Sora({
@@ -26,11 +27,17 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="dark">
+    <html lang="en" data-theme="dark" suppressHydrationWarning>
       <body
-        className={`${sora.variable} ${jakarta.variable} antialiased bg-yl-dark text-white`}
+        className={`${sora.variable} ${jakarta.variable} antialiased`}
+        style={{
+          background: "var(--bg-primary)",
+          color: "var(--text-primary)"
+        }}
       >
-        <LanguageProvider>{children}</LanguageProvider>
+        <ThemeProvider>
+          <LanguageProvider>{children}</LanguageProvider>
+        </ThemeProvider>
       </body>
     </html>
   );
