@@ -6,45 +6,6 @@ import type { University, FilterState, UniversityCategory } from "@/lib/types";
 import { useTranslation, useLanguage } from "@/lib/i18n/LanguageContext";
 import UniversitiesSidebar from "./UniversitiesSidebar";
 
-// Custom hook for swipe detection
-function useSwipeGesture(
-  onSwipeLeft: () => void,
-  onSwipeRight: () => void,
-  threshold = 50
-) {
-  const touchStartX = useRef<number | null>(null);
-  const touchEndX = useRef<number | null>(null);
-
-  const onTouchStart = useCallback((e: React.TouchEvent) => {
-    touchStartX.current = e.touches[0].clientX;
-    touchEndX.current = null;
-  }, []);
-
-  const onTouchMove = useCallback((e: React.TouchEvent) => {
-    touchEndX.current = e.touches[0].clientX;
-  }, []);
-
-  const onTouchEnd = useCallback(() => {
-    if (!touchStartX.current || !touchEndX.current) return;
-
-    const distance = touchStartX.current - touchEndX.current;
-    const isSwipe = Math.abs(distance) > threshold;
-
-    if (isSwipe) {
-      if (distance > 0) {
-        onSwipeLeft();
-      } else {
-        onSwipeRight();
-      }
-    }
-
-    touchStartX.current = null;
-    touchEndX.current = null;
-  }, [onSwipeLeft, onSwipeRight, threshold]);
-
-  return { onTouchStart, onTouchMove, onTouchEnd };
-}
-
 // Loading component that uses translations
 function MapLoader() {
   const { t } = useTranslation();
@@ -108,11 +69,6 @@ export default function UniversitiesClient({
   // Use CSS media query approach for mobile detection (works immediately)
   const isMobile = mounted ? window.innerWidth < 640 : false;
 
-  // Swipe gesture handlers
-  const closeSidebar = useCallback(() => setSidebarOpen(false), []);
-  const openSidebar = useCallback(() => setSidebarOpen(true), []);
-  const swipeHandlers = useSwipeGesture(closeSidebar, openSidebar, 80);
-
   // Filter universities based on search and category filters
   const filteredUniversities = universities.filter((uni) => {
     // Search filter
@@ -167,7 +123,7 @@ export default function UniversitiesClient({
   const showSidePanel = !isMobile;
 
   return (
-    <div className="flex h-full relative" {...(isMobile ? swipeHandlers : {})}>
+    <div className="flex h-full relative">
       {/* Mobile/Tablet backdrop overlay */}
       {showBottomSheet && sidebarOpen && (
         <div
