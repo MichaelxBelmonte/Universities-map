@@ -13,15 +13,17 @@ export default async function UniversitiesPage() {
   const stats = getUniversityStats(universities);
 
   return (
-    <main className="h-screen w-full flex flex-col relative overflow-hidden">
+    <main className="h-dvh w-full flex flex-col relative overflow-hidden">
       {/* Animated background mesh */}
       <div className="yl-bg-mesh" />
 
-      {/* Header */}
-      <Header stats={stats} />
+      {/* Header - Fixed at top */}
+      <div className="flex-shrink-0 relative" style={{ zIndex: 100 }}>
+        <Header stats={stats} />
+      </div>
 
       {/* Main Content */}
-      <div className="flex-1 min-h-0 relative z-10">
+      <div className="flex-1 min-h-0 relative" style={{ zIndex: 10 }}>
         <UniversitiesClient universities={universities} />
       </div>
     </main>

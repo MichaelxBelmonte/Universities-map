@@ -328,45 +328,58 @@ h1, h2, h3, h4, h5, h6 {
   border: none !important;
 }
 
+/* Override default Leaflet MarkerCluster styles */
+.marker-cluster-small,
+.marker-cluster-medium,
+.marker-cluster-large {
+  background: transparent !important;
+}
+
+.marker-cluster-small div,
+.marker-cluster-medium div,
+.marker-cluster-large div {
+  background: transparent !important;
+}
+
 .cluster-marker {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  border-radius: 50%;
-  font-weight: 600;
-  font-family: var(--font-sora), system-ui, sans-serif;
-  color: white;
-  border: 2px solid rgba(255, 255, 255, 0.2);
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+  border-radius: 50% !important;
+  font-weight: 600 !important;
+  font-family: var(--font-sora), system-ui, sans-serif !important;
+  color: white !important;
+  border: 2px solid rgba(255, 255, 255, 0.2) !important;
 }
 
 .cluster-marker.cluster-small {
-  width: 44px;
-  height: 44px;
-  background: linear-gradient(135deg, var(--accent-cyan) 0%, var(--accent-blue) 100%);
-  font-size: 13px;
+  width: 44px !important;
+  height: 44px !important;
+  background: linear-gradient(135deg, var(--accent-cyan) 0%, var(--accent-blue) 100%) !important;
+  font-size: 13px !important;
   box-shadow:
     0 0 20px rgba(0, 212, 255, 0.4),
-    0 4px 12px rgba(0, 0, 0, 0.3);
+    0 4px 12px rgba(0, 0, 0, 0.3) !important;
 }
 
 .cluster-marker.cluster-medium {
-  width: 54px;
-  height: 54px;
-  background: linear-gradient(135deg, var(--accent-purple) 0%, var(--accent-magenta) 100%);
-  font-size: 14px;
+  width: 54px !important;
+  height: 54px !important;
+  background: linear-gradient(135deg, var(--accent-purple) 0%, var(--accent-magenta) 100%) !important;
+  font-size: 14px !important;
   box-shadow:
     0 0 24px rgba(139, 92, 246, 0.4),
-    0 4px 12px rgba(0, 0, 0, 0.3);
+    0 4px 12px rgba(0, 0, 0, 0.3) !important;
 }
 
 .cluster-marker.cluster-large {
-  width: 64px;
-  height: 64px;
-  background: linear-gradient(135deg, var(--accent-magenta) 0%, var(--accent-pink) 100%);
-  font-size: 15px;
+  width: 64px !important;
+  height: 64px !important;
+  background: linear-gradient(135deg, var(--accent-magenta) 0%, var(--accent-pink) 100%) !important;
+  font-size: 15px !important;
   box-shadow:
     0 0 28px rgba(217, 70, 239, 0.4),
-    0 4px 12px rgba(0, 0, 0, 0.3);
+    0 4px 12px rgba(0, 0, 0, 0.3) !important;
 }
 
 /* Glassmorphic popup */

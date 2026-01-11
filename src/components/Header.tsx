@@ -22,7 +22,7 @@ export default function Header({ stats }: HeaderProps) {
   const { t } = useTranslation();
 
   return (
-    <header className="glass-panel relative px-2 sm:px-4 py-2 sm:py-3 flex-shrink-0 border-b-0" style={{ zIndex: 50 }}>
+    <header className="glass-panel relative px-2 sm:px-4 py-2 sm:py-3 flex-shrink-0 border-b-0">
       <div className="max-w-screen-2xl mx-auto flex items-center justify-between gap-2">
         <div className="animate-fade-in-up flex-1 min-w-0">
           <div className="flex items-center gap-2 sm:gap-3">
