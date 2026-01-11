@@ -83,38 +83,38 @@ export default function Header({ stats }: HeaderProps) {
           </div>
         </div>
 
-        {/* Center section: Stats grid - hidden on mobile */}
+        {/* Center section: Stats grid - visible on tablet+ */}
         <div
-          className="hidden md:flex items-center gap-1 lg:gap-2 px-3 py-1.5 rounded-lg"
+          className="hidden sm:flex items-center gap-0.5 md:gap-1 lg:gap-2 px-2 md:px-3 py-1 md:py-1.5 rounded-lg"
           style={{
             background: "var(--glass-bg)",
             border: "1px solid var(--border-secondary)",
           }}
         >
-          <div className="flex items-center gap-1.5 px-2" style={{ borderRight: "1px solid var(--border-primary)" }}>
+          <div className="flex items-center gap-1 md:gap-1.5 px-1.5 md:px-2" style={{ borderRight: "1px solid var(--border-primary)" }}>
             <div className="w-1.5 h-1.5 rounded-full" style={{ background: "var(--cat-statale)", boxShadow: `0 0 6px var(--cat-statale-glow)` }} />
-            <span className="font-mono font-bold text-xs" style={{ color: "var(--cat-statale)" }}>{stats.byCategory.statale}</span>
-            <span className="text-[9px] uppercase hidden lg:inline" style={{ color: "var(--text-tertiary)" }}>pub</span>
+            <span className="font-mono font-bold text-[10px] md:text-xs" style={{ color: "var(--cat-statale)" }}>{stats.byCategory.statale}</span>
+            <span className="text-[8px] md:text-[9px] uppercase hidden lg:inline" style={{ color: "var(--text-tertiary)" }}>pub</span>
           </div>
-          <div className="flex items-center gap-1.5 px-2" style={{ borderRight: "1px solid var(--border-primary)" }}>
+          <div className="flex items-center gap-1 md:gap-1.5 px-1.5 md:px-2" style={{ borderRight: "1px solid var(--border-primary)" }}>
             <div className="w-1.5 h-1.5 rounded-full" style={{ background: "var(--cat-non-statale)", boxShadow: `0 0 6px var(--cat-non-statale-glow)` }} />
-            <span className="font-mono font-bold text-xs" style={{ color: "var(--cat-non-statale)" }}>{stats.byCategory.non_statale}</span>
-            <span className="text-[9px] uppercase hidden lg:inline" style={{ color: "var(--text-tertiary)" }}>priv</span>
+            <span className="font-mono font-bold text-[10px] md:text-xs" style={{ color: "var(--cat-non-statale)" }}>{stats.byCategory.non_statale}</span>
+            <span className="text-[8px] md:text-[9px] uppercase hidden lg:inline" style={{ color: "var(--text-tertiary)" }}>priv</span>
           </div>
-          <div className="flex items-center gap-1.5 px-2" style={{ borderRight: "1px solid var(--border-primary)" }}>
+          <div className="flex items-center gap-1 md:gap-1.5 px-1.5 md:px-2 sm:border-r-0 md:border-r" style={{ borderRight: "1px solid var(--border-primary)" }}>
             <div className="w-1.5 h-1.5 rounded-full" style={{ background: "var(--cat-telematica)", boxShadow: `0 0 6px var(--cat-telematica-glow)` }} />
-            <span className="font-mono font-bold text-xs" style={{ color: "var(--cat-telematica)" }}>{stats.byCategory.telematica}</span>
-            <span className="text-[9px] uppercase hidden lg:inline" style={{ color: "var(--text-tertiary)" }}>online</span>
+            <span className="font-mono font-bold text-[10px] md:text-xs" style={{ color: "var(--cat-telematica)" }}>{stats.byCategory.telematica}</span>
+            <span className="text-[8px] md:text-[9px] uppercase hidden lg:inline" style={{ color: "var(--text-tertiary)" }}>online</span>
           </div>
-          <div className="hidden lg:flex items-center gap-1.5 px-2" style={{ borderRight: "1px solid var(--border-primary)" }}>
+          <div className="hidden md:flex items-center gap-1 md:gap-1.5 px-1.5 md:px-2" style={{ borderRight: "1px solid var(--border-primary)" }}>
             <div className="w-1.5 h-1.5 rounded-full" style={{ background: "var(--cat-speciale)", boxShadow: `0 0 6px var(--cat-speciale-glow)` }} />
-            <span className="font-mono font-bold text-xs" style={{ color: "var(--cat-speciale)" }}>{stats.byCategory.ordinamento_speciale}</span>
-            <span className="text-[9px] uppercase hidden xl:inline" style={{ color: "var(--text-tertiary)" }}>spec</span>
+            <span className="font-mono font-bold text-[10px] md:text-xs" style={{ color: "var(--cat-speciale)" }}>{stats.byCategory.ordinamento_speciale}</span>
+            <span className="text-[8px] md:text-[9px] uppercase hidden xl:inline" style={{ color: "var(--text-tertiary)" }}>spec</span>
           </div>
-          <div className="hidden lg:flex items-center gap-1.5 px-2">
+          <div className="hidden md:flex items-center gap-1 md:gap-1.5 px-1.5 md:px-2">
             <div className="w-1.5 h-1.5 rounded-full" style={{ background: "var(--cat-other)", boxShadow: `0 0 6px var(--cat-other-glow)` }} />
-            <span className="font-mono font-bold text-xs" style={{ color: "var(--cat-other)" }}>{stats.byCategory.other}</span>
-            <span className="text-[9px] uppercase hidden xl:inline" style={{ color: "var(--text-tertiary)" }}>other</span>
+            <span className="font-mono font-bold text-[10px] md:text-xs" style={{ color: "var(--cat-other)" }}>{stats.byCategory.other}</span>
+            <span className="text-[8px] md:text-[9px] uppercase hidden xl:inline" style={{ color: "var(--text-tertiary)" }}>other</span>
           </div>
         </div>
 

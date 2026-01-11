@@ -40,7 +40,7 @@ export default function UniversitiesClient({
     categories: [],
   });
   const [sidebarOpen, setSidebarOpen] = useState(false);
-  const [isTablet, setIsTablet] = useState(false);
+  const [isMobile, setIsMobile] = useState(false);
   const [mounted, setMounted] = useState(false);
 
   // Reference to map control functions
@@ -48,16 +48,15 @@ export default function UniversitiesClient({
     focusOnUniversity: (id: string) => void;
   } | null>(null);
 
-  // Detect viewport size - mobile < 640px, tablet 640-1024px, desktop > 1024px
+  // Detect viewport size - mobile < 640px, tablet/desktop >= 640px
   useEffect(() => {
     setMounted(true);
     const checkViewport = () => {
       const width = window.innerWidth;
       const mobile = width < 640;
-      const tablet = width >= 640 && width < 1024;
-      setIsTablet(tablet);
-      // Open sidebar by default on desktop only
-      if (width >= 1024) {
+      setIsMobile(mobile);
+      // Sidebar always open on tablet+ (>=640px)
+      if (!mobile) {
         setSidebarOpen(true);
       }
     };
@@ -65,9 +64,6 @@ export default function UniversitiesClient({
     window.addEventListener("resize", checkViewport);
     return () => window.removeEventListener("resize", checkViewport);
   }, []);
-
-  // Use CSS media query approach for mobile detection (works immediately)
-  const isMobile = mounted ? window.innerWidth < 640 : false;
 
   // Filter universities based on search and category filters
   const filteredUniversities = universities.filter((uni) => {
@@ -118,13 +114,13 @@ export default function UniversitiesClient({
     setFilters({ search: "", categories: [] });
   }, []);
 
-  // Determine layout mode
+  // Determine layout mode - mobile uses bottom sheet, tablet+ uses side panel
   const showBottomSheet = isMobile;
   const showSidePanel = !isMobile;
 
   return (
     <div className="flex h-full relative">
-      {/* Mobile/Tablet backdrop overlay */}
+      {/* Mobile backdrop overlay */}
       {showBottomSheet && sidebarOpen && (
         <div
           className="fixed inset-0 bg-black/60 backdrop-blur-sm transition-opacity duration-300"
@@ -133,13 +129,13 @@ export default function UniversitiesClient({
         />
       )}
 
-      {/* Sidebar - Bottom sheet on mobile, side panel on tablet/desktop */}
+      {/* Sidebar - Bottom sheet on mobile, always-visible side panel on tablet/desktop */}
       <div
         className={`
           ${showBottomSheet
             ? `fixed inset-x-0 bottom-0 h-[80vh] rounded-t-3xl transform transition-transform duration-300 ease-out
                ${sidebarOpen ? "translate-y-0" : "translate-y-full"}`
-            : `${sidebarOpen ? "w-[340px] lg:w-[400px]" : "w-0"} relative h-full transition-all duration-300 ease-in-out overflow-hidden`
+            : "w-[280px] md:w-[320px] lg:w-[380px] relative h-full flex-shrink-0"
           }
           glass-panel-elevated
         `}
@@ -196,19 +192,6 @@ export default function UniversitiesClient({
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
         </svg>
       </button>
-
-      {/* Toggle button for tablet when sidebar is closed */}
-      {showSidePanel && !sidebarOpen && (
-        <button
-          onClick={() => setSidebarOpen(true)}
-          className="absolute top-4 left-4 z-30 btn-glass p-3 shadow-lg"
-          aria-label="Open sidebar"
-        >
-          <svg className="w-6 h-6 text-white/80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
-          </svg>
-        </button>
-      )}
 
       {/* Map */}
       <div className="flex-1 h-full relative" style={{ zIndex: 1 }}>
