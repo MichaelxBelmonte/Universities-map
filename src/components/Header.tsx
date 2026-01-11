@@ -42,7 +42,7 @@ export default function Header({ stats }: HeaderProps) {
 
       <div className="max-w-screen-2xl mx-auto flex items-center justify-between gap-3">
         {/* Left section: Logo + Title */}
-        <div className="flex items-center gap-3 sm:gap-4">
+        <div className="flex items-center gap-2 sm:gap-4">
           <Image
             src="/youthlink-logo.png"
             alt="YouthLink"
@@ -53,17 +53,17 @@ export default function Header({ stats }: HeaderProps) {
             unoptimized
           />
           <div
-            className="hidden sm:block h-6 w-px"
+            className="h-4 sm:h-6 w-px"
             style={{ background: "linear-gradient(to bottom, transparent, var(--text-muted), transparent)" }}
           />
-          <div className="hidden sm:block">
+          <div>
             <h1
-              className="text-sm lg:text-base font-bold tracking-tight"
+              className="text-xs sm:text-sm lg:text-base font-bold tracking-tight"
               style={{ color: "var(--text-primary)" }}
             >
               Universities Map
             </h1>
-            <div className="flex items-center gap-2 text-[11px] font-mono" style={{ color: "var(--text-tertiary)" }}>
+            <div className="hidden sm:flex items-center gap-2 text-[11px] font-mono" style={{ color: "var(--text-tertiary)" }}>
               <span style={{ color: "var(--accent-primary)" }}>{stats.total}</span>
               <span>universities</span>
               <span style={{ color: "var(--text-muted)" }}>|</span>
