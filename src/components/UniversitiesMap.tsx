@@ -68,28 +68,56 @@ const THEME_COLORS = {
   },
 } as const;
 
-// Tech-style marker - minimal dot with glow
-const createCategoryIcon = (category: string, isDark: boolean) => {
+// Tech-style marker - refined minimal pin with subtle glow
+const createCategoryIcon = (category: string, isDark: boolean, isMobile: boolean = false) => {
   const colors = isDark ? CATEGORY_COLORS.dark : CATEGORY_COLORS.light;
   const config = colors[category as keyof typeof colors] || colors.other;
-  const borderColor = isDark ? "rgba(10,14,23,0.8)" : "rgba(255,255,255,0.9)";
+  const bgColor = isDark ? "rgba(10,14,23,0.95)" : "rgba(255,255,255,0.95)";
+
+  // Visual sizes - smaller, more refined markers
+  const outerSize = isMobile ? 10 : 14;
+  const innerSize = isMobile ? 3 : 5;
+
+  // Touch target size - larger on mobile for better touch interaction
+  const touchSize = isMobile ? 32 : outerSize;
+  const offset = (touchSize - outerSize) / 2;
 
   return L.divIcon({
     className: "custom-marker",
     html: `
       <div style="
-        width: 16px;
-        height: 16px;
-        background: ${config.main};
-        border-radius: 50%;
-        border: 2px solid ${borderColor};
-        box-shadow: 0 0 12px ${config.glow}, 0 0 4px ${config.glow};
+        width: ${touchSize}px;
+        height: ${touchSize}px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
         cursor: pointer;
-      "></div>
+      ">
+        <div style="
+          width: ${outerSize}px;
+          height: ${outerSize}px;
+          background: ${bgColor};
+          border-radius: 50%;
+          border: 1px solid ${config.main}30;
+          box-shadow: 0 0 ${isMobile ? '6px' : '10px'} ${config.glow}, 0 1px 3px rgba(0,0,0,0.15);
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          transition: transform 0.15s ease, box-shadow 0.15s ease;
+        ">
+          <div style="
+            width: ${innerSize}px;
+            height: ${innerSize}px;
+            background: ${config.main};
+            border-radius: 50%;
+            box-shadow: 0 0 ${isMobile ? '3px' : '5px'} ${config.glow};
+          "></div>
+        </div>
+      </div>
     `,
-    iconSize: [16, 16],
-    iconAnchor: [8, 8],
-    popupAnchor: [0, -12],
+    iconSize: [touchSize, touchSize],
+    iconAnchor: [touchSize / 2, touchSize / 2],
+    popupAnchor: [0, -outerSize / 2 - 4],
   });
 };
 
@@ -109,12 +137,14 @@ function MarkerClusterGroup({
   onSelect,
   language,
   isDark,
+  isMobile,
 }: {
   universities: University[];
   selectedId: string | null;
   onSelect: (id: string) => void;
   language: Language;
   isDark: boolean;
+  isMobile: boolean;
 }) {
   const map = useMap();
   const clusterGroupRef = useRef<L.MarkerClusterGroup | null>(null);
@@ -230,9 +260,21 @@ function MarkerClusterGroup({
       clusterGroupRef.current = null;
     }
 
+    // Responsive cluster sizes
+    const getClusterSize = (count: number) => {
+      if (isMobile) {
+        if (count > 50) return { size: 36, fontSize: 11 };
+        if (count > 10) return { size: 32, fontSize: 10 };
+        return { size: 28, fontSize: 9 };
+      }
+      if (count > 50) return { size: 44, fontSize: 13 };
+      if (count > 10) return { size: 38, fontSize: 12 };
+      return { size: 32, fontSize: 11 };
+    };
+
     clusterGroupRef.current = L.markerClusterGroup({
       chunkedLoading: true,
-      maxClusterRadius: 50,
+      maxClusterRadius: isMobile ? 40 : 50,
       spiderfyOnMaxZoom: true,
       showCoverageOnHover: false,
       zoomToBoundsOnClick: true,
@@ -240,16 +282,7 @@ function MarkerClusterGroup({
       animate: true,
       iconCreateFunction: (cluster) => {
         const count = cluster.getChildCount();
-        let size = 36;
-        let fontSize = 11;
-
-        if (count > 50) {
-          size = 48;
-          fontSize = 13;
-        } else if (count > 10) {
-          size = 42;
-          fontSize = 12;
-        }
+        const { size, fontSize } = getClusterSize(count);
 
         return L.divIcon({
           html: `
@@ -266,7 +299,7 @@ function MarkerClusterGroup({
               font-size: ${fontSize}px;
               font-weight: 700;
               color: ${theme.accent};
-              box-shadow: 0 0 20px ${theme.accentBg};
+              box-shadow: 0 0 ${isMobile ? '12px' : '20px'} ${theme.accentBg};
             ">${count}</div>
           `,
           className: "custom-cluster",
@@ -279,7 +312,7 @@ function MarkerClusterGroup({
     markersRef.current.clear();
 
     universities.forEach((uni) => {
-      const icon = createCategoryIcon(uni.category, isDark);
+      const icon = createCategoryIcon(uni.category, isDark, isMobile);
       const marker = L.marker([uni.lat, uni.lng], { icon });
 
       const popup = L.popup({
@@ -318,7 +351,7 @@ function MarkerClusterGroup({
         clusterGroupRef.current = null;
       }
     };
-  }, [universities, map, onSelect, language, isDark]);
+  }, [universities, map, onSelect, language, isDark, isMobile]);
 
   useEffect(() => {
     if (selectedId) {
@@ -450,6 +483,15 @@ const UniversitiesMap = forwardRef<MapRef, UniversitiesMapProps>(
   function UniversitiesMap({ universities, selectedId, onSelect, language }, ref) {
     const mapInstanceRef = useRef<L.Map | null>(null);
     const { isDark } = useTheme();
+    const [isMobile, setIsMobile] = React.useState(false);
+
+    // Detect mobile viewport
+    React.useEffect(() => {
+      const checkMobile = () => setIsMobile(window.innerWidth < 640);
+      checkMobile();
+      window.addEventListener("resize", checkMobile);
+      return () => window.removeEventListener("resize", checkMobile);
+    }, []);
 
     useImperativeHandle(ref, () => ({
       focusOnUniversity: (id: string) => {
@@ -493,6 +535,7 @@ const UniversitiesMap = forwardRef<MapRef, UniversitiesMapProps>(
             onSelect={onSelect}
             language={language}
             isDark={isDark}
+            isMobile={isMobile}
           />
           <MapControls language={language} />
         </MapContainer>

@@ -454,9 +454,27 @@ h1, h2, h3, h4, h5, h6 {
   border: none !important;
 }
 
+/* Target the visual marker (inner nested div) for hover effects */
+.custom-marker > div > div {
+  transition: transform 0.15s ease, box-shadow 0.15s ease !important;
+}
+
+.custom-marker:hover > div > div {
+  transform: scale(1.15) !important;
+}
+
+/* Custom cluster markers */
 .custom-cluster {
   background: transparent !important;
   border: none !important;
+}
+
+.custom-cluster > div {
+  transition: transform 0.15s ease, box-shadow 0.15s ease !important;
+}
+
+.custom-cluster:hover > div {
+  transform: scale(1.06) !important;
 }
 
 /* Override default Leaflet MarkerCluster styles */
@@ -728,7 +746,7 @@ h1, h2, h3, h4, h5, h6 {
 @media (max-width: 640px) {
   /* Better tap highlighting */
   * {
-    -webkit-tap-highlight-color: rgba(0, 212, 255, 0.1);
+    -webkit-tap-highlight-color: var(--accent-primary-glow);
     -webkit-touch-callout: none;
   }
 
@@ -736,12 +754,6 @@ h1, h2, h3, h4, h5, h6 {
   button, a, input[type="button"], input[type="submit"] {
     -webkit-user-select: none;
     user-select: none;
-  }
-
-  /* Ensure touch targets are at least 44x44px */
-  button, a, input, select, textarea {
-    min-height: 44px;
-    min-width: 44px;
   }
 
   /* Smoother scrolling on mobile */
@@ -755,7 +767,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   ::-webkit-scrollbar-thumb {
-    background: rgba(255, 255, 255, 0.15);
+    background: var(--text-muted);
   }
 
   /* Reduce animations on mobile for better performance */
@@ -785,17 +797,31 @@ h1, h2, h3, h4, h5, h6 {
   }
 
   /* Compact map controls on mobile */
+  .leaflet-control-zoom {
+    border-radius: 8px !important;
+  }
+
   .leaflet-control-zoom a {
-    width: 32px !important;
-    height: 32px !important;
-    line-height: 32px !important;
-    font-size: 16px !important;
+    width: 28px !important;
+    height: 28px !important;
+    line-height: 28px !important;
+    font-size: 14px !important;
   }
 
   /* Smaller popup on mobile */
   .leaflet-popup-content {
-    margin: 12px 16px !important;
-    max-width: 240px !important;
+    margin: 10px 14px !important;
+    max-width: 220px !important;
+    font-size: 12px !important;
+  }
+
+  .leaflet-popup-content-wrapper {
+    border-radius: 12px !important;
+  }
+
+  .leaflet-popup-close-button {
+    font-size: 16px !important;
+    padding: 6px 10px !important;
   }
 
   .leaflet-popup-content-wrapper {
@@ -918,10 +944,13 @@ a:active {
     touch-action: none;
   }
 
-  /* Larger touch targets for map markers */
-  .custom-marker > div {
-    min-width: 40px;
-    min-height: 40px;
+  /* Disable hover effects on mobile (touch devices) */
+  .custom-marker:hover > div > div {
+    transform: none !important;
+  }
+
+  .custom-cluster:hover > div {
+    transform: none !important;
   }
 
   /* Better popup sizing on mobile */

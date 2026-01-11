@@ -176,21 +176,25 @@ export default function UniversitiesClient({
         onClick={() => setSidebarOpen(true)}
         className={`
           fixed bottom-6 left-1/2 -translate-x-1/2
-          bg-gradient-to-r from-cyan-500 to-blue-500
-          text-white px-6 py-4 rounded-full
-          shadow-xl shadow-cyan-500/40
-          flex items-center gap-3 touch-manipulation
+          w-12 h-12 rounded-full
+          flex items-center justify-center touch-manipulation
           active:scale-95 transition-all duration-200
           sm:hidden
           ${sidebarOpen ? "opacity-0 pointer-events-none translate-y-4" : "opacity-100 translate-y-0"}
         `}
-        style={{ zIndex: 10000 }}
+        style={{
+          zIndex: 10000,
+          background: "color-mix(in srgb, var(--bg-secondary) 95%, transparent)",
+          backdropFilter: "blur(12px)",
+          border: "1px solid var(--border-accent)",
+          color: "var(--accent-primary)",
+          boxShadow: "0 4px 24px rgba(0,0,0,0.3), 0 0 20px var(--accent-primary-glow)",
+        }}
         aria-label="Find universities"
       >
-        <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+        <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
           <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
         </svg>
-        <span className="font-semibold">{t("sidebarTitle")}</span>
       </button>
 
       {/* Toggle button for tablet when sidebar is closed */}
