@@ -1,10 +1,49 @@
 "use client";
 
-import { useState, useCallback, useRef } from "react";
+import { useState, useCallback, useRef, useEffect } from "react";
 import dynamic from "next/dynamic";
 import type { University, FilterState, UniversityCategory } from "@/lib/types";
 import { useTranslation, useLanguage } from "@/lib/i18n/LanguageContext";
 import UniversitiesSidebar from "./UniversitiesSidebar";
+
+// Custom hook for swipe detection
+function useSwipeGesture(
+  onSwipeLeft: () => void,
+  onSwipeRight: () => void,
+  threshold = 50
+) {
+  const touchStartX = useRef<number | null>(null);
+  const touchEndX = useRef<number | null>(null);
+
+  const onTouchStart = useCallback((e: React.TouchEvent) => {
+    touchStartX.current = e.touches[0].clientX;
+    touchEndX.current = null;
+  }, []);
+
+  const onTouchMove = useCallback((e: React.TouchEvent) => {
+    touchEndX.current = e.touches[0].clientX;
+  }, []);
+
+  const onTouchEnd = useCallback(() => {
+    if (!touchStartX.current || !touchEndX.current) return;
+
+    const distance = touchStartX.current - touchEndX.current;
+    const isSwipe = Math.abs(distance) > threshold;
+
+    if (isSwipe) {
+      if (distance > 0) {
+        onSwipeLeft();
+      } else {
+        onSwipeRight();
+      }
+    }
+
+    touchStartX.current = null;
+    touchEndX.current = null;
+  }, [onSwipeLeft, onSwipeRight, threshold]);
+
+  return { onTouchStart, onTouchMove, onTouchEnd };
+}
 
 // Loading component that uses translations
 function MapLoader() {
@@ -39,12 +78,40 @@ export default function UniversitiesClient({
     search: "",
     categories: [],
   });
-  const [sidebarOpen, setSidebarOpen] = useState(true);
+  const [sidebarOpen, setSidebarOpen] = useState(false);
+  const [isTablet, setIsTablet] = useState(false);
+  const [mounted, setMounted] = useState(false);
 
   // Reference to map control functions
   const mapRef = useRef<{
     focusOnUniversity: (id: string) => void;
   } | null>(null);
+
+  // Detect viewport size - mobile < 640px, tablet 640-1024px, desktop > 1024px
+  useEffect(() => {
+    setMounted(true);
+    const checkViewport = () => {
+      const width = window.innerWidth;
+      const mobile = width < 640;
+      const tablet = width >= 640 && width < 1024;
+      setIsTablet(tablet);
+      // Open sidebar by default on desktop only
+      if (width >= 1024) {
+        setSidebarOpen(true);
+      }
+    };
+    checkViewport();
+    window.addEventListener("resize", checkViewport);
+    return () => window.removeEventListener("resize", checkViewport);
+  }, []);
+
+  // Use CSS media query approach for mobile detection (works immediately)
+  const isMobile = mounted ? window.innerWidth < 640 : false;
+
+  // Swipe gesture handlers
+  const closeSidebar = useCallback(() => setSidebarOpen(false), []);
+  const openSidebar = useCallback(() => setSidebarOpen(true), []);
+  const swipeHandlers = useSwipeGesture(closeSidebar, openSidebar, 80);
 
   // Filter universities based on search and category filters
   const filteredUniversities = universities.filter((uni) => {
@@ -95,60 +162,103 @@ export default function UniversitiesClient({
     setFilters({ search: "", categories: [] });
   }, []);
 
+  // Determine layout mode
+  const showBottomSheet = isMobile;
+  const showSidePanel = !isMobile;
+
   return (
-    <div className="flex h-full relative">
-      {/* Sidebar */}
+    <div className="flex h-full relative" {...(isMobile ? swipeHandlers : {})}>
+      {/* Mobile/Tablet backdrop overlay */}
+      {showBottomSheet && sidebarOpen && (
+        <div
+          className="fixed inset-0 bg-black/60 backdrop-blur-sm transition-opacity duration-300"
+          style={{ zIndex: 9998 }}
+          onClick={() => setSidebarOpen(false)}
+        />
+      )}
+
+      {/* Sidebar - Bottom sheet on mobile, side panel on tablet/desktop */}
       <div
         className={`
-          ${sidebarOpen ? "w-full sm:w-[400px]" : "w-0"}
-          transition-all duration-300 ease-in-out
-          absolute sm:relative z-20 h-full
+          ${showBottomSheet
+            ? `fixed inset-x-0 bottom-0 h-[80vh] rounded-t-3xl transform transition-transform duration-300 ease-out
+               ${sidebarOpen ? "translate-y-0" : "translate-y-full"}`
+            : `${sidebarOpen ? "w-[340px] lg:w-[400px]" : "w-0"} relative h-full transition-all duration-300 ease-in-out overflow-hidden`
+          }
           glass-panel-elevated
-          overflow-hidden
         `}
+        style={{ zIndex: showBottomSheet ? 9999 : 20 }}
       >
-        <UniversitiesSidebar
-          universities={filteredUniversities}
-          selectedId={selectedId}
-          filters={filters}
-          onUniversityClick={handleUniversityClick}
-          onSearchChange={handleSearchChange}
-          onCategoryToggle={handleCategoryToggle}
-          onClearFilters={handleClearFilters}
-          onClose={() => setSidebarOpen(false)}
-        />
+        {/* Drag handle for mobile bottom sheet */}
+        {showBottomSheet && (
+          <div
+            className="flex justify-center py-3 cursor-grab active:cursor-grabbing"
+            onClick={() => setSidebarOpen(false)}
+          >
+            <div className="w-12 h-1.5 rounded-full bg-white/30" />
+          </div>
+        )}
+        <div className={showBottomSheet ? "h-[calc(100%-24px)] overflow-hidden" : "h-full"}>
+          <UniversitiesSidebar
+            universities={filteredUniversities}
+            selectedId={selectedId}
+            filters={filters}
+            onUniversityClick={(id) => {
+              handleUniversityClick(id);
+              if (showBottomSheet) setSidebarOpen(false);
+            }}
+            onSearchChange={handleSearchChange}
+            onCategoryToggle={handleCategoryToggle}
+            onClearFilters={handleClearFilters}
+            onClose={() => setSidebarOpen(false)}
+          />
+        </div>
       </div>
 
-      {/* Toggle sidebar button (mobile) */}
-      {!sidebarOpen && (
+      {/* Floating Action Button - ALWAYS visible on mobile when sidebar closed */}
+      <button
+        onClick={() => setSidebarOpen(true)}
+        className={`
+          fixed bottom-6 left-1/2 -translate-x-1/2
+          bg-gradient-to-r from-cyan-500 to-blue-500
+          text-white px-6 py-4 rounded-full
+          shadow-xl shadow-cyan-500/40
+          flex items-center gap-3 touch-manipulation
+          active:scale-95 transition-all duration-200
+          sm:hidden
+          ${sidebarOpen ? "opacity-0 pointer-events-none translate-y-4" : "opacity-100 translate-y-0"}
+        `}
+        style={{ zIndex: 10000 }}
+        aria-label="Find universities"
+      >
+        <svg className="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+        </svg>
+        <span className="font-semibold">{t("sidebarTitle")}</span>
+      </button>
+
+      {/* Toggle button for tablet when sidebar is closed */}
+      {showSidePanel && !sidebarOpen && (
         <button
           onClick={() => setSidebarOpen(true)}
-          className="absolute top-4 left-4 z-30 btn-glass p-3"
+          className="absolute top-4 left-4 z-30 btn-glass p-3 shadow-lg"
           aria-label="Open sidebar"
         >
-          <svg
-            className="w-6 h-6 text-white/80"
-            fill="none"
-            stroke="currentColor"
-            viewBox="0 0 24 24"
-          >
-            <path
-              strokeLinecap="round"
-              strokeLinejoin="round"
-              strokeWidth={2}
-              d="M4 6h16M4 12h16M4 18h16"
-            />
+          <svg className="w-6 h-6 text-white/80" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
           </svg>
         </button>
       )}
 
       {/* Map */}
-      <div className="flex-1 h-full">
+      <div className="flex-1 h-full relative" style={{ zIndex: 1 }}>
         {mappableUniversities.length > 0 ? (
           <UniversitiesMap
             universities={mappableUniversities}
             selectedId={selectedId}
-            onSelect={setSelectedId}
+            onSelect={(id) => {
+              setSelectedId(id);
+            }}
             language={language}
             ref={mapRef}
           />

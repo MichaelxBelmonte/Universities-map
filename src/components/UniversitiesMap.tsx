@@ -363,7 +363,11 @@ const UniversitiesMap = forwardRef<MapRef, UniversitiesMapProps>(
         maxZoom={18}
         maxBounds={italyBounds}
         maxBoundsViscosity={0.8}
-        className="w-full h-full"
+        className="w-full h-full touch-pan-xy"
+        zoomControl={true}
+        scrollWheelZoom={true}
+        doubleClickZoom={true}
+        dragging={true}
         ref={(map) => {
           if (map) {
             mapInstanceRef.current = map;

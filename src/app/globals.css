@@ -580,3 +580,232 @@ h1, h2, h3, h4, h5, h6 {
   color: var(--accent-cyan);
   text-shadow: 0 0 10px rgba(0, 212, 255, 0.5);
 }
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   MOBILE OPTIMIZATIONS
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Safe area insets for notched devices */
+@supports (padding: env(safe-area-inset-top)) {
+  html {
+    padding-top: env(safe-area-inset-top);
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+}
+
+/* Mobile viewport height fix - prevents address bar issues */
+@supports (-webkit-touch-callout: none) {
+  html, body {
+    min-height: -webkit-fill-available;
+  }
+}
+
+/* Mobile touch optimizations */
+@media (max-width: 640px) {
+  /* Better tap highlighting */
+  * {
+    -webkit-tap-highlight-color: rgba(0, 212, 255, 0.1);
+    -webkit-touch-callout: none;
+  }
+
+  /* Prevent text selection on UI elements */
+  button, a, input[type="button"], input[type="submit"] {
+    -webkit-user-select: none;
+    user-select: none;
+  }
+
+  /* Ensure touch targets are at least 44x44px */
+  button, a, input, select, textarea {
+    min-height: 44px;
+    min-width: 44px;
+  }
+
+  /* Smoother scrolling on mobile */
+  * {
+    -webkit-overflow-scrolling: touch;
+  }
+
+  /* Thinner scrollbars on mobile */
+  ::-webkit-scrollbar {
+    width: 3px;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.15);
+  }
+
+  /* Reduce animations on mobile for better performance */
+  .animate-fade-in-up {
+    animation-duration: 0.3s;
+  }
+
+  /* Optimize backdrop filter performance on mobile */
+  .glass-panel,
+  .glass-panel-elevated,
+  .glass-input {
+    will-change: transform;
+    transform: translateZ(0);
+  }
+
+  /* Better font rendering on mobile */
+  body {
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+
+  /* Fix for mobile keyboard pushing content */
+  input:focus,
+  textarea:focus {
+    font-size: 16px; /* Prevents zoom on iOS */
+  }
+
+  /* Compact map controls on mobile */
+  .leaflet-control-zoom a {
+    width: 32px !important;
+    height: 32px !important;
+    line-height: 32px !important;
+    font-size: 16px !important;
+  }
+
+  /* Smaller popup on mobile */
+  .leaflet-popup-content {
+    margin: 12px 16px !important;
+    max-width: 240px !important;
+  }
+
+  .leaflet-popup-content-wrapper {
+    border-radius: 12px !important;
+  }
+}
+
+/* Extra small devices */
+@media (max-width: 380px) {
+  /* Even more compact on very small screens */
+  .glass-input {
+    font-size: 14px;
+    padding: 10px 12px;
+  }
+
+  /* Smaller badges and pills */
+  .filter-pill,
+  .badge-statale,
+  .badge-non-statale,
+  .badge-telematica,
+  .badge-speciale,
+  .badge-other {
+    font-size: 10px;
+    padding: 4px 8px;
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   MOBILE BOTTOM SHEET STYLES
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* Smooth momentum scrolling for lists */
+.overflow-y-auto {
+  -webkit-overflow-scrolling: touch;
+  overscroll-behavior-y: contain;
+  scroll-behavior: smooth;
+}
+
+/* Bottom sheet rounded corners */
+@media (max-width: 640px) {
+  .glass-panel-elevated.rounded-t-3xl {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  /* Hide scrollbar on mobile but keep functionality */
+  .overflow-y-auto::-webkit-scrollbar {
+    display: none;
+  }
+
+  .overflow-y-auto {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+}
+
+/* Pull indicator animation */
+@keyframes pulse-subtle {
+  0%, 100% {
+    opacity: 0.2;
+  }
+  50% {
+    opacity: 0.4;
+  }
+}
+
+/* Floating action button glow */
+@keyframes fab-glow {
+  0%, 100% {
+    box-shadow: 0 4px 20px rgba(0, 212, 255, 0.3);
+  }
+  50% {
+    box-shadow: 0 4px 30px rgba(0, 212, 255, 0.5);
+  }
+}
+
+/* ═══════════════════════════════════════════════════════════════════════════
+   PERFORMANCE OPTIMIZATIONS FOR TOUCH
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* GPU acceleration for smooth animations */
+.fixed,
+[class*="translate-"],
+[class*="scale-"] {
+  will-change: transform;
+  transform: translateZ(0);
+  backface-visibility: hidden;
+}
+
+/* Smooth transitions for interactive elements */
+button,
+a,
+.uni-list-item {
+  transition: transform 0.15s ease-out, opacity 0.15s ease-out;
+}
+
+/* Active state for touch feedback */
+button:active,
+a:active {
+  opacity: 0.8;
+}
+
+/* Prevent content shift on touch */
+.touch-manipulation {
+  touch-action: manipulation;
+}
+
+/* Leaflet mobile touch improvements */
+.touch-pan-xy {
+  touch-action: pan-x pan-y pinch-zoom;
+}
+
+@media (max-width: 640px) {
+  .leaflet-container {
+    touch-action: pan-x pan-y pinch-zoom;
+  }
+
+  .leaflet-marker-icon,
+  .leaflet-marker-shadow {
+    touch-action: none;
+  }
+
+  /* Larger touch targets for map markers */
+  .custom-marker > div {
+    min-width: 40px;
+    min-height: 40px;
+  }
+
+  /* Better popup sizing on mobile */
+  .leaflet-popup-content-wrapper {
+    max-width: 280px !important;
+  }
+
+  .leaflet-popup-content {
+    font-size: 13px !important;
+  }
+}
