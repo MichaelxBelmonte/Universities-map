@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { useTranslation } from "@/lib/i18n/LanguageContext";
 import LanguageSwitcher from "./LanguageSwitcher";
 
@@ -26,20 +27,20 @@ export default function Header({ stats }: HeaderProps) {
       <div className="max-w-screen-2xl mx-auto flex items-center justify-between gap-2">
         <div className="animate-fade-in-up flex-1 min-w-0">
           <div className="flex items-center gap-2 sm:gap-3">
-            <div className="w-8 h-8 sm:w-10 sm:h-10 rounded-lg sm:rounded-xl bg-gradient-to-br from-cyan-400 to-blue-500 flex items-center justify-center shadow-lg shadow-cyan-500/25 flex-shrink-0">
-              <svg
-                className="w-4 h-4 sm:w-5 sm:h-5"
-                fill="white"
-                viewBox="0 0 24 24"
-              >
-                <path d="M12 3L1 9L5 11.18V17.18L12 21L19 17.18V11.18L21 10.09V17H23V9L12 3ZM18.82 9L12 12.72L5.18 9L12 5.28L18.82 9Z"/>
-              </svg>
+            {/* YouthLink Logo */}
+            <div className="flex-shrink-0">
+              <Image
+                src="/youthlink-logo.png"
+                alt="YouthLink"
+                width={120}
+                height={28}
+                className="h-6 sm:h-7 w-auto"
+                priority
+              />
             </div>
+            <div className="hidden sm:block h-6 w-px bg-white/20" />
             <div className="flex-1 min-w-0">
               <div className="flex items-center gap-1.5 sm:gap-2 flex-wrap">
-                <h1 className="text-sm sm:text-lg font-semibold tracking-tight whitespace-nowrap">
-                  {t("appTitle")}
-                </h1>
                 <span className="hidden sm:inline-flex px-2 py-0.5 text-[10px] sm:text-xs font-medium rounded-full bg-gradient-to-r from-green-500/20 to-red-500/20 border border-white/10 text-white/70 whitespace-nowrap">
                   🇮🇹 {t("appSubtitle")}
                 </span>
