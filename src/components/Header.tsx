@@ -23,78 +23,72 @@ export default function Header({ stats }: HeaderProps) {
   const { t } = useTranslation();
 
   return (
-    <header className="glass-panel relative px-2 sm:px-4 py-2 sm:py-3 flex-shrink-0 border-b-0">
-      <div className="max-w-screen-2xl mx-auto flex items-center justify-between gap-2">
-        <div className="animate-fade-in-up flex-1 min-w-0">
-          <div className="flex items-center gap-2 sm:gap-3">
-            {/* YouthLink Logo */}
-            <div className="flex-shrink-0">
-              <Image
-                src="/youthlink-logo.png"
-                alt="YouthLink"
-                width={240}
-                height={56}
-                className="h-5 sm:h-8 w-auto"
-                priority
-                unoptimized
-              />
-            </div>
-            <div className="hidden sm:block h-8 w-px bg-white/20" />
-            <div className="flex-1 min-w-0">
-              <div className="flex items-center gap-1.5 sm:gap-2 flex-wrap">
-                <h1 className="text-sm sm:text-base font-semibold text-white/90">
-                  Universities Map
-                </h1>
-                <span className="hidden sm:inline-flex px-2 py-0.5 text-[10px] sm:text-xs font-medium rounded-full bg-gradient-to-r from-green-500/20 to-red-500/20 border border-white/10 text-white/70 whitespace-nowrap">
-                  🇮🇹 {t("appSubtitle")}
-                </span>
-              </div>
-              <p className="text-[10px] sm:text-sm text-white/50 truncate">
-                <span className="stat-glow-cyan font-medium">{stats.total}</span>{" "}
-                <span className="hidden sm:inline">{t("universities")}</span>
-                <span className="sm:hidden">uni</span>
-                {" • "}
-                <span className="text-white/70">{stats.totalCampuses}</span>{" "}
-                <span className="hidden sm:inline">{t("campuses")}</span>
-                <span className="sm:hidden">sedi</span>
-              </p>
+    <header className="relative px-3 sm:px-5 py-2.5 sm:py-3 flex-shrink-0 bg-[#0a0e17]/90 backdrop-blur-xl border-b border-cyan-500/10">
+      {/* Subtle gradient line at top */}
+      <div className="absolute top-0 left-0 right-0 h-[1px] bg-gradient-to-r from-transparent via-cyan-500/50 to-transparent" />
+
+      <div className="max-w-screen-2xl mx-auto flex items-center justify-between gap-3">
+        {/* Left section: Logo + Title */}
+        <div className="flex items-center gap-3 sm:gap-4">
+          <Image
+            src="/youthlink-logo.png"
+            alt="YouthLink"
+            width={240}
+            height={56}
+            className="h-5 sm:h-7 w-auto"
+            priority
+            unoptimized
+          />
+          <div className="hidden sm:block h-6 w-px bg-gradient-to-b from-transparent via-white/20 to-transparent" />
+          <div className="hidden sm:block">
+            <h1 className="text-sm lg:text-base font-bold text-white tracking-tight">
+              Universities Map
+            </h1>
+            <div className="flex items-center gap-2 text-[11px] text-white/50 font-mono">
+              <span className="text-cyan-400">{stats.total}</span>
+              <span>universities</span>
+              <span className="text-white/20">|</span>
+              <span className="text-cyan-400">{stats.totalCampuses}</span>
+              <span>campuses</span>
+              <span className="inline-flex items-center gap-1 ml-1 px-1.5 py-0.5 rounded bg-white/5 border border-white/10">
+                <span>🇮🇹</span>
+                <span className="text-[10px]">IT</span>
+              </span>
             </div>
           </div>
         </div>
 
-        <div className="flex items-center gap-3 sm:gap-4 flex-shrink-0">
-          {/* Tech-style stats - hidden on mobile */}
-          <div
-            className="hidden md:flex items-center gap-4 lg:gap-6 text-xs font-mono animate-fade-in-up"
-            style={{ animationDelay: "100ms" }}
-          >
-            <div className="flex flex-col items-center">
-              <span className="text-blue-400 font-bold text-sm lg:text-base">{stats.byCategory.statale}</span>
-              <span className="text-white/40 text-[10px] uppercase tracking-wider">{t("statale")}</span>
-            </div>
-            <div className="hidden lg:flex flex-col items-center">
-              <span className="text-purple-400 font-bold text-sm lg:text-base">{stats.byCategory.non_statale}</span>
-              <span className="text-white/40 text-[10px] uppercase tracking-wider">{t("nonStatale")}</span>
-            </div>
-            <div className="hidden lg:flex flex-col items-center">
-              <span className="text-emerald-400 font-bold text-sm lg:text-base">{stats.byCategory.telematica}</span>
-              <span className="text-white/40 text-[10px] uppercase tracking-wider">{t("telematica")}</span>
-            </div>
-            <div className="hidden xl:flex flex-col items-center">
-              <span className="text-amber-400 font-bold text-sm lg:text-base">{stats.byCategory.ordinamento_speciale}</span>
-              <span className="text-white/40 text-[10px] uppercase tracking-wider">{t("speciale")}</span>
-            </div>
-            <div className="hidden xl:flex flex-col items-center">
-              <span className="text-gray-400 font-bold text-sm lg:text-base">{stats.byCategory.other}</span>
-              <span className="text-white/40 text-[10px] uppercase tracking-wider">{t("other")}</span>
-            </div>
+        {/* Center section: Stats grid - hidden on mobile */}
+        <div className="hidden md:flex items-center gap-1 lg:gap-2 px-3 py-1.5 rounded-lg bg-white/[0.02] border border-white/[0.06]">
+          <div className="flex items-center gap-1.5 px-2 border-r border-white/10">
+            <div className="w-1.5 h-1.5 rounded-full bg-blue-400 shadow-sm shadow-blue-400/50" />
+            <span className="text-blue-400 font-mono font-bold text-xs">{stats.byCategory.statale}</span>
+            <span className="text-white/40 text-[9px] uppercase hidden lg:inline">pub</span>
           </div>
-
-          {/* Language switcher */}
-          <div className="animate-fade-in-up" style={{ animationDelay: "150ms" }}>
-            <LanguageSwitcher />
+          <div className="flex items-center gap-1.5 px-2 border-r border-white/10">
+            <div className="w-1.5 h-1.5 rounded-full bg-purple-400 shadow-sm shadow-purple-400/50" />
+            <span className="text-purple-400 font-mono font-bold text-xs">{stats.byCategory.non_statale}</span>
+            <span className="text-white/40 text-[9px] uppercase hidden lg:inline">priv</span>
+          </div>
+          <div className="flex items-center gap-1.5 px-2 border-r border-white/10">
+            <div className="w-1.5 h-1.5 rounded-full bg-emerald-400 shadow-sm shadow-emerald-400/50" />
+            <span className="text-emerald-400 font-mono font-bold text-xs">{stats.byCategory.telematica}</span>
+            <span className="text-white/40 text-[9px] uppercase hidden lg:inline">online</span>
+          </div>
+          <div className="hidden lg:flex items-center gap-1.5 px-2 border-r border-white/10">
+            <div className="w-1.5 h-1.5 rounded-full bg-amber-400 shadow-sm shadow-amber-400/50" />
+            <span className="text-amber-400 font-mono font-bold text-xs">{stats.byCategory.ordinamento_speciale}</span>
+            <span className="text-white/40 text-[9px] uppercase hidden xl:inline">spec</span>
+          </div>
+          <div className="hidden lg:flex items-center gap-1.5 px-2">
+            <div className="w-1.5 h-1.5 rounded-full bg-gray-400 shadow-sm shadow-gray-400/50" />
+            <span className="text-gray-400 font-mono font-bold text-xs">{stats.byCategory.other}</span>
+            <span className="text-white/40 text-[9px] uppercase hidden xl:inline">other</span>
           </div>
         </div>
+
+        {/* Right section: Language switcher */}
+        <LanguageSwitcher />
       </div>
     </header>
   );
