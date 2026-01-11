@@ -32,20 +32,24 @@ export default function Header({ stats }: HeaderProps) {
               <Image
                 src="/youthlink-logo.png"
                 alt="YouthLink"
-                width={120}
-                height={28}
-                className="h-6 sm:h-7 w-auto"
+                width={240}
+                height={56}
+                className="h-5 sm:h-8 w-auto"
                 priority
+                unoptimized
               />
             </div>
-            <div className="hidden sm:block h-6 w-px bg-white/20" />
+            <div className="hidden sm:block h-8 w-px bg-white/20" />
             <div className="flex-1 min-w-0">
               <div className="flex items-center gap-1.5 sm:gap-2 flex-wrap">
+                <h1 className="text-sm sm:text-base font-semibold text-white/90">
+                  Universities Map
+                </h1>
                 <span className="hidden sm:inline-flex px-2 py-0.5 text-[10px] sm:text-xs font-medium rounded-full bg-gradient-to-r from-green-500/20 to-red-500/20 border border-white/10 text-white/70 whitespace-nowrap">
                   🇮🇹 {t("appSubtitle")}
                 </span>
               </div>
-              <p className="text-[11px] sm:text-sm text-white/50 truncate">
+              <p className="text-[10px] sm:text-sm text-white/50 truncate">
                 <span className="stat-glow-cyan font-medium">{stats.total}</span>{" "}
                 <span className="hidden sm:inline">{t("universities")}</span>
                 <span className="sm:hidden">uni</span>
