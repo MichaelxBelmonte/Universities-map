@@ -13,6 +13,7 @@ interface UniversitiesSidebarProps {
   onCategoryToggle: (category: UniversityCategory) => void;
   onClearFilters: () => void;
   onClose: () => void;
+  onViewPrograms?: (university: University) => void;
 }
 
 const ALL_CATEGORIES: UniversityCategory[] = [
@@ -41,6 +42,7 @@ export default function UniversitiesSidebar({
   onCategoryToggle,
   onClearFilters,
   onClose,
+  onViewPrograms,
 }: UniversitiesSidebarProps) {
   const { t } = useTranslation();
   const hasActiveFilters = filters.search || filters.categories.length > 0;
@@ -283,21 +285,49 @@ export default function UniversitiesSidebar({
                               </span>
                             </>
                           )}
+                          {uni.programCount && uni.programCount > 0 && (
+                            <>
+                              <span style={{ color: "var(--text-muted)" }}>•</span>
+                              <span
+                                className="text-[10px] font-mono"
+                                style={{ color: "var(--accent-primary)" }}
+                              >
+                                {uni.programCount} {t("programsCount")}
+                              </span>
+                            </>
+                          )}
                         </div>
                       </div>
-                      <a
-                        href={uni.officialUrl}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        onClick={(e) => e.stopPropagation()}
-                        className="flex-shrink-0 p-1.5 transition-colors rounded"
-                        style={{ color: "var(--text-muted)" }}
-                        title="Open website"
-                      >
-                        <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                        </svg>
-                      </a>
+                      <div className="flex flex-col gap-1 flex-shrink-0">
+                        {uni.programCount && uni.programCount > 0 && onViewPrograms && (
+                          <button
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              onViewPrograms(uni);
+                            }}
+                            className="p-1.5 transition-colors rounded"
+                            style={{ color: "var(--accent-primary)" }}
+                            title={t("viewPrograms")}
+                          >
+                            <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253" />
+                            </svg>
+                          </button>
+                        )}
+                        <a
+                          href={uni.officialUrl}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          onClick={(e) => e.stopPropagation()}
+                          className="p-1.5 transition-colors rounded"
+                          style={{ color: "var(--text-muted)" }}
+                          title={t("openWebsite")}
+                        >
+                          <svg className="w-3.5 h-3.5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
+                          </svg>
+                        </a>
+                      </div>
                     </div>
                   </button>
                 </li>

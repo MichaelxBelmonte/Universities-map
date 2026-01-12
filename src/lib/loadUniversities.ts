@@ -1,6 +1,6 @@
 import fs from "fs";
 import path from "path";
-import type { University, UniversityCategory, RawUniversityData } from "./types";
+import type { University, UniversityCategory, RawUniversityData, Program, RawProgram, DegreeLevel } from "./types";
 import { UNIVERSITY_COORDINATES, getCampuses, type CampusCoordinate } from "./coordinates";
 
 const DATA_DIR = path.join(process.cwd(), "data", "universities");
@@ -92,9 +92,57 @@ function determineCategory(id: string, name: string): UniversityCategory {
 interface RawDataFile {
   university?: RawUniversityData["university"];
   universities?: RawUniversityData["university"][];
-  programs?: unknown[];
+  programs?: RawProgram[];
   admissions?: unknown[];
   metadata?: unknown;
+}
+
+/**
+ * Normalizes degree level from various formats
+ */
+function normalizeDegreeLevel(level: string): DegreeLevel {
+  const lower = level.toLowerCase();
+  if (lower === "bachelor" || lower === "laurea" || lower === "triennale") return "bachelor";
+  if (lower === "master" || lower === "magistrale" || lower === "laurea_magistrale") return "master";
+  if (lower === "ciclo_unico" || lower === "single_cycle" || lower.includes("ciclo")) return "ciclo_unico";
+  if (lower === "phd" || lower === "dottorato") return "phd";
+  return "bachelor"; // default
+}
+
+/**
+ * Generates a unique ID for a program
+ */
+function generateProgramId(universityId: string, programName: string): string {
+  const slug = programName
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, "_")
+    .replace(/^_|_$/g, "")
+    .substring(0, 50);
+  return `${universityId}_${slug}`;
+}
+
+/**
+ * Transforms raw program data to Program type
+ */
+function transformPrograms(rawPrograms: RawProgram[], universityId: string): Program[] {
+  if (!rawPrograms || !Array.isArray(rawPrograms)) return [];
+
+  return rawPrograms
+    .filter(p => p.program_name) // Must have a name
+    .map(raw => ({
+      id: generateProgramId(universityId, raw.program_name),
+      universityId: universityId,
+      programName: raw.program_name,
+      degreeLevel: normalizeDegreeLevel(raw.degree_level || "bachelor"),
+      classCode: raw.class_code,
+      language: Array.isArray(raw.language) ? raw.language : [raw.language || "Italian"],
+      campusCity: raw.campus_city,
+      durationYears: raw.duration_years || 3,
+      ectsTotal: raw.ects_total,
+      department: raw.department,
+      sourceUrl: raw.source_url,
+      notes: raw.notes,
+    }));
 }
 
 /**
@@ -147,7 +195,8 @@ function createUniversityEntries(
   uni: RawUniversityData["university"],
   category: UniversityCategory,
   filename: string,
-  warnings: string[]
+  warnings: string[],
+  programs: Program[]
 ): University[] {
   const entries: University[] = [];
   const campuses = getCampuses(universityId);
@@ -168,6 +217,8 @@ function createUniversityEntries(
       sourceFile: filename,
       needsCoordinates: true,
       isMainCampus: true,
+      programs: programs,
+      programCount: programs.length,
     });
     return entries;
   }
@@ -176,6 +227,9 @@ function createUniversityEntries(
   campuses.forEach((campus: CampusCoordinate, index: number) => {
     const isMain = campus.isMain === true;
     const campusId = campuses.length > 1 ? `${universityId}_campus_${index}` : universityId;
+
+    // Only attach programs to main campus to avoid duplication
+    const campusPrograms = isMain ? programs : undefined;
 
     entries.push({
       id: campusId,
@@ -191,6 +245,8 @@ function createUniversityEntries(
       needsCoordinates: campus.lat === 0 && campus.lng === 0,
       campusName: campus.campusName,
       isMainCampus: isMain,
+      programs: campusPrograms,
+      programCount: isMain ? programs.length : undefined,
     });
   });
 
@@ -237,13 +293,17 @@ export async function loadUniversities(): Promise<University[]> {
       // Determine category
       const category = determineCategory(universityId, uni!.name);
 
+      // Extract and transform programs
+      const programs = transformPrograms(data.programs || [], universityId);
+
       // Create entries for each campus
       const entries = createUniversityEntries(
         universityId,
         uni!,
         category,
         filename,
-        warnings
+        warnings,
+        programs
       );
 
       universities.push(...entries);

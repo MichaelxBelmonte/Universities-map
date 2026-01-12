@@ -6,6 +6,25 @@ export type UniversityCategory =
   | "ordinamento_speciale"
   | "other";
 
+// Degree levels for programs
+export type DegreeLevel = "bachelor" | "master" | "ciclo_unico" | "phd";
+
+// Program/Course offered by a university
+export interface Program {
+  id: string; // Generated: university_id + program_name hash
+  universityId: string;
+  programName: string;
+  degreeLevel: DegreeLevel;
+  classCode?: string; // e.g., "L-9", "LM-32"
+  language: string[]; // e.g., ["Italian"], ["English"], ["Italian", "English"]
+  campusCity?: string;
+  durationYears: number;
+  ectsTotal?: number;
+  department?: string;
+  sourceUrl?: string;
+  notes?: string;
+}
+
 export interface University {
   id: string;
   name: string;
@@ -21,6 +40,27 @@ export interface University {
   campusName?: string; // e.g., "Sede di Pescara", "Campus Bovisa"
   isMainCampus?: boolean;
   universityId: string; // Original university ID (same for all campuses)
+  // Programs
+  programs?: Program[];
+  programCount?: number;
+}
+
+// Raw program structure from JSON files
+export interface RawProgram {
+  type: string;
+  university_id: string;
+  degree_level: string;
+  program_name: string;
+  class_code?: string;
+  language: string[];
+  campus_city?: string;
+  duration_years: number;
+  ects_total?: number;
+  department?: string;
+  source_url?: string;
+  last_checked?: string;
+  confidence?: number;
+  notes?: string;
 }
 
 // Raw JSON structure from data files
@@ -48,7 +88,7 @@ export interface RawUniversityData {
     confidence?: number;
     notes?: string;
   };
-  programs?: unknown[];
+  programs?: RawProgram[];
   admissions?: unknown[];
 }
 
@@ -64,6 +104,10 @@ export interface CoordinateEntry {
 export interface FilterState {
   search: string;
   categories: UniversityCategory[];
+  // Program filters
+  degreeLevels: DegreeLevel[];
+  programLanguages: string[]; // "Italian", "English"
+  programSearch: string;
 }
 
 // Category display configuration

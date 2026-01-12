@@ -5,6 +5,7 @@ import dynamic from "next/dynamic";
 import type { University, FilterState, UniversityCategory } from "@/lib/types";
 import { useTranslation, useLanguage } from "@/lib/i18n/LanguageContext";
 import UniversitiesSidebar from "./UniversitiesSidebar";
+import ProgramsList from "./ProgramsList";
 
 // Loading component that uses translations
 function MapLoader() {
@@ -38,10 +39,14 @@ export default function UniversitiesClient({
   const [filters, setFilters] = useState<FilterState>({
     search: "",
     categories: [],
+    degreeLevels: [],
+    programLanguages: [],
+    programSearch: "",
   });
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [isMobile, setIsMobile] = useState(false);
   const [mounted, setMounted] = useState(false);
+  const [viewingProgramsFor, setViewingProgramsFor] = useState<University | null>(null);
 
   // Reference to map control functions
   const mapRef = useRef<{
@@ -111,7 +116,22 @@ export default function UniversitiesClient({
   }, []);
 
   const handleClearFilters = useCallback(() => {
-    setFilters({ search: "", categories: [] });
+    setFilters({
+      search: "",
+      categories: [],
+      degreeLevels: [],
+      programLanguages: [],
+      programSearch: "",
+    });
+  }, []);
+
+  // Handle viewing programs for a university
+  const handleViewPrograms = useCallback((university: University) => {
+    setViewingProgramsFor(university);
+  }, []);
+
+  const handleClosePrograms = useCallback(() => {
+    setViewingProgramsFor(null);
   }, []);
 
   // Determine layout mode - mobile uses bottom sheet, tablet+ uses side panel
@@ -151,19 +171,28 @@ export default function UniversitiesClient({
           </div>
         )}
         <div className={showBottomSheet ? "h-[calc(100%-24px)] overflow-hidden" : "h-full"}>
-          <UniversitiesSidebar
-            universities={filteredUniversities}
-            selectedId={selectedId}
-            filters={filters}
-            onUniversityClick={(id) => {
-              handleUniversityClick(id);
-              if (showBottomSheet) setSidebarOpen(false);
-            }}
-            onSearchChange={handleSearchChange}
-            onCategoryToggle={handleCategoryToggle}
-            onClearFilters={handleClearFilters}
-            onClose={() => setSidebarOpen(false)}
-          />
+          {viewingProgramsFor && viewingProgramsFor.programs ? (
+            <ProgramsList
+              programs={viewingProgramsFor.programs}
+              universityName={viewingProgramsFor.name}
+              onClose={handleClosePrograms}
+            />
+          ) : (
+            <UniversitiesSidebar
+              universities={filteredUniversities}
+              selectedId={selectedId}
+              filters={filters}
+              onUniversityClick={(id) => {
+                handleUniversityClick(id);
+                if (showBottomSheet) setSidebarOpen(false);
+              }}
+              onSearchChange={handleSearchChange}
+              onCategoryToggle={handleCategoryToggle}
+              onClearFilters={handleClearFilters}
+              onClose={() => setSidebarOpen(false)}
+              onViewPrograms={handleViewPrograms}
+            />
+          )}
         </div>
       </div>
 

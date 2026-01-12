@@ -35,6 +35,44 @@ export const translations = {
     language: "Language",
     english: "English",
     italian: "Italiano",
+
+    // Programs
+    programs: "Programs",
+    program: "Program",
+    viewPrograms: "View Programs",
+    searchPrograms: "Search programs...",
+    noPrograms: "No programs available",
+    noProgramsMatch: "No programs match your filters",
+    allPrograms: "All Programs",
+    programsCount: "programs",
+
+    // Degree levels
+    degreeLevel: "Degree Level",
+    bachelor: "Bachelor",
+    master: "Master",
+    cicloUnico: "Single Cycle",
+    phd: "PhD",
+    allLevels: "All Levels",
+
+    // Program details
+    duration: "Duration",
+    years: "years",
+    year: "year",
+    ects: "ECTS",
+    campus: "Campus",
+    taughtIn: "Taught in",
+    classCode: "Class Code",
+
+    // Program language filter
+    programLanguage: "Language",
+    langItalian: "Italian",
+    langEnglish: "English",
+    allLanguages: "All Languages",
+
+    // Actions
+    showDetails: "Show Details",
+    hideDetails: "Hide Details",
+    backToList: "Back to list",
   },
   it: {
     // Header
@@ -70,6 +108,44 @@ export const translations = {
     language: "Lingua",
     english: "English",
     italian: "Italiano",
+
+    // Programs
+    programs: "Corsi di Laurea",
+    program: "Corso",
+    viewPrograms: "Vedi Corsi",
+    searchPrograms: "Cerca corsi...",
+    noPrograms: "Nessun corso disponibile",
+    noProgramsMatch: "Nessun corso corrisponde ai filtri",
+    allPrograms: "Tutti i Corsi",
+    programsCount: "corsi",
+
+    // Degree levels
+    degreeLevel: "Livello",
+    bachelor: "Triennale",
+    master: "Magistrale",
+    cicloUnico: "Ciclo Unico",
+    phd: "Dottorato",
+    allLevels: "Tutti i Livelli",
+
+    // Program details
+    duration: "Durata",
+    years: "anni",
+    year: "anno",
+    ects: "CFU",
+    campus: "Sede",
+    taughtIn: "Lingua",
+    classCode: "Classe",
+
+    // Program language filter
+    programLanguage: "Lingua",
+    langItalian: "Italiano",
+    langEnglish: "Inglese",
+    allLanguages: "Tutte le Lingue",
+
+    // Actions
+    showDetails: "Mostra Dettagli",
+    hideDetails: "Nascondi Dettagli",
+    backToList: "Torna alla lista",
   },
 } as const;
 
