@@ -236,9 +236,17 @@ export default function UniversitiesSidebar({
 
               return (
                 <li key={uni.id}>
-                  <button
+                  <div
+                    role="button"
+                    tabIndex={0}
                     onClick={() => onUniversityClick(uni.id)}
-                    className="w-full text-left px-4 py-3 transition-all duration-150 touch-manipulation"
+                    onKeyDown={(e) => {
+                      if (e.key === "Enter" || e.key === " ") {
+                        e.preventDefault();
+                        onUniversityClick(uni.id);
+                      }
+                    }}
+                    className="w-full text-left px-4 py-3 transition-all duration-150 touch-manipulation cursor-pointer"
                     style={{
                       background: isSelected ? "var(--selected-bg)" : "transparent",
                       borderBottom: "1px solid var(--border-secondary)",
@@ -329,7 +337,7 @@ export default function UniversitiesSidebar({
                         </a>
                       </div>
                     </div>
-                  </button>
+                  </div>
                 </li>
               );
             })}
