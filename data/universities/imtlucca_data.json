@@ -6,74 +6,176 @@
     "official_url": "https://www.imtlucca.it",
     "country": "Italy",
     "city": "Lucca",
-    "campuses": [{"city": "Lucca", "address": "", "notes": "Campus with accommodation and dining"}],
-    "languages_offered": ["English"],
-    "contacts": {"email": "", "phone": "+39 0583 4326530", "address": "Lucca"},
+    "campuses": [
+      {
+        "city": "Lucca",
+        "address": "",
+        "notes": "Campus with accommodation and dining"
+      }
+    ],
+    "languages_offered": [
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "+39 0583 4326530",
+      "address": "Lucca"
+    },
     "source_url": "https://www.imtlucca.it",
     "last_checked": "2026-01-04",
     "confidence": 0.95,
     "notes": "Elite graduate school. PhD only. Full scholarship for all admitted. Free accommodation and meals on campus. Programs in English."
   },
   "programs": [
-    {"type":"program","university_id":"imtlucca","degree_level":"phd","program_name":"Cultural Systems","class_code":"","language":["English"],"campus_city":"Lucca","duration_years":4,"ects_total":null,"department":"Humanities","source_url":"https://www.imtlucca.it","last_checked":"2026-01-04","confidence":0.9,"notes":"Interviews July 14, 2025"},
-    {"type":"program","university_id":"imtlucca","degree_level":"phd","program_name":"Systems Science","class_code":"","language":["English"],"campus_city":"Lucca","duration_years":4,"ects_total":null,"department":"Science","source_url":"https://www.imtlucca.it","last_checked":"2026-01-04","confidence":0.9,"notes":"Interviews July 7-11, 2025"},
-    {"type":"program","university_id":"imtlucca","degree_level":"phd","program_name":"Economics, Analytics and Decision Sciences","class_code":"","language":["English"],"campus_city":"Lucca","duration_years":4,"ects_total":null,"department":"Economics","source_url":"https://www.imtlucca.it","last_checked":"2026-01-04","confidence":0.9,"notes":""}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"imtlucca",
-    "program_name":"",
-    "degree_level_scope":"phd",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Master's degree or equivalent",
-      "documents_required":["CV","Reference letters"],
-      "tests_required":[{"test_name":"Admission exam","min_score":"","notes":"Pre-selection by credentials, then interview"}],
-      "portfolio_required":false,
-      "interview_required":true
+    {
+      "type": "program",
+      "university_id": "imtlucca",
+      "degree_level": "phd",
+      "program_name": "Cultural Systems",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Lucca",
+      "duration_years": 4,
+      "ects_total": null,
+      "department": "Humanities",
+      "source_url": "https://www.imtlucca.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Interviews July 14, 2025",
+      "program_name_en": "Cultural Systems",
+      "program_name_it": "Sistemi Culturali"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"March/April",
-      "application_deadline":"",
-      "start_date":"",
-      "notes":"Bando published around March/April each year"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.imtlucca.it/it/phd/informazioni-per-studenti",
-    "source_url":"https://www.imtlucca.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"Application must be in English. Pre-selection by credentials, shortlist for interviews."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"imtlucca",
-    "program_name":"",
-    "degree_level_scope":"phd",
-    "tuition":[
-      {"student_group":"All admitted PhD students","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption for all"}
-    ],
-    "additional_fees":[],
-    "payment_schedule_notes":"",
-    "source_url":"https://www.imtlucca.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"All admitted students receive full fee exemption, free accommodation on campus, free meals."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"imtlucca",
-    "scholarship_name":"IMT PhD Scholarship",
-    "description":"Full scholarship for all admitted PhD students",
-    "eligibility":"Admission to IMT PhD program",
-    "amount":{"min":15000,"max":15000,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.imtlucca.it",
-    "source_url":"https://www.imtlucca.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"€15,000/year gross + free tuition + free accommodation + free meals"
-  }],
+    {
+      "type": "program",
+      "university_id": "imtlucca",
+      "degree_level": "phd",
+      "program_name": "Systems Science",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Lucca",
+      "duration_years": 4,
+      "ects_total": null,
+      "department": "Science",
+      "source_url": "https://www.imtlucca.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Interviews July 7-11, 2025",
+      "program_name_en": "Systems Science",
+      "program_name_it": "Scienza dei Sistemi"
+    },
+    {
+      "type": "program",
+      "university_id": "imtlucca",
+      "degree_level": "phd",
+      "program_name": "Economics, Analytics and Decision Sciences",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Lucca",
+      "duration_years": 4,
+      "ects_total": null,
+      "department": "Economics",
+      "source_url": "https://www.imtlucca.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Economia, Analytics e Decision Scienze",
+      "program_name_en": "Economics, Analytics and Decision Sciences"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "imtlucca",
+      "program_name": "",
+      "degree_level_scope": "phd",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Master's degree or equivalent",
+        "documents_required": [
+          "CV",
+          "Reference letters"
+        ],
+        "tests_required": [
+          {
+            "test_name": "Admission exam",
+            "min_score": "",
+            "notes": "Pre-selection by credentials, then interview"
+          }
+        ],
+        "portfolio_required": false,
+        "interview_required": true
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "March/April",
+          "application_deadline": "",
+          "start_date": "",
+          "notes": "Bando published around March/April each year"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.imtlucca.it/it/phd/informazioni-per-studenti",
+      "source_url": "https://www.imtlucca.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "Application must be in English. Pre-selection by credentials, shortlist for interviews."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "imtlucca",
+      "program_name": "",
+      "degree_level_scope": "phd",
+      "tuition": [
+        {
+          "student_group": "All admitted PhD students",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption for all"
+        }
+      ],
+      "additional_fees": [],
+      "payment_schedule_notes": "",
+      "source_url": "https://www.imtlucca.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "All admitted students receive full fee exemption, free accommodation on campus, free meals."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "imtlucca",
+      "scholarship_name": "IMT PhD Scholarship",
+      "description": "Full scholarship for all admitted PhD students",
+      "eligibility": "Admission to IMT PhD program",
+      "amount": {
+        "min": 15000,
+        "max": 15000,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.imtlucca.it",
+      "source_url": "https://www.imtlucca.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "€15,000/year gross + free tuition + free accommodation + free meals"
+    }
+  ],
   "opportunities": []
 }

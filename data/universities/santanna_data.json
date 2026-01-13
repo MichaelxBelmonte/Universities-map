@@ -6,82 +6,336 @@
     "official_url": "https://www.santannapisa.it",
     "country": "Italy",
     "city": "Pisa",
-    "campuses": [{"city": "Pisa", "address": "", "notes": "Main campus"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Pisa"},
+    "campuses": [
+      {
+        "city": "Pisa",
+        "address": "",
+        "notes": "Main campus"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Pisa"
+    },
     "source_url": "https://www.santannapisa.it",
     "last_checked": "2026-01-04",
     "confidence": 0.95,
     "notes": "Elite public research university. Top in law, economics, engineering, political science, agricultural sciences, medicine. Associated with University of Pisa. Full scholarship for all admitted students."
   },
   "programs": [
-    {"type":"program","university_id":"santanna","degree_level":"bachelor","program_name":"Classe di Scienze - Ingegneria","class_code":"L-8/L-9","language":["Italian"],"campus_city":"Pisa","duration_years":3,"ects_total":180,"source_url":"https://www.santannapisa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Corsi Ordinari. Degrees conferred by UniPisa."},
-    {"type":"program","university_id":"santanna","degree_level":"bachelor","program_name":"Classe di Scienze - Agraria","class_code":"L-25/L-26","language":["Italian"],"campus_city":"Pisa","duration_years":3,"ects_total":180,"source_url":"https://www.santannapisa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Corsi Ordinari. Degrees conferred by UniPisa."},
-    {"type":"program","university_id":"santanna","degree_level":"bachelor","program_name":"Classe di Scienze - Medicina","class_code":"LM-41","language":["Italian"],"campus_city":"Pisa","duration_years":6,"ects_total":360,"source_url":"https://www.santannapisa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Degrees conferred by UniPisa."},
-    {"type":"program","university_id":"santanna","degree_level":"bachelor","program_name":"Classe di Scienze Sociali - Economia","class_code":"L-18/L-33","language":["Italian"],"campus_city":"Pisa","duration_years":3,"ects_total":180,"source_url":"https://www.santannapisa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Corsi Ordinari. Degrees conferred by UniPisa."},
-    {"type":"program","university_id":"santanna","degree_level":"bachelor","program_name":"Classe di Scienze Sociali - Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Pisa","duration_years":5,"ects_total":300,"source_url":"https://www.santannapisa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Degrees conferred by UniPisa."},
-    {"type":"program","university_id":"santanna","degree_level":"bachelor","program_name":"Classe di Scienze Sociali - Scienze Politiche","class_code":"L-36","language":["Italian"],"campus_city":"Pisa","duration_years":3,"ects_total":180,"source_url":"https://www.santannapisa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Corsi Ordinari. Degrees conferred by UniPisa."},
-    {"type":"program","university_id":"santanna","degree_level":"phd","program_name":"PhD in Biorobotics","class_code":"","language":["English"],"campus_city":"Pisa","duration_years":3,"ects_total":null,"source_url":"https://www.santannapisa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Corso di Perfezionamento (PhD equivalent)"},
-    {"type":"program","university_id":"santanna","degree_level":"phd","program_name":"PhD in Agrobiodiversity","class_code":"","language":["English"],"campus_city":"Pisa","duration_years":3,"ects_total":null,"source_url":"https://www.santannapisa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Corso di Perfezionamento (PhD equivalent)"},
-    {"type":"program","university_id":"santanna","degree_level":"phd","program_name":"PhD in Economics","class_code":"","language":["English"],"campus_city":"Pisa","duration_years":3,"ects_total":null,"source_url":"https://www.santannapisa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Corso di Perfezionamento (PhD equivalent)"},
-    {"type":"program","university_id":"santanna","degree_level":"phd","program_name":"PhD in Law","class_code":"","language":["English","Italian"],"campus_city":"Pisa","duration_years":3,"ects_total":null,"source_url":"https://www.santannapisa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Corso di Perfezionamento (PhD equivalent)"},
-    {"type":"program","university_id":"santanna","degree_level":"phd","program_name":"PhD in Emerging Digital Technologies","class_code":"","language":["English"],"campus_city":"Pisa","duration_years":3,"ects_total":null,"source_url":"https://www.santannapisa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Corso di Perfezionamento (PhD equivalent)"},
-    {"type":"program","university_id":"santanna","degree_level":"phd","program_name":"PhD in Health Science, Technology and Management","class_code":"","language":["English"],"campus_city":"Pisa","duration_years":3,"ects_total":null,"source_url":"https://www.santannapisa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Corso di Perfezionamento (PhD equivalent)"}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"santanna",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma with excellence",
-      "documents_required":[],
-      "tests_required":[{"test_name":"Competitive admission exam","min_score":"","notes":"Highly selective entrance exam"}],
-      "portfolio_required":false,
-      "interview_required":true
+    {
+      "type": "program",
+      "university_id": "santanna",
+      "degree_level": "bachelor",
+      "program_name": "Classe di Scienze - Ingegneria",
+      "class_code": "L-8/L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.santannapisa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Corsi Ordinari. Degrees conferred by UniPisa.",
+      "program_name_it": "Classe di Scienze - Ingegneria"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":""
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.santannapisa.it",
-    "source_url":"https://www.santannapisa.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"Highly competitive admission. Classes in applied sciences: Law, Economics, Engineering, Agriculture, Medicine, Political Sciences."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"santanna",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"All admitted students","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full scholarship for all admitted students"}
-    ],
-    "additional_fees":[],
-    "payment_schedule_notes":"All students receive full scholarship covering tuition, accommodation, and meals.",
-    "source_url":"https://www.santannapisa.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"Elite institution - all admitted students receive full scholarship, free accommodation, free meals."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"santanna",
-    "scholarship_name":"Sant'Anna Full Scholarship",
-    "description":"Full scholarship for all admitted students",
-    "eligibility":"Admission to Sant'Anna via competitive exam",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.santannapisa.it",
-    "source_url":"https://www.santannapisa.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"Covers tuition, accommodation, meals for all students. Admission via highly competitive exam."
-  }],
+    {
+      "type": "program",
+      "university_id": "santanna",
+      "degree_level": "bachelor",
+      "program_name": "Classe di Scienze - Agraria",
+      "class_code": "L-25/L-26",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.santannapisa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Corsi Ordinari. Degrees conferred by UniPisa.",
+      "program_name_it": "Classe di Scienze - Agraria"
+    },
+    {
+      "type": "program",
+      "university_id": "santanna",
+      "degree_level": "bachelor",
+      "program_name": "Classe di Scienze - Medicina",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.santannapisa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico. Degrees conferred by UniPisa.",
+      "program_name_it": "Classe di Scienze - Medicina"
+    },
+    {
+      "type": "program",
+      "university_id": "santanna",
+      "degree_level": "bachelor",
+      "program_name": "Classe di Scienze Sociali - Economia",
+      "class_code": "L-18/L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.santannapisa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Corsi Ordinari. Degrees conferred by UniPisa.",
+      "program_name_it": "Classe di Scienze Sociali - Economia"
+    },
+    {
+      "type": "program",
+      "university_id": "santanna",
+      "degree_level": "bachelor",
+      "program_name": "Classe di Scienze Sociali - Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.santannapisa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico. Degrees conferred by UniPisa.",
+      "program_name_it": "Classe di Scienze Sociali - Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "santanna",
+      "degree_level": "bachelor",
+      "program_name": "Classe di Scienze Sociali - Scienze Politiche",
+      "class_code": "L-36",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.santannapisa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Corsi Ordinari. Degrees conferred by UniPisa.",
+      "program_name_it": "Classe di Scienze Sociali - Scienze Politiche"
+    },
+    {
+      "type": "program",
+      "university_id": "santanna",
+      "degree_level": "phd",
+      "program_name": "PhD in Biorobotics",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 3,
+      "ects_total": null,
+      "source_url": "https://www.santannapisa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Corso di Perfezionamento (PhD equivalent)",
+      "program_name_it": "Dottorato di Ricerca in Biorobotics",
+      "program_name_en": "PhD in Biorobotics"
+    },
+    {
+      "type": "program",
+      "university_id": "santanna",
+      "degree_level": "phd",
+      "program_name": "PhD in Agrobiodiversity",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 3,
+      "ects_total": null,
+      "source_url": "https://www.santannapisa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Corso di Perfezionamento (PhD equivalent)",
+      "program_name_it": "Dottorato di Ricerca in Agrobiodiversity",
+      "program_name_en": "PhD in Agrobiodiversity"
+    },
+    {
+      "type": "program",
+      "university_id": "santanna",
+      "degree_level": "phd",
+      "program_name": "PhD in Economics",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 3,
+      "ects_total": null,
+      "source_url": "https://www.santannapisa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Corso di Perfezionamento (PhD equivalent)",
+      "program_name_it": "Dottorato di Ricerca in Economia",
+      "program_name_en": "PhD in Economics"
+    },
+    {
+      "type": "program",
+      "university_id": "santanna",
+      "degree_level": "phd",
+      "program_name": "PhD in Law",
+      "class_code": "",
+      "language": [
+        "English",
+        "Italian"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 3,
+      "ects_total": null,
+      "source_url": "https://www.santannapisa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Corso di Perfezionamento (PhD equivalent)",
+      "program_name_it": "Dottorato di Ricerca in Giurisprudenza",
+      "program_name_en": "PhD in Law"
+    },
+    {
+      "type": "program",
+      "university_id": "santanna",
+      "degree_level": "phd",
+      "program_name": "PhD in Emerging Digital Technologies",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 3,
+      "ects_total": null,
+      "source_url": "https://www.santannapisa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Corso di Perfezionamento (PhD equivalent)",
+      "program_name_it": "Dottorato di Ricerca in Emerging Digitale Technologies",
+      "program_name_en": "PhD in Emerging Digital Technologies"
+    },
+    {
+      "type": "program",
+      "university_id": "santanna",
+      "degree_level": "phd",
+      "program_name": "PhD in Health Science, Technology and Management",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 3,
+      "ects_total": null,
+      "source_url": "https://www.santannapisa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Corso di Perfezionamento (PhD equivalent)",
+      "program_name_it": "Dottorato di Ricerca in Health Science, Technology e Management",
+      "program_name_en": "PhD in Health Science, Technology and Management"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "santanna",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma with excellence",
+        "documents_required": [],
+        "tests_required": [
+          {
+            "test_name": "Competitive admission exam",
+            "min_score": "",
+            "notes": "Highly selective entrance exam"
+          }
+        ],
+        "portfolio_required": false,
+        "interview_required": true
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.santannapisa.it",
+      "source_url": "https://www.santannapisa.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "Highly competitive admission. Classes in applied sciences: Law, Economics, Engineering, Agriculture, Medicine, Political Sciences."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "santanna",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "All admitted students",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full scholarship for all admitted students"
+        }
+      ],
+      "additional_fees": [],
+      "payment_schedule_notes": "All students receive full scholarship covering tuition, accommodation, and meals.",
+      "source_url": "https://www.santannapisa.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "Elite institution - all admitted students receive full scholarship, free accommodation, free meals."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "santanna",
+      "scholarship_name": "Sant'Anna Full Scholarship",
+      "description": "Full scholarship for all admitted students",
+      "eligibility": "Admission to Sant'Anna via competitive exam",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.santannapisa.it",
+      "source_url": "https://www.santannapisa.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "Covers tuition, accommodation, meals for all students. Admission via highly competitive exam."
+    }
+  ],
   "opportunities": []
 }

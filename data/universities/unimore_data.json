@@ -7,188 +7,2008 @@
     "country": "Italy",
     "city": "Modena",
     "campuses": [
-      {"city": "Modena", "address": "", "notes": "Main campus"},
-      {"city": "Reggio Emilia", "address": "", "notes": "Second campus"}
+      {
+        "city": "Modena",
+        "address": "",
+        "notes": "Main campus"
+      },
+      {
+        "city": "Reggio Emilia",
+        "address": "",
+        "notes": "Second campus"
+      }
     ],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Modena"},
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Modena"
+    },
     "source_url": "https://www.unimore.it",
     "last_checked": "2026-01-04",
-    "confidence": 1.0,
+    "confidence": 1,
     "notes": "96 programs: 47 bachelor, 42 master, 4 ciclo unico (5yr), 2 ciclo unico (6yr). ATENEO DI QUALITÀ ACCREDITATO FASCIA A 2025. 18 doctoral programs, 9 master programs."
   },
   "programs": [
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Advanced Automotive Engineering","class_code":"LM-33","language":["English"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria Enzo Ferrari","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Analisi Dei Dati Per L'economia E Il Management","class_code":"LM-56-R/LM-77-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Dipartimento di Comunicazione ed Economia","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":"Interclasse"},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Analisi Dei Dati Per L'impresa E La Finanza","class_code":"L-41-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Fisiche, Informatiche e Matematiche","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Antropologia E Storia Del Mondo Contemporaneo","class_code":"LM-1-R/LM-84-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Dipartimento di Studi Linguistici e Culturali","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":"Interclasse"},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Artificial Intelligence Engineering","class_code":"LM-32","language":["English"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria Enzo Ferrari","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Assistenza Sanitaria","class_code":"L/SNT4","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Health Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Bioingegneria Per L'innovazione In Medicina","class_code":"LM-21-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Health Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Bioscienze","class_code":"LM-6-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze della Vita","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Biotecnologie","class_code":"L-2-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze della Vita","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Biotecnologie Mediche","class_code":"LM-9-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze della Vita","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Chimica","class_code":"L-27-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Chimiche e Geologiche","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"ciclo_unico","program_name":"Chimica E Tecnologia Farmaceutiche","class_code":"LM-13-R","language":["Italian"],"campus_city":"Modena","duration_years":5,"ects_total":300,"department":"Pharmacy","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Chimica Verde E Sostenibile","class_code":"L-27-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Chimiche e Geologiche","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Controllo E Sicurezza Degli Alimenti","class_code":"LM-70-R","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":2,"ects_total":120,"department":"Food Science","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Costruzioni E Gestione Del Territorio","class_code":"L-P01","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":"Laurea Professionalizzante"},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Didattica E Comunicazione Delle Scienze","class_code":"LM-60-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze Chimiche e Geologiche","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Dietistica","class_code":"L/SNT3","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Health Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Digital Automation Engineering","class_code":"LM-25","language":["English"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Digital Education","class_code":"L-19-R","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":3,"ects_total":180,"department":"Education & Human Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Digital Marketing","class_code":"L-18-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Economics & Business","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Direzione E Consulenza D'impresa","class_code":"LM-77-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Economics & Business","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Economia Aziendale E Management","class_code":"L-18-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Economics & Business","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Economia E Diritto Per La Sostenibilità Delle Organizzazioni","class_code":"LM-77-R/LM-63-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Economics & Business","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":"Interclasse"},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Economia E Finanza","class_code":"L-33-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Economics & Business","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Economia E Marketing Internazionale","class_code":"L-18-R","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":3,"ects_total":180,"department":"Economics & Business","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Economia, Politiche Pubbliche E Sostenibilità","class_code":"LM-56-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Economics & Business","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Electronics Engineering","class_code":"LM-29","language":["English"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Energy Engineering","class_code":"LM-30-R","language":["English"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"ciclo_unico","program_name":"Farmacia","class_code":"LM-13-R","language":["Italian"],"campus_city":"Modena","duration_years":5,"ects_total":300,"department":"Life Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Finanza E Management","class_code":"LM-16-R/LM-77-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Economics & Business","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":"Interclasse"},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Fisica","class_code":"L-30-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Physics, IT & Math","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Fisioterapia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Health Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Geoscienze, Georischi E Georisorse","class_code":"LM-74-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Chemical & Geological Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"ciclo_unico","program_name":"Giurisprudenza","class_code":"LMG/01-R","language":["Italian"],"campus_city":"Modena","duration_years":5,"ects_total":300,"department":"Law","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Igiene Dentale","class_code":"L/SNT3","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Health Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Infermieristica (Modena)","class_code":"L/SNT1","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Health Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Infermieristica (Reggio Emilia)","class_code":"L/SNT1","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":3,"ects_total":180,"department":"Health Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Informatica","class_code":"LM-18","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Informatica","class_code":"L-31-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Ingegneria Civile E Ambientale","class_code":"LM-23-R/LM-35-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":"Interclasse"},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Ingegneria Civile E Ambientale","class_code":"L-7-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Ingegneria Dei Materiali","class_code":"LM-53","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Ingegneria Del Veicolo","class_code":"L-9-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Ingegneria Del Veicolo","class_code":"LM-33","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Ingegneria Elettronica","class_code":"L-8-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Ingegneria Gestionale","class_code":"L-9-R/L-8-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":"Interclasse"},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Ingegneria Gestionale","class_code":"LM-31","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Ingegneria Informatica","class_code":"LM-32","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Ingegneria Informatica (Mantova)","class_code":"L-8-R","language":["Italian"],"campus_city":"Mantova","duration_years":3,"ects_total":180,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Ingegneria Informatica (Modena)","class_code":"L-8-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Ingegneria Meccanica","class_code":"LM-33","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Ingegneria Meccanica","class_code":"L-9-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Ingegneria Meccatronica","class_code":"L-9-R/L-8-R","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":3,"ects_total":180,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":"Interclasse"},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Ingegneria Meccatronica","class_code":"LM-33","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":2,"ects_total":120,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"International Management","class_code":"LM-77-R","language":["English"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Economics","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Languages For Communication In International Enterprises","class_code":"LM-38-R","language":["English"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Linguistics & Culture","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Lingue E Culture Europee","class_code":"L-12-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Linguistics & Culture","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Lingue, Culture, Comunicazione","class_code":"LM-37-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Linguistics & Culture","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Logopedia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Health/Rehabilitation","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Management E Comunicazione D'impresa","class_code":"LM-77-R","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":2,"ects_total":120,"department":"Economics","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Marketing E Organizzazione D'impresa","class_code":"L-18-R","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":3,"ects_total":180,"department":"Economics","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Matematica","class_code":"L-35-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Physics/Math/Computer Science","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Matematica","class_code":"LM-40-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Physics/Math/Computer Science","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Media Education Per Le Discipline Letterarie","class_code":"LM-43-R","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":2,"ects_total":120,"department":"Linguistics & Culture","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"ciclo_unico","program_name":"Medicina E Chirurgia","class_code":"LM-41-R","language":["Italian"],"campus_city":"Modena","duration_years":6,"ects_total":360,"department":"Health/Medicine","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"ciclo_unico","program_name":"Odontoiatria E Protesi Dentaria","class_code":"LM-46-R","language":["Italian"],"campus_city":"Modena","duration_years":6,"ects_total":360,"department":"Health/Dentistry","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Ostetricia","class_code":"L/SNT1","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Health/Nursing","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Physics - Fisica","class_code":"LM-17-R","language":["English"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Physics/Math/Computer Science","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Pubblicità, Comunicazione Digitale E Creatività","class_code":"LM-59-R","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":2,"ects_total":120,"department":"Communication & Economics","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Relazioni Di Lavoro","class_code":"LM-77-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Economics","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Salute E Sport","class_code":"LM-67-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Health","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Life Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Scienze Chimiche","class_code":"LM-54-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Chemistry & Geology","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Scienze Dei Servizi Giuridici","class_code":"L-14-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Law","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Scienze Dell'educazione Per Il Nido E Le Professioni Socio-pedagogiche","class_code":"L-19-R","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":3,"ects_total":180,"department":"Education & Human Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Scienze Della Comunicazione","class_code":"L-20-R","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":3,"ects_total":180,"department":"Communication & Economics","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"ciclo_unico","program_name":"Scienze Della Formazione Primaria","class_code":"LM-85-BIS","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":5,"ects_total":300,"department":"Education & Human Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Scienze E Tecniche Psicologiche","class_code":"L-24-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Health","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Scienze E Tecnologie Agrarie E Degli Alimenti","class_code":"L-25-R/L-26-R","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":3,"ects_total":180,"department":"Life Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":"Interclasse"},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Scienze Geologiche","class_code":"L-34-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Chemistry & Geology","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Scienze Infermieristiche E Ostetriche (Modena)","class_code":"LM/SNT1","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Health","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Scienze Infermieristiche Ed Ostetriche (Reggio Emilia)","class_code":"LM/SNT1","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":2,"ects_total":120,"department":"Health","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Scienze Naturali","class_code":"L-32-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Chemistry & Geology","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Scienze Pedagogiche","class_code":"LM-85-R","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":2,"ects_total":120,"department":"Education & Human Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Scienze Strategiche","class_code":"L/DS","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Law","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Sistemi Biotecnologici Per Lo Sviluppo Sostenibile","class_code":"LM-8-R","language":["Italian"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Life Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Sostenibilità Integrata Dei Sistemi Agricoli","class_code":"LM-69-R","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":2,"ects_total":120,"department":"Life Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Storia E Culture Contemporanee","class_code":"L-42-R","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Linguistics & Culture","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Sustainable Industrial Engineering","class_code":"LM-33","language":["English"],"campus_city":"Modena","duration_years":2,"ects_total":120,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Tecnica Della Riabilitazione Psichiatrica","class_code":"L/SNT2","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Health","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Tecniche Di Fisiopatologia Cardiocircolatoria E Perfusione Cardiovascolare","class_code":"L/SNT3","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Health Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Tecniche Di Laboratorio Biomedico","class_code":"L/SNT3","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Health Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Tecniche Di Radiologia Medica, Per Immagini E Radioterapia","class_code":"L/SNT3","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Health Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Tecnologie Per L'industria Intelligente","class_code":"L-P03","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Engineering","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":"Laurea Professionalizzante"},
-    {"type":"program","university_id":"unimore","degree_level":"master","program_name":"Teorie E Metodologie Del Digital Learning","class_code":"LM-93-R","language":["Italian"],"campus_city":"Reggio Emilia","duration_years":2,"ects_total":120,"department":"Education & Humanities","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"unimore","degree_level":"bachelor","program_name":"Terapia Occupazionale","class_code":"L/SNT2","language":["Italian"],"campus_city":"Modena","duration_years":3,"ects_total":180,"department":"Health Sciences","source_url":"https://www.unimore.it","last_checked":"2026-01-04","confidence":1.0,"notes":""}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"unimore",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Advanced Automotive Engineering",
+      "class_code": "LM-33",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria Enzo Ferrari",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Advanced Ingegneria dell'Autoveicolo",
+      "program_name_en": "Advanced Automotive Engineering"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":""
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.unimore.it/it/didattica/iscrizioni-e-tasse",
-    "source_url":"https://www.unimore.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"ATENEO DI QUALITÀ ACCREDITATO FASCIA A 2025"
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"unimore",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"ISEE ≤ 22000","amount_min":159.67,"amount_max":159.67,"currency":"EUR","period":"year","notes":"No Tax Area - full exemption"},
-      {"student_group":"ISEE 22001-27000","amount_min":159.67,"amount_max":159.67,"currency":"EUR","period":"year","notes":"No Tax Area with merit requirements (25 CFU for 2nd+ year)"},
-      {"student_group":"ISEE 27001-45000","amount_min":159.67,"amount_max":null,"currency":"EUR","period":"year","notes":"Reduced contribution based on ISEE"},
-      {"student_group":"ISEE > 45000","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Full contribution, no reductions"},
-      {"student_group":"Fuori corso without merit","amount_min":859.67,"amount_max":859.67,"currency":"EUR","period":"year","notes":"Fixed €159.67 + €700 minimum contribution"},
-      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Fixed fees (bollo + regional tax)","amount":159.67,"currency":"EUR","notes":"Required for all students at enrollment"}
-    ],
-    "payment_schedule_notes":"First year students pay €159.67 at enrollment. Subsequent contributions in later installments.",
-    "source_url":"https://www.unimore.it/it/servizi/tasse-e-benefici",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"ISEE application via ER.GO portal (www.er-go.it) by Sept 1 - Nov 6, 2025. Independent student status requires 2+ years living outside family home with €9,000+ annual income."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"unimore",
-    "scholarship_name":"ER.GO Regional Scholarship",
-    "description":"Regional scholarship covering tuition, accommodation, meals",
-    "eligibility":"ISEE threshold + merit requirements",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"2025-11-06",
-    "how_to_apply_url":"https://www.er-go.it",
-    "source_url":"https://www.er-go.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.8,
-    "notes":"Reopening period: Feb 9 - Mar 12, 2026"
-  },{
-    "type":"scholarships",
-    "university_id":"unimore",
-    "scholarship_name":"Top Student Exemption",
-    "description":"Full tuition exemption for high-achieving students",
-    "eligibility":"Outstanding academic performance",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.unimore.it/en/services/fees-and-benefits/exemptions-and-reduction-tuition-fees/top-student-exemption",
-    "source_url":"https://www.unimore.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.8,
-    "notes":""
-  }],
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Analisi Dei Dati Per L'economia E Il Management",
+      "class_code": "LM-56-R/LM-77-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Comunicazione ed Economia",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "Interclasse"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Analisi Dei Dati Per L'impresa E La Finanza",
+      "class_code": "L-41-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Fisiche, Informatiche e Matematiche",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Antropologia E Storia Del Mondo Contemporaneo",
+      "class_code": "LM-1-R/LM-84-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Studi Linguistici e Culturali",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "Interclasse",
+      "program_name_it": "Antropologia E Storia Del Mondo Contemporaneo"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Artificial Intelligence Engineering",
+      "class_code": "LM-32",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria Enzo Ferrari",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Ingegneria dell'Intelligenza Artificiale",
+      "program_name_en": "Artificial Intelligence Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Assistenza Sanitaria",
+      "class_code": "L/SNT4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Health Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Healthcare Assistance"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Bioingegneria Per L'innovazione In Medicina",
+      "class_code": "LM-21-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Health Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Bioingegneria Per L'innovazione In Medicina"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Bioscienze",
+      "class_code": "LM-6-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze della Vita",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Biosciandnze"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Biotecnologie",
+      "class_code": "L-2-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze della Vita",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Biotechnology"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Biotecnologie Mediche",
+      "class_code": "LM-9-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze della Vita",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Medical Biotechnology"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Chimica",
+      "class_code": "L-27-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Chimiche e Geologiche",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Chemistry"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "ciclo_unico",
+      "program_name": "Chimica E Tecnologia Farmaceutiche",
+      "class_code": "LM-13-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 5,
+      "ects_total": 300,
+      "department": "Pharmacy",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Chimica Verde E Sostenibile",
+      "class_code": "L-27-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Chimiche e Geologiche",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Controllo E Sicurezza Degli Alimenti",
+      "class_code": "LM-70-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Food Science",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Costruzioni E Gestione Del Territorio",
+      "class_code": "L-P01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "Laurea Professionalizzante",
+      "program_name_it": "Costruzioni E Gestione Del Territorio"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Didattica E Comunicazione Delle Scienze",
+      "class_code": "LM-60-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze Chimiche e Geologiche",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Didattica E Comunicazione Delle Scienze"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Dietistica",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Health Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Dietetics"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Digital Automation Engineering",
+      "class_code": "LM-25",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Digitale Ingegneria dell'Automazione",
+      "program_name_en": "Digital Automation Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Digital Education",
+      "class_code": "L-19-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Education & Human Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Digital Education",
+      "program_name_it": "Educazione Digitale"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Digital Marketing",
+      "class_code": "L-18-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Economics & Business",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Digital Markandting"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Direzione E Consulenza D'impresa",
+      "class_code": "LM-77-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Economics & Business",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Economia Aziendale E Management",
+      "class_code": "L-18-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Economics & Business",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Economia Aziendale E Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Economia E Diritto Per La Sostenibilità Delle Organizzazioni",
+      "class_code": "LM-77-R/LM-63-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Economics & Business",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "Interclasse",
+      "program_name_it": "Economia E Diritto Per La Sostenibilità Delle Organizzazioni"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Economia E Finanza",
+      "class_code": "L-33-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Economics & Business",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Economia E Finanza"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Economia E Marketing Internazionale",
+      "class_code": "L-18-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Economics & Business",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Economia E Marketing Internazionale"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Economia, Politiche Pubbliche E Sostenibilità",
+      "class_code": "LM-56-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Economics & Business",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Economia, Politiche Pubbliche E Sostenibilità"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Electronics Engineering",
+      "class_code": "LM-29",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Ingegneria Elettronica",
+      "program_name_en": "Electronics Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Energy Engineering",
+      "class_code": "LM-30-R",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Ingegneria Energetica",
+      "program_name_en": "Energy Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "ciclo_unico",
+      "program_name": "Farmacia",
+      "class_code": "LM-13-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 5,
+      "ects_total": 300,
+      "department": "Life Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Pharmacy"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Finanza E Management",
+      "class_code": "LM-16-R/LM-77-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Economics & Business",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "Interclasse"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Fisica",
+      "class_code": "L-30-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Physics, IT & Math",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Fisioterapia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Health Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Physiotherapy"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Geoscienze, Georischi E Georisorse",
+      "class_code": "LM-74-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Chemical & Geological Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "ciclo_unico",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 5,
+      "ects_total": 300,
+      "department": "Law",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Igiene Dentale",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Health Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Dental Hygiene"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Infermieristica (Modena)",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Health Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Nursing (Modandna)"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Infermieristica (Reggio Emilia)",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Health Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Nursing (Randggio Emilia)"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Informatica",
+      "class_code": "LM-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Computer Science",
+      "program_name_it": "Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Informatica",
+      "class_code": "L-31-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Computer Science",
+      "program_name_it": "Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Ingegneria Civile E Ambientale",
+      "class_code": "LM-23-R/LM-35-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "Interclasse",
+      "program_name_it": "Ingegneria Civile E Ambientale"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Civile E Ambientale",
+      "class_code": "L-7-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Ingegneria Civile E Ambientale"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Ingegneria Dei Materiali",
+      "class_code": "LM-53",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Ingegneria Dei Materiali"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Del Veicolo",
+      "class_code": "L-9-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Ingegneria Del Veicolo"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Ingegneria Del Veicolo",
+      "class_code": "LM-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Ingegneria Del Veicolo"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Elettronica",
+      "class_code": "L-8-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Electronic Engineering",
+      "program_name_it": "Ingegneria Elettronica"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Gestionale",
+      "class_code": "L-9-R/L-8-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "Interclasse",
+      "program_name_en": "Management Engineering",
+      "program_name_it": "Ingegneria Gestionale"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Ingegneria Gestionale",
+      "class_code": "LM-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Management Engineering",
+      "program_name_it": "Ingegneria Gestionale"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Ingegneria Informatica",
+      "class_code": "LM-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Computer Engineering",
+      "program_name_it": "Ingegneria Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Informatica (Mantova)",
+      "class_code": "L-8-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Mantova",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Computer Engineering (Mantova)",
+      "program_name_it": "Ingegneria Informatica (Mantova)"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Informatica (Modena)",
+      "class_code": "L-8-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Computer Engineering (Modena)",
+      "program_name_it": "Ingegneria Informatica (Modena)"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Ingegneria Meccanica",
+      "class_code": "LM-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Mechanical Engineering",
+      "program_name_it": "Ingegneria Meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Meccanica",
+      "class_code": "L-9-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Mechanical Engineering",
+      "program_name_it": "Ingegneria Meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Meccatronica",
+      "class_code": "L-9-R/L-8-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "Interclasse",
+      "program_name_en": "Engineering Meccatronica",
+      "program_name_it": "Ingegneria Meccatronica"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Ingegneria Meccatronica",
+      "class_code": "LM-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Engineering Meccatronica",
+      "program_name_it": "Ingegneria Meccatronica"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "International Management",
+      "class_code": "LM-77-R",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Economics",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Internazionali Management",
+      "program_name_en": "International Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Languages For Communication In International Enterprises",
+      "class_code": "LM-38-R",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Linguistics & Culture",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Lingue For Comunicazione In Internazionali Enterprises",
+      "program_name_en": "Languages For Communication In International Enterprises"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Lingue E Culture Europee",
+      "class_code": "L-12-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Linguistics & Culture",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Lingue, Culture, Comunicazione",
+      "class_code": "LM-37-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Linguistics & Culture",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Languagands, Culture, Communication",
+      "program_name_it": "Lingue, Culture, Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Logopedia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Health/Rehabilitation",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Speech Therapy"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Management E Comunicazione D'impresa",
+      "class_code": "LM-77-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Economics",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Management E Comunicazione D'impresa"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Marketing E Organizzazione D'impresa",
+      "class_code": "L-18-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Economics",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Matematica",
+      "class_code": "L-35-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Physics/Math/Computer Science",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Matematica",
+      "class_code": "LM-40-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Physics/Math/Computer Science",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Media Education Per Le Discipline Letterarie",
+      "class_code": "LM-43-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Linguistics & Culture",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "ciclo_unico",
+      "program_name": "Medicina E Chirurgia",
+      "class_code": "LM-41-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 6,
+      "ects_total": 360,
+      "department": "Health/Medicine",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Medicina E Chirurgia"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "ciclo_unico",
+      "program_name": "Odontoiatria E Protesi Dentaria",
+      "class_code": "LM-46-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 6,
+      "ects_total": 360,
+      "department": "Health/Dentistry",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Ostetricia",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Health/Nursing",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Midwifery"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Physics - Fisica",
+      "class_code": "LM-17-R",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Physics/Math/Computer Science",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Fisica - Fisica",
+      "program_name_en": "Physics - Fisica"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Pubblicità, Comunicazione Digitale E Creatività",
+      "class_code": "LM-59-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Communication & Economics",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Pubblicità, Comunicazione Digitale E Creatività"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Relazioni Di Lavoro",
+      "class_code": "LM-77-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Economics",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Salute E Sport",
+      "class_code": "LM-67-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Health",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Biologiche",
+      "class_code": "L-13-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Life Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Biological Sciences",
+      "program_name_it": "Scienze Biologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Scienze Chimiche",
+      "class_code": "LM-54-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Chemistry & Geology",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Chemical Sciences",
+      "program_name_it": "Scienze Chimiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Dei Servizi Giuridici",
+      "class_code": "L-14-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Law",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze Dei Servizi Giuridici"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Dell'educazione Per Il Nido E Le Professioni Socio-pedagogiche",
+      "class_code": "L-19-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Education & Human Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze Dell'educazione Per Il Nido E Le Professioni Socio-pedagogiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Della Comunicazione",
+      "class_code": "L-20-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Communication & Economics",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze Della Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "ciclo_unico",
+      "program_name": "Scienze Della Formazione Primaria",
+      "class_code": "LM-85-BIS",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 5,
+      "ects_total": 300,
+      "department": "Education & Human Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze Della Formazione Primaria"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Scienze E Tecniche Psicologiche",
+      "class_code": "L-24-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Health",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze E Tecniche Psicologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Scienze E Tecnologie Agrarie E Degli Alimenti",
+      "class_code": "L-25-R/L-26-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Life Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "Interclasse",
+      "program_name_it": "Scienze E Tecnologie Agrarie E Degli Alimenti"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Geologiche",
+      "class_code": "L-34-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Chemistry & Geology",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Geological Sciences",
+      "program_name_it": "Scienze Geologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Scienze Infermieristiche E Ostetriche (Modena)",
+      "class_code": "LM/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Health",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze Infermieristiche E Ostetriche (Modena)"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Scienze Infermieristiche Ed Ostetriche (Reggio Emilia)",
+      "class_code": "LM/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Health",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze Infermieristiche Ed Ostetriche (Reggio Emilia)"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Naturali",
+      "class_code": "L-32-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Chemistry & Geology",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Natural Sciences",
+      "program_name_it": "Scienze Naturali"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Scienze Pedagogiche",
+      "class_code": "LM-85-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Education & Human Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Pedagogical Sciences",
+      "program_name_it": "Scienze Pedagogiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Strategiche",
+      "class_code": "L/DS",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Law",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze Strategiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Sistemi Biotecnologici Per Lo Sviluppo Sostenibile",
+      "class_code": "LM-8-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Life Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Sostenibilità Integrata Dei Sistemi Agricoli",
+      "class_code": "LM-69-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Life Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Storia E Culture Contemporanee",
+      "class_code": "L-42-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Linguistics & Culture",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Storia E Culture Contemporanee"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Sustainable Industrial Engineering",
+      "class_code": "LM-33",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Sostenibile Ingegneria Industrialee",
+      "program_name_en": "Sustainable Industrial Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Tecnica Della Riabilitazione Psichiatrica",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Health",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche Di Fisiopatologia Cardiocircolatoria E Perfusione Cardiovascolare",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Health Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche Di Laboratorio Biomedico",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Health Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche Di Radiologia Medica, Per Immagini E Radioterapia",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Health Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Tecnologie Per L'industria Intelligente",
+      "class_code": "L-P03",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Engineering",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "Laurea Professionalizzante"
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "master",
+      "program_name": "Teorie E Metodologie Del Digital Learning",
+      "class_code": "LM-93-R",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Emilia",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Education & Humanities",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimore",
+      "degree_level": "bachelor",
+      "program_name": "Terapia Occupazionale",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Modena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Health Sciences",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Terapia Occupazionale"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unimore",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unimore.it/it/didattica/iscrizioni-e-tasse",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "ATENEO DI QUALITÀ ACCREDITATO FASCIA A 2025"
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unimore",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE ≤ 22000",
+          "amount_min": 159.67,
+          "amount_max": 159.67,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area - full exemption"
+        },
+        {
+          "student_group": "ISEE 22001-27000",
+          "amount_min": 159.67,
+          "amount_max": 159.67,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area with merit requirements (25 CFU for 2nd+ year)"
+        },
+        {
+          "student_group": "ISEE 27001-45000",
+          "amount_min": 159.67,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Reduced contribution based on ISEE"
+        },
+        {
+          "student_group": "ISEE > 45000",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full contribution, no reductions"
+        },
+        {
+          "student_group": "Fuori corso without merit",
+          "amount_min": 859.67,
+          "amount_max": 859.67,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Fixed €159.67 + €700 minimum contribution"
+        },
+        {
+          "student_group": "Disability ≥66% or L.104",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Fixed fees (bollo + regional tax)",
+          "amount": 159.67,
+          "currency": "EUR",
+          "notes": "Required for all students at enrollment"
+        }
+      ],
+      "payment_schedule_notes": "First year students pay €159.67 at enrollment. Subsequent contributions in later installments.",
+      "source_url": "https://www.unimore.it/it/servizi/tasse-e-benefici",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "ISEE application via ER.GO portal (www.er-go.it) by Sept 1 - Nov 6, 2025. Independent student status requires 2+ years living outside family home with €9,000+ annual income."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "unimore",
+      "scholarship_name": "ER.GO Regional Scholarship",
+      "description": "Regional scholarship covering tuition, accommodation, meals",
+      "eligibility": "ISEE threshold + merit requirements",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "2025-11-06",
+      "how_to_apply_url": "https://www.er-go.it",
+      "source_url": "https://www.er-go.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Reopening period: Feb 9 - Mar 12, 2026"
+    },
+    {
+      "type": "scholarships",
+      "university_id": "unimore",
+      "scholarship_name": "Top Student Exemption",
+      "description": "Full tuition exemption for high-achieving students",
+      "eligibility": "Outstanding academic performance",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.unimore.it/en/services/fees-and-benefits/exemptions-and-reduction-tuition-fees/top-student-exemption",
+      "source_url": "https://www.unimore.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": ""
+    }
+  ],
   "opportunities": []
 }

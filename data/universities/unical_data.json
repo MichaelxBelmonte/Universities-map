@@ -7,34 +7,361 @@
     "country": "Italy",
     "city": "Rende",
     "campuses": [
-      {"city": "Rende", "address": "Via Pietro Bucci, 87036 Rende (CS)", "notes": "Main campus - Arcavacata"}
+      {
+        "city": "Rende",
+        "address": "Via Pietro Bucci, 87036 Rende (CS)",
+        "notes": "Main campus - Arcavacata"
+      }
     ],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Via Pietro Bucci, 87036 Rende CS"},
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Via Pietro Bucci, 87036 Rende CS"
+    },
     "source_url": "https://www.unical.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "84 courses across sciences, engineering, medical-health, socio-economic, humanities, and teacher education. Tax ID: 80003950781"
   },
   "programs": [
-    {"type":"program","university_id":"unical","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Rende","duration_years":3,"ects_total":180,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/2026"},
-    {"type":"program","university_id":"unical","degree_level":"bachelor","program_name":"Fisioterapia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Rende","duration_years":3,"ects_total":180,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/2026"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Scritture, Immagini e Media Digitali","class_code":"LM-14","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/2026"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Linguaggi della Comunicazione e dello Spettacolo","class_code":"LM-65","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/2026"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Scienze Storiche e del Patrimonio Culturale","class_code":"LM-84","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/2026"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Civil Engineering for Infrastructural Regeneration","class_code":"LM-23","language":["English"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/2026 - English-taught"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Ingegneria Chimica","class_code":"LM-22","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DIMES department"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Ingegneria Elettronica","class_code":"LM-29","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DIMES department"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Ingegneria Informatica","class_code":"LM-32","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DIMES department"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Robotics and Automation Engineering","class_code":"LM-25","language":["English"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DIMES - English-taught"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Telecommunication Engineering","class_code":"LM-27","language":["English"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DIMES - English-taught"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Artificial Intelligence and Computer Science","class_code":"LM-18","language":["English"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DeMaCS - English-taught"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Ingegneria Meccanica","class_code":"LM-33","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DiMEG department"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Ingegneria Energetica","class_code":"LM-30","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DiMEG department"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Ingegneria Civile","class_code":"LM-23","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DInCi department"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Scienze delle Politiche e dei Servizi Sociali","class_code":"LM-87","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DiSPeS department"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Scienze delle Pubbliche Amministrazioni","class_code":"LM-63","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DiSPeS department"},
-    {"type":"program","university_id":"unical","degree_level":"master","program_name":"Scienze della Politica e Istituzioni Internazionali","class_code":"LM-52","language":["Italian"],"campus_city":"Rende","duration_years":2,"ects_total":120,"source_url":"https://offertaformativa.unical.it","last_checked":"2026-01-04","confidence":0.8,"notes":"DiSPeS department"}
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Tecniche Psicologiche",
+      "class_code": "L-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "NEW 2025/2026",
+      "program_name_en": "Psychological Sciences and Techniques",
+      "program_name_it": "Scienze e Tecniche Psicologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "bachelor",
+      "program_name": "Fisioterapia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "NEW 2025/2026",
+      "program_name_en": "Physiotherapy"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Scritture, Immagini e Media Digitali",
+      "class_code": "LM-14",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "NEW 2025/2026"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Linguaggi della Comunicazione e dello Spettacolo",
+      "class_code": "LM-65",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "NEW 2025/2026",
+      "program_name_it": "Linguaggi della Comunicazione e dello Spettacolo"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Scienze Storiche e del Patrimonio Culturale",
+      "class_code": "LM-84",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "NEW 2025/2026",
+      "program_name_it": "Scienze Storiche e del Patrimonio Culturale"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Civil Engineering for Infrastructural Regeneration",
+      "class_code": "LM-23",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "NEW 2025/2026 - English-taught",
+      "program_name_it": "Ingegneria Civile per Infrastructural Regeneration",
+      "program_name_en": "Civil Engineering for Infrastructural Regeneration"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Ingegneria Chimica",
+      "class_code": "LM-22",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "DIMES department",
+      "program_name_en": "Chemical Engineering",
+      "program_name_it": "Ingegneria Chimica"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Ingegneria Elettronica",
+      "class_code": "LM-29",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "DIMES department",
+      "program_name_en": "Electronic Engineering",
+      "program_name_it": "Ingegneria Elettronica"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Ingegneria Informatica",
+      "class_code": "LM-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "DIMES department",
+      "program_name_en": "Computer Engineering",
+      "program_name_it": "Ingegneria Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Robotics and Automation Engineering",
+      "class_code": "LM-25",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "DIMES - English-taught",
+      "program_name_it": "Robotics e Ingegneria dell'Automazione",
+      "program_name_en": "Robotics and Automation Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Telecommunication Engineering",
+      "class_code": "LM-27",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "DIMES - English-taught",
+      "program_name_it": "Ingegneria delle Telecomunicazioni",
+      "program_name_en": "Telecommunication Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Artificial Intelligence and Computer Science",
+      "class_code": "LM-18",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "DeMaCS - English-taught",
+      "program_name_it": "Intelligenza Artificiale e Inpermatica",
+      "program_name_en": "Artificial Intelligence and Computer Science"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Ingegneria Meccanica",
+      "class_code": "LM-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "DiMEG department",
+      "program_name_en": "Mechanical Engineering",
+      "program_name_it": "Ingegneria Meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Ingegneria Energetica",
+      "class_code": "LM-30",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "DiMEG department",
+      "program_name_en": "Energy Engineering",
+      "program_name_it": "Ingegneria Energetica"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Ingegneria Civile",
+      "class_code": "LM-23",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "DInCi department",
+      "program_name_en": "Civil Engineering",
+      "program_name_it": "Ingegneria Civile"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Scienze delle Politiche e dei Servizi Sociali",
+      "class_code": "LM-87",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "DiSPeS department",
+      "program_name_it": "Scienze delle Politiche e dei Servizi Sociali"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Scienze delle Pubbliche Amministrazioni",
+      "class_code": "LM-63",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "DiSPeS department",
+      "program_name_it": "Scienze delle Pubbliche Amministrazioni"
+    },
+    {
+      "type": "program",
+      "university_id": "unical",
+      "degree_level": "master",
+      "program_name": "Scienze della Politica e Istituzioni Internazionali",
+      "class_code": "LM-52",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rende",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://offertaformativa.unical.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "DiSPeS department",
+      "program_name_it": "Scienze della Politica e Istituzioni Internazionali"
+    }
   ],
   "admissions": [
     {
@@ -50,8 +377,19 @@
         "portfolio_required": false,
         "interview_required": false
       },
-      "intakes": [{"intake_name": "fall", "application_open_date": "", "application_deadline": "", "start_date": ""}],
-      "application_fee": {"amount": null, "currency": "EUR", "notes": ""},
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
       "how_to_apply_url": "https://www.unical.it/didattica/iscriversi/",
       "source_url": "https://www.unical.it",
       "last_checked": "2026-01-04",
@@ -74,17 +412,49 @@
           "notes": "ISEE-based progressive rates. Divided into 4 installments."
         },
         "other_fees": [
-          {"name": "Bollo (stamp duty)", "amount": 16, "currency": "EUR", "frequency": "annual"},
-          {"name": "Tassa Regionale Calabria", "amount_min": 130, "amount_max": 160, "currency": "EUR", "frequency": "annual", "notes": "€130 (ISEE <€40K), €140 (€40-100K), €160 (>€100K or no ISEE)"}
+          {
+            "name": "Bollo (stamp duty)",
+            "amount": 16,
+            "currency": "EUR",
+            "frequency": "annual"
+          },
+          {
+            "name": "Tassa Regionale Calabria",
+            "amount_min": 130,
+            "amount_max": 160,
+            "currency": "EUR",
+            "frequency": "annual",
+            "notes": "€130 (ISEE <€40K), €140 (€40-100K), €160 (>€100K or no ISEE)"
+          }
         ],
         "payment_schedule": "4 installments"
       },
       "exemptions": [
-        {"name": "Esonero totale", "description": "Full tuition exemption for ISEE up to €20,000", "eligibility": "ISEE <= €20,000"},
-        {"name": "Partial reduction", "description": "Progressive reduction for ISEE €20,001-€30,000", "eligibility": "ISEE €20,001-€30,000"},
-        {"name": "Merit-based reduction", "description": "Additional reductions for high-performing students", "eligibility": "Based on CFU and weighted average grade"},
-        {"name": "Disability exemption", "description": "Full exemption for students with disability >= 66%", "eligibility": "Disability certificate >= 66%"},
-        {"name": "Siblings discount", "description": "Reduction for multiple siblings enrolled", "eligibility": "Two or more siblings enrolled at UniCal"}
+        {
+          "name": "Esonero totale",
+          "description": "Full tuition exemption for ISEE up to €20,000",
+          "eligibility": "ISEE <= €20,000"
+        },
+        {
+          "name": "Partial reduction",
+          "description": "Progressive reduction for ISEE €20,001-€30,000",
+          "eligibility": "ISEE €20,001-€30,000"
+        },
+        {
+          "name": "Merit-based reduction",
+          "description": "Additional reductions for high-performing students",
+          "eligibility": "Based on CFU and weighted average grade"
+        },
+        {
+          "name": "Disability exemption",
+          "description": "Full exemption for students with disability >= 66%",
+          "eligibility": "Disability certificate >= 66%"
+        },
+        {
+          "name": "Siblings discount",
+          "description": "Reduction for multiple siblings enrolled",
+          "eligibility": "Two or more siblings enrolled at UniCal"
+        }
       ],
       "source_url": "https://www.unical.it/didattica/tasse-e-agevolazioni/",
       "last_checked": "2026-01-10",
@@ -142,7 +512,9 @@
         "nationality_requirements": "All enrolled students",
         "other_requirements": "Available for library, administrative support, tutoring"
       },
-      "benefits": ["Part-time paid work experience within university"],
+      "benefits": [
+        "Part-time paid work experience within university"
+      ],
       "application_deadline": "Various throughout year",
       "renewable": true,
       "source_url": "https://www.unical.it",

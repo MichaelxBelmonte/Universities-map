@@ -20,6 +20,11 @@ const jakarta = Plus_Jakarta_Sans({
 export const metadata: Metadata = {
   title: "Universities Map | Global University Explorer",
   description: "Interactive world map of universities. Currently featuring Italy with 104+ universities. Explore, search, and find your perfect university. More countries coming soon!",
+  icons: {
+    icon: "/favicon.png",
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
+  },
 };
 
 export default function RootLayout({

@@ -6,79 +6,247 @@
     "official_url": "https://www.unistrasi.it",
     "country": "Italy",
     "city": "Siena",
-    "campuses": [{"city": "Siena", "address": "", "notes": "Main campus"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Siena"},
+    "campuses": [
+      {
+        "city": "Siena",
+        "address": "",
+        "notes": "Main campus"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Siena"
+    },
     "source_url": "https://www.unistrasi.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "Specialized in Italian language and culture for foreigners. Online fee simulator available."
   },
   "programs": [
-    {"type":"program","university_id":"unistrasi","degree_level":"bachelor","program_name":"Lingua e Cultura Italiana in Contesti Globali","class_code":"L-10","language":["Italian"],"campus_city":"Siena","duration_years":3,"ects_total":180,"source_url":"https://www.unistrasi.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Italian language teaching specialization."},
-    {"type":"program","university_id":"unistrasi","degree_level":"bachelor","program_name":"Mediazione Linguistica e Culturale","class_code":"L-12","language":["Italian"],"campus_city":"Siena","duration_years":3,"ects_total":180,"source_url":"https://www.unistrasi.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Two tracks: tourism/translation and migration processes."},
-    {"type":"program","university_id":"unistrasi","degree_level":"bachelor","program_name":"Plurilinguismo, Traduzione e Interpretazione","class_code":"L-11","language":["Italian"],"campus_city":"Siena","duration_years":3,"ects_total":180,"source_url":"https://www.unistrasi.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Multilingual focus."},
-    {"type":"program","university_id":"unistrasi","degree_level":"bachelor","program_name":"Geografie della Decolonizzazione","class_code":"L-6","language":["Italian"],"campus_city":"Siena","duration_years":3,"ects_total":180,"source_url":"https://www.unistrasi.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Sustainability, landscapes, cultural heritage."},
-    {"type":"program","university_id":"unistrasi","degree_level":"bachelor","program_name":"Lingua, Letteratura, Arti Italiane (Online)","class_code":"L-10","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unistrasi.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Online degree for Italian language promotion worldwide."},
-    {"type":"program","university_id":"unistrasi","degree_level":"master","program_name":"Competenze Testuali per l'Editoria, l'Insegnamento e la Promozione Turistica","class_code":"LM-14","language":["Italian"],"campus_city":"Siena","duration_years":2,"ects_total":120,"source_url":"https://www.unistrasi.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Teaching access."},
-    {"type":"program","university_id":"unistrasi","degree_level":"master","program_name":"Scienze Linguistiche e Comunicazione Interculturale","class_code":"LM-39","language":["Italian"],"campus_city":"Siena","duration_years":2,"ects_total":120,"source_url":"https://www.unistrasi.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Teaching access."}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"unistrasi",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "unistrasi",
+      "degree_level": "bachelor",
+      "program_name": "Lingua e Cultura Italiana in Contesti Globali",
+      "class_code": "L-10",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Siena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unistrasi.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Italian language teaching specialization.",
+      "program_name_en": "Lingua and Cultura Italiana in Contesti Globali"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":""
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.unistrasi.it",
-    "source_url":"https://www.unistrasi.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"International focus on Italian language teaching."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"unistrasi",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"ISEE ≤ no tax area threshold","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"No Tax Area exemption"},
-      {"student_group":"ISEE above threshold","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Progressive based on ISEE"},
-      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
-    ],
-    "additional_fees":[],
-    "payment_schedule_notes":"",
-    "source_url":"https://online.unistrasi.it/simulatoretasse/simtasse.asp",
-    "last_checked":"2026-01-04",
-    "confidence":0.8,
-    "notes":"Fee simulator available online for 2025/26."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"unistrasi",
-    "scholarship_name":"DSU Toscana Regional Scholarship",
-    "description":"Regional scholarship for students with low ISEE",
-    "eligibility":"ISEE threshold + merit requirements",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.dsu.toscana.it",
-    "source_url":"https://www.unistrasi.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.8,
-    "notes":"ARDSU Toscana manages regional scholarships."
-  }],
+    {
+      "type": "program",
+      "university_id": "unistrasi",
+      "degree_level": "bachelor",
+      "program_name": "Mediazione Linguistica e Culturale",
+      "class_code": "L-12",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Siena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unistrasi.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Two tracks: tourism/translation and migration processes.",
+      "program_name_en": "Linguistic and Cultural Mediation"
+    },
+    {
+      "type": "program",
+      "university_id": "unistrasi",
+      "degree_level": "bachelor",
+      "program_name": "Plurilinguismo, Traduzione e Interpretazione",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Siena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unistrasi.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Multilingual focus.",
+      "program_name_en": "Plurilinguismo, Translation and Interpretazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unistrasi",
+      "degree_level": "bachelor",
+      "program_name": "Geografie della Decolonizzazione",
+      "class_code": "L-6",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Siena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unistrasi.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Sustainability, landscapes, cultural heritage.",
+      "program_name_en": "Gandografie of the Decolonizzazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unistrasi",
+      "degree_level": "bachelor",
+      "program_name": "Lingua, Letteratura, Arti Italiane (Online)",
+      "class_code": "L-10",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unistrasi.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Online degree for Italian language promotion worldwide."
+    },
+    {
+      "type": "program",
+      "university_id": "unistrasi",
+      "degree_level": "master",
+      "program_name": "Competenze Testuali per l'Editoria, l'Insegnamento e la Promozione Turistica",
+      "class_code": "LM-14",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Siena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unistrasi.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Teaching access."
+    },
+    {
+      "type": "program",
+      "university_id": "unistrasi",
+      "degree_level": "master",
+      "program_name": "Scienze Linguistiche e Comunicazione Interculturale",
+      "class_code": "LM-39",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Siena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unistrasi.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Teaching access.",
+      "program_name_it": "Scienze Linguistiche e Comunicazione Interculturale"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unistrasi",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unistrasi.it",
+      "source_url": "https://www.unistrasi.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "International focus on Italian language teaching."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unistrasi",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE ≤ no tax area threshold",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area exemption"
+        },
+        {
+          "student_group": "ISEE above threshold",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Progressive based on ISEE"
+        },
+        {
+          "student_group": "Disability ≥66% or L.104",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption"
+        }
+      ],
+      "additional_fees": [],
+      "payment_schedule_notes": "",
+      "source_url": "https://online.unistrasi.it/simulatoretasse/simtasse.asp",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Fee simulator available online for 2025/26."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "unistrasi",
+      "scholarship_name": "DSU Toscana Regional Scholarship",
+      "description": "Regional scholarship for students with low ISEE",
+      "eligibility": "ISEE threshold + merit requirements",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.dsu.toscana.it",
+      "source_url": "https://www.unistrasi.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "ARDSU Toscana manages regional scholarships."
+    }
+  ],
   "opportunities": []
 }

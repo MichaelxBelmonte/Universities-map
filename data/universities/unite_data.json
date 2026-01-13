@@ -7,28 +7,246 @@
     "country": "Italy",
     "city": "Teramo",
     "campuses": [
-      {"city": "Teramo", "address": "", "notes": "Main campus"}
+      {
+        "city": "Teramo",
+        "address": "",
+        "notes": "Main campus"
+      }
     ],
-    "languages_offered": ["Italian"],
-    "contacts": {"email": "", "phone": "", "address": "Teramo"},
+    "languages_offered": [
+      "Italian"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Teramo"
+    },
     "source_url": "https://www.unite.it",
     "last_checked": "2026-01-04",
     "confidence": 0.8,
     "notes": "5 Departments, 24 degree programs, 17 Masters, 7 Specialization Schools. SSL certificate issues on direct fetch."
   },
   "programs": [
-    {"type":"program","university_id":"unite","degree_level":"bachelor","program_name":"Servizi Giuridici","class_code":"L-14","language":["Italian"],"campus_city":"Teramo","duration_years":3,"ects_total":180,"source_url":"https://www.unite.it/UniTE/Didattica/Corsi_di_studio","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unite","degree_level":"bachelor","program_name":"Diritto dell'Ambiente e dell'Energia","class_code":"L-14","language":["Italian"],"campus_city":"Teramo","duration_years":3,"ects_total":180,"source_url":"https://www.unite.it/UniTE/Didattica/Corsi_di_studio","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unite","degree_level":"master","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Teramo","duration_years":5,"ects_total":300,"source_url":"https://www.unite.it/UniTE/Didattica/Corsi_di_studio","last_checked":"2026-01-04","confidence":0.8,"notes":"Ciclo Unico"},
-    {"type":"program","university_id":"unite","degree_level":"master","program_name":"Diritto, Economia e Strategia d'Impresa","class_code":"LM-77","language":["Italian"],"campus_city":"Teramo","duration_years":2,"ects_total":120,"source_url":"https://www.unite.it/UniTE/Didattica/Corsi_di_studio","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unite","degree_level":"bachelor","program_name":"Scienze Politiche","class_code":"L-36","language":["Italian"],"campus_city":"Teramo","duration_years":3,"ects_total":180,"source_url":"https://www.unite.it/UniTE/Didattica/Corsi_di_studio","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unite","degree_level":"bachelor","program_name":"Turismo Sostenibile","class_code":"L-15","language":["Italian"],"campus_city":"Teramo","duration_years":3,"ects_total":180,"source_url":"https://www.unite.it/UniTE/Didattica/Corsi_di_studio","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unite","degree_level":"bachelor","program_name":"Economia","class_code":"L-33","language":["Italian"],"campus_city":"Teramo","duration_years":3,"ects_total":180,"source_url":"https://www.unite.it/UniTE/Didattica/Corsi_di_studio","last_checked":"2026-01-04","confidence":0.8,"notes":"Interdipartimentale"},
-    {"type":"program","university_id":"unite","degree_level":"master","program_name":"Scienze delle Amministrazioni","class_code":"LM-63","language":["Italian"],"campus_city":"Teramo","duration_years":2,"ects_total":120,"source_url":"https://www.unite.it/UniTE/Didattica/Corsi_di_studio","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unite","degree_level":"master","program_name":"Politiche Internazionali e della Sostenibilità","class_code":"LM-52","language":["Italian"],"campus_city":"Teramo","duration_years":2,"ects_total":120,"source_url":"https://www.unite.it/UniTE/Didattica/Corsi_di_studio","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unite","degree_level":"bachelor","program_name":"Scienze della Comunicazione","class_code":"L-20","language":["Italian"],"campus_city":"Teramo","duration_years":3,"ects_total":180,"source_url":"https://www.unite.it/UniTE/Didattica/Corsi_di_studio","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unite","degree_level":"bachelor","program_name":"DAMS - Discipline delle Arti, della Musica e dello Spettacolo","class_code":"L-3","language":["Italian"],"campus_city":"Teramo","duration_years":3,"ects_total":180,"source_url":"https://www.unite.it/UniTE/Didattica/Corsi_di_studio","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unite","degree_level":"master","program_name":"Medicina Veterinaria","class_code":"LM-42","language":["Italian"],"campus_city":"Teramo","duration_years":5,"ects_total":300,"source_url":"https://www.unite.it/UniTE/Didattica/Corsi_di_studio","last_checked":"2026-01-04","confidence":0.8,"notes":"Ciclo Unico. From 2025/2026: semester filter with open access"}
+    {
+      "type": "program",
+      "university_id": "unite",
+      "degree_level": "bachelor",
+      "program_name": "Servizi Giuridici",
+      "class_code": "L-14",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Teramo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unite.it/UniTE/Didattica/Corsi_di_studio",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Servizi Giuridici"
+    },
+    {
+      "type": "program",
+      "university_id": "unite",
+      "degree_level": "bachelor",
+      "program_name": "Diritto dell'Ambiente e dell'Energia",
+      "class_code": "L-14",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Teramo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unite.it/UniTE/Didattica/Corsi_di_studio",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_it": "Diritto dell'Ambiente e dell'Energia"
+    },
+    {
+      "type": "program",
+      "university_id": "unite",
+      "degree_level": "master",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Teramo",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unite.it/UniTE/Didattica/Corsi_di_studio",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Ciclo Unico",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "unite",
+      "degree_level": "master",
+      "program_name": "Diritto, Economia e Strategia d'Impresa",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Teramo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unite.it/UniTE/Didattica/Corsi_di_studio",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Law, Economics and Strategia d'Impresa",
+      "program_name_it": "Diritto, Economia e Strategia d'Impresa"
+    },
+    {
+      "type": "program",
+      "university_id": "unite",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Politiche",
+      "class_code": "L-36",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Teramo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unite.it/UniTE/Didattica/Corsi_di_studio",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Political Science",
+      "program_name_it": "Scienze Politiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unite",
+      "degree_level": "bachelor",
+      "program_name": "Turismo Sostenibile",
+      "class_code": "L-15",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Teramo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unite.it/UniTE/Didattica/Corsi_di_studio",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Tourism Sustainabland"
+    },
+    {
+      "type": "program",
+      "university_id": "unite",
+      "degree_level": "bachelor",
+      "program_name": "Economia",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Teramo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unite.it/UniTE/Didattica/Corsi_di_studio",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Interdipartimentale",
+      "program_name_en": "Economics",
+      "program_name_it": "Economia"
+    },
+    {
+      "type": "program",
+      "university_id": "unite",
+      "degree_level": "master",
+      "program_name": "Scienze delle Amministrazioni",
+      "class_code": "LM-63",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Teramo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unite.it/UniTE/Didattica/Corsi_di_studio",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_it": "Scienze delle Amministrazioni"
+    },
+    {
+      "type": "program",
+      "university_id": "unite",
+      "degree_level": "master",
+      "program_name": "Politiche Internazionali e della Sostenibilità",
+      "class_code": "LM-52",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Teramo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unite.it/UniTE/Didattica/Corsi_di_studio",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unite",
+      "degree_level": "bachelor",
+      "program_name": "Scienze della Comunicazione",
+      "class_code": "L-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Teramo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unite.it/UniTE/Didattica/Corsi_di_studio",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Communication Sciences",
+      "program_name_it": "Scienze della Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unite",
+      "degree_level": "bachelor",
+      "program_name": "DAMS - Discipline delle Arti, della Musica e dello Spettacolo",
+      "class_code": "L-3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Teramo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unite.it/UniTE/Didattica/Corsi_di_studio",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unite",
+      "degree_level": "master",
+      "program_name": "Medicina Veterinaria",
+      "class_code": "LM-42",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Teramo",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unite.it/UniTE/Didattica/Corsi_di_studio",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Ciclo Unico. From 2025/2026: semester filter with open access",
+      "program_name_en": "Veterinary Medicine",
+      "program_name_it": "Medicina Veterinaria"
+    }
   ],
   "admissions": [
     {
@@ -39,16 +257,34 @@
       "applicant_scope": "all",
       "requirements": {
         "academic_requirements": "Secondary school diploma or equivalent",
-        "documents_required": ["Secondary school diploma", "Valid ID", "Tax code"],
+        "documents_required": [
+          "Secondary school diploma",
+          "Valid ID",
+          "Tax code"
+        ],
         "tests_required": [],
         "portfolio_required": false,
         "interview_required": false
       },
       "intakes": [
-        {"intake_name": "fall", "application_open_date": "", "application_deadline": "2025-12-31", "start_date": ""},
-        {"intake_name": "late_enrollment", "application_open_date": "2025-12-31", "application_deadline": "2026-02-27", "start_date": ""}
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "2025-12-31",
+          "start_date": ""
+        },
+        {
+          "intake_name": "late_enrollment",
+          "application_open_date": "2025-12-31",
+          "application_deadline": "2026-02-27",
+          "start_date": ""
+        }
       ],
-      "application_fee": {"amount": 50.00, "currency": "EUR", "notes": "Late enrollment surcharge (after Dec 31, 2025)"},
+      "application_fee": {
+        "amount": 50,
+        "currency": "EUR",
+        "notes": "Late enrollment surcharge (after Dec 31, 2025)"
+      },
       "how_to_apply_url": "https://www.unite.it/UniTE/Didattica/Immatricolazione_online",
       "source_url": "https://www.unite.it/UniTE/Didattica/Immatricolazione_online",
       "last_checked": "2026-01-04",
@@ -63,9 +299,30 @@
       "program_name": "",
       "degree_level_scope": "general",
       "tuition": [
-        {"student_group": "ISEE ≤ 22000", "amount_min": 0, "amount_max": 0, "currency": "EUR", "period": "year", "notes": "No Tax Area - total exemption"},
-        {"student_group": "ISEE 22001-24000", "amount_min": null, "amount_max": null, "currency": "EUR", "period": "year", "notes": "Pay only 20% of fees"},
-        {"student_group": "ADSU scholarship holders", "amount_min": 0, "amount_max": 0, "currency": "EUR", "period": "year", "notes": "Total exemption from COA"}
+        {
+          "student_group": "ISEE ≤ 22000",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area - total exemption"
+        },
+        {
+          "student_group": "ISEE 22001-24000",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Pay only 20% of fees"
+        },
+        {
+          "student_group": "ADSU scholarship holders",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Total exemption from COA"
+        }
       ],
       "additional_fees": [],
       "payment_schedule_notes": "First installment: Oct-Nov, Second: January, Third: April-May. COA (Contributo Onnicomprensivo Annuale) varies by ISEE.",
@@ -82,14 +339,18 @@
       "name": "ADSU Teramo Borse di Studio 2025/2026",
       "type_category": "dsu",
       "eligible_students": "all",
-      "benefits": ["tuition", "housing", "services"],
+      "benefits": [
+        "tuition",
+        "housing",
+        "services"
+      ],
       "amount_text": "Varies by student status (fuori sede, pendolare, in sede)",
       "deadline": "2025-09-15",
       "requirements_summary": "Based on ISEE income and merit. All eligible students are recipients thanks to FSE+, FIS and PNRR funds.",
       "official_url": "https://www.adsuteramo.it/archivio10_notizie-e-comunicati_0_423.html",
       "source_url": "https://www.unite.it/UniTE/Home/Bando_di_concorso_2025_2026_per_borse_di_studio_ADSU",
       "last_checked": "2026-01-04",
-      "confidence": 1.0,
+      "confidence": 1,
       "notes": "Online application via SPID. First payment (50%) in December 2025. Students from year 2+ get automatic total tuition exemption."
     }
   ],

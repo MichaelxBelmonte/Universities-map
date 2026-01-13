@@ -7,92 +7,399 @@
     "country": "Vatican City / Italy",
     "city": "Rome",
     "campuses": [
-      {"city": "Rome (Piazza della Pilotta)", "address": "", "notes": "Historic center, near Quirinale"}
+      {
+        "city": "Rome (Piazza della Pilotta)",
+        "address": "",
+        "notes": "Historic center, near Quirinale"
+      }
     ],
-    "languages_offered": ["Italian", "English", "Latin"],
-    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "languages_offered": [
+      "Italian",
+      "English",
+      "Latin"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Rome"
+    },
     "source_url": "https://www.unigre.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "Pontifical university under Vatican jurisdiction. Founded 1551 by St. Ignatius. Theology, Philosophy, Canon Law, Social Sciences. Degrees recognized by Holy See."
   },
   "programs": [
-    {"type":"program","university_id":"gregoriana","degree_level":"bachelor","program_name":"Baccalaureato in Teologia","class_code":"STB","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unigre.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Pontifical first-cycle degree."},
-    {"type":"program","university_id":"gregoriana","degree_level":"bachelor","program_name":"Baccalaureato in Filosofia","class_code":"PhB","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unigre.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"gregoriana","degree_level":"bachelor","program_name":"Baccalaureato in Scienze Religiose","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unigre.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"gregoriana","degree_level":"bachelor","program_name":"Baccalaureato in Scienze Sociali","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unigre.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"gregoriana","degree_level":"bachelor","program_name":"Baccalaureato in Psicologia","class_code":"","language":["Italian"],"campus_city":"Rome","duration_years":4,"ects_total":240,"source_url":"https://www.unigre.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Propedeutic + cycle."},
-    {"type":"program","university_id":"gregoriana","degree_level":"master","program_name":"Licenza in Teologia","class_code":"STL","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unigre.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Pontifical second-cycle. Various specializations."},
-    {"type":"program","university_id":"gregoriana","degree_level":"master","program_name":"Licenza in Filosofia","class_code":"PhL","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unigre.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"gregoriana","degree_level":"master","program_name":"Licenza in Diritto Canonico","class_code":"JCL","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unigre.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Canon Law."},
-    {"type":"program","university_id":"gregoriana","degree_level":"master","program_name":"Licenza in Scienze Sociali","class_code":"LM-88","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unigre.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Recognized as Laurea Magistrale in Italy."},
-    {"type":"program","university_id":"gregoriana","degree_level":"master","program_name":"Licenza in Missiologia","class_code":"","language":["Italian","English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unigre.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"gregoriana","degree_level":"phd","program_name":"Dottorato in Teologia","class_code":"STD","language":["Italian","English"],"campus_city":"Rome","duration_years":4,"ects_total":0,"source_url":"https://www.unigre.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Pontifical doctorate."},
-    {"type":"program","university_id":"gregoriana","degree_level":"phd","program_name":"Dottorato in Filosofia","class_code":"PhD","language":["Italian","English"],"campus_city":"Rome","duration_years":4,"ects_total":0,"source_url":"https://www.unigre.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"gregoriana","degree_level":"phd","program_name":"Dottorato in Diritto Canonico","class_code":"JCD","language":["Italian"],"campus_city":"Rome","duration_years":4,"ects_total":0,"source_url":"https://www.unigre.it","last_checked":"2026-01-10","confidence":0.85,"notes":""}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"gregoriana",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"international",
-    "requirements":{
-      "academic_requirements":"Varies by program, often requires ecclesiastical background",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "gregoriana",
+      "degree_level": "bachelor",
+      "program_name": "Baccalaureato in Teologia",
+      "class_code": "STB",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unigre.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Pontifical first-cycle degree.",
+      "program_name_en": "Bachelor's in Theology"
     },
-    "intakes":[{
-      "intake_name":"Academic Year",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":"October",
-      "notes":"First semester payment due October 1"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.unigre.it/it/studenti/ammissione/immatricolazione/",
-    "source_url":"https://www.unigre.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Pontifical degrees (Baccalaureate, License, Doctorate). Many students are clergy or religious."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"gregoriana",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"Baccalaureate (3 years)","amount_min":2330,"amount_max":2330,"currency":"EUR","period":"year","notes":"Standard"},
-      {"student_group":"Baccalaureate Psychology","amount_min":3220,"amount_max":3570,"currency":"EUR","period":"year","notes":"Propedeutic + License"},
-      {"student_group":"License (2 years)","amount_min":2930,"amount_max":2930,"currency":"EUR","period":"year","notes":""},
-      {"student_group":"License Safeguarding","amount_min":3570,"amount_max":3570,"currency":"EUR","period":"year","notes":"Specialized"},
-      {"student_group":"Doctorate","amount_min":4230,"amount_max":4230,"currency":"EUR","period":"year","notes":"+ €1,355 at each milestone"},
-      {"student_group":"Diplomas","amount_min":1240,"amount_max":2930,"currency":"EUR","period":"year","notes":"Varies by program"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Dissertation milestones","amount":1355,"currency":"EUR","notes":"At approval of topic, project, and submission"}
-    ],
-    "payment_schedule_notes":"Two equal installments: October 1 and January 24.",
-    "source_url":"https://www.unigre.it/it/studenti/risorse/tasse-accademiche/",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"€2,330-€4,230/year. Pontifical scholarships available (Borse PUG). Applications Mar 17-Apr 30."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"gregoriana",
-    "scholarship_name":"Borse PUG",
-    "description":"Partial tuition scholarships for students in financial need",
-    "eligibility":"Financial need, good academic standing",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"April 30, 2025",
-    "how_to_apply_url":"https://www.unigre.it/it/universita/uffici/ufficio-borse-di-studio/",
-    "source_url":"https://www.unigre.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Applications March 17 - April 30 for following academic year. Funded by benefactors."
-  }],
+    {
+      "type": "program",
+      "university_id": "gregoriana",
+      "degree_level": "bachelor",
+      "program_name": "Baccalaureato in Filosofia",
+      "class_code": "PhB",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unigre.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Bachelor's in Philosophy",
+      "program_name_it": "Baccalaureato in Filosofia"
+    },
+    {
+      "type": "program",
+      "university_id": "gregoriana",
+      "degree_level": "bachelor",
+      "program_name": "Baccalaureato in Scienze Religiose",
+      "class_code": "",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unigre.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Bachelor's in Religious Studies",
+      "program_name_it": "Baccalaureato in Scienze Religiose"
+    },
+    {
+      "type": "program",
+      "university_id": "gregoriana",
+      "degree_level": "bachelor",
+      "program_name": "Baccalaureato in Scienze Sociali",
+      "class_code": "",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unigre.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Bachelor's in Social Sciences",
+      "program_name_it": "Baccalaureato in Scienze Sociali"
+    },
+    {
+      "type": "program",
+      "university_id": "gregoriana",
+      "degree_level": "bachelor",
+      "program_name": "Baccalaureato in Psicologia",
+      "class_code": "",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 4,
+      "ects_total": 240,
+      "source_url": "https://www.unigre.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Propedeutic + cycle.",
+      "program_name_en": "Bachelor's in Psychology",
+      "program_name_it": "Baccalaureato in Psicologia"
+    },
+    {
+      "type": "program",
+      "university_id": "gregoriana",
+      "degree_level": "master",
+      "program_name": "Licenza in Teologia",
+      "class_code": "STL",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unigre.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Pontifical second-cycle. Various specializations.",
+      "program_name_en": "Licandntiate in Theology"
+    },
+    {
+      "type": "program",
+      "university_id": "gregoriana",
+      "degree_level": "master",
+      "program_name": "Licenza in Filosofia",
+      "class_code": "PhL",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unigre.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Licandntiate in Philosophy",
+      "program_name_it": "Licenza in Filosofia"
+    },
+    {
+      "type": "program",
+      "university_id": "gregoriana",
+      "degree_level": "master",
+      "program_name": "Licenza in Diritto Canonico",
+      "class_code": "JCL",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unigre.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Canon Law.",
+      "program_name_en": "Licandntiate in Canon Law"
+    },
+    {
+      "type": "program",
+      "university_id": "gregoriana",
+      "degree_level": "master",
+      "program_name": "Licenza in Scienze Sociali",
+      "class_code": "LM-88",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unigre.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Recognized as Laurea Magistrale in Italy.",
+      "program_name_en": "Licandntiate in Social Sciences",
+      "program_name_it": "Licenza in Scienze Sociali"
+    },
+    {
+      "type": "program",
+      "university_id": "gregoriana",
+      "degree_level": "master",
+      "program_name": "Licenza in Missiologia",
+      "class_code": "",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unigre.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Licandntiate in Missiology"
+    },
+    {
+      "type": "program",
+      "university_id": "gregoriana",
+      "degree_level": "phd",
+      "program_name": "Dottorato in Teologia",
+      "class_code": "STD",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 4,
+      "ects_total": 0,
+      "source_url": "https://www.unigre.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Pontifical doctorate.",
+      "program_name_en": "PhD in Thandology"
+    },
+    {
+      "type": "program",
+      "university_id": "gregoriana",
+      "degree_level": "phd",
+      "program_name": "Dottorato in Filosofia",
+      "class_code": "PhD",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 4,
+      "ects_total": 0,
+      "source_url": "https://www.unigre.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "PhD in Philosophy",
+      "program_name_it": "Dottorato in Filosofia"
+    },
+    {
+      "type": "program",
+      "university_id": "gregoriana",
+      "degree_level": "phd",
+      "program_name": "Dottorato in Diritto Canonico",
+      "class_code": "JCD",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 4,
+      "ects_total": 0,
+      "source_url": "https://www.unigre.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "PhD in Canon Law"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "gregoriana",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "international",
+      "requirements": {
+        "academic_requirements": "Varies by program, often requires ecclesiastical background",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "Academic Year",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": "October",
+          "notes": "First semester payment due October 1"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unigre.it/it/studenti/ammissione/immatricolazione/",
+      "source_url": "https://www.unigre.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Pontifical degrees (Baccalaureate, License, Doctorate). Many students are clergy or religious."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "gregoriana",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "Baccalaureate (3 years)",
+          "amount_min": 2330,
+          "amount_max": 2330,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Standard"
+        },
+        {
+          "student_group": "Baccalaureate Psychology",
+          "amount_min": 3220,
+          "amount_max": 3570,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Propedeutic + License"
+        },
+        {
+          "student_group": "License (2 years)",
+          "amount_min": 2930,
+          "amount_max": 2930,
+          "currency": "EUR",
+          "period": "year",
+          "notes": ""
+        },
+        {
+          "student_group": "License Safeguarding",
+          "amount_min": 3570,
+          "amount_max": 3570,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Specialized"
+        },
+        {
+          "student_group": "Doctorate",
+          "amount_min": 4230,
+          "amount_max": 4230,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "+ €1,355 at each milestone"
+        },
+        {
+          "student_group": "Diplomas",
+          "amount_min": 1240,
+          "amount_max": 2930,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Varies by program"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Dissertation milestones",
+          "amount": 1355,
+          "currency": "EUR",
+          "notes": "At approval of topic, project, and submission"
+        }
+      ],
+      "payment_schedule_notes": "Two equal installments: October 1 and January 24.",
+      "source_url": "https://www.unigre.it/it/studenti/risorse/tasse-accademiche/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "€2,330-€4,230/year. Pontifical scholarships available (Borse PUG). Applications Mar 17-Apr 30."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "gregoriana",
+      "scholarship_name": "Borse PUG",
+      "description": "Partial tuition scholarships for students in financial need",
+      "eligibility": "Financial need, good academic standing",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "April 30, 2025",
+      "how_to_apply_url": "https://www.unigre.it/it/universita/uffici/ufficio-borse-di-studio/",
+      "source_url": "https://www.unigre.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Applications March 17 - April 30 for following academic year. Funded by benefactors."
+    }
+  ],
   "opportunities": []
 }

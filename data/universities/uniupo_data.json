@@ -7,86 +7,335 @@
     "country": "Italy",
     "city": "Vercelli",
     "campuses": [
-      {"city": "Vercelli", "address": "", "notes": "Main campus - Economics, Law, Humanities"},
-      {"city": "Novara", "address": "", "notes": "Medicine, Sciences"},
-      {"city": "Alessandria", "address": "", "notes": "Political Sciences"}
+      {
+        "city": "Vercelli",
+        "address": "",
+        "notes": "Main campus - Economics, Law, Humanities"
+      },
+      {
+        "city": "Novara",
+        "address": "",
+        "notes": "Medicine, Sciences"
+      },
+      {
+        "city": "Alesseria",
+        "address": "",
+        "notes": "Political Sciences"
+      }
     ],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Vercelli"},
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Vercelli"
+    },
     "source_url": "https://www.uniupo.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
-    "notes": "Multi-campus university across Vercelli, Novara, Alessandria. Strong in Medicine, Economics, Law."
+    "notes": "Multi-campus university across Vercelli, Novara, Alesseria. Strong in Medicine, Economics, Law."
   },
   "programs": [
-    {"type":"program","university_id":"uniupo","degree_level":"bachelor","program_name":"Economia Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Novara","duration_years":3,"ects_total":180,"source_url":"https://www.uniupo.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Accesso libero."},
-    {"type":"program","university_id":"uniupo","degree_level":"bachelor","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Alessandria","duration_years":5,"ects_total":300,"source_url":"https://www.uniupo.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico."},
-    {"type":"program","university_id":"uniupo","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Alessandria","duration_years":3,"ects_total":180,"source_url":"https://www.uniupo.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniupo","degree_level":"bachelor","program_name":"Chimica e Tecnologie Chimiche","class_code":"L-27","language":["Italian"],"campus_city":"Alessandria","duration_years":3,"ects_total":180,"source_url":"https://www.uniupo.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniupo","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Novara","duration_years":3,"ects_total":180,"source_url":"https://www.uniupo.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniupo","degree_level":"bachelor","program_name":"Filosofia e Comunicazione","class_code":"L-5","language":["Italian"],"campus_city":"Vercelli","duration_years":3,"ects_total":180,"source_url":"https://www.uniupo.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniupo","degree_level":"bachelor","program_name":"Lettere","class_code":"L-10","language":["Italian"],"campus_city":"Vercelli","duration_years":3,"ects_total":180,"source_url":"https://www.uniupo.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniupo","degree_level":"bachelor","program_name":"Lingue Straniere Moderne","class_code":"L-11","language":["Italian"],"campus_city":"Vercelli","duration_years":3,"ects_total":180,"source_url":"https://www.uniupo.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniupo","degree_level":"bachelor","program_name":"Scienze Politiche, Economiche, Sociali e dell'Amministrazione","class_code":"L-36","language":["Italian"],"campus_city":"Alessandria","duration_years":3,"ects_total":180,"source_url":"https://www.uniupo.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniupo","degree_level":"master","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Novara","duration_years":6,"ects_total":360,"source_url":"https://www.uniupo.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. New access modalities 2025/26."},
-    {"type":"program","university_id":"uniupo","degree_level":"master","program_name":"Farmacia","class_code":"LM-13","language":["Italian"],"campus_city":"Novara","duration_years":5,"ects_total":300,"source_url":"https://www.uniupo.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico."}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"uniupo",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "uniupo",
+      "degree_level": "bachelor",
+      "program_name": "Economia Aziendale",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Novara",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniupo.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Accesso libero.",
+      "program_name_en": "Business Administration",
+      "program_name_it": "Economia Aziendale"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":""
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.uniupo.it/didattica/corsi-di-laurea",
-    "source_url":"https://www.uniupo.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Programs across 3 campuses in Piemonte"
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"uniupo",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"ISEE ≤ no tax area threshold","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"No Tax Area exemption"},
-      {"student_group":"ISEE above threshold","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Progressive based on ISEE"},
-      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
-    ],
-    "additional_fees":[],
-    "payment_schedule_notes":"",
-    "source_url":"https://www.uniupo.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.7,
-    "notes":"Check EDISU Piemonte for regional scholarship details."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"uniupo",
-    "scholarship_name":"EDISU Piemonte Regional Scholarship",
-    "description":"Regional scholarship for students with low ISEE",
-    "eligibility":"ISEE threshold + merit requirements",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"",
-    "source_url":"https://www.uniupo.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.8,
-    "notes":""
-  }],
+    {
+      "type": "program",
+      "university_id": "uniupo",
+      "degree_level": "bachelor",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Alesseria",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.uniupo.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico.",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "uniupo",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Biologiche",
+      "class_code": "L-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Alesseria",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniupo.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Biological Sciences",
+      "program_name_it": "Scienze Biologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "uniupo",
+      "degree_level": "bachelor",
+      "program_name": "Chimica e Tecnologie Chimiche",
+      "class_code": "L-27",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Alesseria",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniupo.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "uniupo",
+      "degree_level": "bachelor",
+      "program_name": "Infermieristica",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Novara",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniupo.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Nursing"
+    },
+    {
+      "type": "program",
+      "university_id": "uniupo",
+      "degree_level": "bachelor",
+      "program_name": "Filosofia e Comunicazione",
+      "class_code": "L-5",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Vercelli",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniupo.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Philosophy and Communication",
+      "program_name_it": "Filosofia e Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "uniupo",
+      "degree_level": "bachelor",
+      "program_name": "Lettere",
+      "class_code": "L-10",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Vercelli",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniupo.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Humanities",
+      "program_name_it": "Lettere"
+    },
+    {
+      "type": "program",
+      "university_id": "uniupo",
+      "degree_level": "bachelor",
+      "program_name": "Lingue Straniere Moderne",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Vercelli",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniupo.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Languagands Straniere Moderne"
+    },
+    {
+      "type": "program",
+      "university_id": "uniupo",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Politiche, Economiche, Sociali e dell'Amministrazione",
+      "class_code": "L-36",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Alesseria",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniupo.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_it": "Scienze Politiche, Economiche, Sociali e dell'Amministrazione"
+    },
+    {
+      "type": "program",
+      "university_id": "uniupo",
+      "degree_level": "master",
+      "program_name": "Medicina e Chirurgia",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Novara",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.uniupo.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico. New access modalities 2025/26.",
+      "program_name_en": "Medicine and Surgery",
+      "program_name_it": "Medicina e Chirurgia"
+    },
+    {
+      "type": "program",
+      "university_id": "uniupo",
+      "degree_level": "master",
+      "program_name": "Farmacia",
+      "class_code": "LM-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Novara",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.uniupo.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico.",
+      "program_name_en": "Pharmacy"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "uniupo",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.uniupo.it/didattica/corsi-di-laurea",
+      "source_url": "https://www.uniupo.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Programs across 3 campuses in Piemonte"
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "uniupo",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE ≤ no tax area threshold",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area exemption"
+        },
+        {
+          "student_group": "ISEE above threshold",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Progressive based on ISEE"
+        },
+        {
+          "student_group": "Disability ≥66% or L.104",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption"
+        }
+      ],
+      "additional_fees": [],
+      "payment_schedule_notes": "",
+      "source_url": "https://www.uniupo.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.7,
+      "notes": "Check EDISU Piemonte for regional scholarship details."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "uniupo",
+      "scholarship_name": "EDISU Piemonte Regional Scholarship",
+      "description": "Regional scholarship for students with low ISEE",
+      "eligibility": "ISEE threshold + merit requirements",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "",
+      "source_url": "https://www.uniupo.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": ""
+    }
+  ],
   "opportunities": []
 }

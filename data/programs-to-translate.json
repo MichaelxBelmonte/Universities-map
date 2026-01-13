@@ -1,0 +1,7291 @@
+{
+  "needsEnglish": [
+    {
+      "file": "iuav_data.json",
+      "university_id": "iuav",
+      "program_name": "Design della moda e arti multimediali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "iuav_data.json",
+      "university_id": "iuav",
+      "program_name": "Design del prodotto, della comunicazione visiva e degli interni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "iuav_data.json",
+      "university_id": "iuav",
+      "program_name": "Design - Disegno industriale, sostenibilità e digitalizzazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "iuav_data.json",
+      "university_id": "iuav",
+      "program_name": "Design",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "iul_data.json",
+      "university_id": "iul",
+      "program_name": "Scienze Motorie, Pratica e Gestione delle Attività Sportive",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "iul_data.json",
+      "university_id": "iul",
+      "program_name": "Scienze Psicologiche delle Risorse Umane, delle Organizzazioni e delle Imprese",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "iul_data.json",
+      "university_id": "iul",
+      "program_name": "Innovazione Educativa e Apprendimento Permanente",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "iul_data.json",
+      "university_id": "iul",
+      "program_name": "Economia, Management e Mercati Internazionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "iul_data.json",
+      "university_id": "iul",
+      "program_name": "Scienze Motorie per la Prevenzione e il Benessere",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "iulm_data.json",
+      "university_id": "iulm",
+      "program_name": "Comunicazione, Media e Pubblicità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "iulm_data.json",
+      "university_id": "iulm",
+      "program_name": "Relazioni Pubbliche e Comunicazione d'Impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "iulm_data.json",
+      "university_id": "iulm",
+      "program_name": "Interpretariato e Comunicazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "iulm_data.json",
+      "university_id": "iulm",
+      "program_name": "Turismo, Management e Cultura",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "iuss_data.json",
+      "university_id": "iuss",
+      "program_name": "Classe di Scienze Umane e della Vita",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "iuss_data.json",
+      "university_id": "iuss",
+      "program_name": "Classe di Scienze, Tecnologie e Società",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "linkcampus_data.json",
+      "university_id": "linkcampus",
+      "program_name": "DAMS - Produzione Audiovisiva e Teatrale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "linkcampus_data.json",
+      "university_id": "linkcampus",
+      "program_name": "Economia e Management d'Impresa e delle Istituzioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "linkcampus_data.json",
+      "university_id": "linkcampus",
+      "program_name": "Scienze delle Comunicazioni, Media e Tecnologie Digitali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "linkcampus_data.json",
+      "university_id": "linkcampus",
+      "program_name": "Scienze Politiche, Diplomatiche e Governo delle Amministrazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "liuc_data.json",
+      "university_id": "liuc",
+      "program_name": "Economia, Management e Governance",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "luiss_data.json",
+      "university_id": "luiss",
+      "program_name": "Economia, Regole e Mercati (Law and Economics)",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "lum_data.json",
+      "university_id": "lum",
+      "program_name": "Ingegneria Informatica per la Transizione Digitale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "lumsa_data.json",
+      "university_id": "lumsa",
+      "program_name": "Economia Aziendale e Management",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "lumsa_data.json",
+      "university_id": "lumsa",
+      "program_name": "Lingue e Letterature Moderne",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "lumsa_data.json",
+      "university_id": "lumsa",
+      "program_name": "Programmazione e Gestione delle Politiche e dei Servizi Sociali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "lumsa_data.json",
+      "university_id": "lumsa",
+      "program_name": "Management e Comunicazione d'Impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "mercatorum_data.json",
+      "university_id": "mercatorum",
+      "program_name": "Scienze e Tecnologie delle Arti, dello Spettacolo e del Cinema",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "mercatorum_data.json",
+      "university_id": "mercatorum",
+      "program_name": "Design del Prodotto e della Moda",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "mercatorum_data.json",
+      "university_id": "mercatorum",
+      "program_name": "Gestione di Impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "mercatorum_data.json",
+      "university_id": "mercatorum",
+      "program_name": "Lingue per la Comunicazione Internazionale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "poliba_data.json",
+      "university_id": "poliba",
+      "program_name": "Ingegneria Ambientale e del Territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "polito_data.json",
+      "university_id": "polito",
+      "program_name": "Tecnologie per l'Industria Manifatturiera",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "polito_data.json",
+      "university_id": "polito",
+      "program_name": "Design Sistemico",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "salesiana_data.json",
+      "university_id": "salesiana",
+      "program_name": "Baccalaureato in Letteratura Cristiana e Classica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "salesiana_data.json",
+      "university_id": "salesiana",
+      "program_name": "Licenza in Comunicazione Sociale, Media Digitali e Cultura",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "salesiana_data.json",
+      "university_id": "salesiana",
+      "program_name": "Licenza in Etica, Economia e Diritto del Terzo Settore",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "salesiana_data.json",
+      "university_id": "salesiana",
+      "program_name": "Dottorato in Scienze dell'Educazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "phd"
+    },
+    {
+      "file": "sanraffaele_data.json",
+      "university_id": "sanraffaele",
+      "program_name": "Scienze dell'Alimentazione e Gastronomia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "sanraffaele_data.json",
+      "university_id": "sanraffaele",
+      "program_name": "Scienze dell'Amministrazione e dell'Organizzazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "sanraffaele_data.json",
+      "university_id": "sanraffaele",
+      "program_name": "Lingue e Culture Straniere per l'Era Digitale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "sanraffaele_data.json",
+      "university_id": "sanraffaele",
+      "program_name": "Ingegneria Informatica e Intelligenza Artificiale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "sanraffaele_data.json",
+      "university_id": "sanraffaele",
+      "program_name": "Scienze e Tecniche delle Attività Motorie Preventive e Adattate",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "sanraffaele_data.json",
+      "university_id": "sanraffaele",
+      "program_name": "Scienze della Nutrizione Umana",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "sanraffaele_data.json",
+      "university_id": "sanraffaele",
+      "program_name": "Management e Consulenza Aziendale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "sanraffaele_data.json",
+      "university_id": "sanraffaele",
+      "program_name": "Management, Diritto e Governance della Pubblica Amministrazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "sanraffaele_data.json",
+      "university_id": "sanraffaele",
+      "program_name": "Ingegneria Informatica e dell'Intelligenza Artificiale Applicata",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "santanna_data.json",
+      "university_id": "santanna",
+      "program_name": "Classe di Scienze - Ingegneria",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "santanna_data.json",
+      "university_id": "santanna",
+      "program_name": "Classe di Scienze - Agraria",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "santanna_data.json",
+      "university_id": "santanna",
+      "program_name": "Classe di Scienze - Medicina",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "santanna_data.json",
+      "university_id": "santanna",
+      "program_name": "Classe di Scienze Sociali - Economia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "santanna_data.json",
+      "university_id": "santanna",
+      "program_name": "Classe di Scienze Sociali - Giurisprudenza",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "santanna_data.json",
+      "university_id": "santanna",
+      "program_name": "Classe di Scienze Sociali - Scienze Politiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "sns_data.json",
+      "university_id": "sns",
+      "program_name": "Classe di Lettere e Filosofia - Percorso Integrato",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "sns_data.json",
+      "university_id": "sns",
+      "program_name": "Classe di Scienze - Percorso Integrato",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "sns_data.json",
+      "university_id": "sns",
+      "program_name": "Classe di Lettere e Filosofia - Laurea Magistrale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "sns_data.json",
+      "university_id": "sns",
+      "program_name": "Classe di Scienze - Laurea Magistrale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "sns_data.json",
+      "university_id": "sns",
+      "program_name": "Classe di Scienze Politico-sociali - Firenze",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "ssm_data.json",
+      "university_id": "ssm",
+      "program_name": "PhD in Archeologia e Culture del Mediterraneo Antico",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "phd"
+    },
+    {
+      "file": "ssm_data.json",
+      "university_id": "ssm",
+      "program_name": "PhD in Testi, Tradizioni e Culture del Libro (TTCL)",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "phd"
+    },
+    {
+      "file": "uer_data.json",
+      "university_id": "uer",
+      "program_name": "Economia e Management dell'Innovazione",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniba_data.json",
+      "university_id": "uniba",
+      "program_name": "Marketing e Comunicazione d'Azienda",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniba_data.json",
+      "university_id": "uniba",
+      "program_name": "Informatica e Tecnologie dell'Informazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniba_data.json",
+      "university_id": "uniba",
+      "program_name": "Economia degli Intermediari e dei Mercati Finanziari",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniba_data.json",
+      "university_id": "uniba",
+      "program_name": "Economia e Gestione delle Aziende e dei Sistemi Turistici",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniba_data.json",
+      "university_id": "uniba",
+      "program_name": "Consulenza Professionale per le Aziende",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniba_data.json",
+      "university_id": "uniba",
+      "program_name": "Strategie d'Impresa e Management",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unibas_data.json",
+      "university_id": "unibas",
+      "program_name": "Paesaggio, Ambiente e Verde Urbano",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibas_data.json",
+      "university_id": "unibas",
+      "program_name": "Economia delle Risorse Naturali e Culturali / Natural and Cultural Resources Economics",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unibas_data.json",
+      "university_id": "unibas",
+      "program_name": "Geoscienze e Georisorse / Geosciences and Georesources",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unibas_data.json",
+      "university_id": "unibas",
+      "program_name": "Gestione Sostenibile della Qualità Alimentare / Sustainable Management of Food Quality",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unibas_data.json",
+      "university_id": "unibas",
+      "program_name": "Scienze del Turismo e dei Patrimoni Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unibg_data.json",
+      "university_id": "unibg",
+      "program_name": "Ingegneria delle Tecnologie per l'Elettronica e l'Automazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibg_data.json",
+      "university_id": "unibg",
+      "program_name": "Scienze Psicologiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibg_data.json",
+      "university_id": "unibg",
+      "program_name": "Welfare Management e Innovazione Sociale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unibg_data.json",
+      "university_id": "unibg",
+      "program_name": "Progettazione di Contesti di Vita Accessibili e Inclusivi",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unibo_data.json",
+      "university_id": "unibo",
+      "program_name": "Ingegneria Elettronica e Telecomunicazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibo_data.json",
+      "university_id": "unibo",
+      "program_name": "Ingegneria e Scienze Informatiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibo_data.json",
+      "university_id": "unibo",
+      "program_name": "Ingegneria Chimica e Biochimica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibo_data.json",
+      "university_id": "unibo",
+      "program_name": "Ingegneria dell'Energia Elettrica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibo_data.json",
+      "university_id": "unibo",
+      "program_name": "Economia, Mercati e Istituzioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibo_data.json",
+      "university_id": "unibo",
+      "program_name": "Management e Marketing",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibo_data.json",
+      "university_id": "unibo",
+      "program_name": "Scienze Farmaceutiche Applicate",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibo_data.json",
+      "university_id": "unibo",
+      "program_name": "DAMS - Discipline delle Arti, della Musica e dello Spettacolo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibo_data.json",
+      "university_id": "unibo",
+      "program_name": "Scienze Politiche, Sociali e Internazionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibo_data.json",
+      "university_id": "unibo",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibo_data.json",
+      "university_id": "unibo",
+      "program_name": "Informatica per il Management",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibo_data.json",
+      "university_id": "unibo",
+      "program_name": "Scienze Filosofiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unibs_data.json",
+      "university_id": "unibs",
+      "program_name": "Ingegneria dell'Informazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibs_data.json",
+      "university_id": "unibs",
+      "program_name": "Ingegneria Meccanica e dei Materiali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibs_data.json",
+      "university_id": "unibs",
+      "program_name": "Scienze per la Pace: Trasformazione dei Conflitti e Cooperazione allo Sviluppo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unibs_data.json",
+      "university_id": "unibs",
+      "program_name": "Scienza del Movimento per la Salute ed il Benessere",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unibz_data.json",
+      "university_id": "unibz",
+      "program_name": "Food and Enogastronomy Sciences",
+      "language": [
+        "Italian",
+        "German",
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibz_data.json",
+      "university_id": "unibz",
+      "program_name": "Art and Design",
+      "language": [
+        "Italian",
+        "German",
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibz_data.json",
+      "university_id": "unibz",
+      "program_name": "Communication Sciences",
+      "language": [
+        "Italian",
+        "German"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unica_data.json",
+      "university_id": "unica",
+      "program_name": "Biotecnologie Marine e degli Ecosistemi Acquatici",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unica_data.json",
+      "university_id": "unica",
+      "program_name": "Management delle Destinazioni e del Turismo Culturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unica_data.json",
+      "university_id": "unica",
+      "program_name": "Servizio Sociale e Innovazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unical_data.json",
+      "university_id": "unical",
+      "program_name": "Scritture, Immagini e Media Digitali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unical_data.json",
+      "university_id": "unical",
+      "program_name": "Linguaggi della Comunicazione e dello Spettacolo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unical_data.json",
+      "university_id": "unical",
+      "program_name": "Scienze Storiche e del Patrimonio Culturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unical_data.json",
+      "university_id": "unical",
+      "program_name": "Scienze delle Politiche e dei Servizi Sociali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unical_data.json",
+      "university_id": "unical",
+      "program_name": "Scienze delle Pubbliche Amministrazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unical_data.json",
+      "university_id": "unical",
+      "program_name": "Scienze della Politica e Istituzioni Internazionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unicam_data.json",
+      "university_id": "unicam",
+      "program_name": "Scienze Geologiche e Gestione del Territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicas_data.json",
+      "university_id": "unicas",
+      "program_name": "Ingegneria Elettrica e Industriale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Economia Aziendale e Management",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Scienze Bancarie, Finanziarie e Assicurative",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Scienze dei Beni Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Scienze Linguistiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Scienze Linguistiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Scienze Politiche e delle Relazioni Internazionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Scienze del Servizio Sociale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Scienze del Servizio Sociale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Scienze Motorie e dello Sport",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Management per l'Impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Gestione di Aziende e Servizi Sanitari",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Psicologia per il Benessere",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Psicologia dello Sviluppo e dei Processi Educativi",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Archeologia e Storia dell'Arte",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Gestione dei Contenuti Digitali per i Media e le Imprese",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Comunicazione per l'Impresa, i Media e le Organizzazioni Complesse",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Scienze Agrarie e Alimentari",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Progettazione Pedagogica e Formazione delle Risorse Umane",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Politiche e Servizi Sociali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Traduzione Specialistica e Interpretariato",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Lingue e Letterature Europee e Panamericane",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Biotecnologie per l'Alimentazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Beni Archeologici e Storico-Artistici",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Data Analytics per l'Economia e la Società",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Design",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Eco Design Inclusivo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Economia e Informatica per l'Impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Economia del Turismo e della Cultura",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Economia, Imprese e Mercati Finanziari",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Lingue Straniere per l'Impresa e la Cooperazione Internazionale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Lingue, Letterature e Culture Moderne",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Mediazione Linguistica e Comunicazione Interculturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Politiche e Management per il Welfare",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Professioni Tecniche per l'Edilizia e il Territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Ricerca Sociale, Politiche della Sicurezza e Criminalità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Scienze Cognitive Computazionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Scienze dell'Alimentazione e Salute",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Scienze dell'Habitat Sostenibile",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Scienze e Tecniche delle Attività Motorie Preventive e Adattate",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Scienze e Tecnologie Cosmetiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Scienze Filosofiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Scienze Geologiche per i Rischi, le Risorse e l'Ambiente",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Scienze Giuridiche per l'Internazionalizzazione e l'Innovazione dell'Impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Scienze Infermieristiche e Ostetriche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Servizi Giuridici per l'Impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Tecniche della Prevenzione nell'Ambiente e nei Luoghi di Lavoro",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Tecniche di Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Tecniche di Radiologia Medica, per Immagini e Radioterapia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unich_data.json",
+      "university_id": "unich",
+      "program_name": "Tecnologie Eco-Sostenibili e Tossicologia Ambientale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Scienze e Tecnologie Fisiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Scienze Ambientali e Naturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Management delle Imprese per l'Economia Sostenibile",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Scienze del Turismo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Scienze Forestali e Ambientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Pianificazione e Tutela del Territorio e del Paesaggio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Lingue e Culture Europee",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Mediazione Linguistica e Interculturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Scienze Politiche e delle Relazioni Internazionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Scienze e Tecniche dell'Edilizia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Discipline delle Arti, della Musica e dello Spettacolo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Scienze della Terra e Geoingegneria",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Gestione Sostenibile dell'Ambiente e del Paesaggio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Ingegneria Civile delle Acque e dei Trasporti",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Ingegneria Civile per la Protezione dai Rischi Naturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Scienze Filosofiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Lingue e Letterature Comparate",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Comunicazione della Cultura e dello Spettacolo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Scienze Pedagogiche e Progettazione Educativa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Politiche e Servizi Sociali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Scienze e Tecniche delle Attività Motorie Preventive e Adattate",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Scienze Infermieristiche e Ostetriche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Scienze della Nutrizione Umana",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Pianificazione Territoriale, Urbanistica e Ambientale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unicusano_data.json",
+      "university_id": "unicusano",
+      "program_name": "Economia Aziendale e Management",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicusano_data.json",
+      "university_id": "unicusano",
+      "program_name": "Scienze Politiche e Relazioni Internazionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicusano_data.json",
+      "university_id": "unicusano",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicz_data.json",
+      "university_id": "unicz",
+      "program_name": "Ingegneria Informatica e Biomedica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicz_data.json",
+      "university_id": "unicz",
+      "program_name": "Scienze Chimiche e Cosmetiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unidarc_data.json",
+      "university_id": "unidarc",
+      "program_name": "Scienze del Turismo per i Beni Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unidarc_data.json",
+      "university_id": "unidarc",
+      "program_name": "Discipline delle Arti, della Musica e dello Spettacolo (DAMS)",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unidarc_data.json",
+      "university_id": "unidarc",
+      "program_name": "Scienze della Mediazione Linguistica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unidarc_data.json",
+      "university_id": "unidarc",
+      "program_name": "Lingue e Letterature Moderne per i Servizi Interculturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unidarc_data.json",
+      "university_id": "unidarc",
+      "program_name": "Imprenditorialità e Qualità per il Sistema Turistico",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unidav_data.json",
+      "university_id": "unidav",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unidav_data.json",
+      "university_id": "unidav",
+      "program_name": "Scienze dell'Economia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unife_data.json",
+      "university_id": "unife",
+      "program_name": "Design di prodotto e servizio per la cultura e la salute",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifg_data.json",
+      "university_id": "unifg",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifg_data.json",
+      "university_id": "unifg",
+      "program_name": "Lettere e Beni Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifg_data.json",
+      "university_id": "unifg",
+      "program_name": "Innovazione Digitale e Comunicazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifg_data.json",
+      "university_id": "unifg",
+      "program_name": "Scienze degli Alimenti e della Nutrizione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Design Tessile e Moda",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Diagnostica e Materiali per la Conservazione e il Restauro",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Discipline delle Arti, della Musica e dello Spettacolo (DAMS)",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Ingegneria Elettronica e delle Telecomunicazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Lingue, Letterature e Studi Interculturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Progettazione e Gestione di Eventi e Imprese dell'Arte e dello Spettacolo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Scienze Agrarie",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Scienze Farmaceutiche Applicate - Controllo Qualità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Scienze Forestali e Ambientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Scienze Turistiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Scienze Umanistiche per la Comunicazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Scienze Vivaistiche e Progettazione degli Spazi Verdi",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Storia e Tutela dei Beni Archeologici, Artistici, Archivistici e Librari",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Tecniche e Tecnologie per le Costruzioni e il Territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Tecnologie e Trasformazioni Avanzate per il Settore Legno Arredo Edilizia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Filologia, Letterature e Storia dell'Antichità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Ingegneria Elettrica e dell'Automazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Lingue e Letterature Europee e Americane",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Logica, Filosofia delle Scienze e Metodi della Ricerca",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Relazioni Internazionali e Studi Europei",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Scienze dell'Alimentazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Scienze della Nutrizione Umana",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Scienze e Materiali per la Conservazione e il Restauro",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Scienze e Tecnologie Geologiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Scienze Infermieristiche e Ostetriche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Scienze Riabilitative delle Professioni Sanitarie",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Servizio Sociale e Politiche Sociali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Strategie e Tecniche della Comunicazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Studi Geografici e Antropologici",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Traduzione Letteraria e Saggistica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifi_data.json",
+      "university_id": "unifi",
+      "program_name": "Turismo, Strategie e Territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unifortunato_data.json",
+      "university_id": "unifortunato",
+      "program_name": "Scienze e Tecnologie dei Trasporti",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unifortunato_data.json",
+      "university_id": "unifortunato",
+      "program_name": "Psicologia Comportamentale e Cognitiva Applicata",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Chimica e Tecnologie Chimiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Scienze Ambientali e Naturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Statistica Matematica e Trattamento Informatico dei Dati",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Ingegneria Chimica e di Processo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Ingegneria Elettronica e Tecnologie dell'Informazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Scienze dell'Architettura",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Design del Prodotto e della Nautica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Lingue e Culture Moderne",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Teorie e Tecniche della Mediazione Interlinguistica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Scienze Politiche e dell'Amministrazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Scienze Internazionali e Diplomatiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Scienze Pedagogiche e dell'Educazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Scienze e Tecnologie per l'Ambiente e la Natura",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Scienze del Turismo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Biologia Molecolare e Sanitaria",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Ingegneria Chimica e di Processo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Ingegneria Meccanica - Energia e Aeronautica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Ingegneria Meccanica - Progettazione e Produzione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Amministrazione e Politiche Pubbliche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Economia e Management Marittimo e Portuale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Scienze e Tecniche dello Sport",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Scienze della Natura e dell'Ambiente",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unikore_data.json",
+      "university_id": "unikore",
+      "program_name": "Servizio Sociale e Scienze Criminologiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unikore_data.json",
+      "university_id": "unikore",
+      "program_name": "Tecnologie per il Costruito e la Sostenibilità Ambientale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unikore_data.json",
+      "university_id": "unikore",
+      "program_name": "Ingegneria dell'Intelligenza Artificiale e della Sicurezza Informatica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unikore_data.json",
+      "university_id": "unikore",
+      "program_name": "Lingue per la Comunicazione e i Servizi Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimarconi_data.json",
+      "university_id": "unimarconi",
+      "program_name": "Ingegneria per l'Innovazione e la Sostenibilità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimarconi_data.json",
+      "university_id": "unimarconi",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimarconi_data.json",
+      "university_id": "unimarconi",
+      "program_name": "Scienze dell'Educazione degli Adulti e della Formazione Continua",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimarconi_data.json",
+      "university_id": "unimarconi",
+      "program_name": "Psicologia del Lavoro e delle Organizzazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimc_data.json",
+      "university_id": "unimc",
+      "program_name": "Lingue e Culture Straniere Occidentali e Orientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimc_data.json",
+      "university_id": "unimc",
+      "program_name": "Mediazione Linguistica e Interculturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unime_data.json",
+      "university_id": "unime",
+      "program_name": "Ingegneria Elettronica e Informatica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unime_data.json",
+      "university_id": "unime",
+      "program_name": "Archeologia e Storia dell'Arte",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Beni Culturali: Scienze, Tecnologie e Diagnostica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Produzione e Protezione delle Piante e dei Sistemi del Verde",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Scienze e Politiche Ambientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Scienze Internazionali e Istituzioni Europee",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Scienze Umanistiche per la Comunicazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Sicurezza dei Sistemi e delle Reti Informatiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Valorizzazione e Tutela dell'Ambiente e del Territorio Montano",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Alimentazione e Nutrizione Umana",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Amministrazione e Politiche Pubbliche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Biotecnologie Industriali e Ambientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Filologia, Letterature e Storia dell'Antichità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Lingue e Letterature Europee ed Extraeuropee",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Scienze Cognitive e Processi Decisionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Scienze della Nutrizione Umana",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Traduzione Specialistica e Interpretariato di Conferenza",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimib_data.json",
+      "university_id": "unimib",
+      "program_name": "Scienze Giuridiche e Innovazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimol_data.json",
+      "university_id": "unimol",
+      "program_name": "Tecnologie Forestali e Ambientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimol_data.json",
+      "university_id": "unimol",
+      "program_name": "Scienze Turistiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Analisi Dei Dati Per L'economia E Il Management",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Analisi Dei Dati Per L'impresa E La Finanza",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Antropologia E Storia Del Mondo Contemporaneo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Bioingegneria Per L'innovazione In Medicina",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Chimica E Tecnologia Farmaceutiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "ciclo_unico"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Chimica Verde E Sostenibile",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Controllo E Sicurezza Degli Alimenti",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Costruzioni E Gestione Del Territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Didattica E Comunicazione Delle Scienze",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Direzione E Consulenza D'impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Economia Aziendale E Management",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Economia E Diritto Per La Sostenibilità Delle Organizzazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Economia E Finanza",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Economia E Marketing Internazionale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Economia, Politiche Pubbliche E Sostenibilità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Finanza E Management",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Geoscienze, Georischi E Georisorse",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Ingegneria Civile E Ambientale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Ingegneria Civile E Ambientale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Ingegneria Dei Materiali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Ingegneria Del Veicolo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Ingegneria Del Veicolo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Lingue E Culture Europee",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Management E Comunicazione D'impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Marketing E Organizzazione D'impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Media Education Per Le Discipline Letterarie",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Medicina E Chirurgia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "ciclo_unico"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Odontoiatria E Protesi Dentaria",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "ciclo_unico"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Pubblicità, Comunicazione Digitale E Creatività",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Relazioni Di Lavoro",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Salute E Sport",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Scienze Dei Servizi Giuridici",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Scienze Dell'educazione Per Il Nido E Le Professioni Socio-pedagogiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Scienze Della Comunicazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Scienze Della Formazione Primaria",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "ciclo_unico"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Scienze E Tecniche Psicologiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Scienze E Tecnologie Agrarie E Degli Alimenti",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Scienze Infermieristiche E Ostetriche (Modena)",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Scienze Infermieristiche Ed Ostetriche (Reggio Emilia)",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Scienze Strategiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Sistemi Biotecnologici Per Lo Sviluppo Sostenibile",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Sostenibilità Integrata Dei Sistemi Agricoli",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Storia E Culture Contemporanee",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Tecnica Della Riabilitazione Psichiatrica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Tecniche Di Fisiopatologia Cardiocircolatoria E Perfusione Cardiovascolare",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Tecniche Di Laboratorio Biomedico",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Tecniche Di Radiologia Medica, Per Immagini E Radioterapia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Tecnologie Per L'industria Intelligente",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unimore_data.json",
+      "university_id": "unimore",
+      "program_name": "Teorie E Metodologie Del Digital Learning",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unina_data.json",
+      "university_id": "unina",
+      "program_name": "Archeologia, Storia delle Arti e Scienze del Patrimonio Culturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unina_data.json",
+      "university_id": "unina",
+      "program_name": "Biotecnologie Molecolari e Industriali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unina_data.json",
+      "university_id": "unina",
+      "program_name": "Biotecnologie per la Salute",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unina_data.json",
+      "university_id": "unina",
+      "program_name": "Scienza e Tecnologia dell'Industria Cosmetica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uninettuno_data.json",
+      "university_id": "uninettuno",
+      "program_name": "Conservazione e Valorizzazione dei Beni Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uninettuno_data.json",
+      "university_id": "uninettuno",
+      "program_name": "Psicologia del Lavoro e delle Organizzazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uninsubria_data.json",
+      "university_id": "uninsubria",
+      "program_name": "Economia e Management dell'Innovazione e della Sostenibilità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uninsubria_data.json",
+      "university_id": "uninsubria",
+      "program_name": "Scienze del Turismo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uninsubria_data.json",
+      "university_id": "uninsubria",
+      "program_name": "Linguaggi e Competenze per la Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uninsubria_data.json",
+      "university_id": "uninsubria",
+      "program_name": "Scienze dell'Ambiente e della Natura",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uninsubria_data.json",
+      "university_id": "uninsubria",
+      "program_name": "Scienze e Tecniche della Comunicazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unint_data.json",
+      "university_id": "unint",
+      "program_name": "Lingue per l'Interpretariato e la Traduzione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unint_data.json",
+      "university_id": "unint",
+      "program_name": "Scienze Politiche e Relazioni Internazionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unint_data.json",
+      "university_id": "unint",
+      "program_name": "Interpretazione e Traduzione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unint_data.json",
+      "university_id": "unint",
+      "program_name": "Lingue per la Didattica Innovativa e l'Interculturalità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unint_data.json",
+      "university_id": "unint",
+      "program_name": "Investigazione, Criminalità e Sicurezza Internazionale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unior_data.json",
+      "university_id": "unior",
+      "program_name": "Lingue e Culture Orientali e Africane",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unior_data.json",
+      "university_id": "unior",
+      "program_name": "Lingue, Letterature e Culture Europee e Americane",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unior_data.json",
+      "university_id": "unior",
+      "program_name": "Lingue e Civiltà Orientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unior_data.json",
+      "university_id": "unior",
+      "program_name": "Letterature e Culture Comparate",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unior_data.json",
+      "university_id": "unior",
+      "program_name": "Relazioni e Istituzioni dell'Asia e dell'Africa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unior_data.json",
+      "university_id": "unior",
+      "program_name": "Archeologia: Asia, Africa e Mediterraneo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze della Natura e dell'Ambiente",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Statistica per l'Analisi dei Dati",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze del Turismo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Ingegneria dell'Innovazione per le Imprese Digitali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Ingegneria Edile, Innovazione e Recupero del Costruito",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze dell'Architettura",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Design e Cultura del Territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Discipline delle Arti, della Musica e dello Spettacolo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Lingue e Letterature - Studi Interculturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Mediazione Linguistica e Italiano come Lingua Seconda",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze Politiche e delle Relazioni Internazionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Sviluppo Economico, Cooperazione Internazionale e Migrazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze e Tecnologie Agroalimentari",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze Forestali e Ambientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze Nautiche, Aeronautiche e Meteo-Oceanografiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Tecnologie per la Conservazione e il Restauro dei Beni Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Conservazione e Restauro dei Beni Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "ciclo_unico"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Biologia Molecolare e della Salute",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Biodiversità e Biologia Ambientale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Biotecnologie Mediche e Medicina Molecolare",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze della Terra e del Mare",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze della Natura",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze Economiche e Finanziarie",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze Economico-Aziendali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Ingegneria Energetica e Nucleare",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Pianificazione Territoriale, Urbanistica e Ambientale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Filosofia e Scienze dell'Antichità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Filologia Moderna e Italianistica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze dell'Antichità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Musicologia e Scienze dello Spettacolo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Lingue e Letterature: Interculturalità e Didattica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Mass Media e Politica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Psicologia del Ciclo di Vita",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Psicologia Sociale, del Lavoro e delle Organizzazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Servizio Sociale e Politiche Sociali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Studi Globali. Storia, Politiche e Culture",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze e Tecniche delle Attività Motorie Preventive e Adattate",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze e Tecniche delle Attività Sportive",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze Forestali e Ambientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Imprenditorialità e Qualità per il Sistema Agroalimentare",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze Infermieristiche e Ostetriche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze delle Professioni Sanitarie della Riabilitazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze delle Professioni Sanitarie Tecniche Diagnostiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipa_data.json",
+      "university_id": "unipa",
+      "program_name": "Scienze della Nutrizione Umana",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniparthenope_data.json",
+      "university_id": "uniparthenope",
+      "program_name": "Organizzazione e Gestione delle Risorse Umane",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniparthenope_data.json",
+      "university_id": "uniparthenope",
+      "program_name": "Scienze dell'Amministrazione e dell'Organizzazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniparthenope_data.json",
+      "university_id": "uniparthenope",
+      "program_name": "Ingegneria e Scienze Informatiche per la Cybersecurity",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipd_data.json",
+      "university_id": "unipd",
+      "program_name": "Ingegneria dell'Informazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipd_data.json",
+      "university_id": "unipd",
+      "program_name": "Ingegneria Chimica e dei Materiali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipd_data.json",
+      "university_id": "unipd",
+      "program_name": "Ingegneria dell'Energia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipd_data.json",
+      "university_id": "unipd",
+      "program_name": "Statistica per l'Economia e l'Impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipd_data.json",
+      "university_id": "unipd",
+      "program_name": "Statistica per le Tecnologie e le Scienze",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipd_data.json",
+      "university_id": "unipd",
+      "program_name": "Scienze Psicologiche Cognitive e Psicobiologiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipd_data.json",
+      "university_id": "unipd",
+      "program_name": "Scienze Psicologiche Sociali e del Lavoro",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipd_data.json",
+      "university_id": "unipd",
+      "program_name": "Lingue, Letterature e Mediazione Culturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipd_data.json",
+      "university_id": "unipd",
+      "program_name": "Scienze e Tecnologie per l'Ambiente",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipd_data.json",
+      "university_id": "unipd",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipegaso_data.json",
+      "university_id": "unipegaso",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipegaso_data.json",
+      "university_id": "unipegaso",
+      "program_name": "Lettere, Sapere Umanistico e Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipegaso_data.json",
+      "university_id": "unipegaso",
+      "program_name": "Scienze Turistiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipegaso_data.json",
+      "university_id": "unipegaso",
+      "program_name": "Scienze Politiche e Relazioni Internazionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipegaso_data.json",
+      "university_id": "unipegaso",
+      "program_name": "Scienze delle Attività Motorie Preventive e Adattate",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipegaso_data.json",
+      "university_id": "unipegaso",
+      "program_name": "Management dello Sport e delle Attività Motorie",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Finanza e Metodi Quantitativi per l'Economia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Scienze Naturali e Ambientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Ingegneria Elettronica e Informatica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Scienze Agrarie e Ambientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Scienze Zootecniche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Lingue e Culture Straniere",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Scienze Politiche e Relazioni Internazionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Scienze per l'Investigazione e la Sicurezza",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Scienze del Turismo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Economia e Management dello Sviluppo Sostenibile",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Ingegneria dei Materiali e dei Processi Sostenibili",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Scienze della Politica e dell'Amministrazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Scienze Biotecnologiche Mediche, Veterinarie e Forensi",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Scienze della Natura e dell'Ambiente",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Geologia e Geologia Tecnica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Ingegneria Informatica e Robotica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Ingegneria Energetica e dei Sistemi Elettrici",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Scienze Agrarie e Ambientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Scienze e Tecnologie Agrarie e degli Alimenti",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Filologia, Letteratura e Storia dell'Antichità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Archeologia e Storia dell'Arte",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Lingue e Culture Comparate",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Traduzione Specialistica e Interpretariato",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Scienze dello Sport e della Prestazione Fisica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Programmazione e Gestione dei Servizi Educativi",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Scienze Infermieristiche e Ostetriche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Scienze Riabilitative delle Professioni Sanitarie",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Scienze delle Professioni Sanitarie Tecniche Diagnostiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipg_data.json",
+      "university_id": "unipg",
+      "program_name": "Sicurezza e Tutela dei Prodotti Alimentari di Origine Animale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Banca, Finanza e Mercati Finanziari",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Chimica per l'Industria e l'Ambiente",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Comunicazione, Media e Tecnologie",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Discipline dello Spettacolo e della Comunicazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Ingegneria Civile, dell'Ambiente e del Territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Ingegneria per i Veicoli Terrestri e Aerospaziali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Lingue, Letterature e Comunicazione Interculturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Scienze Agrarie",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Scienze della Pace",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Scienze Naturali e Ambientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Scienze Turistiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Scienze Viticole ed Enologiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Scienze Zootecniche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Filologia e Storia dell'Antichità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Ingegneria Idraulica, dei Trasporti e del Territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Lingue e Letterature Moderne Euroamericane",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Scienze Ambientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Scienze della Nutrizione Umana",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipi_data.json",
+      "university_id": "unipi",
+      "program_name": "Scienze e Tecnologie Geologiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipr_data.json",
+      "university_id": "unipr",
+      "program_name": "Storia, Critica e Linguaggi delle Arti e dello Spettacolo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipr_data.json",
+      "university_id": "unipr",
+      "program_name": "Innovazione Organizzativa, Digitale e Amministrativa della P.A.",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unipv_data.json",
+      "university_id": "unipv",
+      "program_name": "Ingegneria Elettronica e Informatica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipv_data.json",
+      "university_id": "unipv",
+      "program_name": "Lingue e Culture Moderne",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipv_data.json",
+      "university_id": "unipv",
+      "program_name": "Scienze Politiche e delle Relazioni Internazionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipv_data.json",
+      "university_id": "unipv",
+      "program_name": "Scienze Letterarie e dei Beni Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unipv_data.json",
+      "university_id": "unipv",
+      "program_name": "Conservazione e Restauro dei Beni Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unirc_data.json",
+      "university_id": "unirc",
+      "program_name": "Ingegneria Civile e Ambientale per lo Sviluppo Sostenibile",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unirc_data.json",
+      "university_id": "unirc",
+      "program_name": "Ingegneria Informatica e delle Telecomunicazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unirc_data.json",
+      "university_id": "unirc",
+      "program_name": "Ingegneria Elettronica e Biomedica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unirc_data.json",
+      "university_id": "unirc",
+      "program_name": "Ingegneria per la Gestione Sostenibile dell'Ambiente e dell'Energia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unirc_data.json",
+      "university_id": "unirc",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unirc_data.json",
+      "university_id": "unirc",
+      "program_name": "Progettazione Pedagogica e Gestione dei Servizi Educativi per i Minori",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unirc_data.json",
+      "university_id": "unirc",
+      "program_name": "Scienze Biologiche per l'Ambiente",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Scienze dell'architettura",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Design",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Gestione del Processo Edilizio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Gestione del progetto e della costruzione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Design, Comunicazione Visiva e Multimediale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Professioni tecniche per l'edilizia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Architettura - Interni e Allestimenti",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Scienze aziendali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Management e diritto d'impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Economia dell'innovazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Relazioni Economiche e Finanziarie Internazionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Finanza e assicurazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Economia dell'ambiente, della cultura e del turismo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Strategia e governance dell'impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Filosofia e Intelligenza Artificiale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Ingegneria Informatica e Automatica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Ingegneria Meccanica per la Transizione Verde",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Scienze storiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Lingue e civiltà orientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Mediazione linguistica e interculturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Scienze geologiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Genetica e Biologia Molecolare",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Chimica e tecnologia farmaceutiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "ciclo_unico"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Medicina e chirurgia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "ciclo_unico"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Scienze dell'educazione e della formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Scienze della formazione primaria",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "ciclo_unico"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Comunicazione, tecnologie e culture digitali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Media, comunicazione digitale e giornalismo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Scienze politiche e relazioni internazionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Scienze dei servizi giuridici",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Scienze Archeologiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Scienze della moda e del costume",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Storia dell'arte",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Statistica, economia, finanza e assicurazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma2_data.json",
+      "university_id": "uniroma2",
+      "program_name": "Scienze dell'educazione e della formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma2_data.json",
+      "university_id": "uniroma2",
+      "program_name": "Conservazione e restauro dei beni culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "ciclo_unico"
+    },
+    {
+      "file": "uniroma3_data.json",
+      "university_id": "uniroma3",
+      "program_name": "Economia dell'Ambiente, Lavoro e Sviluppo Sostenibile",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma3_data.json",
+      "university_id": "uniroma3",
+      "program_name": "Finanza e Impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma3_data.json",
+      "university_id": "uniroma3",
+      "program_name": "Ingegneria Civile per la Protezione dai Rischi Naturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma3_data.json",
+      "university_id": "uniroma3",
+      "program_name": "Ingegneria delle Infrastrutture Viarie e Trasporti",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma3_data.json",
+      "university_id": "uniroma3",
+      "program_name": "Ingegneria delle Tecnologie della Comunicazione e dell'Informazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma3_data.json",
+      "university_id": "uniroma3",
+      "program_name": "Ingegneria Elettronica per l'Industria e l'Innovazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma3_data.json",
+      "university_id": "uniroma3",
+      "program_name": "Ingegneria Gestionale e dell'Automazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma4_data.json",
+      "university_id": "uniroma4",
+      "program_name": "Management dello Sport",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma4_data.json",
+      "university_id": "uniroma4",
+      "program_name": "Attività Motorie Preventive e Adattate",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma4_data.json",
+      "university_id": "uniroma4",
+      "program_name": "Scienza e Tecnica dello Sport",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unisa_data.json",
+      "university_id": "unisa",
+      "program_name": "Scienze Infermieristiche e Ostetriche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unisa_data.json",
+      "university_id": "unisa",
+      "program_name": "Management dei Sistemi Turistici per lo Sviluppo Sostenibile",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unisa_data.json",
+      "university_id": "unisa",
+      "program_name": "Scienze del Servizio Sociale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisa_data.json",
+      "university_id": "unisa",
+      "program_name": "Data Science e Gestione dell'Innovazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unisalento_data.json",
+      "university_id": "unisalento",
+      "program_name": "Lingue, Culture e Letterature Straniere",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisalento_data.json",
+      "university_id": "unisalento",
+      "program_name": "Scienze Infermieristiche e Ostetriche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unisalento_data.json",
+      "university_id": "unisalento",
+      "program_name": "Management dei Territori, delle Aziende Pubbliche e del Turismo",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unisannio_data.json",
+      "university_id": "unisannio",
+      "program_name": "Scienze Statistiche e Attuariali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisannio_data.json",
+      "university_id": "unisannio",
+      "program_name": "Ingegneria Elettronica per l'Automazione e le Telecomunicazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisannio_data.json",
+      "university_id": "unisannio",
+      "program_name": "Ingegneria Elettronica per l'Automazione e le Telecomunicazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unisg_data.json",
+      "university_id": "unisg",
+      "program_name": "Scienze e Culture Gastronomiche",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisi_data.json",
+      "university_id": "unisi",
+      "program_name": "Scienze Economiche e Bancarie",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisi_data.json",
+      "university_id": "unisi",
+      "program_name": "Tecnologie per l'Ambiente, le Costruzioni e il Territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisi_data.json",
+      "university_id": "unisi",
+      "program_name": "Scienze Ambientali e Naturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisi_data.json",
+      "university_id": "unisi",
+      "program_name": "Studi Letterari e Filosofici",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisi_data.json",
+      "university_id": "unisi",
+      "program_name": "Scienze Storiche e del Patrimonio Culturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisi_data.json",
+      "university_id": "unisi",
+      "program_name": "Lingue per la Comunicazione Interculturale e d'Impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisi_data.json",
+      "university_id": "unisi",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisi_data.json",
+      "university_id": "unisi",
+      "program_name": "Tecniche di Fisiopatologia Cardiocircolatoria e Perfusione Cardiovascolare",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisi_data.json",
+      "university_id": "unisi",
+      "program_name": "Management e Governance",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unisi_data.json",
+      "university_id": "unisi",
+      "program_name": "Psicologia del Ciclo di Vita e dei Contesti",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unisi_data.json",
+      "university_id": "unisi",
+      "program_name": "Scienze Infermieristiche e Ostetriche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unisi_data.json",
+      "university_id": "unisi",
+      "program_name": "Scienze delle Professioni Sanitarie della Riabilitazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unisob_data.json",
+      "university_id": "unisob",
+      "program_name": "Conservazione e Restauro dei Beni Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisob_data.json",
+      "university_id": "unisob",
+      "program_name": "Economia Aziendale e Green Economy",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisob_data.json",
+      "university_id": "unisob",
+      "program_name": "Lingue e Culture Moderne",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisob_data.json",
+      "university_id": "unisob",
+      "program_name": "Scienze dei Beni Culturali: Turismo, Arte, Archeologia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisob_data.json",
+      "university_id": "unisob",
+      "program_name": "Scienze del Servizio Sociale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisob_data.json",
+      "university_id": "unisob",
+      "program_name": "Scienze e Tecniche di Psicologia Cognitiva",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unisob_data.json",
+      "university_id": "unisob",
+      "program_name": "Economia, Management e Sostenibilità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unisob_data.json",
+      "university_id": "unisob",
+      "program_name": "Lingue Moderne per la Comunicazione e la Cooperazione Internazionale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniss_data.json",
+      "university_id": "uniss",
+      "program_name": "Scienze Agrarie",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unistrapg_data.json",
+      "university_id": "unistrapg",
+      "program_name": "Comunicazione internazionale e pubblicitaria (ComIP)",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unistrapg_data.json",
+      "university_id": "unistrapg",
+      "program_name": "Made in Italy, cibo e ospitalità (MICO)",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unistrapg_data.json",
+      "university_id": "unistrapg",
+      "program_name": "Scienze sociali per la sostenibilità e la cooperazione internazionale (SoCI)",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unistrapg_data.json",
+      "university_id": "unistrapg",
+      "program_name": "Digital Humanities per l'italiano (DHI)",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unistrapg_data.json",
+      "university_id": "unistrapg",
+      "program_name": "Studi internazionali per la sostenibilità e la sicurezza sociale (SIS)",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unistrapg_data.json",
+      "university_id": "unistrapg",
+      "program_name": "Comunicazione pubblicitaria, storytelling e cultura d'immagine (ComPSI)",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unistrapg_data.json",
+      "university_id": "unistrapg",
+      "program_name": "Italiano per l'insegnamento a stranieri (ItaS)",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unistrapg_data.json",
+      "university_id": "unistrapg",
+      "program_name": "Relazioni internazionali e cooperazione allo sviluppo (RICS)",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unistrapg_data.json",
+      "university_id": "unistrapg",
+      "program_name": "Management e cultura italiana del cibo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unistrapg_data.json",
+      "university_id": "unistrapg",
+      "program_name": "Traduzione e interpretariato per l'internazionalizzazione dell'impresa (TrIn)",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unistrasi_data.json",
+      "university_id": "unistrasi",
+      "program_name": "Lingua, Letteratura, Arti Italiane (Online)",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unistrasi_data.json",
+      "university_id": "unistrasi",
+      "program_name": "Competenze Testuali per l'Editoria, l'Insegnamento e la Promozione Turistica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unistrasi_data.json",
+      "university_id": "unistrasi",
+      "program_name": "Scienze Linguistiche e Comunicazione Interculturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unite_data.json",
+      "university_id": "unite",
+      "program_name": "Diritto dell'Ambiente e dell'Energia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unite_data.json",
+      "university_id": "unite",
+      "program_name": "Scienze delle Amministrazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unite_data.json",
+      "university_id": "unite",
+      "program_name": "Politiche Internazionali e della Sostenibilità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unite_data.json",
+      "university_id": "unite",
+      "program_name": "DAMS - Discipline delle Arti, della Musica e dello Spettacolo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitelma_data.json",
+      "university_id": "unitelma",
+      "program_name": "Scienze dell'Amministrazione e della Sicurezza",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitelma_data.json",
+      "university_id": "unitelma",
+      "program_name": "Scienze Politiche e delle Relazioni Internazionali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitelma_data.json",
+      "university_id": "unitelma",
+      "program_name": "Archeologia e Culture del Mondo Antico",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitelma_data.json",
+      "university_id": "unitelma",
+      "program_name": "Economia, Management e Innovazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitelma_data.json",
+      "university_id": "unitelma",
+      "program_name": "Scienze della Pubblica Amministrazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitelma_data.json",
+      "university_id": "unitelma",
+      "program_name": "Scienze dell'Educazione degli Adulti e Formazione Continua",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Amministrazione Aziendale e Diritto",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Gestione Aziendale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Ingegneria dell'Informazione e Organizzazione d'Impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Scienze e Tecnologie Biomolecolari",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Scienze e Tecniche di Psicologia Cognitiva",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Interfacce e Tecnologie della Comunicazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Studi Europei e Internazionali",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Metodologia, Organizzazione e Valutazione dei Servizi Sociali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Gestione e Conservazione dei Beni Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Scienze dello Sport e della Prestazione Fisica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Quaternario, Preistoria e Archeologia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Scienze Storiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Mediazione Linguistica, Turismo e Culture",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Culture e Letterature del Mondo Moderno",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Diritto per le Imprese e le Istituzioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Economia e Statistica per le Organizzazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Lingue e Culture per il Turismo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Lingue e Letterature Moderne",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Produzioni Animali, Gestione e Conservazione della Fauna",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Scienze del Diritto Italiano ed Europeo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Scienze dell'Amministrazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Scienze dell'Amministrazione Digitale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Scienze della Mediazione Linguistica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Scienze Forestali e Ambientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Scienze Internazionali, dello Sviluppo e della Cooperazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Scienze Politiche e Sociali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Scienze Strategiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Tecniche della Prevenzione nell'Ambiente e nei Luoghi di Lavoro",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Amministrazione e Controllo Aziendale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Amministrazione e Gestione Digitale delle Aziende",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Archeologia e Storia Antica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Biologia dell'Ambiente",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Chimica Clinica, Forense e dello Sport",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Comunicazione Internazionale per il Turismo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Economia dell'Ambiente, della Cultura e del Territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Economia, Istituzioni, Ambiente e Territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Filologia, Letterature e Storia dell'Antichità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Finanza Aziendale e Mercati Finanziari",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Lingue e Letterature Moderne",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Lingue per lo Sviluppo Turistico del Territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Lingue Straniere per la Comunicazione Internazionale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Psicologia del Lavoro e del Benessere nelle Organizzazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Scienze del Corpo e della Mente",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Scienze del Libro, del Documento, del Patrimonio Culturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Scienze dell'Alimentazione e della Nutrizione Umana",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Scienze della Natura",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Scienze Storiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Scienze Viticole ed Enologiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "units_data.json",
+      "university_id": "units",
+      "program_name": "Discipline Storiche e Filosofiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "units_data.json",
+      "university_id": "units",
+      "program_name": "Scienze Riabilitative delle Professioni Sanitarie",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "units_data.json",
+      "university_id": "units",
+      "program_name": "Psicologia Sociale e Cognitiva Applicata",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitus_data.json",
+      "university_id": "unitus",
+      "program_name": "Comunicazione, Tecnologie e Culture Digitali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitus_data.json",
+      "university_id": "unitus",
+      "program_name": "Produzione Sementiera e Vivaismo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitus_data.json",
+      "university_id": "unitus",
+      "program_name": "Scienze, Culture e Politiche Gastronomiche per il Benessere",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitus_data.json",
+      "university_id": "unitus",
+      "program_name": "Design",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitus_data.json",
+      "university_id": "unitus",
+      "program_name": "Tecniche per la Bioedilizia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitus_data.json",
+      "university_id": "unitus",
+      "program_name": "Sport, benessere e attività motoria in ambiente naturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitus_data.json",
+      "university_id": "unitus",
+      "program_name": "Scienze Umanistiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitus_data.json",
+      "university_id": "unitus",
+      "program_name": "Scienze dei Beni Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitus_data.json",
+      "university_id": "unitus",
+      "program_name": "Lingue e Culture Moderne",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unitus_data.json",
+      "university_id": "unitus",
+      "program_name": "Gestione Digitale dell'Agricoltura e del Territorio Montano",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitus_data.json",
+      "university_id": "unitus",
+      "program_name": "Archeologia e Storia dell'Arte, Tutela e Valorizzazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitus_data.json",
+      "university_id": "unitus",
+      "program_name": "Conservazione e Restauro dei Beni Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "ciclo_unico"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Allevamento e salute animale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Scienza e cultura del cibo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Scienze agrarie",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Scienze e tecnologie alimentari",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Scienze per l'ambiente e la natura",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Scienze e tecnologie agrarie",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Scienze e tecnologie alimentari",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Scienze e tecnologie sostenibili per l'ambiente",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Tutela e benessere animale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Viticoltura, enologia e mercati vitivinicoli",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Ingegneria civile e ambientale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Ingegneria Industriale per la Sostenibilità Ambientale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Ingegneria industriale per l'energia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Scienze dell'architettura",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Tecniche dell'edilizia e del territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Ingegneria ambientale per la resilienza territoriale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Tecnologie digitali e comunicazione per le industrie creative",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Comunicazione multimediale e tecnologie dell'informazione",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Lingue e letterature straniere",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Scienze dell'educazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Comunicazione integrata per le imprese e le organizzazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Lingue e letterature europee ed extraeuropee",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Scienze della formazione primaria",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "ciclo_unico"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "DAMS - Discipline dell'audiovisivo, dei media e dello spettacolo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Scienze e tecniche del turismo culturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Archeologia e culture dell'antichità",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Gestione del turismo culturale e degli eventi",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Scienze del patrimonio audiovisivo e dell'educazione ai media",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Storia dell'arte",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Diritto per le imprese e le istituzioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Diritto per l'innovazione di imprese e pubbliche amministrazioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Scienze motorie",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Scienze e Tecniche delle Attività Motorie Preventive e Adattate",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Medicina e chirurgia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "ciclo_unico"
+    },
+    {
+      "file": "uniupo_data.json",
+      "university_id": "uniupo",
+      "program_name": "Chimica e Tecnologie Chimiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniupo_data.json",
+      "university_id": "uniupo",
+      "program_name": "Scienze Politiche, Economiche, Sociali e dell'Amministrazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniurb_data.json",
+      "university_id": "uniurb",
+      "program_name": "Scienze Politiche, Economiche e del Governo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniurb_data.json",
+      "university_id": "uniurb",
+      "program_name": "Scienze Geologiche e Pianificazione Territoriale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniurb_data.json",
+      "university_id": "uniurb",
+      "program_name": "Lingue e Culture Moderne",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniurb_data.json",
+      "university_id": "uniurb",
+      "program_name": "Conservazione e Restauro dei Beni Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Tecniche della protezione civile e sicurezza del territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Ingegneria delle strutture e delle costruzioni",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Ingegneria per l'ambiente e il territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Ingegneria dell'informazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Amministrazione, economia e finanza",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Scienze ambientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Scienze biologiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Tecniche della prevenzione nell'ambiente e nei luoghi di lavoro",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Terapia della neuro e psicomotricità dell'età evolutiva",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Biologia ambientale e gestione degli ecosistemi",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Scienze delle professioni sanitarie della prevenzione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Scienze delle professioni sanitarie tecniche assistenziali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Scienze infermieristiche ed ostetriche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Medicina e chirurgia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Scienze e tecniche psicologiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Scienze motorie e sportive",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Tecniche di laboratorio biomedico",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Tecniche di radiologia medica, per immagini e radioterapia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Biotecnologie mediche e farmaceutiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Scienza e tecnica dello sport",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Scienze delle professioni sanitarie tecniche diagnostiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Scienze motorie preventive ed adattative",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Scienze riabilitative delle professioni sanitarie",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Scienze chimiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Mediazione linguistica e culturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Scienze del servizio sociale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Scienze dell'educazione e della formazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Arte e patrimonio culturale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Lingue e culture per la comunicazione e la cooperazione internazionale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Progettazione di servizi sociali e interventi educativi",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Studi letterari e culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Scienze della formazione primaria",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univda_data.json",
+      "university_id": "univda",
+      "program_name": "Lingue e Comunicazione per l'Impresa e il Turismo",
+      "language": [
+        "Italian",
+        "French"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univda_data.json",
+      "university_id": "univda",
+      "program_name": "Scienze Politiche e delle Relazioni Internazionali",
+      "language": [
+        "Italian",
+        "French"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univda_data.json",
+      "university_id": "univda",
+      "program_name": "Economia e Politiche del Territorio e dell'Impresa",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Ingegneria Ambientale per la Transizione Ecologica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Scienze Ambientali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Chimica e Tecnologie Sostenibili",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Conservazione e Gestione dei Beni e delle Attività Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Tecnologie per la Conservazione e il Restauro",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Lingue, Culture e Società dell'Asia e dell'Africa Mediterranea",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Lingue, Civiltà e Scienze del Linguaggio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Scienze della Società e del Servizio Sociale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Commercio Estero e Turismo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Amministrazione, Finanza e Controllo",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Marketing e Comunicazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Scienze Chimiche per la Conservazione e il Restauro",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Scienze e Tecnologie per l'Ambiente e il Territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Lingue, Economie e Istituzioni dell'Asia e dell'Africa Mediterranea",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Lingue e Letterature Europee, Americane e Postcoloniali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Scienze del Linguaggio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Interpretariato e Traduzione Editoriale, Settoriale",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Scienze dell'Antichità: Letterature, Storia e Archeologia",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Economia e Gestione delle Arti e delle Attività Culturali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Storia delle Arti e Conservazione dei Beni Artistici",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Scienze Archivistiche e Biblioteconomiche",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Filosofia della Società, dell'Arte e della Comunicazione",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Scienze e Tecnologie dei Bio e Nanomateriali",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Biotecnologie per l'Ambiente e lo Sviluppo Sostenibile",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univpm_data.json",
+      "university_id": "univpm",
+      "program_name": "Scienze Agrarie e del Territorio",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univr_data.json",
+      "university_id": "univr",
+      "program_name": "Lingue e Culture per l'Editoria",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "univr_data.json",
+      "university_id": "univr",
+      "program_name": "Scienze Motorie Preventive ed Adattate",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univr_data.json",
+      "university_id": "univr",
+      "program_name": "Scienze dello Sport e della Prestazione Fisica",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univr_data.json",
+      "university_id": "univr",
+      "program_name": "Scienze Giuridiche e Criminologiche per la Sicurezza e l'Intelligence",
+      "language": [
+        "Italian"
+      ],
+      "degree_level": "master"
+    }
+  ],
+  "needsItalian": [
+    {
+      "file": "bocconi_data.json",
+      "university_id": "bocconi",
+      "program_name": "World Bachelor in Business (WBB)",
+      "language": [
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "bocconi_data.json",
+      "university_id": "bocconi",
+      "program_name": "Management",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "bocconi_data.json",
+      "university_id": "bocconi",
+      "program_name": "Marketing Management",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "bocconi_data.json",
+      "university_id": "bocconi",
+      "program_name": "Data Science and Business Analytics",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "gregoriana_data.json",
+      "university_id": "gregoriana",
+      "program_name": "Licenza in Missiologia",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "gregoriana_data.json",
+      "university_id": "gregoriana",
+      "program_name": "Dottorato in Teologia",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "phd"
+    },
+    {
+      "file": "gssi_data.json",
+      "university_id": "gssi",
+      "program_name": "PhD in Regional Science and Economic Geography",
+      "language": [
+        "English"
+      ],
+      "degree_level": "phd"
+    },
+    {
+      "file": "iulm_data.json",
+      "university_id": "iulm",
+      "program_name": "Artificial Intelligence for Business and Society",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "iulm_data.json",
+      "university_id": "iulm",
+      "program_name": "Translation, Interpreting and Digital Communication",
+      "language": [
+        "English",
+        "Italian"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "johncabot_data.json",
+      "university_id": "johncabot",
+      "program_name": "Marketing",
+      "language": [
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "luiss_data.json",
+      "university_id": "luiss",
+      "program_name": "Marketing",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "luiss_data.json",
+      "university_id": "luiss",
+      "program_name": "Management",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "luiss_data.json",
+      "university_id": "luiss",
+      "program_name": "Government and Policies",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "ssm_data.json",
+      "university_id": "ssm",
+      "program_name": "PhD in Archeologia e Culture del Mediterraneo Antico",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "phd"
+    },
+    {
+      "file": "ssm_data.json",
+      "university_id": "ssm",
+      "program_name": "PhD in Ricerca Storica, Conservazione",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "phd"
+    },
+    {
+      "file": "ssm_data.json",
+      "university_id": "ssm",
+      "program_name": "PhD in Testi, Tradizioni e Culture del Libro (TTCL)",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "phd"
+    },
+    {
+      "file": "ssm_data.json",
+      "university_id": "ssm",
+      "program_name": "PhD in Studi Italiani e Romanzi",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "phd"
+    },
+    {
+      "file": "unibas_data.json",
+      "university_id": "unibas",
+      "program_name": "Geoscienze e Georisorse / Geosciences and Georesources",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unibo_data.json",
+      "university_id": "unibo",
+      "program_name": "Management",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unibo_data.json",
+      "university_id": "unibo",
+      "program_name": "Bioinformatics",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unibz_data.json",
+      "university_id": "unibz",
+      "program_name": "Food and Enogastronomy Sciences",
+      "language": [
+        "Italian",
+        "German",
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibz_data.json",
+      "university_id": "unibz",
+      "program_name": "Economics, Politics and Ethics",
+      "language": [
+        "Italian",
+        "German",
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibz_data.json",
+      "university_id": "unibz",
+      "program_name": "Tourism, Sport and Event Management",
+      "language": [
+        "Italian",
+        "German",
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibz_data.json",
+      "university_id": "unibz",
+      "program_name": "Electronic Engineering",
+      "language": [
+        "Italian",
+        "German",
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unibz_data.json",
+      "university_id": "unibz",
+      "program_name": "Mechanical Engineering",
+      "language": [
+        "Italian",
+        "German",
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Data Analytics for Business and Society",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unicatt_data.json",
+      "university_id": "unicatt",
+      "program_name": "Sport Management and Media Relations",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unict_data.json",
+      "university_id": "unict",
+      "program_name": "Fisica",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Digital Humanities",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Maritime Science and Technology",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unige_data.json",
+      "university_id": "unige",
+      "program_name": "Management",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Analysis, Planning and Sustainable Management of Land and Territory",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Artificial Intelligence for Science and Technology",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimi_data.json",
+      "university_id": "unimi",
+      "program_name": "Bioinformatics for Computational Genomics",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unimol_data.json",
+      "university_id": "unimol",
+      "program_name": "Istituzioni, Governance and Global Studies",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unint_data.json",
+      "university_id": "unint",
+      "program_name": "International Relations, Global Management and Economic Diplomacy",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniroma1_data.json",
+      "university_id": "uniroma1",
+      "program_name": "Bioinformatics",
+      "language": [
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniroma4_data.json",
+      "university_id": "uniroma4",
+      "program_name": "European Master of Science in Health and Physical Activity",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unisa_data.json",
+      "university_id": "unisa",
+      "program_name": "Management dei Sistemi Turistici per lo Sviluppo Sostenibile",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unisalento_data.json",
+      "university_id": "unisalento",
+      "program_name": "Management dei Territori, delle Aziende Pubbliche e del Turismo",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "European Master in Business Studies (EMBS)",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Management",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Civil Engineering",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Studi Europei e Internazionali",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unitn_data.json",
+      "university_id": "unitn",
+      "program_name": "Mediazione Linguistica, Turismo e Culture",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unito_data.json",
+      "university_id": "unito",
+      "program_name": "Fisica dei Sistemi Complessi",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "Management & Business Analytics",
+      "language": [
+        "English"
+      ],
+      "degree_level": "bachelor"
+    },
+    {
+      "file": "uniud_data.json",
+      "university_id": "uniud",
+      "program_name": "International marketing, management and organization",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univaq_data.json",
+      "university_id": "univaq",
+      "program_name": "Atmospheric Science and Technology for Meteorology and Climate",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Data Analytics for Business and Society",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Conservation Science and Technology for Cultural Heritage",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "unive_data.json",
+      "university_id": "unive",
+      "program_name": "Language and Management to China",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    },
+    {
+      "file": "univr_data.json",
+      "university_id": "univr",
+      "program_name": "Bioinformatics",
+      "language": [
+        "English"
+      ],
+      "degree_level": "master"
+    }
+  ],
+  "stats": {
+    "totalFiles": 104,
+    "totalPrograms": 2756,
+    "alreadyTranslated": 1383,
+    "needsEnglish": 750,
+    "needsItalian": 53
+  }
+}

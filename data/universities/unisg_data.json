@@ -6,84 +6,240 @@
     "official_url": "https://www.unisg.it",
     "country": "Italy",
     "city": "Pollenzo (Cuneo)",
-  "campuses": [
-      {"city": "Pollenzo (Bra, Cuneo)", "address": "", "notes": "Main campus in historic Agenzia di Pollenzo"}
+    "campuses": [
+      {
+        "city": "Pollenzo (Bra, Cuneo)",
+        "address": "",
+        "notes": "Main campus in historic Agenzia di Pollenzo"
+      }
     ],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Pollenzo, Cuneo"},
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Pollenzo, Cuneo"
+    },
     "source_url": "https://www.unisg.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "Specialized university founded by Slow Food. Focus on gastronomy, food culture, sustainability. High tuition but significant scholarship programs. €9.5M+ invested in scholarships historically."
   },
   "programs": [
-    {"type":"program","university_id":"unisg","degree_level":"bachelor","program_name":"Scienze e Culture Gastronomiche","class_code":"L-GASTR","language":["Italian","English"],"campus_city":"Pollenzo","duration_years":3,"ects_total":180,"source_url":"https://www.unisg.it","last_checked":"2026-01-10","confidence":0.9,"notes":"International study trips included. Founded by Slow Food."},
-    {"type":"program","university_id":"unisg","degree_level":"master","program_name":"Food Innovation & Management","class_code":"LM-GASTR","language":["English"],"campus_city":"Pollenzo","duration_years":2,"ects_total":120,"source_url":"https://www.unisg.it","last_checked":"2026-01-10","confidence":0.85,"notes":"English-taught. 6-month paid internship included."},
-    {"type":"program","university_id":"unisg","degree_level":"master","program_name":"International Gastronomies","class_code":"LM-GASTR","language":["English"],"campus_city":"Pollenzo","duration_years":2,"ects_total":120,"source_url":"https://www.unisg.it","last_checked":"2026-01-10","confidence":0.85,"notes":"English-taught. Study trips included."},
-    {"type":"program","university_id":"unisg","degree_level":"master","program_name":"Master in Cultura del Vino Italiano","class_code":"","language":["Italian"],"campus_city":"Pollenzo","duration_years":1.17,"ects_total":60,"source_url":"https://www.unisg.it","last_checked":"2026-01-10","confidence":0.85,"notes":"14 months. With Slow Food and Banca del Vino. Wine teller training."},
-    {"type":"program","university_id":"unisg","degree_level":"master","program_name":"Master in Food & Wine Communication","class_code":"","language":["Italian"],"campus_city":"Pollenzo","duration_years":1.17,"ects_total":60,"source_url":"https://www.unisg.it","last_checked":"2026-01-10","confidence":0.85,"notes":"14 months. 8-month apprenticeship with Slow Food artisans."}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"unisg",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"international",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma, application process",
-      "documents_required":[],
-      "tests_required":["UNISG admission process"],
-      "portfolio_required":false,
-      "interview_required":true
+    {
+      "type": "program",
+      "university_id": "unisg",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Culture Gastronomiche",
+      "class_code": "L-GASTR",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Pollenzo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unisg.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "International study trips included. Founded by Slow Food.",
+      "program_name_it": "Scienze e Culture Gastronomiche"
     },
-    "intakes":[{
-      "intake_name":"A.A. 2025/2026",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":"",
-      "notes":"€2,000 deposit required within 1 week of admission"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.unisg.it/en/programs-admissions/",
-    "source_url":"https://www.unisg.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"International students welcome. Strong Slow Food network connections."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"unisg",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"Bachelor Scienze e Culture Gastronomiche","amount_min":15500,"amount_max":15500,"currency":"EUR","period":"year","notes":"3-year program"},
-      {"student_group":"Master Food Industry Management","amount_min":14000,"amount_max":14000,"currency":"EUR","period":"year","notes":""},
-      {"student_group":"LM International Gastronomies Year 1","amount_min":15500,"amount_max":15500,"currency":"EUR","period":"year","notes":""},
-      {"student_group":"LM International Gastronomies Year 2","amount_min":10200,"amount_max":10200,"currency":"EUR","period":"year","notes":""}
-    ],
-    "additional_fees":[
-      {"fee_name":"Deposit","amount":2000,"currency":"EUR","notes":"Within 1 week of admission, counts toward tuition"},
-      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"Annual"}
-    ],
-    "payment_schedule_notes":"€2,000 deposit + installments. Early bird 10% discount for early payment on some programs.",
-    "source_url":"https://www.unisg.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Premium specialized university. €14,000-€15,500/year. Significant scholarship programs available. Slow Food partner discounts."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"unisg",
-    "scholarship_name":"UNISG Scholarships",
-    "description":"Partial and full scholarships for merit and need",
-    "eligibility":"Merit-based and need-based criteria",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.unisg.it",
-    "source_url":"https://www.unisg.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"260+ students from 40 countries supported. €9.5M+ invested historically. Slow Food partner discounts. Early bird 10% discount."
-  }],
+    {
+      "type": "program",
+      "university_id": "unisg",
+      "degree_level": "master",
+      "program_name": "Food Innovation & Management",
+      "class_code": "LM-GASTR",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Pollenzo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unisg.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "English-taught. 6-month paid internship included.",
+      "program_name_it": "Alimentare Innovation & Management",
+      "program_name_en": "Food Innovation & Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unisg",
+      "degree_level": "master",
+      "program_name": "International Gastronomies",
+      "class_code": "LM-GASTR",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Pollenzo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unisg.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "English-taught. Study trips included.",
+      "program_name_it": "Internazionali Gastronomies",
+      "program_name_en": "International Gastronomies"
+    },
+    {
+      "type": "program",
+      "university_id": "unisg",
+      "degree_level": "master",
+      "program_name": "Master in Cultura del Vino Italiano",
+      "class_code": "",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Pollenzo",
+      "duration_years": 1.17,
+      "ects_total": 60,
+      "source_url": "https://www.unisg.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "14 months. With Slow Food and Banca del Vino. Wine teller training.",
+      "program_name_en": "Master in Cultura of the Vino Italiano"
+    },
+    {
+      "type": "program",
+      "university_id": "unisg",
+      "degree_level": "master",
+      "program_name": "Master in Food & Wine Communication",
+      "class_code": "",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Pollenzo",
+      "duration_years": 1.17,
+      "ects_total": 60,
+      "source_url": "https://www.unisg.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "14 months. 8-month apprenticeship with Slow Food artisans.",
+      "program_name_en": "Master in Food & Wine Communication"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unisg",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "international",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma, application process",
+        "documents_required": [],
+        "tests_required": [
+          "UNISG admission process"
+        ],
+        "portfolio_required": false,
+        "interview_required": true
+      },
+      "intakes": [
+        {
+          "intake_name": "A.A. 2025/2026",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": "",
+          "notes": "€2,000 deposit required within 1 week of admission"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unisg.it/en/programs-admissions/",
+      "source_url": "https://www.unisg.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "International students welcome. Strong Slow Food network connections."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unisg",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "Bachelor Scienze e Culture Gastronomiche",
+          "amount_min": 15500,
+          "amount_max": 15500,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "3-year program"
+        },
+        {
+          "student_group": "Master Food Industry Management",
+          "amount_min": 14000,
+          "amount_max": 14000,
+          "currency": "EUR",
+          "period": "year",
+          "notes": ""
+        },
+        {
+          "student_group": "LM International Gastronomies Year 1",
+          "amount_min": 15500,
+          "amount_max": 15500,
+          "currency": "EUR",
+          "period": "year",
+          "notes": ""
+        },
+        {
+          "student_group": "LM International Gastronomies Year 2",
+          "amount_min": 10200,
+          "amount_max": 10200,
+          "currency": "EUR",
+          "period": "year",
+          "notes": ""
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Deposit",
+          "amount": 2000,
+          "currency": "EUR",
+          "notes": "Within 1 week of admission, counts toward tuition"
+        },
+        {
+          "fee_name": "Regional tax",
+          "amount": 140,
+          "currency": "EUR",
+          "notes": "Annual"
+        }
+      ],
+      "payment_schedule_notes": "€2,000 deposit + installments. Early bird 10% discount for early payment on some programs.",
+      "source_url": "https://www.unisg.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Premium specialized university. €14,000-€15,500/year. Significant scholarship programs available. Slow Food partner discounts."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "unisg",
+      "scholarship_name": "UNISG Scholarships",
+      "description": "Partial and full scholarships for merit and need",
+      "eligibility": "Merit-based and need-based criteria",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.unisg.it",
+      "source_url": "https://www.unisg.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "260+ students from 40 countries supported. €9.5M+ invested historically. Slow Food partner discounts. Early bird 10% discount."
+    }
+  ],
   "opportunities": []
 }

@@ -6,95 +6,502 @@
     "official_url": "https://www.poliba.it",
     "country": "Italy",
     "city": "Bari",
-    "campuses": [{"city": "Bari", "address": "", "notes": "Engineering/Architecture campus"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Bari"},
+    "campuses": [
+      {
+        "city": "Bari",
+        "address": "",
+        "notes": "Engineering/Architecture campus"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Bari"
+    },
     "source_url": "https://www.poliba.it",
     "last_checked": "2026-01-04",
     "confidence": 0.95,
     "notes": "Technical university in Puglia. No tax area €26,000. Max fees €2,100-€2,300. Regolamento 2025/26 approved July 15, 2025."
   },
   "programs": [
-    {"type":"program","university_id":"poliba","degree_level":"bachelor","program_name":"Ingegneria Civile","class_code":"L-7","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"TAI test required"},
-    {"type":"program","university_id":"poliba","degree_level":"bachelor","program_name":"Ingegneria Ambientale e del Territorio","class_code":"L-7","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"TAI test required"},
-    {"type":"program","university_id":"poliba","degree_level":"bachelor","program_name":"Ingegneria Informatica","class_code":"L-8","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"TAI test required"},
-    {"type":"program","university_id":"poliba","degree_level":"bachelor","program_name":"Ingegneria Elettronica","class_code":"L-8","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"TAI test required"},
-    {"type":"program","university_id":"poliba","degree_level":"bachelor","program_name":"Ingegneria delle Telecomunicazioni","class_code":"L-8","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"TAI test required"},
-    {"type":"program","university_id":"poliba","degree_level":"bachelor","program_name":"Ingegneria Meccanica","class_code":"L-9","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"TAI test required"},
-    {"type":"program","university_id":"poliba","degree_level":"bachelor","program_name":"Ingegneria Gestionale","class_code":"L-9","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"TAI test required"},
-    {"type":"program","university_id":"poliba","degree_level":"bachelor","program_name":"Ingegneria Elettrica","class_code":"L-9","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"TAI test required"},
-    {"type":"program","university_id":"poliba","degree_level":"bachelor","program_name":"Disegno Industriale","class_code":"L-4","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"ArCoD department, access by bando"},
-    {"type":"program","university_id":"poliba","degree_level":"master","program_name":"Architettura","class_code":"LM-4","language":["Italian"],"campus_city":"Bari","duration_years":5,"ects_total":300,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico, programmazione nazionale"},
-    {"type":"program","university_id":"poliba","degree_level":"master","program_name":"Ingegneria Edile-Architettura","class_code":"LM-4","language":["Italian"],"campus_city":"Bari","duration_years":5,"ects_total":300,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico, in dismissione"},
-    {"type":"program","university_id":"poliba","degree_level":"master","program_name":"Industrial Design","class_code":"LM-12","language":["English"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"poliba","degree_level":"master","program_name":"Ingegneria Civile","class_code":"LM-23","language":["Italian"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"poliba","degree_level":"master","program_name":"Ingegneria Informatica","class_code":"LM-32","language":["Italian"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"poliba","degree_level":"master","program_name":"Ingegneria Elettronica","class_code":"LM-29","language":["Italian"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"poliba","degree_level":"master","program_name":"Ingegneria delle Telecomunicazioni","class_code":"LM-27","language":["Italian"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"poliba","degree_level":"master","program_name":"Ingegneria Meccanica","class_code":"LM-33","language":["Italian"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"poliba","degree_level":"master","program_name":"Ingegneria Gestionale","class_code":"LM-31","language":["Italian"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"poliba","degree_level":"master","program_name":"Ingegneria Elettrica","class_code":"LM-28","language":["Italian"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.poliba.it","last_checked":"2026-01-10","confidence":0.9,"notes":""}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"poliba",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Civile",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "TAI test required",
+      "program_name_en": "Civil Engineering",
+      "program_name_it": "Ingegneria Civile"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":""
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://orientami.poliba.it",
-    "source_url":"https://www.poliba.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":""
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"poliba",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"ISEE ≤ 26000","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"No Tax Area - only ADISU tax"},
-      {"student_group":"ISEE above threshold (with requirements)","amount_min":null,"amount_max":2100,"currency":"EUR","period":"year","notes":"Progressive based on ISEE, max €2,100"},
-      {"student_group":"No ISEE or ordinary ISEE","amount_min":2100,"amount_max":2300,"currency":"EUR","period":"year","notes":"Max fees €2,100-€2,300"},
-      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
-    ],
-    "additional_fees":[
-      {"fee_name":"ADISU contribution (T1)","amount":120,"currency":"EUR","notes":"At enrollment"},
-      {"fee_name":"ADISU conguaglio (T2)","amount":null,"currency":"EUR","notes":"Based on ISEE"}
-    ],
-    "payment_schedule_notes":"Two rates: T1 at enrollment (includes ADISU €120), T2 with ISEE-based conguaglio.",
-    "source_url":"https://www.poliba.it/it/didattica/tasse",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"No tax area €26,000. Max contribution €2,100 (with requirements) or €2,300 (without). Regolamento 2025/26 approved July 15, 2025."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"poliba",
-    "scholarship_name":"ADISU Puglia Regional Scholarship",
-    "description":"Regional scholarship for students with low ISEE",
-    "eligibility":"ISEE threshold + merit requirements",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"",
-    "source_url":"https://www.poliba.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.8,
-    "notes":""
-  }],
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Ambientale e del Territorio",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "TAI test required",
+      "program_name_it": "Ingegneria Ambientale e del Territorio"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Informatica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "TAI test required",
+      "program_name_en": "Computer Engineering",
+      "program_name_it": "Ingegneria Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Elettronica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "TAI test required",
+      "program_name_en": "Electronic Engineering",
+      "program_name_it": "Ingegneria Elettronica"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria delle Telecomunicazioni",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "TAI test required",
+      "program_name_en": "Engineering of the Telecomunicazioni",
+      "program_name_it": "Ingegneria delle Telecomunicazioni"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Meccanica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "TAI test required",
+      "program_name_en": "Mechanical Engineering",
+      "program_name_it": "Ingegneria Meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Gestionale",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "TAI test required",
+      "program_name_en": "Management Engineering",
+      "program_name_it": "Ingegneria Gestionale"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Elettrica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "TAI test required",
+      "program_name_en": "Electrical Engineering",
+      "program_name_it": "Ingegneria Elettrica"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "bachelor",
+      "program_name": "Disegno Industriale",
+      "class_code": "L-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "ArCoD department, access by bando",
+      "program_name_en": "Disandgno Industrial"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "master",
+      "program_name": "Architettura",
+      "class_code": "LM-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico, programmazione nazionale",
+      "program_name_en": "Architecture",
+      "program_name_it": "Architettura"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "master",
+      "program_name": "Ingegneria Edile-Architettura",
+      "class_code": "LM-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico, in dismissione",
+      "program_name_en": "Building Engineering-Architecture",
+      "program_name_it": "Ingegneria Edile-Architettura"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "master",
+      "program_name": "Industrial Design",
+      "class_code": "LM-12",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Industriale Design"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "master",
+      "program_name": "Ingegneria Civile",
+      "class_code": "LM-23",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Civil Engineering",
+      "program_name_it": "Ingegneria Civile"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "master",
+      "program_name": "Ingegneria Informatica",
+      "class_code": "LM-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Computer Engineering",
+      "program_name_it": "Ingegneria Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "master",
+      "program_name": "Ingegneria Elettronica",
+      "class_code": "LM-29",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Electronic Engineering",
+      "program_name_it": "Ingegneria Elettronica"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "master",
+      "program_name": "Ingegneria delle Telecomunicazioni",
+      "class_code": "LM-27",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Engineering of the Telecomunicazioni",
+      "program_name_it": "Ingegneria delle Telecomunicazioni"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "master",
+      "program_name": "Ingegneria Meccanica",
+      "class_code": "LM-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mechanical Engineering",
+      "program_name_it": "Ingegneria Meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "master",
+      "program_name": "Ingegneria Gestionale",
+      "class_code": "LM-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Management Engineering",
+      "program_name_it": "Ingegneria Gestionale"
+    },
+    {
+      "type": "program",
+      "university_id": "poliba",
+      "degree_level": "master",
+      "program_name": "Ingegneria Elettrica",
+      "class_code": "LM-28",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Electrical Engineering",
+      "program_name_it": "Ingegneria Elettrica"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "poliba",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://orientami.poliba.it",
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "poliba",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE ≤ 26000",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area - only ADISU tax"
+        },
+        {
+          "student_group": "ISEE above threshold (with requirements)",
+          "amount_min": null,
+          "amount_max": 2100,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Progressive based on ISEE, max €2,100"
+        },
+        {
+          "student_group": "No ISEE or ordinary ISEE",
+          "amount_min": 2100,
+          "amount_max": 2300,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Max fees €2,100-€2,300"
+        },
+        {
+          "student_group": "Disability ≥66% or L.104",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "ADISU contribution (T1)",
+          "amount": 120,
+          "currency": "EUR",
+          "notes": "At enrollment"
+        },
+        {
+          "fee_name": "ADISU conguaglio (T2)",
+          "amount": null,
+          "currency": "EUR",
+          "notes": "Based on ISEE"
+        }
+      ],
+      "payment_schedule_notes": "Two rates: T1 at enrollment (includes ADISU €120), T2 with ISEE-based conguaglio.",
+      "source_url": "https://www.poliba.it/it/didattica/tasse",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "No tax area €26,000. Max contribution €2,100 (with requirements) or €2,300 (without). Regolamento 2025/26 approved July 15, 2025."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "poliba",
+      "scholarship_name": "ADISU Puglia Regional Scholarship",
+      "description": "Regional scholarship for students with low ISEE",
+      "eligibility": "ISEE threshold + merit requirements",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "",
+      "source_url": "https://www.poliba.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": ""
+    }
+  ],
   "opportunities": []
 }

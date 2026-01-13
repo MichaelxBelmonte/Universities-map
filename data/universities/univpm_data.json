@@ -6,83 +6,335 @@
     "official_url": "https://www.univpm.it",
     "country": "Italy",
     "city": "Ancona",
-    "campuses": [{"city": "Ancona", "address": "Piazza Roma, 22", "notes": "Main campus"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "info@univpm.it", "phone": "+39 071.220.1", "address": "Piazza Roma 22, Ancona"},
+    "campuses": [
+      {
+        "city": "Ancona",
+        "address": "Piazza Roma, 22",
+        "notes": "Main campus"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "info@univpm.it",
+      "phone": "+39 071.220.1",
+      "address": "Piazza Roma 22, Ancona"
+    },
     "source_url": "https://www.univpm.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "Polytechnic university with 5 faculties: Agriculture, Economics 'Giorgio Fuà', Engineering, Medicine and Surgery, Sciences. Member of SUNRISE alliance. Erasmus+ opportunities."
   },
   "programs": [
-    {"type":"program","university_id":"univpm","degree_level":"bachelor","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Ancona","duration_years":6,"ects_total":360,"source_url":"https://www.univpm.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Facoltà Medicina e Chirurgia."},
-    {"type":"program","university_id":"univpm","degree_level":"bachelor","program_name":"Odontoiatria e Protesi Dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Ancona","duration_years":6,"ects_total":360,"source_url":"https://www.univpm.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico."},
-    {"type":"program","university_id":"univpm","degree_level":"bachelor","program_name":"Ingegneria Civile e Ambientale","class_code":"L-7","language":["Italian"],"campus_city":"Ancona","duration_years":3,"ects_total":180,"source_url":"https://www.univpm.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Facoltà di Ingegneria."},
-    {"type":"program","university_id":"univpm","degree_level":"bachelor","program_name":"Ingegneria Informatica e dell'Automazione","class_code":"L-8","language":["Italian"],"campus_city":"Ancona","duration_years":3,"ects_total":180,"source_url":"https://www.univpm.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"univpm","degree_level":"bachelor","program_name":"Ingegneria Meccanica","class_code":"L-9","language":["Italian"],"campus_city":"Ancona","duration_years":3,"ects_total":180,"source_url":"https://www.univpm.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"univpm","degree_level":"bachelor","program_name":"Ingegneria Biomedica","class_code":"L-8","language":["Italian"],"campus_city":"Ancona","duration_years":3,"ects_total":180,"source_url":"https://www.univpm.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"univpm","degree_level":"bachelor","program_name":"Economia e Commercio","class_code":"L-33","language":["Italian"],"campus_city":"Ancona","duration_years":3,"ects_total":180,"source_url":"https://www.univpm.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Facoltà Economia 'Giorgio Fuà'."},
-    {"type":"program","university_id":"univpm","degree_level":"bachelor","program_name":"Scienze Agrarie e del Territorio","class_code":"L-25","language":["Italian"],"campus_city":"Ancona","duration_years":3,"ects_total":180,"source_url":"https://www.univpm.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Facoltà di Agraria."},
-    {"type":"program","university_id":"univpm","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Ancona","duration_years":3,"ects_total":180,"source_url":"https://www.univpm.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Facoltà di Scienze."},
-    {"type":"program","university_id":"univpm","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Ancona","duration_years":3,"ects_total":180,"source_url":"https://www.univpm.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Also at Fermo, Macerata, Pesaro."},
-    {"type":"program","university_id":"univpm","degree_level":"master","program_name":"Biomedical Engineering","class_code":"LM-21","language":["English"],"campus_city":"Ancona","duration_years":2,"ects_total":120,"source_url":"https://www.univpm.it","last_checked":"2026-01-10","confidence":0.85,"notes":"English-taught."}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"univpm",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[{"test_name":"Entrance examination","min_score":"","notes":"Required for select programs"}],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "univpm",
+      "degree_level": "bachelor",
+      "program_name": "Medicina e Chirurgia",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Ancona",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.univpm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico. Facoltà Medicina e Chirurgia.",
+      "program_name_en": "Medicine and Surgery",
+      "program_name_it": "Medicina e Chirurgia"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":""
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.univpm.it/Entra/5_passi_per_iscriverti_a_UNIVPM",
-    "source_url":"https://www.univpm.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"5 steps enrollment process. Entrance exams for select programs including Medicine."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"univpm",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"ISEE ≤ no tax area threshold","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"No Tax Area exemption"},
-      {"student_group":"ISEE above threshold","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Progressive based on ISEE"},
-      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
-    ],
-    "additional_fees":[],
-    "payment_schedule_notes":"",
-    "source_url":"https://www.univpm.it/Entra/5_passi_per_iscriverti_a_UNIVPM/Tasse_e_contributi",
-    "last_checked":"2026-01-04",
-    "confidence":0.7,
-    "notes":"Check ERDIS Marche for regional scholarship details."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"univpm",
-    "scholarship_name":"ERDIS Marche Regional Scholarship",
-    "description":"Regional scholarship for students with low ISEE",
-    "eligibility":"ISEE threshold + merit requirements",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"",
-    "source_url":"https://www.univpm.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.8,
-    "notes":"Housing and meal services available through university."
-  }],
+    {
+      "type": "program",
+      "university_id": "univpm",
+      "degree_level": "bachelor",
+      "program_name": "Odontoiatria e Protesi Dentaria",
+      "class_code": "LM-46",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Ancona",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.univpm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico.",
+      "program_name_en": "Dentistry and Dental Prosthetics"
+    },
+    {
+      "type": "program",
+      "university_id": "univpm",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Civile e Ambientale",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Ancona",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.univpm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Facoltà di Ingegneria.",
+      "program_name_en": "Civil and Environmental Engineering",
+      "program_name_it": "Ingegneria Civile e Ambientale"
+    },
+    {
+      "type": "program",
+      "university_id": "univpm",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Informatica e dell'Automazione",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Ancona",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.univpm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Computer and Automation Engineering",
+      "program_name_it": "Ingegneria Informatica e dell'Automazione"
+    },
+    {
+      "type": "program",
+      "university_id": "univpm",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Meccanica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Ancona",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.univpm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Mechanical Engineering",
+      "program_name_it": "Ingegneria Meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "univpm",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Biomedica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Ancona",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.univpm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Biomedical Engineering",
+      "program_name_it": "Ingegneria Biomedica"
+    },
+    {
+      "type": "program",
+      "university_id": "univpm",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Commercio",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Ancona",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.univpm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Facoltà Economia 'Giorgio Fuà'.",
+      "program_name_en": "Economics and Commercio",
+      "program_name_it": "Economia e Commercio"
+    },
+    {
+      "type": "program",
+      "university_id": "univpm",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Agrarie e del Territorio",
+      "class_code": "L-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Ancona",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.univpm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Facoltà di Agraria.",
+      "program_name_it": "Scienze Agrarie e del Territorio"
+    },
+    {
+      "type": "program",
+      "university_id": "univpm",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Biologiche",
+      "class_code": "L-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Ancona",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.univpm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Facoltà di Scienze.",
+      "program_name_en": "Biological Sciences",
+      "program_name_it": "Scienze Biologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "univpm",
+      "degree_level": "bachelor",
+      "program_name": "Infermieristica",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Ancona",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.univpm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Also at Fermo, Macerata, Pesaro.",
+      "program_name_en": "Nursing"
+    },
+    {
+      "type": "program",
+      "university_id": "univpm",
+      "degree_level": "master",
+      "program_name": "Biomedical Engineering",
+      "class_code": "LM-21",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Ancona",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.univpm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "English-taught.",
+      "program_name_it": "Ingegneria Biomedica",
+      "program_name_en": "Biomedical Engineering"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "univpm",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [
+          {
+            "test_name": "Entrance examination",
+            "min_score": "",
+            "notes": "Required for select programs"
+          }
+        ],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.univpm.it/Entra/5_passi_per_iscriverti_a_UNIVPM",
+      "source_url": "https://www.univpm.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "5 steps enrollment process. Entrance exams for select programs including Medicine."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "univpm",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE ≤ no tax area threshold",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area exemption"
+        },
+        {
+          "student_group": "ISEE above threshold",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Progressive based on ISEE"
+        },
+        {
+          "student_group": "Disability ≥66% or L.104",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption"
+        }
+      ],
+      "additional_fees": [],
+      "payment_schedule_notes": "",
+      "source_url": "https://www.univpm.it/Entra/5_passi_per_iscriverti_a_UNIVPM/Tasse_e_contributi",
+      "last_checked": "2026-01-04",
+      "confidence": 0.7,
+      "notes": "Check ERDIS Marche for regional scholarship details."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "univpm",
+      "scholarship_name": "ERDIS Marche Regional Scholarship",
+      "description": "Regional scholarship for students with low ISEE",
+      "eligibility": "ISEE threshold + merit requirements",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "",
+      "source_url": "https://www.univpm.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Housing and meal services available through university."
+    }
+  ],
   "opportunities": []
 }

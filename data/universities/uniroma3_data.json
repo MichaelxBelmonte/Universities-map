@@ -6,106 +6,643 @@
     "official_url": "https://www.uniroma3.it",
     "country": "Italy",
     "city": "Rome",
-    "campuses": [{"city": "Rome", "address": "", "notes": "Multiple locations across Rome"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "campuses": [
+      {
+        "city": "Rome",
+        "address": "",
+        "notes": "Multiple locations across Rome"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Rome"
+    },
     "source_url": "https://www.uniroma3.it",
     "last_checked": "2026-01-04",
-    "confidence": 1.0,
+    "confidence": 1,
     "notes": "Founded 1992. 13 departments. Young university with rapid growth. Offers bachelor, master, ciclo unico, doctoral programs. English-language and dual degree programs available."
   },
   "programs": [
-    {"type":"program","university_id":"uniroma3","degree_level":"bachelor","program_name":"Economia e Gestione Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Accesso libero"},
-    {"type":"program","university_id":"uniroma3","degree_level":"bachelor","program_name":"Economia","class_code":"L-33","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"bachelor","program_name":"Economia e Big Data","class_code":"L-33","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"bachelor","program_name":"Ingegneria Civile","class_code":"L-7","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"bachelor","program_name":"Ingegneria Elettronica","class_code":"L-8","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"bachelor","program_name":"Ingegneria Informatica","class_code":"L-8","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"bachelor","program_name":"Ingegneria Meccanica","class_code":"L-9","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Medicine and Surgery - Technologically-Oriented","class_code":"LM-41","language":["English"],"campus_city":"Rome","duration_years":6,"ects_total":360,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.9,"notes":"NEW 2025/26 - Interuniversitario, English-taught"},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Pedagogical Sciences for Inclusive Communication Mediated by LIS","class_code":"LM-85","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":"NEW 2025/26"},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Economia dell'Ambiente, Lavoro e Sviluppo Sostenibile","class_code":"LM-56","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Scienze Economiche","class_code":"LM-56","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Economia Aziendale","class_code":"LM-77","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Economia e Management","class_code":"LM-77","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Finanza e Impresa","class_code":"LM-16/LM-77","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Interclasse"},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Ingegneria Aeronautica","class_code":"LM-20","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Ingegneria Civile per la Protezione dai Rischi Naturali","class_code":"LM-23","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Ingegneria delle Infrastrutture Viarie e Trasporti","class_code":"LM-23","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Ingegneria delle Tecnologie della Comunicazione e dell'Informazione","class_code":"LM-27","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Ingegneria Elettronica per l'Industria e l'Innovazione","class_code":"LM-29","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Ingegneria Gestionale e dell'Automazione","class_code":"LM-32","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Ingegneria Informatica","class_code":"LM-32","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Ingegneria Meccanica","class_code":"LM-33","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Architettura - Restauro","class_code":"LM-4","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniroma3","degree_level":"master","program_name":"Biomedical Engineering","class_code":"LM-21","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma3.it","last_checked":"2026-01-10","confidence":0.85,"notes":"English-taught"}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"uniroma3",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Gestione Aziendale",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Accesso libero",
+      "program_name_en": "Business Economics and Management",
+      "program_name_it": "Economia e Gestione Aziendale"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"",
-      "application_deadline":"2025-10-15",
-      "start_date":"",
-      "notes":"ISEE deadline: Oct 15 or 60 days from enrollment (whichever later)"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://orientamento.uniroma3.it",
-    "source_url":"https://www.uniroma3.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"CAF CISL convenzionato for foreign students: Via G.M. Crescimbeni 17/Ai, 27 Roma. Tel: 06 20191910"
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"uniroma3",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"ISEE ≤ 23000","amount_min":156,"amount_max":156,"currency":"EUR","period":"year","notes":"No Tax Area - only fixed fees"},
-      {"student_group":"ISEE 23001-30000","amount_min":156,"amount_max":null,"currency":"EUR","period":"year","notes":"Progressive reduction based on ISEE"},
-      {"student_group":"ISEE > 30000 or no ISEE","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Full contribution"},
-      {"student_group":"Siblings enrolled (ISEE ≤30000)","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"20% discount"},
-      {"student_group":"100/100 maturità (first enrollment)","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"},
-      {"student_group":"95-99/100 maturità (triennale)","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"50% reduction"},
-      {"student_group":"107-110/110 laureati (magistrale)","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"50% reduction"},
-      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Imposta di bollo","amount":16,"currency":"EUR","notes":"Virtual stamp duty"},
-      {"fee_name":"Tassa regionale","amount":140,"currency":"EUR","notes":"Regional tax"}
-    ],
-    "payment_schedule_notes":"Payment in max 4 installments. Fixed €156 (bollo + regional tax) for all students.",
-    "source_url":"https://portalestudente.uniroma3.it/en/fees/tuition-fees/",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"No tax area at €23,000. Merit-based reductions for high school and degree grades."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"uniroma3",
-    "scholarship_name":"DiSCo Lazio Regional Scholarship",
-    "description":"Regional scholarship covering tuition, accommodation, meals",
-    "eligibility":"ISEE threshold + merit requirements",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"",
-    "source_url":"https://www.uniroma3.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.8,
-    "notes":"Lazio regional agency"
-  }],
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "bachelor",
+      "program_name": "Economia",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Economics",
+      "program_name_it": "Economia"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Big Data",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Economics and Big Data",
+      "program_name_it": "Economia e Big Data"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Civile",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Civil Engineering",
+      "program_name_it": "Ingegneria Civile"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Elettronica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Electronic Engineering",
+      "program_name_it": "Ingegneria Elettronica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Informatica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Computer Engineering",
+      "program_name_it": "Ingegneria Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Meccanica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Mechanical Engineering",
+      "program_name_it": "Ingegneria Meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Medicine and Surgery - Technologically-Oriented",
+      "class_code": "LM-41",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "NEW 2025/26 - Interuniversitario, English-taught",
+      "program_name_it": "Medicina e Chirurgia - Technologically-Oriented",
+      "program_name_en": "Medicine and Surgery - Technologically-Oriented"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Pedagogical Sciences for Inclusive Communication Mediated by LIS",
+      "class_code": "LM-85",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "NEW 2025/26",
+      "program_name_en": "Pedagogical Sciences for Inclusive Communication Mediated by LIS"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Economia dell'Ambiente, Lavoro e Sviluppo Sostenibile",
+      "class_code": "LM-56",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_it": "Economia dell'Ambiente, Lavoro e Sviluppo Sostenibile"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Scienze Economiche",
+      "class_code": "LM-56",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Economic Sciences",
+      "program_name_it": "Scienze Economiche"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Economia Aziendale",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Business Administration",
+      "program_name_it": "Economia Aziendale"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Economia e Management",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Economics and Management",
+      "program_name_it": "Economia e Management"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Finanza e Impresa",
+      "class_code": "LM-16/LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Interclasse"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Ingegneria Aeronautica",
+      "class_code": "LM-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Engineering Aeronautica",
+      "program_name_it": "Ingegneria Aeronautica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Ingegneria Civile per la Protezione dai Rischi Naturali",
+      "class_code": "LM-23",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_it": "Ingegneria Civile per la Protezione dai Rischi Naturali"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Ingegneria delle Infrastrutture Viarie e Trasporti",
+      "class_code": "LM-23",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_it": "Ingegneria delle Infrastrutture Viarie e Trasporti"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Ingegneria delle Tecnologie della Comunicazione e dell'Informazione",
+      "class_code": "LM-27",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_it": "Ingegneria delle Tecnologie della Comunicazione e dell'Informazione"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Ingegneria Elettronica per l'Industria e l'Innovazione",
+      "class_code": "LM-29",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_it": "Ingegneria Elettronica per l'Industria e l'Innovazione"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Ingegneria Gestionale e dell'Automazione",
+      "class_code": "LM-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_it": "Ingegneria Gestionale e dell'Automazione"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Ingegneria Informatica",
+      "class_code": "LM-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Computer Engineering",
+      "program_name_it": "Ingegneria Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Ingegneria Meccanica",
+      "class_code": "LM-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Mechanical Engineering",
+      "program_name_it": "Ingegneria Meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Architettura - Restauro",
+      "class_code": "LM-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Architecture - Restauro",
+      "program_name_it": "Architettura - Restauro"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma3",
+      "degree_level": "master",
+      "program_name": "Biomedical Engineering",
+      "class_code": "LM-21",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "English-taught",
+      "program_name_it": "Ingegneria Biomedica",
+      "program_name_en": "Biomedical Engineering"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "uniroma3",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "2025-10-15",
+          "start_date": "",
+          "notes": "ISEE deadline: Oct 15 or 60 days from enrollment (whichever later)"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://orientamento.uniroma3.it",
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "CAF CISL convenzionato for foreign students: Via G.M. Crescimbeni 17/Ai, 27 Roma. Tel: 06 20191910"
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "uniroma3",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE ≤ 23000",
+          "amount_min": 156,
+          "amount_max": 156,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area - only fixed fees"
+        },
+        {
+          "student_group": "ISEE 23001-30000",
+          "amount_min": 156,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Progressive reduction based on ISEE"
+        },
+        {
+          "student_group": "ISEE > 30000 or no ISEE",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full contribution"
+        },
+        {
+          "student_group": "Siblings enrolled (ISEE ≤30000)",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "20% discount"
+        },
+        {
+          "student_group": "100/100 maturità (first enrollment)",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption"
+        },
+        {
+          "student_group": "95-99/100 maturità (triennale)",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "50% reduction"
+        },
+        {
+          "student_group": "107-110/110 laureati (magistrale)",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "50% reduction"
+        },
+        {
+          "student_group": "Disability ≥66% or L.104",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Imposta di bollo",
+          "amount": 16,
+          "currency": "EUR",
+          "notes": "Virtual stamp duty"
+        },
+        {
+          "fee_name": "Tassa regionale",
+          "amount": 140,
+          "currency": "EUR",
+          "notes": "Regional tax"
+        }
+      ],
+      "payment_schedule_notes": "Payment in max 4 installments. Fixed €156 (bollo + regional tax) for all students.",
+      "source_url": "https://portalestudente.uniroma3.it/en/fees/tuition-fees/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "No tax area at €23,000. Merit-based reductions for high school and degree grades."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "uniroma3",
+      "scholarship_name": "DiSCo Lazio Regional Scholarship",
+      "description": "Regional scholarship covering tuition, accommodation, meals",
+      "eligibility": "ISEE threshold + merit requirements",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "",
+      "source_url": "https://www.uniroma3.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Lazio regional agency"
+    }
+  ],
   "opportunities": []
 }

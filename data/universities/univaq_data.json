@@ -13,88 +13,1405 @@
       "official_url": "https://www.univaq.it",
       "country": "Italy",
       "city": "L'Aquila",
-      "campuses": [{"city": "L'Aquila", "address": "Palazzo Camponeschi, piazza Santa Margherita 2, 67100 L'Aquila", "notes": "Main campus"}],
-      "languages_offered": ["Italian", "English"],
-      "contacts": {"email": "", "phone": "", "address": "Palazzo Camponeschi, piazza Santa Margherita 2, 67100 L'Aquila"},
+      "campuses": [
+        {
+          "city": "L'Aquila",
+          "address": "Palazzo Camponeschi, piazza Santa Margherita 2, 67100 L'Aquila",
+          "notes": "Main campus"
+        }
+      ],
+      "languages_offered": [
+        "Italian",
+        "English"
+      ],
+      "contacts": {
+        "email": "",
+        "phone": "",
+        "address": "Palazzo Camponeschi, piazza Santa Margherita 2, 67100 L'Aquila"
+      },
       "source_url": "https://www.univaq.it",
       "last_checked": "2026-01-04",
-      "confidence": 1.0,
+      "confidence": 1,
       "notes": ""
     }
   ],
   "programs": [
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Ingegneria civile","class_code":"L-7","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Ingegneria Civile, Edile-Architettura e Ambientale","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Tecniche della protezione civile e sicurezza del territorio","class_code":"LP01","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Ingegneria Civile, Edile-Architettura e Ambientale","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Ingegneria delle infrastrutture","class_code":"LM-23","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria Civile, Edile-Architettura e Ambientale","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Ingegneria delle strutture e delle costruzioni","class_code":"LM-23","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria Civile, Edile-Architettura e Ambientale","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Ingegneria per l'ambiente e il territorio","class_code":"LM-35","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria Civile, Edile-Architettura e Ambientale","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Ingegneria edile - architettura","class_code":"LM-4","language":["Italian"],"campus_city":"L'Aquila","duration_years":5,"ects_total":300,"department":"Dipartimento di Ingegneria Civile, Edile-Architettura e Ambientale","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":"Ciclo Unico"},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Informatica","class_code":"L-31","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Ingegneria dell'informazione","class_code":"L-8","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Matematica","class_code":"L-35","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Control systems and automation engineering","class_code":"LM-25","language":["English"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Data science applicata","class_code":"LMDATA","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Informatica","class_code":"LM-18","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Ingegneria informatica","class_code":"LM-32","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Ingegneria matematica","class_code":"LM-44","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Matematica","class_code":"LM-40","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Mathematical Modelling","class_code":"LM-44","language":["English"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Telecommunications Engineering: Advanced Technologies and Services","class_code":"LM-27","language":["English"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Economia e amministrazione delle imprese","class_code":"L-18","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Ingegneria industriale","class_code":"L-9","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Operatore giuridico d'impresa","class_code":"L-14","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Amministrazione, economia e finanza","class_code":"LM-77","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Ingegneria chimica","class_code":"LM-22","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Ingegneria elettrica","class_code":"LM-28","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Ingegneria elettronica","class_code":"LM-29","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Ingegneria gestionale","class_code":"LM-31","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Ingegneria meccanica","class_code":"LM-33","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Igiene dentale","class_code":"L/SNT3","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Logopedia","class_code":"L/SNT2","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Ortottica ed assistenza oftalmologica","class_code":"L/SNT2","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Ostetricia","class_code":"L/SNT1","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Scienze ambientali","class_code":"L-32","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Scienze biologiche","class_code":"L-13","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Tecnica della riabilitazione psichiatrica","class_code":"L/SNT2","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Tecniche della prevenzione nell'ambiente e nei luoghi di lavoro","class_code":"L/SNT4","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Terapia della neuro e psicomotricità dell'età evolutiva","class_code":"L/SNT2","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Biologia ambientale e gestione degli ecosistemi","class_code":"LM-6/LM-75","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Bioscienze","class_code":"LM-6","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Neurosciences","class_code":"LM-6","language":["English"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Scienze delle professioni sanitarie della prevenzione","class_code":"LM/SNT4","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Scienze delle professioni sanitarie tecniche assistenziali","class_code":"LM/SNT3","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Scienze infermieristiche ed ostetriche","class_code":"LM/SNT1","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Medicina e chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"L'Aquila","duration_years":6,"ects_total":360,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":"Ciclo Unico"},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Odontoiatria e protesi dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"L'Aquila","duration_years":6,"ects_total":360,"department":"Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":"Ciclo Unico"},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Biotecnologie","class_code":"L-2","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Cliniche Applicate e Biotecnologiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Fisioterapia","class_code":"L/SNT2","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Cliniche Applicate e Biotecnologiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Scienze e tecniche psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Cliniche Applicate e Biotecnologiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Scienze motorie e sportive","class_code":"L-22","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Cliniche Applicate e Biotecnologiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Tecniche di laboratorio biomedico","class_code":"L/SNT3","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Cliniche Applicate e Biotecnologiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Tecniche di radiologia medica, per immagini e radioterapia","class_code":"L/SNT3","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Cliniche Applicate e Biotecnologiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Biotecnologie mediche e farmaceutiche","class_code":"LM-9","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze Cliniche Applicate e Biotecnologiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Psicologia clinica, applicata e degli interventi","class_code":"LM-51","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze Cliniche Applicate e Biotecnologiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Scienza e tecnica dello sport","class_code":"LM-68","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze Cliniche Applicate e Biotecnologiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Scienze delle professioni sanitarie tecniche diagnostiche","class_code":"LM/SNT3","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze Cliniche Applicate e Biotecnologiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Scienze motorie preventive ed adattative","class_code":"LM-67","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze Cliniche Applicate e Biotecnologiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Scienze riabilitative delle professioni sanitarie","class_code":"LM/SNT2","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze Cliniche Applicate e Biotecnologiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Chimica","class_code":"L-27","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Fisiche e Chimiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Fisica","class_code":"L-30","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Fisiche e Chimiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Atmospheric Science and Technology for Meteorology and Climate","class_code":"LM-17","language":["English"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze Fisiche e Chimiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Fisica","class_code":"LM-17","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze Fisiche e Chimiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Scienze chimiche","class_code":"LM-54","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze Fisiche e Chimiche","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Filosofia e teoria dei processi comunicativi","class_code":"L-5","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Umane","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Lettere","class_code":"L-10","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Umane","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Mediazione linguistica e culturale","class_code":"L-12","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Umane","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Scienze del servizio sociale","class_code":"L-39","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Umane","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"bachelor","program_name":"Scienze dell'educazione e della formazione","class_code":"L-19","language":["Italian"],"campus_city":"L'Aquila","duration_years":3,"ects_total":180,"department":"Dipartimento di Scienze Umane","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Arte e patrimonio culturale","class_code":"LM-89","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze Umane","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Filosofia","class_code":"LM-78","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze Umane","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Lingue e culture per la comunicazione e la cooperazione internazionale","class_code":"LM-38","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze Umane","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Progettazione di servizi sociali e interventi educativi","class_code":"LM-87","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze Umane","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Studi letterari e culturali","class_code":"LM-14","language":["Italian"],"campus_city":"L'Aquila","duration_years":2,"ects_total":120,"department":"Dipartimento di Scienze Umane","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":""},
-    {"type":"program","university_id":"univaq","degree_level":"master","program_name":"Scienze della formazione primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"L'Aquila","duration_years":5,"ects_total":300,"department":"Dipartimento di Scienze Umane","source_url":"https://www.univaq.it/section.php?id=1442","last_checked":"2026-01-04","confidence":1.0,"notes":"Ciclo Unico"}
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria civile",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Ingegneria Civile, Edile-Architettura e Ambientale",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Engineering civile",
+      "program_name_it": "Ingegneria civile"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche della protezione civile e sicurezza del territorio",
+      "class_code": "LP01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Ingegneria Civile, Edile-Architettura e Ambientale",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Ingegneria delle infrastrutture",
+      "class_code": "LM-23",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria Civile, Edile-Architettura e Ambientale",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Engineering of the infrastrutture",
+      "program_name_it": "Ingegneria delle infrastrutture"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Ingegneria delle strutture e delle costruzioni",
+      "class_code": "LM-23",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria Civile, Edile-Architettura e Ambientale",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Ingegneria delle strutture e delle costruzioni"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Ingegneria per l'ambiente e il territorio",
+      "class_code": "LM-35",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria Civile, Edile-Architettura e Ambientale",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Ingegneria per l'ambiente e il territorio"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Ingegneria edile - architettura",
+      "class_code": "LM-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 5,
+      "ects_total": 300,
+      "department": "Dipartimento di Ingegneria Civile, Edile-Architettura e Ambientale",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "Ciclo Unico",
+      "program_name_en": "Engineering edile - architettura",
+      "program_name_it": "Ingegneria edile - architettura"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Informatica",
+      "class_code": "L-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Computer Science",
+      "program_name_it": "Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria dell'informazione",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Ingegneria dell'informazione"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Matematica",
+      "class_code": "L-35",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Control systems and automation engineering",
+      "class_code": "LM-25",
+      "language": [
+        "English"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Control systems e automation engineering",
+      "program_name_en": "Control systems and automation engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Data science applicata",
+      "class_code": "LMDATA",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Data sciandnce applicata"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Informatica",
+      "class_code": "LM-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Computer Science",
+      "program_name_it": "Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Ingegneria informatica",
+      "class_code": "LM-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Engineering informatica",
+      "program_name_it": "Ingegneria informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Ingegneria matematica",
+      "class_code": "LM-44",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Engineering matematica",
+      "program_name_it": "Ingegneria matematica"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Matematica",
+      "class_code": "LM-40",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Mathematical Modelling",
+      "class_code": "LM-44",
+      "language": [
+        "English"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Mathematical Modelling",
+      "program_name_it": "Modellizzazione Matematica"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Telecommunications Engineering: Advanced Technologies and Services",
+      "class_code": "LM-27",
+      "language": [
+        "English"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria e Scienze dell'Informazione e Matematica",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Telecommunications Ingegneria: Advanced Technologies e Services",
+      "program_name_en": "Telecommunications Engineering: Advanced Technologies and Services"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Economia e amministrazione delle imprese",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Economics and amministrazione of the imprese",
+      "program_name_it": "Economia e amministrazione delle imprese"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria industriale",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Engineering industriale",
+      "program_name_it": "Ingegneria industriale"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Operatore giuridico d'impresa",
+      "class_code": "L-14",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Oforatorand giuridico d'impresa"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Amministrazione, economia e finanza",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Ingegneria chimica",
+      "class_code": "LM-22",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Engineering chimica",
+      "program_name_it": "Ingegneria chimica"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Ingegneria elettrica",
+      "class_code": "LM-28",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Engineering elettrica",
+      "program_name_it": "Ingegneria elettrica"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Ingegneria elettronica",
+      "class_code": "LM-29",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Engineering elettronica",
+      "program_name_it": "Ingegneria elettronica"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Ingegneria gestionale",
+      "class_code": "LM-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Engineering gestionale",
+      "program_name_it": "Ingegneria gestionale"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Ingegneria meccanica",
+      "class_code": "LM-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Ingegneria Industriale e dell'Informazione e di Economia",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Engineering meccanica",
+      "program_name_it": "Ingegneria meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Igiene dentale",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Igiandne dentale"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Infermieristica",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Nursing"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Logopedia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Speech Therapy"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Ortottica ed assistenza oftalmologica",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Ortottica ed assistenza oftalmologica"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Ostetricia",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Midwifery"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Scienze ambientali",
+      "class_code": "L-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze ambientali"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Scienze biologiche",
+      "class_code": "L-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze biologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Tecnica della riabilitazione psichiatrica",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Tandcnica of the riabilitazione psichiatrica"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche della prevenzione nell'ambiente e nei luoghi di lavoro",
+      "class_code": "L/SNT4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Terapia della neuro e psicomotricità dell'età evolutiva",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Biologia ambientale e gestione degli ecosistemi",
+      "class_code": "LM-6/LM-75",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Bioscienze",
+      "class_code": "LM-6",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Biosciandnze"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Neurosciences",
+      "class_code": "LM-6",
+      "language": [
+        "English"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Neurosciences",
+      "program_name_it": "Neuroscienze"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Scienze delle professioni sanitarie della prevenzione",
+      "class_code": "LM/SNT4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze delle professioni sanitarie della prevenzione"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Scienze delle professioni sanitarie tecniche assistenziali",
+      "class_code": "LM/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze delle professioni sanitarie tecniche assistenziali"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Scienze infermieristiche ed ostetriche",
+      "class_code": "LM/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze infermieristiche ed ostetriche"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Medicina e chirurgia",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 6,
+      "ects_total": 360,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "Ciclo Unico",
+      "program_name_it": "Medicina e chirurgia"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Odontoiatria e protesi dentaria",
+      "class_code": "LM-46",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 6,
+      "ects_total": 360,
+      "department": "Dipartimento di Medicina Clinica, Sanità Pubblica, Scienze della Vita e dell'Ambiente",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "Ciclo Unico",
+      "program_name_en": "Odontoiatria and protesi dentaria"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Biotecnologie",
+      "class_code": "L-2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Cliniche Applicate e Biotecnologiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Biotechnology"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Fisioterapia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Cliniche Applicate e Biotecnologiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Physiotherapy"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e tecniche psicologiche",
+      "class_code": "L-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Cliniche Applicate e Biotecnologiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze e tecniche psicologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Scienze motorie e sportive",
+      "class_code": "L-22",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Cliniche Applicate e Biotecnologiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze motorie e sportive"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche di laboratorio biomedico",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Cliniche Applicate e Biotecnologiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche di radiologia medica, per immagini e radioterapia",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Cliniche Applicate e Biotecnologiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Biotecnologie mediche e farmaceutiche",
+      "class_code": "LM-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze Cliniche Applicate e Biotecnologiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Psicologia clinica, applicata e degli interventi",
+      "class_code": "LM-51",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze Cliniche Applicate e Biotecnologiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Psychology clinica, applicata and degli interventi",
+      "program_name_it": "Psicologia clinica, applicata e degli interventi"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Scienza e tecnica dello sport",
+      "class_code": "LM-68",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze Cliniche Applicate e Biotecnologiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Scienze delle professioni sanitarie tecniche diagnostiche",
+      "class_code": "LM/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze Cliniche Applicate e Biotecnologiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze delle professioni sanitarie tecniche diagnostiche"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Scienze motorie preventive ed adattative",
+      "class_code": "LM-67",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze Cliniche Applicate e Biotecnologiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze motorie preventive ed adattative"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Scienze riabilitative delle professioni sanitarie",
+      "class_code": "LM/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze Cliniche Applicate e Biotecnologiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze riabilitative delle professioni sanitarie"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Chimica",
+      "class_code": "L-27",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Fisiche e Chimiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Chemistry"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Fisica",
+      "class_code": "L-30",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Fisiche e Chimiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Atmospheric Science and Technology for Meteorology and Climate",
+      "class_code": "LM-17",
+      "language": [
+        "English"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze Fisiche e Chimiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Atmospheric Science and Technology for Meteorology and Climate"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Fisica",
+      "class_code": "LM-17",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze Fisiche e Chimiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Scienze chimiche",
+      "class_code": "LM-54",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze Fisiche e Chimiche",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze chimiche"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Filosofia e teoria dei processi comunicativi",
+      "class_code": "L-5",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Umane",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Philosophy and teoria of the processi comunicativi",
+      "program_name_it": "Filosofia e teoria dei processi comunicativi"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Lettere",
+      "class_code": "L-10",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Umane",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Humanities",
+      "program_name_it": "Lettere"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Mediazione linguistica e culturale",
+      "class_code": "L-12",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Umane",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Scienze del servizio sociale",
+      "class_code": "L-39",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Umane",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze del servizio sociale"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'educazione e della formazione",
+      "class_code": "L-19",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Dipartimento di Scienze Umane",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_it": "Scienze dell'educazione e della formazione"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Arte e patrimonio culturale",
+      "class_code": "LM-89",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze Umane",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Filosofia",
+      "class_code": "LM-78",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze Umane",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "",
+      "program_name_en": "Philosophy",
+      "program_name_it": "Filosofia"
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Lingue e culture per la comunicazione e la cooperazione internazionale",
+      "class_code": "LM-38",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze Umane",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Progettazione di servizi sociali e interventi educativi",
+      "class_code": "LM-87",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze Umane",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Studi letterari e culturali",
+      "class_code": "LM-14",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Scienze Umane",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "univaq",
+      "degree_level": "master",
+      "program_name": "Scienze della formazione primaria",
+      "class_code": "LM-85 bis",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "L'Aquila",
+      "duration_years": 5,
+      "ects_total": 300,
+      "department": "Dipartimento di Scienze Umane",
+      "source_url": "https://www.univaq.it/section.php?id=1442",
+      "last_checked": "2026-01-04",
+      "confidence": 1,
+      "notes": "Ciclo Unico",
+      "program_name_it": "Scienze della formazione primaria"
+    }
   ],
   "admissions": [
     {
@@ -105,13 +1422,28 @@
       "applicant_scope": "all",
       "requirements": {
         "academic_requirements": "5-year Italian secondary diploma (Diploma di Scuola Secondaria superiore) or equivalent foreign diploma. 4-year diploma holders may be admitted with supplementary year or professional enrichment.",
-        "documents_required": ["Secondary school diploma", "Valid ID", "Tax code (codice fiscale)"],
+        "documents_required": [
+          "Secondary school diploma",
+          "Valid ID",
+          "Tax code (codice fiscale)"
+        ],
         "tests_required": [],
         "portfolio_required": false,
         "interview_required": false
       },
-      "intakes": [{"intake_name": "fall", "application_open_date": "2025-07-18", "application_deadline": "2025-10-31", "start_date": ""}],
-      "application_fee": {"amount": 156.00, "currency": "EUR", "notes": "Registration tax including regional tax and stamp duty"},
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "2025-07-18",
+          "application_deadline": "2025-10-31",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": 156,
+        "currency": "EUR",
+        "notes": "Registration tax including regional tax and stamp duty"
+      },
       "how_to_apply_url": "https://www.univaq.it/section.php?id=35",
       "source_url": "https://www.univaq.it/section.php?id=48",
       "last_checked": "2026-01-04",
@@ -126,17 +1458,39 @@
       "program_name": "",
       "degree_level_scope": "general",
       "tuition": [
-        {"student_group": "all", "amount_min": 156.00, "amount_max": null, "currency": "EUR", "period": "year", "notes": "Fixed registration tax (tassa regionale + bollo)"},
-        {"student_group": "all", "amount_min": 0, "amount_max": null, "currency": "EUR", "period": "year", "notes": "COA (Contributo Onnicomprensivo Annuale) varies based on ISEE income assessment"}
+        {
+          "student_group": "all",
+          "amount_min": 156,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Fixed registration tax (tassa regionale + bollo)"
+        },
+        {
+          "student_group": "all",
+          "amount_min": 0,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "COA (Contributo Onnicomprensivo Annuale) varies based on ISEE income assessment"
+        }
       ],
       "additional_fees": [
-        {"name": "Late payment penalty", "amount": 52.00, "currency": "EUR"},
-        {"name": "Credit recognition for professional qualifications", "amount": 500.00, "currency": "EUR"}
+        {
+          "name": "Late payment penalty",
+          "amount": 52,
+          "currency": "EUR"
+        },
+        {
+          "name": "Credit recognition for professional qualifications",
+          "amount": 500,
+          "currency": "EUR"
+        }
       ],
       "payment_schedule_notes": "COA ≤€250: single payment by Jan 31. €250-500: 2 installments (Jan 31, May 31). >€500: 3 installments (Jan 31, Mar 31, May 31)",
       "source_url": "https://www.univaq.it/section.php?id=55",
       "last_checked": "2026-01-04",
-      "confidence": 1.0,
+      "confidence": 1,
       "notes": "Tuition based on ISEE Università assessment. Calculator available on website."
     }
   ],
@@ -147,14 +1501,16 @@
       "name": "Premio di Laurea Adriano Perrotti (IV edizione)",
       "type_category": "award",
       "eligible_students": "all",
-      "benefits": ["stipend"],
+      "benefits": [
+        "stipend"
+      ],
       "amount_text": "€2,000",
       "deadline": "2026-05-05",
       "requirements_summary": "Thesis on inclusivity topics",
       "official_url": "",
       "source_url": "https://www.univaq.it/section.php?id=626",
       "last_checked": "2026-01-04",
-      "confidence": 1.0,
+      "confidence": 1,
       "notes": ""
     },
     {
@@ -163,14 +1519,16 @@
       "name": "Premio di Laurea Luigi Zordan (IX edizione)",
       "type_category": "award",
       "eligible_students": "all",
-      "benefits": ["stipend"],
+      "benefits": [
+        "stipend"
+      ],
       "amount_text": "Varies",
       "deadline": "2026-02-15",
       "requirements_summary": "Engineering students (DICEAA department)",
       "official_url": "",
       "source_url": "https://www.univaq.it/section.php?id=626",
       "last_checked": "2026-01-04",
-      "confidence": 1.0,
+      "confidence": 1,
       "notes": ""
     },
     {
@@ -179,14 +1537,16 @@
       "name": "Borse di studio area Scienze Fisiche e Chimiche",
       "type_category": "merit",
       "eligible_students": "all",
-      "benefits": ["stipend"],
+      "benefits": [
+        "stipend"
+      ],
       "amount_text": "4 scholarships available",
       "deadline": "2026-01-05",
       "requirements_summary": "Master's or PhD students in Physics/Chemistry",
       "official_url": "",
       "source_url": "https://www.univaq.it/section.php?id=626",
       "last_checked": "2026-01-04",
-      "confidence": 1.0,
+      "confidence": 1,
       "notes": ""
     },
     {
@@ -195,14 +1555,16 @@
       "name": "Borse di studio area STEM e Sociologia",
       "type_category": "merit",
       "eligible_students": "all",
-      "benefits": ["stipend"],
+      "benefits": [
+        "stipend"
+      ],
       "amount_text": "80 scholarships",
       "deadline": "2025-12-09",
       "requirements_summary": "Enrolled students in STEM or Sociology programs",
       "official_url": "",
       "source_url": "https://www.univaq.it/section.php?id=626",
       "last_checked": "2026-01-04",
-      "confidence": 1.0,
+      "confidence": 1,
       "notes": ""
     },
     {
@@ -211,14 +1573,16 @@
       "name": "Premio Manifesto Zero Violence",
       "type_category": "award",
       "eligible_students": "all",
-      "benefits": ["stipend"],
+      "benefits": [
+        "stipend"
+      ],
       "amount_text": "€1,000 each (3 prizes)",
       "deadline": "2025-10-24",
       "requirements_summary": "Design competition against gender-based violence",
       "official_url": "",
       "source_url": "https://www.univaq.it/section.php?id=626",
       "last_checked": "2026-01-04",
-      "confidence": 1.0,
+      "confidence": 1,
       "notes": ""
     }
   ],

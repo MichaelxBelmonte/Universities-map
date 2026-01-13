@@ -7,104 +7,1733 @@
     "country": "Italy",
     "city": "Milan",
     "campuses": [
-      {"city": "Milano Leonardo", "address": "", "notes": "Main campus"},
-      {"city": "Milano Bovisa", "address": "", "notes": "Design and some Engineering"},
-      {"city": "Como", "address": "", "notes": ""},
-      {"city": "Lecco", "address": "", "notes": ""},
-      {"city": "Cremona", "address": "", "notes": ""},
-      {"city": "Piacenza", "address": "", "notes": ""},
-      {"city": "Mantova", "address": "", "notes": ""}
+      {
+        "city": "Milano Leonardo",
+        "address": "",
+        "notes": "Main campus"
+      },
+      {
+        "city": "Milano Bovisa",
+        "address": "",
+        "notes": "Design and some Engineering"
+      },
+      {
+        "city": "Como",
+        "address": "",
+        "notes": ""
+      },
+      {
+        "city": "Lecco",
+        "address": "",
+        "notes": ""
+      },
+      {
+        "city": "Cremona",
+        "address": "",
+        "notes": ""
+      },
+      {
+        "city": "Piacenza",
+        "address": "",
+        "notes": ""
+      },
+      {
+        "city": "Mantova",
+        "address": "",
+        "notes": ""
+      }
     ],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Piazza Leonardo da Vinci 32, 20133 Milano"},
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Piazza Leonardo da Vinci 32, 20133 Milano"
+    },
     "source_url": "https://www.polimi.it",
     "last_checked": "2026-01-04",
-    "confidence": 1.0,
+    "confidence": 1,
     "notes": "74 programs: 29 bachelor, 45 master. Top technical university in Italy. All master programs and some bachelor programs in English."
   },
   "programs": [
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Aerospace Engineering","class_code":"L-9","language":["Italian"],"campus_city":"Milano Bovisa","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":"Ingegneria Aerospaziale"},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Architectural Design","class_code":"L-17","language":["Italian","English"],"campus_city":"Milano Leonardo","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":"Also at Piacenza, Mantova"},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Automation Engineering","class_code":"L-8","language":["Italian"],"campus_city":"Milano Leonardo","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Biomedical Engineering","class_code":"L-8","language":["Italian"],"campus_city":"Milano Leonardo","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Building and Construction Engineering","class_code":"L-23","language":["Italian"],"campus_city":"Milano Leonardo","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":"Ingegneria Edile e delle Costruzioni"},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Building Engineering/Architecture","class_code":"L-23","language":["Italian"],"campus_city":"Lecco","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Chemical Engineering","class_code":"L-9","language":["Italian"],"campus_city":"Milano Leonardo","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Civil Engineering","class_code":"L-7","language":["Italian","English"],"campus_city":"Milano Leonardo","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Communication Design","class_code":"L-4","language":["Italian"],"campus_city":"Milano Bovisa","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Electrical Engineering","class_code":"L-9","language":["Italian"],"campus_city":"Milano Leonardo","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Electronic Engineering","class_code":"L-8","language":["Italian"],"campus_city":"Milano Leonardo","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Energy Engineering","class_code":"L-9","language":["Italian"],"campus_city":"Milano Bovisa","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Engineering of Computing Systems","class_code":"L-8","language":["Italian"],"campus_city":"Milano Leonardo","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":"Also at Cremona"},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Engineering Science","class_code":"L-8","language":["English"],"campus_city":"Milano Leonardo","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":"Also at Milano Bovisa"},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Environmental and Land Planning Engineering","class_code":"L-7","language":["Italian"],"campus_city":"Milano Leonardo","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Fashion Design","class_code":"L-4","language":["Italian"],"campus_city":"Milano Bovisa","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Industrial Engineering","class_code":"L-9","language":["English"],"campus_city":"Piacenza","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Industrial Production Engineering","class_code":"L-9","language":["Italian"],"campus_city":"Lecco","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Interaction Design","class_code":"L-4","language":["English"],"campus_city":"Lecco","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Interior Design","class_code":"L-4","language":["Italian"],"campus_city":"Milano Bovisa","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Management and Production Engineering","class_code":"L-9","language":["Italian"],"campus_city":"Milano Bovisa","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":"Also at Cremona"},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Materials and Nanotechnology Engineering","class_code":"L-9","language":["Italian"],"campus_city":"Milano Leonardo","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Mathematical Engineering","class_code":"L-35","language":["Italian"],"campus_city":"Milano Leonardo","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Mechanical Engineering","class_code":"L-9","language":["Italian"],"campus_city":"Milano Bovisa","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":"Also at Piacenza"},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"MEDTEC - Medicine and Biomedical Engineering","class_code":"LM-41","language":["English"],"campus_city":"Milano Leonardo","duration_years":6,"ects_total":360,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":"Joint program with Humanitas University. Ciclo Unico."},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Physics Engineering","class_code":"L-30","language":["Italian"],"campus_city":"Milano Leonardo","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Process Engineering","class_code":"L-9","language":["English"],"campus_city":"Cremona","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Product Design","class_code":"L-4","language":["Italian"],"campus_city":"Milano Bovisa","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"bachelor","program_name":"Urban Planning: Cities, Environment & Landscapes","class_code":"L-21","language":["Italian"],"campus_city":"Milano Leonardo","duration_years":3,"ects_total":180,"source_url":"https://www.polimi.it/en/education/laurea-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Aeronautical Engineering","class_code":"LM-20","language":["English"],"campus_city":"Milano Bovisa","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Agricultural Engineering","class_code":"LM-69","language":["English"],"campus_city":"Cremona","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Architectural Design and History","class_code":"LM-4","language":["English"],"campus_city":"Mantova","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Architectural Engineering","class_code":"LM-4","language":["English"],"campus_city":"Lecco","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Architecture","class_code":"LM-4","language":["Italian","English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Automation and Control Engineering","class_code":"LM-25","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Bioinformatics for Computational Genomics","class_code":"LM-8","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Biomedical Engineering","class_code":"LM-21","language":["Italian","English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Building Engineering for Sustainability","class_code":"LM-24","language":["Italian","English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Chemical Engineering","class_code":"LM-22","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Civil Engineering","class_code":"LM-23","language":["Italian","English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Civil Engineering for Risk Mitigation","class_code":"LM-23","language":["English"],"campus_city":"Lecco","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Communication Design","class_code":"LM-12","language":["Italian","English"],"campus_city":"Milano Bovisa","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Computer Science and Engineering","class_code":"LM-32","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Cyber Risk Strategy and Governance","class_code":"LM-91","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Design & Engineering","class_code":"LM-12","language":["English"],"campus_city":"Milano Bovisa","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Design for the Fashion System","class_code":"LM-12","language":["English"],"campus_city":"Milano Bovisa","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Digital and Interaction Design","class_code":"LM-12","language":["English"],"campus_city":"Milano Bovisa","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Electrical Engineering","class_code":"LM-28","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Electronics Engineering","class_code":"LM-29","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Energy Engineering","class_code":"LM-30","language":["English"],"campus_city":"Milano Bovisa","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":"Also at Piacenza"},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Engineering Physics","class_code":"LM-17","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Environmental and Land Planning Engineering","class_code":"LM-35","language":["Italian","English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Food Engineering","class_code":"LM-22","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Geoinformatics Engineering","class_code":"LM-75","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Health Informatics","class_code":"LM-18","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":"Joint with partner university"},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"High Performance Computing Engineering","class_code":"LM-32","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Industrial Safety and Risk Engineering","class_code":"LM-26","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Integrated Product Design","class_code":"LM-12","language":["Italian","English"],"campus_city":"Milano Bovisa","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Interior and Spatial Design","class_code":"LM-12","language":["Italian","English"],"campus_city":"Milano Bovisa","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Landscape Architecture - Land Landscape Heritage","class_code":"LM-3","language":["English"],"campus_city":"Piacenza","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Management Engineering","class_code":"LM-31","language":["English"],"campus_city":"Milano Bovisa","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Management of Built Environment","class_code":"LM-24","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Materials Engineering and Nanotechnology","class_code":"LM-53","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Mathematical Engineering","class_code":"LM-44","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Mechanical Engineering","class_code":"LM-33","language":["English"],"campus_city":"Milano Bovisa","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":"Also at Lecco, Piacenza"},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Mobility Engineering","class_code":"LM-33","language":["English"],"campus_city":"Milano Bovisa","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Music and Acoustic Engineering","class_code":"LM-32","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":"Also at Cremona"},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Nuclear Engineering","class_code":"LM-30","language":["English"],"campus_city":"Milano Bovisa","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Product Service System Design","class_code":"LM-12","language":["English"],"campus_city":"Milano Bovisa","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Space Engineering","class_code":"LM-20","language":["English"],"campus_city":"Milano Bovisa","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Sustainable Architecture and Landscape Design","class_code":"LM-4","language":["English"],"campus_city":"Piacenza","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Telecommunication Engineering","class_code":"LM-27","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Transformative Sustainability","class_code":"LM-35","language":["English"],"campus_city":"Milano Bovisa","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"polimi","degree_level":"master","program_name":"Urban Planning and Policy Design","class_code":"LM-48","language":["English"],"campus_city":"Milano Leonardo","duration_years":2,"ects_total":120,"source_url":"https://www.polimi.it/en/education/laurea-magistrale-programmes","last_checked":"2026-01-04","confidence":0.9,"notes":""}
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Aerospace Engineering",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Ingegneria Aerospaziale",
+      "program_name_en": "Aerospace Engineering",
+      "program_name_it": "Ingegneria Aerospaziale"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Architectural Design",
+      "class_code": "L-17",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Also at Piacenza, Mantova",
+      "program_name_en": "Architectural Design",
+      "program_name_it": "Progettazione Architettonica"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Automation Engineering",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Automation Engineering",
+      "program_name_it": "Ingegneria dell'Automazione"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Biomedical Engineering",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biomedical Engineering",
+      "program_name_it": "Ingegneria Biomedica"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Building and Construction Engineering",
+      "class_code": "L-23",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Ingegneria Edile e delle Costruzioni",
+      "program_name_en": "Building and Construction Engineering",
+      "program_name_it": "Ingegneria Edile e delle Costruzioni"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Building Engineering/Architecture",
+      "class_code": "L-23",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Lecco",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Building Engineering/Architecture",
+      "program_name_it": "Ingegneria Edile/Architettura"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Chemical Engineering",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Chemical Engineering",
+      "program_name_it": "Ingegneria Chimica"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Civil Engineering",
+      "class_code": "L-7",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Civil Engineering",
+      "program_name_it": "Ingegneria Civile"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Communication Design",
+      "class_code": "L-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Communication Design",
+      "program_name_it": "Design della Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Electrical Engineering",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Electrical Engineering",
+      "program_name_it": "Ingegneria Elettrica"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Electronic Engineering",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Electronic Engineering",
+      "program_name_it": "Ingegneria Elettronica"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Energy Engineering",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Energy Engineering",
+      "program_name_it": "Ingegneria Energetica"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Engineering of Computing Systems",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Also at Cremona",
+      "program_name_en": "Engineering of Computing Systems",
+      "program_name_it": "Ingegneria Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Engineering Science",
+      "class_code": "L-8",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Also at Milano Bovisa",
+      "program_name_it": "Scienze dell'Ingegneria",
+      "program_name_en": "Engineering Science"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Environmental and Land Planning Engineering",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Environmental and Land Planning Engineering",
+      "program_name_it": "Ingegneria per l'Ambiente e il Territorio"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Fashion Design",
+      "class_code": "L-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Fashion Design",
+      "program_name_it": "Design della Moda"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Industrial Engineering",
+      "class_code": "L-9",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Industriale",
+      "program_name_en": "Industrial Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Industrial Production Engineering",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Lecco",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Industrial Production Engineering",
+      "program_name_it": "Ingegneria della Produzione Industriale"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Interaction Design",
+      "class_code": "L-4",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Lecco",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Design dell'Interazione",
+      "program_name_en": "Interaction Design"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Interior Design",
+      "class_code": "L-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Interior Design",
+      "program_name_it": "Design degli Interni"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Management and Production Engineering",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Also at Cremona",
+      "program_name_en": "Management and Production Engineering",
+      "program_name_it": "Ingegneria Gestionale della Produzione"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Materials and Nanotechnology Engineering",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Materials and Nanotechnology Engineering",
+      "program_name_it": "Ingegneria dei Materiali e delle Nanotecnologie"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Mathematical Engineering",
+      "class_code": "L-35",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mathematical Engineering",
+      "program_name_it": "Ingegneria Matematica"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Mechanical Engineering",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Also at Piacenza",
+      "program_name_en": "Mechanical Engineering",
+      "program_name_it": "Ingegneria Meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "MEDTEC - Medicine and Biomedical Engineering",
+      "class_code": "LM-41",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Joint program with Humanitas University. Ciclo Unico.",
+      "program_name_it": "MEDTEC - Medicina e Ingegneria Biomedica",
+      "program_name_en": "MEDTEC - Medicine and Biomedical Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Physics Engineering",
+      "class_code": "L-30",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Physics Engineering",
+      "program_name_it": "Ingegneria Fisica"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Process Engineering",
+      "class_code": "L-9",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Cremona",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria di Processo",
+      "program_name_en": "Process Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Product Design",
+      "class_code": "L-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Product Design",
+      "program_name_it": "Design del Prodotto"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "bachelor",
+      "program_name": "Urban Planning: Cities, Environment & Landscapes",
+      "class_code": "L-21",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.polimi.it/en/education/laurea-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Urban Planning: Cities, Environment & Landscapes",
+      "program_name_it": "Urbanistica: Città, Ambiente e Paesaggio"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Aeronautical Engineering",
+      "class_code": "LM-20",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Aeronautica",
+      "program_name_en": "Aeronautical Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Agricultural Engineering",
+      "class_code": "LM-69",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Cremona",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Agraria",
+      "program_name_en": "Agricultural Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Architectural Design and History",
+      "class_code": "LM-4",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Mantova",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Progettazione Architettonica e Storia",
+      "program_name_en": "Architectural Design and History"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Architectural Engineering",
+      "class_code": "LM-4",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Lecco",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Edile-Architettura",
+      "program_name_en": "Architectural Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Architecture",
+      "class_code": "LM-4",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Architecture",
+      "program_name_it": "Architettura"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Automation and Control Engineering",
+      "class_code": "LM-25",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria dell'Automazione e del Controllo",
+      "program_name_en": "Automation and Control Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Bioinformatics for Computational Genomics",
+      "class_code": "LM-8",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Bioinformatica per la Genomica Computazionale",
+      "program_name_en": "Bioinformatics for Computational Genomics"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Biomedical Engineering",
+      "class_code": "LM-21",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biomedical Engineering",
+      "program_name_it": "Ingegneria Biomedica"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Building Engineering for Sustainability",
+      "class_code": "LM-24",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Building Engineering for Sustainability",
+      "program_name_it": "Ingegneria Edile per la Sostenibilità"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Chemical Engineering",
+      "class_code": "LM-22",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Chimica",
+      "program_name_en": "Chemical Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Civil Engineering",
+      "class_code": "LM-23",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Civil Engineering",
+      "program_name_it": "Ingegneria Civile"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Civil Engineering for Risk Mitigation",
+      "class_code": "LM-23",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Lecco",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Civile per la Mitigazione del Rischio",
+      "program_name_en": "Civil Engineering for Risk Mitigation"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Communication Design",
+      "class_code": "LM-12",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Communication Design",
+      "program_name_it": "Design della Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Computer Science and Engineering",
+      "class_code": "LM-32",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Informatica e Ingegneria Informatica",
+      "program_name_en": "Computer Science and Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Cyber Risk Strategy and Governance",
+      "class_code": "LM-91",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Strategia e Governance del Rischio Cyber",
+      "program_name_en": "Cyber Risk Strategy and Governance"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Design & Engineering",
+      "class_code": "LM-12",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Design e Ingegneria",
+      "program_name_en": "Design & Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Design for the Fashion System",
+      "class_code": "LM-12",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Design per il Sistema Moda",
+      "program_name_en": "Design for the Fashion System"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Digital and Interaction Design",
+      "class_code": "LM-12",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Design Digitale e dell'Interazione",
+      "program_name_en": "Digital and Interaction Design"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Electrical Engineering",
+      "class_code": "LM-28",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Elettrica",
+      "program_name_en": "Electrical Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Electronics Engineering",
+      "class_code": "LM-29",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Elettronica",
+      "program_name_en": "Electronics Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Energy Engineering",
+      "class_code": "LM-30",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Also at Piacenza",
+      "program_name_it": "Ingegneria Energetica",
+      "program_name_en": "Energy Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Engineering Physics",
+      "class_code": "LM-17",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Fisica",
+      "program_name_en": "Engineering Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Environmental and Land Planning Engineering",
+      "class_code": "LM-35",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Environmental and Land Planning Engineering",
+      "program_name_it": "Ingegneria per l'Ambiente e il Territorio"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Food Engineering",
+      "class_code": "LM-22",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Alimentare",
+      "program_name_en": "Food Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Geoinformatics Engineering",
+      "class_code": "LM-75",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Geoinformatica",
+      "program_name_en": "Geoinformatics Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Health Informatics",
+      "class_code": "LM-18",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Joint with partner university",
+      "program_name_it": "Informatica Sanitaria",
+      "program_name_en": "Health Informatics"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "High Performance Computing Engineering",
+      "class_code": "LM-32",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria del Calcolo ad Alte Prestazioni",
+      "program_name_en": "High Performance Computing Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Industrial Safety and Risk Engineering",
+      "class_code": "LM-26",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria della Sicurezza Industriale e del Rischio",
+      "program_name_en": "Industrial Safety and Risk Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Integrated Product Design",
+      "class_code": "LM-12",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Integrated Product Design",
+      "program_name_it": "Design Integrato del Prodotto"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Interior and Spatial Design",
+      "class_code": "LM-12",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Interior and Spatial Design",
+      "program_name_it": "Design degli Interni e degli Spazi"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Landscape Architecture - Land Landscape Heritage",
+      "class_code": "LM-3",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Architettura del Paesaggio - Patrimonio Paesaggistico",
+      "program_name_en": "Landscape Architecture - Land Landscape Heritage"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Management Engineering",
+      "class_code": "LM-31",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Gestionale",
+      "program_name_en": "Management Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Management of Built Environment",
+      "class_code": "LM-24",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Management of Built Environment",
+      "program_name_it": "Gestione dell'Ambiente Costruito"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Materials Engineering and Nanotechnology",
+      "class_code": "LM-53",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria dei Materiali e Nanotecnologie",
+      "program_name_en": "Materials Engineering and Nanotechnology"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Mathematical Engineering",
+      "class_code": "LM-44",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Matematica",
+      "program_name_en": "Mathematical Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Mechanical Engineering",
+      "class_code": "LM-33",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Also at Lecco, Piacenza",
+      "program_name_it": "Ingegneria Meccanica",
+      "program_name_en": "Mechanical Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Mobility Engineering",
+      "class_code": "LM-33",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria della Mobilità",
+      "program_name_en": "Mobility Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Music and Acoustic Engineering",
+      "class_code": "LM-32",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Also at Cremona",
+      "program_name_it": "Ingegneria del Suono e della Musica",
+      "program_name_en": "Music and Acoustic Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Nuclear Engineering",
+      "class_code": "LM-30",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Nucleare",
+      "program_name_en": "Nuclear Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Product Service System Design",
+      "class_code": "LM-12",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Design dei Sistemi Prodotto-Servizio",
+      "program_name_en": "Product Service System Design"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Space Engineering",
+      "class_code": "LM-20",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Spaziale",
+      "program_name_en": "Space Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Sustainable Architecture and Landscape Design",
+      "class_code": "LM-4",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Architettura Sostenibile e Design del Paesaggio",
+      "program_name_en": "Sustainable Architecture and Landscape Design"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Telecommunication Engineering",
+      "class_code": "LM-27",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria delle Telecomunicazioni",
+      "program_name_en": "Telecommunication Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Transformative Sustainability",
+      "class_code": "LM-35",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Bovisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Sostenibilità Trasformativa",
+      "program_name_en": "Transformative Sustainability"
+    },
+    {
+      "type": "program",
+      "university_id": "polimi",
+      "degree_level": "master",
+      "program_name": "Urban Planning and Policy Design",
+      "class_code": "LM-48",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milano Leonardo",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.polimi.it/en/education/laurea-magistrale-programmes",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Urbanistica e Design delle Politiche",
+      "program_name_en": "Urban Planning and Policy Design"
+    }
   ],
-  "admissions": [{"type":"admissions","university_id":"polimi","program_name":"","degree_level_scope":"bachelor","applicant_scope":"all","requirements":{"academic_requirements":"Secondary school diploma (12+ years education)","documents_required":["High school diploma","ID document"],"tests_required":[{"test_name":"TOL (Test Online)","min_score":"","notes":"Required for engineering programs"}],"portfolio_required":false,"interview_required":false},"intakes":[{"intake_name":"fall","application_open_date":"","application_deadline":"2025-09-12","start_date":"September"},{"intake_name":"spring","application_open_date":"","application_deadline":"2026-01-19","start_date":"February"}],"application_fee":{"amount":null,"currency":"EUR","notes":""},"how_to_apply_url":"https://www.polimi.it/en/prospective-students","source_url":"https://www.polimi.it","last_checked":"2026-01-04","confidence":0.9,"notes":"TOL test required for engineering. Architecture requires portfolio and test."},{"type":"admissions","university_id":"polimi","program_name":"","degree_level_scope":"master","applicant_scope":"international","requirements":{"academic_requirements":"Bachelor degree (minimum 3 years)","documents_required":["Bachelor degree certificate","Transcript","CV","Motivation letter"],"tests_required":[{"test_name":"English proficiency","min_score":"B2","notes":"IELTS, TOEFL, Cambridge, etc."}],"portfolio_required":false,"interview_required":false},"intakes":[{"intake_name":"Early Bird","application_open_date":"2025-10-01","application_deadline":"2025-12-01","start_date":"September 2026"},{"intake_name":"First semester","application_open_date":"","application_deadline":"","start_date":"September"}],"application_fee":{"amount":null,"currency":"EUR","notes":""},"how_to_apply_url":"https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-magistrale","source_url":"https://www.polimi.it","last_checked":"2026-01-04","confidence":0.9,"notes":"Early Bird deadline for merit scholarships"}],
-  "tuition": [{"type":"tuition","university_id":"polimi","program_name":"","degree_level_scope":"general","tuition":[{"student_group":"First installment (all)","amount_min":890.04,"amount_max":890.04,"currency":"EUR","period":"enrollment","notes":"First installment for all laurea programs (paid at enrollment)"},{"student_group":"Full year (varies by ISEE)","amount_min":890,"amount_max":4000,"currency":"EUR","period":"year","notes":"Varies based on ISEE income bracket"}],"additional_fees":[],"payment_schedule_notes":"First rate EUR 890.04 at enrollment. Full amount varies by ISEE income declaration.","source_url":"https://www.polimi.it/en/prospective-students/how-much-does-it-cost","last_checked":"2026-01-04","confidence":0.9,"notes":""}],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "polimi",
+      "program_name": "",
+      "degree_level_scope": "bachelor",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma (12+ years education)",
+        "documents_required": [
+          "High school diploma",
+          "ID document"
+        ],
+        "tests_required": [
+          {
+            "test_name": "TOL (Test Online)",
+            "min_score": "",
+            "notes": "Required for engineering programs"
+          }
+        ],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "2025-09-12",
+          "start_date": "September"
+        },
+        {
+          "intake_name": "spring",
+          "application_open_date": "",
+          "application_deadline": "2026-01-19",
+          "start_date": "February"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.polimi.it/en/prospective-students",
+      "source_url": "https://www.polimi.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "TOL test required for engineering. Architecture requires portfolio and test."
+    },
+    {
+      "type": "admissions",
+      "university_id": "polimi",
+      "program_name": "",
+      "degree_level_scope": "master",
+      "applicant_scope": "international",
+      "requirements": {
+        "academic_requirements": "Bachelor degree (minimum 3 years)",
+        "documents_required": [
+          "Bachelor degree certificate",
+          "Transcript",
+          "CV",
+          "Motivation letter"
+        ],
+        "tests_required": [
+          {
+            "test_name": "English proficiency",
+            "min_score": "B2",
+            "notes": "IELTS, TOEFL, Cambridge, etc."
+          }
+        ],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "Early Bird",
+          "application_open_date": "2025-10-01",
+          "application_deadline": "2025-12-01",
+          "start_date": "September 2026"
+        },
+        {
+          "intake_name": "First semester",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": "September"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.polimi.it/en/prospective-students/how-to-apply/admission-to-laurea-magistrale",
+      "source_url": "https://www.polimi.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Early Bird deadline for merit scholarships"
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "polimi",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "First installment (all)",
+          "amount_min": 890.04,
+          "amount_max": 890.04,
+          "currency": "EUR",
+          "period": "enrollment",
+          "notes": "First installment for all laurea programs (paid at enrollment)"
+        },
+        {
+          "student_group": "Full year (varies by ISEE)",
+          "amount_min": 890,
+          "amount_max": 4000,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Varies based on ISEE income bracket"
+        }
+      ],
+      "additional_fees": [],
+      "payment_schedule_notes": "First rate EUR 890.04 at enrollment. Full amount varies by ISEE income declaration.",
+      "source_url": "https://www.polimi.it/en/prospective-students/how-much-does-it-cost",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
   "scholarships": [
-    {"type":"scholarship","university_id":"polimi","scholarship_name":"DSU Scholarship (Diritto allo Studio Universitario)","amount":{"min":null,"max":7258,"currency":"EUR","period":"year"},"eligibility":{"degree_levels":["bachelor","master"],"nationalities":["all"],"merit_based":false,"need_based":true,"other_criteria":"ISEE income requirement"},"application_deadline":"2025-08-06","renewable":true,"source_url":"https://www.polimi.it/en/students/tuition-fees-scholarships-and-financial-aid/university-financial-aid-diritto-allo-studio-universitario-dsu","last_checked":"2026-01-04","confidence":0.9,"notes":"4,300 scholarships available for 2025/2026. Includes tuition waiver, housing, meals. EUR 600/month integration for international mobility."},
-    {"type":"scholarship","university_id":"polimi","scholarship_name":"Merit-Based International Scholarships","amount":{"min":null,"max":10000,"currency":"EUR","period":"year"},"eligibility":{"degree_levels":["master"],"nationalities":["international"],"merit_based":true,"need_based":false,"other_criteria":"Admitted to English-taught Master programs, Early Bird application"},"application_deadline":"2025-12-01","renewable":true,"source_url":"https://www.polimi.it/en/prospective-students/how-much-does-it-cost/scholarships","last_checked":"2026-01-04","confidence":0.9,"notes":"Full tuition waiver plus up to EUR 10,000/year gross allowance. English certificate required by Feb 21, 2026."},
-    {"type":"scholarship","university_id":"polimi","scholarship_name":"Italian Ministry Scholarships","amount":{"min":null,"max":null,"currency":"EUR","period":"year"},"eligibility":{"degree_levels":["master"],"nationalities":["international"],"merit_based":true,"need_based":false,"other_criteria":"See Italian Ministry of Foreign Affairs"},"application_deadline":"","renewable":false,"source_url":"https://www.esteri.it","last_checked":"2026-01-04","confidence":0.8,"notes":"Government-funded awards for international students"},
-    {"type":"scholarship","university_id":"polimi","scholarship_name":"Invest Your Talent in Italy","amount":{"min":null,"max":null,"currency":"EUR","period":"year"},"eligibility":{"degree_levels":["master"],"nationalities":["Armenia","Brazil","China","Colombia","Egypt","Ethiopia","Ghana","India","Indonesia","Iran","Kazakhstan","Mexico","Pakistan","Tunisia","Turkey","Vietnam"],"merit_based":true,"need_based":false,"other_criteria":"First semester applicants from 16 specified nations"},"application_deadline":"","renewable":false,"source_url":"https://www.polimi.it/en/prospective-students/how-much-does-it-cost/scholarships","last_checked":"2026-01-04","confidence":0.8,"notes":"Country-specific scholarships for September intake"}
+    {
+      "type": "scholarship",
+      "university_id": "polimi",
+      "scholarship_name": "DSU Scholarship (Diritto allo Studio Universitario)",
+      "amount": {
+        "min": null,
+        "max": 7258,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "eligibility": {
+        "degree_levels": [
+          "bachelor",
+          "master"
+        ],
+        "nationalities": [
+          "all"
+        ],
+        "merit_based": false,
+        "need_based": true,
+        "other_criteria": "ISEE income requirement"
+      },
+      "application_deadline": "2025-08-06",
+      "renewable": true,
+      "source_url": "https://www.polimi.it/en/students/tuition-fees-scholarships-and-financial-aid/university-financial-aid-diritto-allo-studio-universitario-dsu",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "4,300 scholarships available for 2025/2026. Includes tuition waiver, housing, meals. EUR 600/month integration for international mobility."
+    },
+    {
+      "type": "scholarship",
+      "university_id": "polimi",
+      "scholarship_name": "Merit-Based International Scholarships",
+      "amount": {
+        "min": null,
+        "max": 10000,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "eligibility": {
+        "degree_levels": [
+          "master"
+        ],
+        "nationalities": [
+          "international"
+        ],
+        "merit_based": true,
+        "need_based": false,
+        "other_criteria": "Admitted to English-taught Master programs, Early Bird application"
+      },
+      "application_deadline": "2025-12-01",
+      "renewable": true,
+      "source_url": "https://www.polimi.it/en/prospective-students/how-much-does-it-cost/scholarships",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Full tuition waiver plus up to EUR 10,000/year gross allowance. English certificate required by Feb 21, 2026."
+    },
+    {
+      "type": "scholarship",
+      "university_id": "polimi",
+      "scholarship_name": "Italian Ministry Scholarships",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "eligibility": {
+        "degree_levels": [
+          "master"
+        ],
+        "nationalities": [
+          "international"
+        ],
+        "merit_based": true,
+        "need_based": false,
+        "other_criteria": "See Italian Ministry of Foreign Affairs"
+      },
+      "application_deadline": "",
+      "renewable": false,
+      "source_url": "https://www.esteri.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Government-funded awards for international students"
+    },
+    {
+      "type": "scholarship",
+      "university_id": "polimi",
+      "scholarship_name": "Invest Your Talent in Italy",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "eligibility": {
+        "degree_levels": [
+          "master"
+        ],
+        "nationalities": [
+          "Armenia",
+          "Brazil",
+          "China",
+          "Colombia",
+          "Egypt",
+          "Ethiopia",
+          "Ghana",
+          "India",
+          "Indonesia",
+          "Iran",
+          "Kazakhstan",
+          "Mexico",
+          "Pakistan",
+          "Tunisia",
+          "Turkey",
+          "Vietnam"
+        ],
+        "merit_based": true,
+        "need_based": false,
+        "other_criteria": "First semester applicants from 16 specified nations"
+      },
+      "application_deadline": "",
+      "renewable": false,
+      "source_url": "https://www.polimi.it/en/prospective-students/how-much-does-it-cost/scholarships",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Country-specific scholarships for September intake"
+    }
   ],
   "opportunities": []
 }

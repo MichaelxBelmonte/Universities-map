@@ -6,137 +6,2437 @@
     "official_url": "https://www.uniroma1.it",
     "country": "Italy",
     "city": "Rome",
-    "campuses": [{"city": "Rome", "address": "Piazzale Aldo Moro 5, 00185 Roma", "notes": "Multiple campuses across Rome"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Piazzale Aldo Moro 5, 00185 Roma"},
+    "campuses": [
+      {
+        "city": "Rome",
+        "address": "Piazzale Aldo Moro 5, 00185 Roma",
+        "notes": "Multiple campuses across Rome"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Piazzale Aldo Moro 5, 00185 Roma"
+    },
     "source_url": "https://www.uniroma1.it",
     "last_checked": "2026-01-04",
-    "confidence": 1.0,
+    "confidence": 1,
     "notes": "Largest university in Europe. 300+ degree programs (66+ in English), 11 faculties, 63 departments."
   },
   "programs": [
-    {"type":"program","university_id":"uniroma1","degree_level":"ciclo_unico","program_name":"Architettura","class_code":"LM-4 c.u.","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"faculty":"Architettura","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Scienze dell'architettura","class_code":"L-17","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Architettura","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Design","class_code":"L-4","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Architettura","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Architettura (Restauro)","class_code":"LM-4","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Architettura","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Architettura del paesaggio","class_code":"LM-3","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Architettura","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Architettura - Rigenerazione urbana","class_code":"LM-4","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Architettura","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Gestione del Processo Edilizio","class_code":"L-23","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Architettura","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Gestione del progetto e della costruzione","class_code":"LM-24","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Architettura","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Design, Comunicazione Visiva e Multimediale","class_code":"LM-12","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Architettura","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Product and Service Design","class_code":"LM-12","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Architettura","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Professioni tecniche per l'edilizia","class_code":"L-P01","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Architettura","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":"Laurea Professionalizzante"},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Architettura - Interni e Allestimenti","class_code":"LM-4","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Architettura","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Economia","class_code":"L-33","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Economia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Economia e finanza","class_code":"L-33","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Economia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Scienze aziendali","class_code":"L-18","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Economia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Management e diritto d'impresa","class_code":"L-18","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Economia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Economia dell'innovazione","class_code":"L-18","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Economia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Relazioni Economiche e Finanziarie Internazionali","class_code":"L-33","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Economia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Finanza e assicurazioni","class_code":"LM-16","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Economia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Economia politica","class_code":"LM-56","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Economia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Health Economics","class_code":"LM-56","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Economia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Economia dell'ambiente, della cultura e del turismo","class_code":"LM-76","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Economia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Strategia e governance dell'impresa","class_code":"LM-77","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Economia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Management delle imprese","class_code":"LM-77","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Economia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Economics and communication for management","class_code":"LM-77","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Economia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Ingegneria Gestionale","class_code":"L-8","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Ingegneria Elettronica","class_code":"L-8","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Ingegneria delle Telecomunicazioni","class_code":"L-8","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Informatica","class_code":"L-31","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Applied Computer Science and Artificial Intelligence","class_code":"L-31","language":["English"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Filosofia e Intelligenza Artificiale","class_code":"L-5","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Ingegneria Informatica e Automatica","class_code":"L-8","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Control Engineering","class_code":"LM-25","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Ingegneria Gestionale","class_code":"LM-31","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Telecommunication Engineering","class_code":"LM-27","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Engineering in Computer Science and Artificial Intelligence","class_code":"LM-32","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Artificial Intelligence and Robotics","class_code":"LM-32","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Computer Science","class_code":"LM-18","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Cybersecurity","class_code":"LM-66","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Data Science","class_code":"LM-Data","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Ingegneria Civile","class_code":"L-7","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Ingegneria per l'Ambiente e il Territorio","class_code":"L-7","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"ciclo_unico","program_name":"Ingegneria edile-architettura","class_code":"LM-4 c.u.","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Sustainable Building Engineering","class_code":"L-23","language":["English"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Ingegneria Civile","class_code":"LM-23","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Environmental and Sustainable Building Engineering","class_code":"LM-24","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Transport Systems Engineering","class_code":"LM-23","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Ingegneria Energetica","class_code":"L-9","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Ingegneria Chimica","class_code":"L-9","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Ingegneria Meccanica","class_code":"L-9","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Ingegneria Aerospaziale","class_code":"L-9","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Ingegneria Clinica","class_code":"L-9","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Ingegneria Meccanica per la Transizione Verde","class_code":"L-9","language":["Italian"],"campus_city":"Latina","duration_years":3,"ects_total":180,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":"Sede di Latina"},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Ingegneria Energetica","class_code":"LM-30","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Ingegneria Chimica","class_code":"LM-22","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Ingegneria meccanica","class_code":"LM-33","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Ingegneria aeronautica","class_code":"LM-20","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Space and astronautical engineering","class_code":"LM-20","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Ingegneria Biomedica","class_code":"LM-21","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria Civile e Industriale","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Lettere classiche","class_code":"L-10","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Lettere moderne","class_code":"L-10","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Classics","class_code":"L-10","language":["English"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Filosofia","class_code":"L-5","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Global Humanities","class_code":"L-42","language":["English"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Storia, Antropologia, Religioni","class_code":"L-42","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Filologia moderna","class_code":"LM-14","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Filosofia","class_code":"LM-78","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Scienze storiche","class_code":"LM-84","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Lingue e civiltà orientali","class_code":"L-11","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Lingue, Culture, Letterature, Traduzione","class_code":"L-11","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Mediazione linguistica e interculturale","class_code":"L-12","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"English and Anglo-American Studies","class_code":"LM-37","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Scienze Matematiche, Fisiche e Naturali","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Scienze Chimiche","class_code":"L-27","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Scienze Matematiche, Fisiche e Naturali","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Fisica","class_code":"L-30","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Scienze Matematiche, Fisiche e Naturali","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Matematica","class_code":"L-35","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Scienze Matematiche, Fisiche e Naturali","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Scienze geologiche","class_code":"L-34","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Scienze Matematiche, Fisiche e Naturali","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Chimica","class_code":"LM-54","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Scienze Matematiche, Fisiche e Naturali","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Physics","class_code":"LM-17","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Scienze Matematiche, Fisiche e Naturali","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Matematica","class_code":"LM-40","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Scienze Matematiche, Fisiche e Naturali","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Genetica e Biologia Molecolare","class_code":"LM-6","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Scienze Matematiche, Fisiche e Naturali","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Biotecnologie","class_code":"L-2","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Farmacia e Medicina","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Bioinformatics","class_code":"L-2","language":["English"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Farmacia e Medicina","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"ciclo_unico","program_name":"Farmacia","class_code":"LM-13","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"faculty":"Farmacia e Medicina","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"ciclo_unico","program_name":"Chimica e tecnologia farmaceutiche","class_code":"LM-13","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"faculty":"Farmacia e Medicina","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Biotecnologie Farmaceutiche","class_code":"LM-9","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Farmacia e Medicina","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Biochemistry","class_code":"LM-9","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Farmacia e Medicina","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"ciclo_unico","program_name":"Medicina e chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Rome","duration_years":6,"ects_total":360,"faculty":"Medicina e Odontoiatria","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":"Multiple pathways available"},
-    {"type":"program","university_id":"uniroma1","degree_level":"ciclo_unico","program_name":"Medicine and Surgery","class_code":"LM-41","language":["English"],"campus_city":"Rome","duration_years":6,"ects_total":360,"faculty":"Medicina e Odontoiatria","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":"International program"},
-    {"type":"program","university_id":"uniroma1","degree_level":"ciclo_unico","program_name":"Odontoiatria e protesi dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Rome","duration_years":6,"ects_total":360,"faculty":"Medicina e Odontoiatria","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"ciclo_unico","program_name":"Dentistry and Dental Prosthodontics","class_code":"LM-46","language":["English"],"campus_city":"Rome","duration_years":6,"ects_total":360,"faculty":"Medicina e Odontoiatria","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Medicina e Odontoiatria","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":"Multiple locations"},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Fisioterapia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Medicina e Odontoiatria","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Logopedia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Medicina e Odontoiatria","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Scienze dell'educazione e della formazione","class_code":"L-19","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Medicina e Psicologia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"ciclo_unico","program_name":"Scienze della formazione primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"faculty":"Medicina e Psicologia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Psicologia e processi sociali","class_code":"L-24","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Medicina e Psicologia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Psicologia","class_code":"LM-51","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Medicina e Psicologia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Comunicazione pubblica e d'impresa","class_code":"L-20","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Scienze Politiche, Sociologia, Comunicazione","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Comunicazione, tecnologie e culture digitali","class_code":"L-20","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Scienze Politiche, Sociologia, Comunicazione","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Media, comunicazione digitale e giornalismo","class_code":"LM-19","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Scienze Politiche, Sociologia, Comunicazione","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Scienze politiche e relazioni internazionali","class_code":"L-36","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Scienze Politiche, Sociologia, Comunicazione","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Sociologia","class_code":"L-40","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Scienze Politiche, Sociologia, Comunicazione","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Relazioni internazionali","class_code":"LM-52","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Scienze Politiche, Sociologia, Comunicazione","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"ciclo_unico","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Rome","duration_years":5,"ects_total":300,"faculty":"Giurisprudenza","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Scienze dei servizi giuridici","class_code":"L-14","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Giurisprudenza","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Scienze Archeologiche","class_code":"L-1","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Archeologia","class_code":"LM-2","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Mediterranean Archaeology","class_code":"LM-2","language":["English"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Teatro, Cinema, Media","class_code":"L-3","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Scienze della moda e del costume","class_code":"L-3","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Storia dell'arte","class_code":"LM-89","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Lettere e Filosofia","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Statistica, economia, finanza e assicurazioni","class_code":"L-41","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"bachelor","program_name":"Statistica gestionale","class_code":"L-41","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"uniroma1","degree_level":"master","program_name":"Scienze Statistiche","class_code":"LM-82","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"faculty":"Ingegneria dell'Informazione, Informatica e Statistica","source_url":"https://corsidilaurea.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""}
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "ciclo_unico",
+      "program_name": "Architettura",
+      "class_code": "LM-4 c.u.",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 5,
+      "ects_total": 300,
+      "faculty": "Architettura",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Architecture",
+      "program_name_it": "Architettura"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'architettura",
+      "class_code": "L-17",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Architettura",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze dell'architettura"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Design",
+      "class_code": "L-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Architettura",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Design"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Architettura (Restauro)",
+      "class_code": "LM-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Architettura",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Architecture (Restauro)",
+      "program_name_it": "Architettura (Restauro)"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Architettura del paesaggio",
+      "class_code": "LM-3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Architettura",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Architecture of the paesaggio",
+      "program_name_it": "Architettura del paesaggio"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Architettura - Rigenerazione urbana",
+      "class_code": "LM-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Architettura",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Architecture - Rigenerazione urbana",
+      "program_name_it": "Architettura - Rigenerazione urbana"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Gestione del Processo Edilizio",
+      "class_code": "L-23",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Architettura",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Gestione del Processo Edilizio"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Gestione del progetto e della costruzione",
+      "class_code": "LM-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Architettura",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Gestione del progetto e della costruzione"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Design, Comunicazione Visiva e Multimediale",
+      "class_code": "LM-12",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Architettura",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Design, Comunicazione Visiva e Multimediale"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Product and Service Design",
+      "class_code": "LM-12",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Architettura",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Product e Service Design"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Professioni tecniche per l'edilizia",
+      "class_code": "L-P01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Architettura",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Laurea Professionalizzante"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Architettura - Interni e Allestimenti",
+      "class_code": "LM-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Architettura",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Architettura - Interni e Allestimenti"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Economia",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Economia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics",
+      "program_name_it": "Economia"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Economia e finanza",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Economia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics and finanza",
+      "program_name_it": "Economia e finanza"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Scienze aziendali",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Economia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze aziendali"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Management e diritto d'impresa",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Economia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Economia dell'innovazione",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Economia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Economia dell'innovazione"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Relazioni Economiche e Finanziarie Internazionali",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Economia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Finanza e assicurazioni",
+      "class_code": "LM-16",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Economia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Economia politica",
+      "class_code": "LM-56",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Economia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics politica",
+      "program_name_it": "Economia politica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Health Economics",
+      "class_code": "LM-56",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Economia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Health Economia",
+      "program_name_en": "Health Economics"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Economia dell'ambiente, della cultura e del turismo",
+      "class_code": "LM-76",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Economia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Economia dell'ambiente, della cultura e del turismo"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Strategia e governance dell'impresa",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Economia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Management delle imprese",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Economia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Management of the imprese"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Economics and communication for management",
+      "class_code": "LM-77",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Economia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Economia e communication per management",
+      "program_name_en": "Economics and communication for management"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Gestionale",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Management Engineering",
+      "program_name_it": "Ingegneria Gestionale"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Elettronica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Electronic Engineering",
+      "program_name_it": "Ingegneria Elettronica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria delle Telecomunicazioni",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Engineering of the Telecomunicazioni",
+      "program_name_it": "Ingegneria delle Telecomunicazioni"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Informatica",
+      "class_code": "L-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Computer Science",
+      "program_name_it": "Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Applied Computer Science and Artificial Intelligence",
+      "class_code": "L-31",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Applied Inpermatica e Intelligenza Artificiale",
+      "program_name_en": "Applied Computer Science and Artificial Intelligence"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Filosofia e Intelligenza Artificiale",
+      "class_code": "L-5",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Filosofia e Intelligenza Artificiale"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Informatica e Automatica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Informatica e Automatica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Control Engineering",
+      "class_code": "LM-25",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Control Ingegneria",
+      "program_name_en": "Control Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Ingegneria Gestionale",
+      "class_code": "LM-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Management Engineering",
+      "program_name_it": "Ingegneria Gestionale"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Telecommunication Engineering",
+      "class_code": "LM-27",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria delle Telecomunicazioni",
+      "program_name_en": "Telecommunication Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Engineering in Computer Science and Artificial Intelligence",
+      "class_code": "LM-32",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria in Inpermatica e Intelligenza Artificiale",
+      "program_name_en": "Engineering in Computer Science and Artificial Intelligence"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Artificial Intelligence and Robotics",
+      "class_code": "LM-32",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Intelligenza Artificiale e Robotics",
+      "program_name_en": "Artificial Intelligence and Robotics"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Computer Science",
+      "class_code": "LM-18",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Informatica",
+      "program_name_en": "Computer Science"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Cybersecurity",
+      "class_code": "LM-66",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Sicurezza Informatica",
+      "program_name_en": "Cybersecurity"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Data Science",
+      "class_code": "LM-Data",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienza dei Dati",
+      "program_name_en": "Data Science"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Civile",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Civil Engineering",
+      "program_name_it": "Ingegneria Civile"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria per l'Ambiente e il Territorio",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Environmental and Land Engineering",
+      "program_name_it": "Ingegneria per l'Ambiente e il Territorio"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "ciclo_unico",
+      "program_name": "Ingegneria edile-architettura",
+      "class_code": "LM-4 c.u.",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 5,
+      "ects_total": 300,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Engineering edile-architettura",
+      "program_name_it": "Ingegneria edile-architettura"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Sustainable Building Engineering",
+      "class_code": "L-23",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Sostenibile Ingegneria Edile",
+      "program_name_en": "Sustainable Building Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Ingegneria Civile",
+      "class_code": "LM-23",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Civil Engineering",
+      "program_name_it": "Ingegneria Civile"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Environmental and Sustainable Building Engineering",
+      "class_code": "LM-24",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ambientale e Sostenibile Ingegneria Edile",
+      "program_name_en": "Environmental and Sustainable Building Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Transport Systems Engineering",
+      "class_code": "LM-23",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Transport Systems Ingegneria",
+      "program_name_en": "Transport Systems Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Energetica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Energy Engineering",
+      "program_name_it": "Ingegneria Energetica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Chimica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Chemical Engineering",
+      "program_name_it": "Ingegneria Chimica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Meccanica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mechanical Engineering",
+      "program_name_it": "Ingegneria Meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Aerospaziale",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Aerospace Engineering",
+      "program_name_it": "Ingegneria Aerospaziale"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Clinica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Engineering Clinica",
+      "program_name_it": "Ingegneria Clinica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Meccanica per la Transizione Verde",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Latina",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Sede di Latina",
+      "program_name_it": "Ingegneria Meccanica per la Transizione Verde"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Ingegneria Energetica",
+      "class_code": "LM-30",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Energy Engineering",
+      "program_name_it": "Ingegneria Energetica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Ingegneria Chimica",
+      "class_code": "LM-22",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Chemical Engineering",
+      "program_name_it": "Ingegneria Chimica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Ingegneria meccanica",
+      "class_code": "LM-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Engineering meccanica",
+      "program_name_it": "Ingegneria meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Ingegneria aeronautica",
+      "class_code": "LM-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Engineering aeronautica",
+      "program_name_it": "Ingegneria aeronautica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Space and astronautical engineering",
+      "class_code": "LM-20",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Space e astronautical engineering",
+      "program_name_en": "Space and astronautical engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Ingegneria Biomedica",
+      "class_code": "LM-21",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria Civile e Industriale",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biomedical Engineering",
+      "program_name_it": "Ingegneria Biomedica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Lettere classiche",
+      "class_code": "L-10",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Humanitiands classiche",
+      "program_name_it": "Lettere classiche"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Lettere moderne",
+      "class_code": "L-10",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Humanitiands moderne",
+      "program_name_it": "Lettere moderne"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Classics",
+      "class_code": "L-10",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Classics",
+      "program_name_it": "Studi Classici"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Filosofia",
+      "class_code": "L-5",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Philosophy",
+      "program_name_it": "Filosofia"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Global Humanities",
+      "class_code": "L-42",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Global Lettere",
+      "program_name_en": "Global Humanities"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Storia, Antropologia, Religioni",
+      "class_code": "L-42",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "History, Anthropology, Religioni",
+      "program_name_it": "Storia, Antropologia, Religioni"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Filologia moderna",
+      "class_code": "LM-14",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Filologia moderna"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Filosofia",
+      "class_code": "LM-78",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Philosophy",
+      "program_name_it": "Filosofia"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Scienze storiche",
+      "class_code": "LM-84",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze storiche"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Lingue e civiltà orientali",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Lingue, Culture, Letterature, Traduzione",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Languagands, Culture, Letterature, Translation"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Mediazione linguistica e interculturale",
+      "class_code": "L-12",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "English and Anglo-American Studies",
+      "class_code": "LM-37",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "English e Anglo-American Studies",
+      "program_name_en": "English and Anglo-American Studies"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Biologiche",
+      "class_code": "L-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Scienze Matematiche, Fisiche e Naturali",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biological Sciences",
+      "program_name_it": "Scienze Biologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Chimiche",
+      "class_code": "L-27",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Scienze Matematiche, Fisiche e Naturali",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Chemical Sciences",
+      "program_name_it": "Scienze Chimiche"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Fisica",
+      "class_code": "L-30",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Scienze Matematiche, Fisiche e Naturali",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Matematica",
+      "class_code": "L-35",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Scienze Matematiche, Fisiche e Naturali",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Scienze geologiche",
+      "class_code": "L-34",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Scienze Matematiche, Fisiche e Naturali",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze geologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Chimica",
+      "class_code": "LM-54",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Scienze Matematiche, Fisiche e Naturali",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Chemistry"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Physics",
+      "class_code": "LM-17",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Scienze Matematiche, Fisiche e Naturali",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Fisica",
+      "program_name_en": "Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Matematica",
+      "class_code": "LM-40",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Scienze Matematiche, Fisiche e Naturali",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Genetica e Biologia Molecolare",
+      "class_code": "LM-6",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Scienze Matematiche, Fisiche e Naturali",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Biotecnologie",
+      "class_code": "L-2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Farmacia e Medicina",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biotechnology"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Bioinformatics",
+      "class_code": "L-2",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Farmacia e Medicina",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Bioinformatics"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "ciclo_unico",
+      "program_name": "Farmacia",
+      "class_code": "LM-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 5,
+      "ects_total": 300,
+      "faculty": "Farmacia e Medicina",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Pharmacy"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "ciclo_unico",
+      "program_name": "Chimica e tecnologia farmaceutiche",
+      "class_code": "LM-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 5,
+      "ects_total": 300,
+      "faculty": "Farmacia e Medicina",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Biotecnologie Farmaceutiche",
+      "class_code": "LM-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Farmacia e Medicina",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biotandchnology Farmaceutiche"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Biochemistry",
+      "class_code": "LM-9",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Farmacia e Medicina",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biochemistry",
+      "program_name_it": "Biochimica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "ciclo_unico",
+      "program_name": "Medicina e chirurgia",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 6,
+      "ects_total": 360,
+      "faculty": "Medicina e Odontoiatria",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Multiple pathways available",
+      "program_name_it": "Medicina e chirurgia"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "ciclo_unico",
+      "program_name": "Medicine and Surgery",
+      "class_code": "LM-41",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 6,
+      "ects_total": 360,
+      "faculty": "Medicina e Odontoiatria",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "International program",
+      "program_name_it": "Medicina e Chirurgia",
+      "program_name_en": "Medicine and Surgery"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "ciclo_unico",
+      "program_name": "Odontoiatria e protesi dentaria",
+      "class_code": "LM-46",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 6,
+      "ects_total": 360,
+      "faculty": "Medicina e Odontoiatria",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Odontoiatria and protesi dentaria"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "ciclo_unico",
+      "program_name": "Dentistry and Dental Prosthodontics",
+      "class_code": "LM-46",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 6,
+      "ects_total": 360,
+      "faculty": "Medicina e Odontoiatria",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Dentistry e Dental Prosthodontics",
+      "program_name_en": "Dentistry and Dental Prosthodontics"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Infermieristica",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Medicina e Odontoiatria",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Multiple locations",
+      "program_name_en": "Nursing"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Fisioterapia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Medicina e Odontoiatria",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Physiotherapy"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Logopedia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Medicina e Odontoiatria",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Speech Therapy"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'educazione e della formazione",
+      "class_code": "L-19",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Medicina e Psicologia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze dell'educazione e della formazione"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "ciclo_unico",
+      "program_name": "Scienze della formazione primaria",
+      "class_code": "LM-85 bis",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 5,
+      "ects_total": 300,
+      "faculty": "Medicina e Psicologia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze della formazione primaria"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Psicologia e processi sociali",
+      "class_code": "L-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Medicina e Psicologia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Psychology and processi sociali",
+      "program_name_it": "Psicologia e processi sociali"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Psicologia",
+      "class_code": "LM-51",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Medicina e Psicologia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Psychology",
+      "program_name_it": "Psicologia"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Comunicazione pubblica e d'impresa",
+      "class_code": "L-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Scienze Politiche, Sociologia, Comunicazione",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Communication pubblica and d'impresa",
+      "program_name_it": "Comunicazione pubblica e d'impresa"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Comunicazione, tecnologie e culture digitali",
+      "class_code": "L-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Scienze Politiche, Sociologia, Comunicazione",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Comunicazione, tecnologie e culture digitali"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Media, comunicazione digitale e giornalismo",
+      "class_code": "LM-19",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Scienze Politiche, Sociologia, Comunicazione",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Scienze politiche e relazioni internazionali",
+      "class_code": "L-36",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Scienze Politiche, Sociologia, Comunicazione",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze politiche e relazioni internazionali"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Sociologia",
+      "class_code": "L-40",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Scienze Politiche, Sociologia, Comunicazione",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Sociology"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Relazioni internazionali",
+      "class_code": "LM-52",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Scienze Politiche, Sociologia, Comunicazione",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Relazioni internazionali"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "ciclo_unico",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 5,
+      "ects_total": 300,
+      "faculty": "Giurisprudenza",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dei servizi giuridici",
+      "class_code": "L-14",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Giurisprudenza",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze dei servizi giuridici"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Archeologiche",
+      "class_code": "L-1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Archeologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Archeologia",
+      "class_code": "LM-2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Archaeology"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Mediterranean Archaeology",
+      "class_code": "LM-2",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Mediterranean Archeologia",
+      "program_name_en": "Mediterranean Archaeology"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Teatro, Cinema, Media",
+      "class_code": "L-3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Thandatre, Cinema, Media"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Scienze della moda e del costume",
+      "class_code": "L-3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze della moda e del costume"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Storia dell'arte",
+      "class_code": "LM-89",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Lettere e Filosofia",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Storia dell'arte"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Statistica, economia, finanza e assicurazioni",
+      "class_code": "L-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "bachelor",
+      "program_name": "Statistica gestionale",
+      "class_code": "L-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Statistics gandstionale"
+    },
+    {
+      "type": "program",
+      "university_id": "uniroma1",
+      "degree_level": "master",
+      "program_name": "Scienze Statistiche",
+      "class_code": "LM-82",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "faculty": "Ingegneria dell'Informazione, Informatica e Statistica",
+      "source_url": "https://corsidilaurea.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Statistical Sciences",
+      "program_name_it": "Scienze Statistiche"
+    }
   ],
-  "admissions": [{"type":"admissions","university_id":"uniroma1","program_name":"","degree_level_scope":"general","applicant_scope":"all","requirements":{"academic_requirements":"Secondary school diploma. 100/100 maturità score gets free enrollment.","documents_required":["High school diploma","ID document"],"tests_required":[],"portfolio_required":false,"interview_required":false},"intakes":[{"intake_name":"fall","application_open_date":"","application_deadline":"","start_date":"September"}],"application_fee":{"amount":null,"currency":"EUR","notes":""},"how_to_apply_url":"https://corsidilaurea.uniroma1.it","source_url":"https://www.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":"Access types: national/local programmato, verification tests. Bandi published on course catalog."}],
-  "tuition": [{"type":"tuition","university_id":"uniroma1","program_name":"","degree_level_scope":"general","tuition":[{"student_group":"ISEE ≤ 24000","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Free enrollment"},{"student_group":"ISEE ≤ 40000","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Reduced fees"},{"student_group":"100/100 maturità","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Free enrollment, continues with good grades"},{"student_group":"Standard","amount_min":300,"amount_max":3000,"currency":"EUR","period":"year","notes":"Varies by ISEE bracket"}],"additional_fees":[],"payment_schedule_notes":"","source_url":"https://www.uniroma1.it","last_checked":"2026-01-04","confidence":0.9,"notes":""}],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "uniroma1",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma. 100/100 maturità score gets free enrollment.",
+        "documents_required": [
+          "High school diploma",
+          "ID document"
+        ],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": "September"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://corsidilaurea.uniroma1.it",
+      "source_url": "https://www.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Access types: national/local programmato, verification tests. Bandi published on course catalog."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "uniroma1",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE ≤ 24000",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Free enrollment"
+        },
+        {
+          "student_group": "ISEE ≤ 40000",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Reduced fees"
+        },
+        {
+          "student_group": "100/100 maturità",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Free enrollment, continues with good grades"
+        },
+        {
+          "student_group": "Standard",
+          "amount_min": 300,
+          "amount_max": 3000,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Varies by ISEE bracket"
+        }
+      ],
+      "additional_fees": [],
+      "payment_schedule_notes": "",
+      "source_url": "https://www.uniroma1.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
   "scholarships": [
-    {"type":"scholarship","university_id":"uniroma1","scholarship_name":"LazioDisco - Borsa di Studio DSU","amount":{"min":2000,"max":6472,"currency":"EUR","period":"year"},"eligibility":{"degree_levels":["bachelor","master","ciclo_unico"],"nationalities":["all"],"merit_based":false,"need_based":true,"other_criteria":"ISEE income requirement. Maximum ISEE threshold applies."},"application_deadline":"2025-07-22","renewable":true,"source_url":"https://laziodisco.it","last_checked":"2026-01-04","confidence":0.9,"notes":"Regional scholarship includes tuition waiver, accommodation support up to EUR 6,472 for out-of-town students. Free housing in university residences available. EUR 30 fee only for recipients."},
-    {"type":"scholarship","university_id":"uniroma1","scholarship_name":"Merit Exemption - Maturità 100/100","amount":{"min":null,"max":null,"currency":"EUR","period":"year"},"eligibility":{"degree_levels":["bachelor"],"nationalities":["all"],"merit_based":true,"need_based":false,"other_criteria":"100/100 maturità score"},"application_deadline":"","renewable":true,"source_url":"https://www.uniroma1.it/en/pagina/exemptions-and-benefits","last_checked":"2026-01-04","confidence":0.9,"notes":"Full tuition exemption for students with 100/100 high school diploma. Continues with maintaining good academic standing."},
-    {"type":"scholarship","university_id":"uniroma1","scholarship_name":"ISEE-based Fee Reduction","amount":{"min":null,"max":null,"currency":"EUR","period":"year"},"eligibility":{"degree_levels":["bachelor","master","ciclo_unico"],"nationalities":["all"],"merit_based":false,"need_based":true,"other_criteria":"ISEE ≤ 40,000 EUR"},"application_deadline":"","renewable":true,"source_url":"https://www.uniroma1.it/en/pagina/exemptions-and-benefits","last_checked":"2026-01-04","confidence":0.9,"notes":"Free enrollment for ISEE ≤ 24,000. Reduced fees for ISEE ≤ 40,000."}
+    {
+      "type": "scholarship",
+      "university_id": "uniroma1",
+      "scholarship_name": "LazioDisco - Borsa di Studio DSU",
+      "amount": {
+        "min": 2000,
+        "max": 6472,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "eligibility": {
+        "degree_levels": [
+          "bachelor",
+          "master",
+          "ciclo_unico"
+        ],
+        "nationalities": [
+          "all"
+        ],
+        "merit_based": false,
+        "need_based": true,
+        "other_criteria": "ISEE income requirement. Maximum ISEE threshold applies."
+      },
+      "application_deadline": "2025-07-22",
+      "renewable": true,
+      "source_url": "https://laziodisco.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Regional scholarship includes tuition waiver, accommodation support up to EUR 6,472 for out-of-town students. Free housing in university residences available. EUR 30 fee only for recipients."
+    },
+    {
+      "type": "scholarship",
+      "university_id": "uniroma1",
+      "scholarship_name": "Merit Exemption - Maturità 100/100",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "eligibility": {
+        "degree_levels": [
+          "bachelor"
+        ],
+        "nationalities": [
+          "all"
+        ],
+        "merit_based": true,
+        "need_based": false,
+        "other_criteria": "100/100 maturità score"
+      },
+      "application_deadline": "",
+      "renewable": true,
+      "source_url": "https://www.uniroma1.it/en/pagina/exemptions-and-benefits",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Full tuition exemption for students with 100/100 high school diploma. Continues with maintaining good academic standing."
+    },
+    {
+      "type": "scholarship",
+      "university_id": "uniroma1",
+      "scholarship_name": "ISEE-based Fee Reduction",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "eligibility": {
+        "degree_levels": [
+          "bachelor",
+          "master",
+          "ciclo_unico"
+        ],
+        "nationalities": [
+          "all"
+        ],
+        "merit_based": false,
+        "need_based": true,
+        "other_criteria": "ISEE ≤ 40,000 EUR"
+      },
+      "application_deadline": "",
+      "renewable": true,
+      "source_url": "https://www.uniroma1.it/en/pagina/exemptions-and-benefits",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Free enrollment for ISEE ≤ 24,000. Reduced fees for ISEE ≤ 40,000."
+    }
   ],
   "opportunities": []
 }

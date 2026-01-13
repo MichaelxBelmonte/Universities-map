@@ -6,91 +6,458 @@
     "official_url": "https://www.uniurb.it",
     "country": "Italy",
     "city": "Urbino",
-    "campuses": [{"city": "Urbino", "address": "", "notes": "Historic Renaissance campus"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Urbino"},
+    "campuses": [
+      {
+        "city": "Urbino",
+        "address": "",
+        "notes": "Historic Renaissance campus"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Urbino"
+    },
     "source_url": "https://www.uniurb.it",
     "last_checked": "2026-01-04",
     "confidence": 0.95,
     "notes": "Historic university in UNESCO World Heritage city. Bachelor's, Master's, single-cycle, and doctoral programs."
   },
   "programs": [
-    {"type":"program","university_id":"uniurb","degree_level":"bachelor","program_name":"Economia Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Urbino","duration_years":3,"ects_total":180,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniurb","degree_level":"bachelor","program_name":"Economia e Management","class_code":"L-18","language":["Italian"],"campus_city":"Urbino","duration_years":3,"ects_total":180,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniurb","degree_level":"bachelor","program_name":"Scienze Politiche, Economiche e del Governo","class_code":"L-36","language":["Italian"],"campus_city":"Urbino","duration_years":3,"ects_total":180,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniurb","degree_level":"bachelor","program_name":"Informatica Applicata","class_code":"L-31","language":["Italian"],"campus_city":"Urbino","duration_years":3,"ects_total":180,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniurb","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Urbino","duration_years":3,"ects_total":180,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniurb","degree_level":"bachelor","program_name":"Scienze Geologiche e Pianificazione Territoriale","class_code":"L-34","language":["Italian"],"campus_city":"Urbino","duration_years":3,"ects_total":180,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniurb","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Urbino","duration_years":3,"ects_total":180,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniurb","degree_level":"bachelor","program_name":"Lettere","class_code":"L-10","language":["Italian"],"campus_city":"Urbino","duration_years":3,"ects_total":180,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniurb","degree_level":"bachelor","program_name":"Lingue e Culture Moderne","class_code":"L-11","language":["Italian"],"campus_city":"Urbino","duration_years":3,"ects_total":180,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniurb","degree_level":"bachelor","program_name":"Filosofia","class_code":"L-5","language":["Italian"],"campus_city":"Urbino","duration_years":3,"ects_total":180,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniurb","degree_level":"bachelor","program_name":"Scienze della Comunicazione","class_code":"L-20","language":["Italian"],"campus_city":"Urbino","duration_years":3,"ects_total":180,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniurb","degree_level":"bachelor","program_name":"Scienze dell'Educazione","class_code":"L-19","language":["Italian"],"campus_city":"Urbino","duration_years":3,"ects_total":180,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniurb","degree_level":"bachelor","program_name":"Scienze Motorie, Sport e Salute","class_code":"L-22","language":["Italian"],"campus_city":"Urbino","duration_years":3,"ects_total":180,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniurb","degree_level":"master","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Urbino","duration_years":5,"ects_total":300,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
-    {"type":"program","university_id":"uniurb","degree_level":"master","program_name":"Farmacia","class_code":"LM-13","language":["Italian"],"campus_city":"Urbino","duration_years":5,"ects_total":300,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
-    {"type":"program","university_id":"uniurb","degree_level":"master","program_name":"Chimica e Tecnologia Farmaceutiche","class_code":"LM-13","language":["Italian"],"campus_city":"Urbino","duration_years":5,"ects_total":300,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
-    {"type":"program","university_id":"uniurb","degree_level":"master","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Urbino","duration_years":5,"ects_total":300,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
-    {"type":"program","university_id":"uniurb","degree_level":"master","program_name":"Conservazione e Restauro dei Beni Culturali","class_code":"LMR/02","language":["Italian"],"campus_city":"Urbino","duration_years":5,"ects_total":300,"source_url":"https://www.uniurb.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"uniurb",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "bachelor",
+      "program_name": "Economia Aziendale",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Business Administration",
+      "program_name_it": "Economia Aziendale"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"2025-05-06",
-      "application_deadline":"",
-      "start_date":"",
-      "notes":"Enrollment opens May 6, 2025"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.uniurb.it/studiaconnoi",
-    "source_url":"https://www.uniurb.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Open Days: Feb 2-5 (online), Feb 11-13 (in-person). Uniurb Tour with faculty meetings. Filtered semester for Medicine to allow transfers."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"uniurb",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"ISEE ≤ 30000","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"No Tax Area exemption - highest threshold"},
-      {"student_group":"ISEE above 30000","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Progressive based on ISEE"},
-      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
-    ],
-    "additional_fees":[],
-    "payment_schedule_notes":"PagoPA platform for payments. Contribution simulator available online.",
-    "source_url":"https://www.uniurb.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"No tax area €30,000 - among highest in Italy. ESSE3 system for student services."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"uniurb",
-    "scholarship_name":"ERDIS Marche Regional Scholarship",
-    "description":"Regional scholarship for students with low ISEE",
-    "eligibility":"ISEE threshold + merit requirements",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"",
-    "source_url":"https://www.uniurb.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.8,
-    "notes":"Financial aid consultation available via appointments."
-  }],
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Management",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Economics and Management",
+      "program_name_it": "Economia e Management"
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Politiche, Economiche e del Governo",
+      "class_code": "L-36",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_it": "Scienze Politiche, Economiche e del Governo"
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "bachelor",
+      "program_name": "Informatica Applicata",
+      "class_code": "L-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Computer Science Applicata",
+      "program_name_it": "Informatica Applicata"
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Biologiche",
+      "class_code": "L-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Biological Sciences",
+      "program_name_it": "Scienze Biologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Geologiche e Pianificazione Territoriale",
+      "class_code": "L-34",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_it": "Scienze Geologiche e Pianificazione Territoriale"
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Tecniche Psicologiche",
+      "class_code": "L-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Psychological Sciences and Techniques",
+      "program_name_it": "Scienze e Tecniche Psicologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "bachelor",
+      "program_name": "Lettere",
+      "class_code": "L-10",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Humanities",
+      "program_name_it": "Lettere"
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "bachelor",
+      "program_name": "Lingue e Culture Moderne",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "bachelor",
+      "program_name": "Filosofia",
+      "class_code": "L-5",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Philosophy",
+      "program_name_it": "Filosofia"
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "bachelor",
+      "program_name": "Scienze della Comunicazione",
+      "class_code": "L-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Communication Sciences",
+      "program_name_it": "Scienze della Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'Educazione",
+      "class_code": "L-19",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Educational Sciences",
+      "program_name_it": "Scienze dell'Educazione"
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Motorie, Sport e Salute",
+      "class_code": "L-22",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Sport Sciences, Sport and Health",
+      "program_name_it": "Scienze Motorie, Sport e Salute"
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "master",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "master",
+      "program_name": "Farmacia",
+      "class_code": "LM-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico",
+      "program_name_en": "Pharmacy"
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "master",
+      "program_name": "Chimica e Tecnologia Farmaceutiche",
+      "class_code": "LM-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico",
+      "program_name_en": "Pharmaceutical Chemistry and Technology"
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "master",
+      "program_name": "Scienze della Formazione Primaria",
+      "class_code": "LM-85 bis",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico",
+      "program_name_en": "Primary Education Sciences",
+      "program_name_it": "Scienze della Formazione Primaria"
+    },
+    {
+      "type": "program",
+      "university_id": "uniurb",
+      "degree_level": "master",
+      "program_name": "Conservazione e Restauro dei Beni Culturali",
+      "class_code": "LMR/02",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Urbino",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "uniurb",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "2025-05-06",
+          "application_deadline": "",
+          "start_date": "",
+          "notes": "Enrollment opens May 6, 2025"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.uniurb.it/studiaconnoi",
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Open Days: Feb 2-5 (online), Feb 11-13 (in-person). Uniurb Tour with faculty meetings. Filtered semester for Medicine to allow transfers."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "uniurb",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE ≤ 30000",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area exemption - highest threshold"
+        },
+        {
+          "student_group": "ISEE above 30000",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Progressive based on ISEE"
+        },
+        {
+          "student_group": "Disability ≥66% or L.104",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption"
+        }
+      ],
+      "additional_fees": [],
+      "payment_schedule_notes": "PagoPA platform for payments. Contribution simulator available online.",
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "No tax area €30,000 - among highest in Italy. ESSE3 system for student services."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "uniurb",
+      "scholarship_name": "ERDIS Marche Regional Scholarship",
+      "description": "Regional scholarship for students with low ISEE",
+      "eligibility": "ISEE threshold + merit requirements",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "",
+      "source_url": "https://www.uniurb.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Financial aid consultation available via appointments."
+    }
+  ],
   "opportunities": []
 }

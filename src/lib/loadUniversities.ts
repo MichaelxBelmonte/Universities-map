@@ -133,6 +133,8 @@ function transformPrograms(rawPrograms: RawProgram[], universityId: string): Pro
       id: generateProgramId(universityId, raw.program_name),
       universityId: universityId,
       programName: raw.program_name,
+      programNameEn: raw.program_name_en,
+      programNameIt: raw.program_name_it,
       degreeLevel: normalizeDegreeLevel(raw.degree_level || "bachelor"),
       classCode: raw.class_code,
       language: Array.isArray(raw.language) ? raw.language : [raw.language || "Italian"],

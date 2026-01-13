@@ -6,128 +6,1151 @@
     "official_url": "https://www.unive.it",
     "country": "Italy",
     "city": "Venice",
-    "campuses": [{"city": "Venice", "address": "", "notes": "Historic campus in Venice - multiple palazzos"}, {"city": "Treviso", "address": "", "notes": "Economics and computer science"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Venice"},
+    "campuses": [
+      {
+        "city": "Venice",
+        "address": "",
+        "notes": "Historic campus in Venice - multiple palazzos"
+      },
+      {
+        "city": "Treviso",
+        "address": "",
+        "notes": "Economics and computer science"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Venice"
+    },
     "source_url": "https://www.unive.it",
     "last_checked": "2026-01-05",
     "confidence": 0.9,
     "notes": "28 courses in English. 40+ languages taught. Leading in Asian studies, languages, economics. Ca' Foscari Challenge School for continuing education."
   },
   "programs": [
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Economia e Commercio","class_code":"L-33","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Economia Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Digital Management","class_code":"L-18","language":["English"],"campus_city":"Treviso","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Economics and Business","class_code":"L-33","language":["English"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Philosophy, International and Economic Studies","class_code":"L-5","language":["English"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Filosofia","class_code":"L-5","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Ingegneria Fisica","class_code":"L-8","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Ingegneria Ambientale per la Transizione Ecologica","class_code":"L-7","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Informatica","class_code":"L-31","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Scienze Ambientali","class_code":"L-32","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Chimica e Tecnologie Sostenibili","class_code":"L-27","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Conservazione e Gestione dei Beni e delle Attività Culturali","class_code":"L-1","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Tecnologie per la Conservazione e il Restauro","class_code":"L-43","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Lettere","class_code":"L-10","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Storia","class_code":"L-42","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Lingue, Culture e Società dell'Asia e dell'Africa Mediterranea","class_code":"L-11","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Leading Asian studies program"},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Lingue, Civiltà e Scienze del Linguaggio","class_code":"L-11","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":"40+ languages offered"},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Mediazione Linguistica e Culturale","class_code":"L-12","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Scienze della Società e del Servizio Sociale","class_code":"L-39","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"bachelor","program_name":"Commercio Estero e Turismo","class_code":"L-15","language":["Italian"],"campus_city":"Venice","duration_years":3,"ects_total":180,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Amministrazione, Finanza e Controllo","class_code":"LM-77","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Economia e Finanza","class_code":"LM-56","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Economics, Finance and Sustainability","class_code":"LM-56","language":["English"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Global Development and Entrepreneurship","class_code":"LM-77","language":["English"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Marketing e Comunicazione","class_code":"LM-77","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Data Analytics for Business and Society","class_code":"LM-91","language":["English"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Computer Science","class_code":"LM-18","language":["English"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Informatica","class_code":"LM-18","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Environmental Sciences","class_code":"LM-75","language":["English"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Scienze Chimiche per la Conservazione e il Restauro","class_code":"LM-54","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Conservation Science and Technology for Cultural Heritage","class_code":"LM-11","language":["English"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Engineering Physics","class_code":"LM-44","language":["English"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Scienze e Tecnologie per l'Ambiente e il Territorio","class_code":"LM-75","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Lingue, Economie e Istituzioni dell'Asia e dell'Africa Mediterranea","class_code":"LM-38","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Language and Management to China","class_code":"LM-38","language":["English"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Lingue e Letterature Europee, Americane e Postcoloniali","class_code":"LM-37","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"European, American and Postcolonial Language and Literature","class_code":"LM-37","language":["English"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Scienze del Linguaggio","class_code":"LM-39","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Language Sciences","class_code":"LM-39","language":["English"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Relazioni Internazionali Comparate","class_code":"LM-52","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"International Relations","class_code":"LM-52","language":["English"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Lavoro, Cittadinanza Sociale, Interculturalità","class_code":"LM-87","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Sviluppo Interculturale dei Sistemi Turistici","class_code":"LM-49","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Interpretariato e Traduzione Editoriale, Settoriale","class_code":"LM-94","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Filologia e Letteratura Italiana","class_code":"LM-14","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Scienze dell'Antichità: Letterature, Storia e Archeologia","class_code":"LM-15","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Storia dal Medioevo all'Età Contemporanea","class_code":"LM-84","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Environmental Humanities","class_code":"LM-1","language":["English"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Antropologia Culturale, Etnologia, Etnolinguistica","class_code":"LM-1","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Economia e Gestione delle Arti e delle Attività Culturali","class_code":"LM-76","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Storia delle Arti e Conservazione dei Beni Artistici","class_code":"LM-89","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Scienze Archivistiche e Biblioteconomiche","class_code":"LM-5","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Digital and Public Humanities","class_code":"LM-43","language":["English"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Filosofia della Società, dell'Arte e della Comunicazione","class_code":"LM-78","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Scienze e Tecnologie dei Bio e Nanomateriali","class_code":"LM-53","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unive","degree_level":"master","program_name":"Biotecnologie per l'Ambiente e lo Sviluppo Sostenibile","class_code":"LM-8","language":["Italian"],"campus_city":"Venice","duration_years":2,"ects_total":120,"source_url":"https://www.unive.it","last_checked":"2026-01-05","confidence":0.9,"notes":""}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"unive",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Commercio",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics and Commercio",
+      "program_name_it": "Economia e Commercio"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":"September"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.unive.it/pag/8321/",
-    "source_url":"https://www.unive.it",
-    "last_checked":"2026-01-05",
-    "confidence":0.9,
-    "notes":"Strong in languages, economics, humanities. Ca' Foscari Challenge School: cafoscarichallengeschool.it"
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"unive",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"ISEE ≤ 22000","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"No Tax Area exemption"},
-      {"student_group":"ISEE above threshold","amount_min":156,"amount_max":2800,"currency":"EUR","period":"year","notes":"Progressive based on ISEE"},
-      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
-    ],
-    "additional_fees":[],
-    "payment_schedule_notes":"Two installments per year",
-    "source_url":"https://www.unive.it",
-    "last_checked":"2026-01-05",
-    "confidence":0.8,
-    "notes":"Check ESU Venezia for regional scholarship details."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"unive",
-    "scholarship_name":"ESU Venezia Regional Scholarship",
-    "description":"Regional scholarship for students with low ISEE",
-    "eligibility":"ISEE threshold + merit requirements",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.esuvenezia.it",
-    "source_url":"https://www.unive.it",
-    "last_checked":"2026-01-05",
-    "confidence":0.8,
-    "notes":"Includes accommodation, meals, tuition exemption"
-  }],
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Economia Aziendale",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Business Administration",
+      "program_name_it": "Economia Aziendale"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Digital Management",
+      "class_code": "L-18",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Treviso",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Digitale Management",
+      "program_name_en": "Digital Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Economics and Business",
+      "class_code": "L-33",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Economia e Business",
+      "program_name_en": "Economics and Business"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Philosophy, International and Economic Studies",
+      "class_code": "L-5",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Filosofia, Internazionali e Economic Studies",
+      "program_name_en": "Philosophy, International and Economic Studies"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Filosofia",
+      "class_code": "L-5",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Philosophy",
+      "program_name_it": "Filosofia"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Fisica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Engineering Physics",
+      "program_name_it": "Ingegneria Fisica"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Ambientale per la Transizione Ecologica",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Ambientale per la Transizione Ecologica"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Informatica",
+      "class_code": "L-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Computer Science",
+      "program_name_it": "Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Ambientali",
+      "class_code": "L-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Ambientali"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Chimica e Tecnologie Sostenibili",
+      "class_code": "L-27",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Conservazione e Gestione dei Beni e delle Attività Culturali",
+      "class_code": "L-1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Conservazione e Gestione dei Beni e delle Attività Culturali"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Tecnologie per la Conservazione e il Restauro",
+      "class_code": "L-43",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Lettere",
+      "class_code": "L-10",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Humanities",
+      "program_name_it": "Lettere"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Storia",
+      "class_code": "L-42",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "History",
+      "program_name_it": "Storia"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Lingue, Culture e Società dell'Asia e dell'Africa Mediterranea",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Leading Asian studies program"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Lingue, Civiltà e Scienze del Linguaggio",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "40+ languages offered",
+      "program_name_it": "Lingue, Civiltà e Scienze del Linguaggio"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Mediazione Linguistica e Culturale",
+      "class_code": "L-12",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Linguistic and Cultural Mediation"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Scienze della Società e del Servizio Sociale",
+      "class_code": "L-39",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze della Società e del Servizio Sociale"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "bachelor",
+      "program_name": "Commercio Estero e Turismo",
+      "class_code": "L-15",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Amministrazione, Finanza e Controllo",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Economia e Finanza",
+      "class_code": "LM-56",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics and Finance",
+      "program_name_it": "Economia e Finanza"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Economics, Finance and Sustainability",
+      "class_code": "LM-56",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Economia, Finanza e Sustainability",
+      "program_name_en": "Economics, Finance and Sustainability"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Global Development and Entrepreneurship",
+      "class_code": "LM-77",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Global Development e Entrepreneurship",
+      "program_name_en": "Global Development and Entrepreneurship"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Marketing e Comunicazione",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Marketing e Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Data Analytics for Business and Society",
+      "class_code": "LM-91",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Data Analytics for Business and Society"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Computer Science",
+      "class_code": "LM-18",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Informatica",
+      "program_name_en": "Computer Science"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Informatica",
+      "class_code": "LM-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Computer Science",
+      "program_name_it": "Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Environmental Sciences",
+      "class_code": "LM-75",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ambientale Scienze",
+      "program_name_en": "Environmental Sciences"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Scienze Chimiche per la Conservazione e il Restauro",
+      "class_code": "LM-54",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Chimiche per la Conservazione e il Restauro"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Conservation Science and Technology for Cultural Heritage",
+      "class_code": "LM-11",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Conservation Science and Technology for Cultural Heritage"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Engineering Physics",
+      "class_code": "LM-44",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Fisica",
+      "program_name_en": "Engineering Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Scienze e Tecnologie per l'Ambiente e il Territorio",
+      "class_code": "LM-75",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze e Tecnologie per l'Ambiente e il Territorio"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Lingue, Economie e Istituzioni dell'Asia e dell'Africa Mediterranea",
+      "class_code": "LM-38",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Language and Management to China",
+      "class_code": "LM-38",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Language and Management to China"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Lingue e Letterature Europee, Americane e Postcoloniali",
+      "class_code": "LM-37",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "European, American and Postcolonial Language and Literature",
+      "class_code": "LM-37",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Europee, American e Postcolonial Language and Literature",
+      "program_name_en": "European, American and Postcolonial Language and Literature"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Scienze del Linguaggio",
+      "class_code": "LM-39",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze del Linguaggio"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Language Sciences",
+      "class_code": "LM-39",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Language Scienze",
+      "program_name_en": "Language Sciences"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Relazioni Internazionali Comparate",
+      "class_code": "LM-52",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "International Relations Comparate"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "International Relations",
+      "class_code": "LM-52",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Relazioni Internazionali",
+      "program_name_en": "International Relations"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Lavoro, Cittadinanza Sociale, Interculturalità",
+      "class_code": "LM-87",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Lavoro, Cittadinanza Socialand, Interculturalità"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Sviluppo Interculturale dei Sistemi Turistici",
+      "class_code": "LM-49",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Sviluppo Interculturale of the Sistemi Turistici"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Interpretariato e Traduzione Editoriale, Settoriale",
+      "class_code": "LM-94",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Filologia e Letteratura Italiana",
+      "class_code": "LM-14",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Filologia and Letteratura Italiana"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Scienze dell'Antichità: Letterature, Storia e Archeologia",
+      "class_code": "LM-15",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze dell'Antichità: Letterature, Storia e Archeologia"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Storia dal Medioevo all'Età Contemporanea",
+      "class_code": "LM-84",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "History dal Medioevo all'Età Contemporanea",
+      "program_name_it": "Storia dal Medioevo all'Età Contemporanea"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Environmental Humanities",
+      "class_code": "LM-1",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ambientale Lettere",
+      "program_name_en": "Environmental Humanities"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Antropologia Culturale, Etnologia, Etnolinguistica",
+      "class_code": "LM-1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Anthropology Culturaland, Etnologia, Etnolinguistica"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Economia e Gestione delle Arti e delle Attività Culturali",
+      "class_code": "LM-76",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Economia e Gestione delle Arti e delle Attività Culturali"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Storia delle Arti e Conservazione dei Beni Artistici",
+      "class_code": "LM-89",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Storia delle Arti e Conservazione dei Beni Artistici"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Scienze Archivistiche e Biblioteconomiche",
+      "class_code": "LM-5",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Archivistiche e Biblioteconomiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Digital and Public Humanities",
+      "class_code": "LM-43",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Digitale e Public Lettere",
+      "program_name_en": "Digital and Public Humanities"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Filosofia della Società, dell'Arte e della Comunicazione",
+      "class_code": "LM-78",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Filosofia della Società, dell'Arte e della Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Scienze e Tecnologie dei Bio e Nanomateriali",
+      "class_code": "LM-53",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze e Tecnologie dei Bio e Nanomateriali"
+    },
+    {
+      "type": "program",
+      "university_id": "unive",
+      "degree_level": "master",
+      "program_name": "Biotecnologie per l'Ambiente e lo Sviluppo Sostenibile",
+      "class_code": "LM-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Venice",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Biotecnologie per l'Ambiente e lo Sviluppo Sostenibile"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unive",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": "September"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unive.it/pag/8321/",
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Strong in languages, economics, humanities. Ca' Foscari Challenge School: cafoscarichallengeschool.it"
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unive",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE ≤ 22000",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area exemption"
+        },
+        {
+          "student_group": "ISEE above threshold",
+          "amount_min": 156,
+          "amount_max": 2800,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Progressive based on ISEE"
+        },
+        {
+          "student_group": "Disability ≥66% or L.104",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption"
+        }
+      ],
+      "additional_fees": [],
+      "payment_schedule_notes": "Two installments per year",
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.8,
+      "notes": "Check ESU Venezia for regional scholarship details."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "unive",
+      "scholarship_name": "ESU Venezia Regional Scholarship",
+      "description": "Regional scholarship for students with low ISEE",
+      "eligibility": "ISEE threshold + merit requirements",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.esuvenezia.it",
+      "source_url": "https://www.unive.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.8,
+      "notes": "Includes accommodation, meals, tuition exemption"
+    }
+  ],
   "opportunities": []
 }

@@ -7,84 +7,258 @@
     "country": "Italy",
     "city": "Aosta",
     "campuses": [
-      {"city": "Aosta", "address": "", "notes": "Main campus"}
+      {
+        "city": "Aosta",
+        "address": "",
+        "notes": "Main campus"
+      }
     ],
-    "languages_offered": ["Italian", "French"],
-    "contacts": {"email": "", "phone": "", "address": "Aosta"},
+    "languages_offered": [
+      "Italian",
+      "French"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Aosta"
+    },
     "source_url": "https://www.univda.it",
     "last_checked": "2026-01-05",
     "confidence": 0.9,
     "notes": "Bilingual university (Italian/French) of the Aosta Valley autonomous region. Non-state recognized (non_statale_riconosciuta). ISEE-based fees with 6 brackets."
   },
   "programs": [
-    {"type":"program","university_id":"univda","degree_level":"bachelor","program_name":"Lingue e Comunicazione per l'Impresa e il Turismo","class_code":"L-12","language":["Italian","French"],"campus_city":"Aosta","duration_years":3,"ects_total":180,"source_url":"https://www.univda.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Bilingual university. Accesso libero."},
-    {"type":"program","university_id":"univda","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Aosta","duration_years":3,"ects_total":180,"source_url":"https://www.univda.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Accesso programmato (130 posti). TOLC required."},
-    {"type":"program","university_id":"univda","degree_level":"bachelor","program_name":"Scienze Politiche e delle Relazioni Internazionali","class_code":"L-36","language":["Italian","French"],"campus_city":"Aosta","duration_years":3,"ects_total":180,"source_url":"https://www.univda.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Bilingual. Accesso libero."},
-    {"type":"program","university_id":"univda","degree_level":"bachelor","program_name":"Economia e Management","class_code":"L-18","language":["Italian"],"campus_city":"Aosta","duration_years":3,"ects_total":180,"source_url":"https://www.univda.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Accesso libero."},
-    {"type":"program","university_id":"univda","degree_level":"master","program_name":"Economia e Politiche del Territorio e dell'Impresa","class_code":"LM-56","language":["Italian"],"campus_city":"Aosta","duration_years":2,"ects_total":120,"source_url":"https://www.univda.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"univda","degree_level":"master","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian","French"],"campus_city":"Aosta","duration_years":5,"ects_total":300,"source_url":"https://www.univda.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Accesso programmato nazionale. Bilingual."}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"univda",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "univda",
+      "degree_level": "bachelor",
+      "program_name": "Lingue e Comunicazione per l'Impresa e il Turismo",
+      "class_code": "L-12",
+      "language": [
+        "Italian",
+        "French"
+      ],
+      "campus_city": "Aosta",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.univda.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Bilingual university. Accesso libero.",
+      "program_name_it": "Lingue e Comunicazione per l'Impresa e il Turismo"
     },
-    "intakes":[{
-      "intake_name":"A.A. 2025/2026",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":"",
-      "notes":"Standard academic year"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.univda.it",
-    "source_url":"https://www.univda.it",
-    "last_checked":"2026-01-05",
-    "confidence":0.9,
-    "notes":"Bilingual programs in Italian and French. Some programs have admission requirements."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"univda",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"ISEE bracket 1 (lowest)","amount_min":1261,"amount_max":1261,"currency":"EUR","period":"year","notes":"Lowest income bracket"},
-      {"student_group":"ISEE bracket 6 (highest)","amount_min":3868,"amount_max":3868,"currency":"EUR","period":"year","notes":"Highest income bracket or no ISEE"},
-      {"student_group":"100/100 maturità","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"100% fee waiver for first year"},
-      {"student_group":"100 e lode maturità","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"100% fee waiver for entire degree"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":""},
-      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":""}
-    ],
-    "payment_schedule_notes":"6 ISEE brackets determine tuition. Installment payments available.",
-    "source_url":"https://www.univda.it",
-    "last_checked":"2026-01-05",
-    "confidence":0.9,
-    "notes":"6 ISEE brackets: €1,261-€3,868/year depending on program and income. 100/100 maturità = first year free. 100 e lode = entire degree free."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"univda",
-    "scholarship_name":"Maturità Excellence Waivers",
-    "description":"Full tuition waiver for high achievers",
-    "eligibility":"100/100 or 100 e lode at maturità",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.univda.it",
-    "source_url":"https://www.univda.it",
-    "last_checked":"2026-01-05",
-    "confidence":0.9,
-    "notes":"100/100: first year 100% free. 100 e lode: entire degree 100% free."
-  }],
+    {
+      "type": "program",
+      "university_id": "univda",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Tecniche Psicologiche",
+      "class_code": "L-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Aosta",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.univda.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Accesso programmato (130 posti). TOLC required.",
+      "program_name_en": "Psychological Sciences and Techniques",
+      "program_name_it": "Scienze e Tecniche Psicologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "univda",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Politiche e delle Relazioni Internazionali",
+      "class_code": "L-36",
+      "language": [
+        "Italian",
+        "French"
+      ],
+      "campus_city": "Aosta",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.univda.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Bilingual. Accesso libero.",
+      "program_name_it": "Scienze Politiche e delle Relazioni Internazionali"
+    },
+    {
+      "type": "program",
+      "university_id": "univda",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Management",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Aosta",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.univda.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Accesso libero.",
+      "program_name_en": "Economics and Management",
+      "program_name_it": "Economia e Management"
+    },
+    {
+      "type": "program",
+      "university_id": "univda",
+      "degree_level": "master",
+      "program_name": "Economia e Politiche del Territorio e dell'Impresa",
+      "class_code": "LM-56",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Aosta",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.univda.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Economia e Politiche del Territorio e dell'Impresa"
+    },
+    {
+      "type": "program",
+      "university_id": "univda",
+      "degree_level": "master",
+      "program_name": "Scienze della Formazione Primaria",
+      "class_code": "LM-85 bis",
+      "language": [
+        "Italian",
+        "French"
+      ],
+      "campus_city": "Aosta",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.univda.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico. Accesso programmato nazionale. Bilingual.",
+      "program_name_en": "Primary Education Sciences",
+      "program_name_it": "Scienze della Formazione Primaria"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "univda",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "A.A. 2025/2026",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": "",
+          "notes": "Standard academic year"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.univda.it",
+      "source_url": "https://www.univda.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Bilingual programs in Italian and French. Some programs have admission requirements."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "univda",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE bracket 1 (lowest)",
+          "amount_min": 1261,
+          "amount_max": 1261,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Lowest income bracket"
+        },
+        {
+          "student_group": "ISEE bracket 6 (highest)",
+          "amount_min": 3868,
+          "amount_max": 3868,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Highest income bracket or no ISEE"
+        },
+        {
+          "student_group": "100/100 maturità",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "100% fee waiver for first year"
+        },
+        {
+          "student_group": "100 e lode maturità",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "100% fee waiver for entire degree"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Regional tax",
+          "amount": 140,
+          "currency": "EUR",
+          "notes": ""
+        },
+        {
+          "fee_name": "Stamp duty",
+          "amount": 16,
+          "currency": "EUR",
+          "notes": ""
+        }
+      ],
+      "payment_schedule_notes": "6 ISEE brackets determine tuition. Installment payments available.",
+      "source_url": "https://www.univda.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "6 ISEE brackets: €1,261-€3,868/year depending on program and income. 100/100 maturità = first year free. 100 e lode = entire degree free."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "univda",
+      "scholarship_name": "Maturità Excellence Waivers",
+      "description": "Full tuition waiver for high achievers",
+      "eligibility": "100/100 or 100 e lode at maturità",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.univda.it",
+      "source_url": "https://www.univda.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "100/100: first year 100% free. 100 e lode: entire degree 100% free."
+    }
+  ],
   "opportunities": []
 }

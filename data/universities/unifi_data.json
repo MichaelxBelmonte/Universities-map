@@ -6,185 +6,2120 @@
     "official_url": "https://www.unifi.it",
     "country": "Italy",
     "city": "Florence",
-    "campuses": [{"city": "Florence", "address": "", "notes": "Main campus with multiple locations across Florence"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Florence"},
+    "campuses": [
+      {
+        "city": "Florence",
+        "address": "",
+        "notes": "Main campus with multiple locations across Florence"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Florence"
+    },
     "source_url": "https://www.unifi.it",
     "last_checked": "2026-01-05",
-    "confidence": 1.0,
+    "confidence": 1,
     "notes": "148 degree programs: 64 bachelor, 9 ciclo unico, 75 master. 21 international programs, 18 English-taught. 7 blended programs."
   },
   "programs": [
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Assistenza Sanitaria","class_code":"L/SNT4","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Biotecnologie","class_code":"L-2","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Numero programmato"},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Chimica","class_code":"L-27","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Design Tessile e Moda","class_code":"L-4","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Diagnostica e Materiali per la Conservazione e il Restauro","class_code":"L-43","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Dietistica","class_code":"L/SNT3","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Discipline delle Arti, della Musica e dello Spettacolo (DAMS)","class_code":"L-3","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Economia Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Economia e Commercio","class_code":"L-33","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Educazione Professionale","class_code":"L/SNT2","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Filosofia","class_code":"L-5","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Fisica e Astrofisica","class_code":"L-30","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Fisioterapia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Informatica","class_code":"L-31","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Ingegneria Civile e Ambientale","class_code":"L-7","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Ingegneria Elettronica e delle Telecomunicazioni","class_code":"L-8","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Ingegneria Informatica","class_code":"L-8","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Ingegneria Meccanica","class_code":"L-9","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Lettere","class_code":"L-10","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Lingue, Letterature e Studi Interculturali","class_code":"L-11","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Logopedia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Matematica","class_code":"L-35","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Ostetricia","class_code":"L/SNT1","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Ottica e Optometria","class_code":"L-30","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Podologia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Product Interior Communication and Eco-Social Design","class_code":"L-4","language":["English"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught design program"},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Progettazione e Gestione di Eventi e Imprese dell'Arte e dello Spettacolo","class_code":"L-3","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Scienze Agrarie","class_code":"L-25","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Numero programmato"},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Scienze dell'Educazione e della Formazione","class_code":"L-19","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Numero programmato"},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Numero programmato"},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Scienze e Tecnologie Alimentari","class_code":"L-26","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Scienze Farmaceutiche Applicate - Controllo Qualità","class_code":"L-29","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Numero programmato"},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Scienze Forestali e Ambientali","class_code":"L-25","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Scienze Geologiche","class_code":"L-34","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Scienze Motorie, Sport e Salute","class_code":"L-22","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Scienze Naturali","class_code":"L-32","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Scienze Politiche","class_code":"L-36","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Scienze Turistiche","class_code":"L-15","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Scienze Umanistiche per la Comunicazione","class_code":"L-20","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Scienze Vivaistiche e Progettazione degli Spazi Verdi","class_code":"L-25","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Nuovo 2025-26"},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Servizio Sociale","class_code":"L-39","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Statistica","class_code":"L-41","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Storia","class_code":"L-42","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Storia e Tutela dei Beni Archeologici, Artistici, Archivistici e Librari","class_code":"L-1","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Tecniche Audiometriche","class_code":"L/SNT3","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Tecniche Audioprotesiche","class_code":"L/SNT3","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Tecniche di Laboratorio Biomedico","class_code":"L/SNT3","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Tecniche di Radiologia Medica","class_code":"L/SNT3","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Tecniche e Tecnologie per le Costruzioni e il Territorio","class_code":"LP-01","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Laurea professionalizzante"},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Tecniche Ortopediche","class_code":"L/SNT3","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Tecnologie e Trasformazioni Avanzate per il Settore Legno Arredo Edilizia","class_code":"LP-02","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Laurea professionalizzante"},
-    {"type":"program","university_id":"unifi","degree_level":"bachelor","program_name":"Viticoltura ed Enologia","class_code":"L-25","language":["Italian"],"campus_city":"Florence","duration_years":3,"ects_total":180,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Interateneo con Pisa"},
-    {"type":"program","university_id":"unifi","degree_level":"ciclo_unico","program_name":"Architettura","class_code":"LM-4 c.u.","language":["Italian"],"campus_city":"Florence","duration_years":5,"ects_total":300,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"ciclo_unico","program_name":"Chimica e Tecnologia Farmaceutiche","class_code":"LM-13","language":["Italian"],"campus_city":"Florence","duration_years":5,"ects_total":300,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"ciclo_unico","program_name":"Farmacia","class_code":"LM-13","language":["Italian"],"campus_city":"Florence","duration_years":5,"ects_total":300,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"ciclo_unico","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Florence","duration_years":5,"ects_total":300,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"ciclo_unico","program_name":"Giurisprudenza Italiana e Francese","class_code":"LMG/01","language":["Italian","French"],"campus_city":"Florence","duration_years":5,"ects_total":300,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Doppio titolo"},
-    {"type":"program","university_id":"unifi","degree_level":"ciclo_unico","program_name":"Giurisprudenza Italiana e Tedesca","class_code":"LMG/01","language":["Italian","German"],"campus_city":"Florence","duration_years":5,"ects_total":300,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Doppio titolo"},
-    {"type":"program","university_id":"unifi","degree_level":"ciclo_unico","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Florence","duration_years":6,"ects_total":360,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Numero programmato nazionale"},
-    {"type":"program","university_id":"unifi","degree_level":"ciclo_unico","program_name":"Odontoiatria e Protesi Dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Florence","duration_years":6,"ects_total":360,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Numero programmato nazionale"},
-    {"type":"program","university_id":"unifi","degree_level":"ciclo_unico","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Florence","duration_years":5,"ects_total":300,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Numero programmato"},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Advanced Molecular Sciences","class_code":"LM-54","language":["English"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Antropologia Culturale ed Etnologia","class_code":"LM-1","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Archeologia","class_code":"LM-2","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Architettura del Paesaggio","class_code":"LM-3","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Biologia","class_code":"LM-6","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Biotecnologie Molecolari","class_code":"LM-8","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Chimica","class_code":"LM-54","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Design Sistema Moda","class_code":"LM-12","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Economics and Development","class_code":"LM-56","language":["English"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Filologia Moderna","class_code":"LM-14","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Filologia, Letterature e Storia dell'Antichità","class_code":"LM-15","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Filosofia","class_code":"LM-78","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Fisica e Astrofisica","class_code":"LM-17","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Geoengineering","class_code":"LM-35","language":["English"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught, geohydrological risk reduction"},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Informatica","class_code":"LM-18","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Ingegneria Civile","class_code":"LM-23","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Ingegneria Edile","class_code":"LM-24","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Ingegneria Elettrica e dell'Automazione","class_code":"LM-25","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Ingegneria Elettronica","class_code":"LM-29","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Ingegneria Energetica","class_code":"LM-30","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Ingegneria Gestionale","class_code":"LM-31","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Ingegneria Informatica","class_code":"LM-32","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Ingegneria Meccanica","class_code":"LM-33","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Lingue e Letterature Europee e Americane","class_code":"LM-37","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Logica, Filosofia delle Scienze e Metodi della Ricerca","class_code":"LM-78","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Nuovo 2025-26, con IMT Lucca"},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Matematica","class_code":"LM-40","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Psicologia Clinica e della Salute","class_code":"LM-51","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Relazioni Internazionali e Studi Europei","class_code":"LM-52","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Scienze dell'Alimentazione","class_code":"LM-61","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Scienze della Nutrizione Umana","class_code":"LM-61","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Scienze e Materiali per la Conservazione e il Restauro","class_code":"LM-11","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Scienze e Tecnologie Agrarie","class_code":"LM-69","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Scienze e Tecnologie Geologiche","class_code":"LM-74","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Scienze Infermieristiche e Ostetriche","class_code":"LM/SNT1","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Scienze Naturali","class_code":"LM-60","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Scienze Riabilitative delle Professioni Sanitarie","class_code":"LM/SNT2","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Servizio Sociale e Politiche Sociali","class_code":"LM-87","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Statistica e Data Science","class_code":"LM-82","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Storia dell'Arte","class_code":"LM-89","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Storia e Civiltà","class_code":"LM-84","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Strategie e Tecniche della Comunicazione","class_code":"LM-59","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Studi Geografici e Antropologici","class_code":"LM-80","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Traduzione Letteraria e Saggistica","class_code":"LM-37","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unifi","degree_level":"master","program_name":"Turismo, Strategie e Territorio","class_code":"LM-49","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.unifi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"unifi",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Assistenza Sanitaria",
+      "class_code": "L/SNT4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Healthcare Assistance"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"July 1",
-      "application_deadline":"",
-      "start_date":"September"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.unifi.it/en/study-us/access-and-enrolment",
-    "source_url":"https://www.unifi.it",
-    "last_checked":"2026-01-05",
-    "confidence":0.9,
-    "notes":"Immatricolazioni dal 1° luglio per accesso libero. Corsi a numero programmato hanno scadenze specifiche."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"unifi",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"ISEE ≤ 24000","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"No Tax Area - extended threshold"},
-      {"student_group":"ISEE 24001-26000","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Pay 50% of fees"},
-      {"student_group":"ISEE 26001-28000","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Pay 75% of fees"},
-      {"student_group":"ISEE 28001-30000","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"10% discount"},
-      {"student_group":"ISEE > 30000","amount_min":156,"amount_max":3500,"currency":"EUR","period":"year","notes":"Full fees based on ISEE"},
-      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"DSU regional tax"},
-      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":"Virtual stamp"}
-    ],
-    "payment_schedule_notes":"Fees paid in two installments. Regional tax + stamp in first rate.",
-    "source_url":"https://www.unifi.it/en/study-us/access-and-enrolment/fees-and-charges",
-    "last_checked":"2026-01-05",
-    "confidence":0.95,
-    "notes":"No tax area €24,000 (above national €22K). Living costs 700-900 EUR/month in Florence."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"unifi",
-    "scholarship_name":"DSU Toscana Regional Scholarship",
-    "description":"Regional scholarship for students with low ISEE covering tuition, accommodation, meals",
-    "eligibility":"ISEE threshold + merit requirements",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.dsu.toscana.it",
-    "source_url":"https://www.unifi.it",
-    "last_checked":"2026-01-05",
-    "confidence":0.8,
-    "notes":"ARDSU Toscana manages regional scholarships for all Tuscan universities."
-  }],
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Biotecnologie",
+      "class_code": "L-2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Numero programmato",
+      "program_name_en": "Biotechnology"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Chimica",
+      "class_code": "L-27",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Chemistry"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Design Tessile e Moda",
+      "class_code": "L-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Design Tessile e Moda"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Diagnostica e Materiali per la Conservazione e il Restauro",
+      "class_code": "L-43",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Dietistica",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Dietetics"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Discipline delle Arti, della Musica e dello Spettacolo (DAMS)",
+      "class_code": "L-3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Economia Aziendale",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Business Administration",
+      "program_name_it": "Economia Aziendale"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Commercio",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics and Commercio",
+      "program_name_it": "Economia e Commercio"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Educazione Professionale",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Professional Education"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Filosofia",
+      "class_code": "L-5",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Philosophy",
+      "program_name_it": "Filosofia"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Fisica e Astrofisica",
+      "class_code": "L-30",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Physics and Astrofisica"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Fisioterapia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Physiotherapy"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Infermieristica",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Nursing"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Informatica",
+      "class_code": "L-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Computer Science",
+      "program_name_it": "Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Civile e Ambientale",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Civil and Environmental Engineering",
+      "program_name_it": "Ingegneria Civile e Ambientale"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Elettronica e delle Telecomunicazioni",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Elettronica e delle Telecomunicazioni"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Informatica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Computer Engineering",
+      "program_name_it": "Ingegneria Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Meccanica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mechanical Engineering",
+      "program_name_it": "Ingegneria Meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Lettere",
+      "class_code": "L-10",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Humanities",
+      "program_name_it": "Lettere"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Lingue, Letterature e Studi Interculturali",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Logopedia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Speech Therapy"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Matematica",
+      "class_code": "L-35",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Ostetricia",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Midwifery"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Ottica e Optometria",
+      "class_code": "L-30",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Ottica and Optometria"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Podologia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Podiatry"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Product Interior Communication and Eco-Social Design",
+      "class_code": "L-4",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught design program",
+      "program_name_it": "Product Interior Comunicazione e Eco-Social Design"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Progettazione e Gestione di Eventi e Imprese dell'Arte e dello Spettacolo",
+      "class_code": "L-3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Progettazione e Gestione di Eventi e Imprese dell'Arte e dello Spettacolo"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Agrarie",
+      "class_code": "L-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Agrarie"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Biologiche",
+      "class_code": "L-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Numero programmato",
+      "program_name_en": "Biological Sciences",
+      "program_name_it": "Scienze Biologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "class_code": "L-19",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Numero programmato",
+      "program_name_it": "Scienze dell'Educazione e della Formazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Tecniche Psicologiche",
+      "class_code": "L-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Numero programmato",
+      "program_name_en": "Psychological Sciences and Techniques",
+      "program_name_it": "Scienze e Tecniche Psicologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Tecnologie Alimentari",
+      "class_code": "L-26",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Food Science and Technology",
+      "program_name_it": "Scienze e Tecnologie Alimentari"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Farmaceutiche Applicate - Controllo Qualità",
+      "class_code": "L-29",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Numero programmato",
+      "program_name_it": "Scienze Farmaceutiche Applicate - Controllo Qualità"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Forestali e Ambientali",
+      "class_code": "L-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Forestali e Ambientali"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Geologiche",
+      "class_code": "L-34",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Geological Sciences",
+      "program_name_it": "Scienze Geologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Motorie, Sport e Salute",
+      "class_code": "L-22",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Sport Sciences, Sport and Health",
+      "program_name_it": "Scienze Motorie, Sport e Salute"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Naturali",
+      "class_code": "L-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Natural Sciences",
+      "program_name_it": "Scienze Naturali"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Politiche",
+      "class_code": "L-36",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Political Science",
+      "program_name_it": "Scienze Politiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Turistiche",
+      "class_code": "L-15",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Turistiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Umanistiche per la Comunicazione",
+      "class_code": "L-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Umanistiche per la Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Vivaistiche e Progettazione degli Spazi Verdi",
+      "class_code": "L-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Nuovo 2025-26",
+      "program_name_it": "Scienze Vivaistiche e Progettazione degli Spazi Verdi"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Servizio Sociale",
+      "class_code": "L-39",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Servizio Sociale"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Statistica",
+      "class_code": "L-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Statistics"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Storia",
+      "class_code": "L-42",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "History",
+      "program_name_it": "Storia"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Storia e Tutela dei Beni Archeologici, Artistici, Archivistici e Librari",
+      "class_code": "L-1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Storia e Tutela dei Beni Archeologici, Artistici, Archivistici e Librari"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche Audiometriche",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Tandcniche Audiometriche"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche Audioprotesiche",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Hearing Aid Techniques"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche di Laboratorio Biomedico",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biomedical Laboratory Techniques"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche di Radiologia Medica",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Medical Radiology Techniques"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche e Tecnologie per le Costruzioni e il Territorio",
+      "class_code": "LP-01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Laurea professionalizzante",
+      "program_name_it": "Tecniche e Tecnologie per le Costruzioni e il Territorio"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche Ortopediche",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Tandcniche Ortopediche"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Tecnologie e Trasformazioni Avanzate per il Settore Legno Arredo Edilizia",
+      "class_code": "LP-02",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Laurea professionalizzante"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "bachelor",
+      "program_name": "Viticoltura ed Enologia",
+      "class_code": "L-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Interateneo con Pisa",
+      "program_name_en": "Viticoltura ed Enologia"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Architettura",
+      "class_code": "LM-4 c.u.",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Architecture",
+      "program_name_it": "Architettura"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Chimica e Tecnologia Farmaceutiche",
+      "class_code": "LM-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Pharmaceutical Chemistry and Technology"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Farmacia",
+      "class_code": "LM-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Pharmacy"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Giurisprudenza Italiana e Francese",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian",
+        "French"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Doppio titolo",
+      "program_name_en": "Law Italiana and Francese",
+      "program_name_it": "Giurisprudenza Italiana e Francese"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Giurisprudenza Italiana e Tedesca",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian",
+        "German"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Doppio titolo",
+      "program_name_en": "Law Italiana and Tedesca",
+      "program_name_it": "Giurisprudenza Italiana e Tedesca"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Medicina e Chirurgia",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Numero programmato nazionale",
+      "program_name_en": "Medicine and Surgery",
+      "program_name_it": "Medicina e Chirurgia"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Odontoiatria e Protesi Dentaria",
+      "class_code": "LM-46",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Numero programmato nazionale",
+      "program_name_en": "Dentistry and Dental Prosthetics"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Scienze della Formazione Primaria",
+      "class_code": "LM-85 bis",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Numero programmato",
+      "program_name_en": "Primary Education Sciences",
+      "program_name_it": "Scienze della Formazione Primaria"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Advanced Molecular Sciences",
+      "class_code": "LM-54",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Advanced Molecular Scienze",
+      "program_name_en": "Advanced Molecular Sciences"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Antropologia Culturale ed Etnologia",
+      "class_code": "LM-1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Anthropology Culturaland ed Etnologia"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Archeologia",
+      "class_code": "LM-2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Archaeology"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Architettura del Paesaggio",
+      "class_code": "LM-3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Landscape Architecture",
+      "program_name_it": "Architettura del Paesaggio"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Biologia",
+      "class_code": "LM-6",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biology"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Biotecnologie Molecolari",
+      "class_code": "LM-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biotandchnology Molecolari"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Chimica",
+      "class_code": "LM-54",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Chemistry"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Design Sistema Moda",
+      "class_code": "LM-12",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Design Sistema Fashion",
+      "program_name_it": "Design Sistema Moda"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Economics and Development",
+      "class_code": "LM-56",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Economia e Development",
+      "program_name_en": "Economics and Development"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Filologia Moderna",
+      "class_code": "LM-14",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Filologia Moderna"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Filologia, Letterature e Storia dell'Antichità",
+      "class_code": "LM-15",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Filologia, Letterature e Storia dell'Antichità"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Filosofia",
+      "class_code": "LM-78",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Philosophy",
+      "program_name_it": "Filosofia"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Fisica e Astrofisica",
+      "class_code": "LM-17",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Physics and Astrofisica"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Geoengineering",
+      "class_code": "LM-35",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught, geohydrological risk reduction",
+      "program_name_en": "Geoengineering",
+      "program_name_it": "Geoingegneria"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Informatica",
+      "class_code": "LM-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Computer Science",
+      "program_name_it": "Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Ingegneria Civile",
+      "class_code": "LM-23",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Civil Engineering",
+      "program_name_it": "Ingegneria Civile"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Ingegneria Edile",
+      "class_code": "LM-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Building Engineering",
+      "program_name_it": "Ingegneria Edile"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Ingegneria Elettrica e dell'Automazione",
+      "class_code": "LM-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Elettrica e dell'Automazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Ingegneria Elettronica",
+      "class_code": "LM-29",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Electronic Engineering",
+      "program_name_it": "Ingegneria Elettronica"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Ingegneria Energetica",
+      "class_code": "LM-30",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Energy Engineering",
+      "program_name_it": "Ingegneria Energetica"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Ingegneria Gestionale",
+      "class_code": "LM-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Management Engineering",
+      "program_name_it": "Ingegneria Gestionale"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Ingegneria Informatica",
+      "class_code": "LM-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Computer Engineering",
+      "program_name_it": "Ingegneria Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Ingegneria Meccanica",
+      "class_code": "LM-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mechanical Engineering",
+      "program_name_it": "Ingegneria Meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Lingue e Letterature Europee e Americane",
+      "class_code": "LM-37",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Logica, Filosofia delle Scienze e Metodi della Ricerca",
+      "class_code": "LM-78",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Nuovo 2025-26, con IMT Lucca",
+      "program_name_it": "Logica, Filosofia delle Scienze e Metodi della Ricerca"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Matematica",
+      "class_code": "LM-40",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Psicologia Clinica e della Salute",
+      "class_code": "LM-51",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Clinical Psychology and of the Salute",
+      "program_name_it": "Psicologia Clinica e della Salute"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Relazioni Internazionali e Studi Europei",
+      "class_code": "LM-52",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Scienze dell'Alimentazione",
+      "class_code": "LM-61",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze dell'Alimentazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Scienze della Nutrizione Umana",
+      "class_code": "LM-61",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze della Nutrizione Umana"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Scienze e Materiali per la Conservazione e il Restauro",
+      "class_code": "LM-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze e Materiali per la Conservazione e il Restauro"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Scienze e Tecnologie Agrarie",
+      "class_code": "LM-69",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Agricultural Sciences and Technologies",
+      "program_name_it": "Scienze e Tecnologie Agrarie"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Scienze e Tecnologie Geologiche",
+      "class_code": "LM-74",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze e Tecnologie Geologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Scienze Infermieristiche e Ostetriche",
+      "class_code": "LM/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Infermieristiche e Ostetriche"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Scienze Naturali",
+      "class_code": "LM-60",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Natural Sciences",
+      "program_name_it": "Scienze Naturali"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Scienze Riabilitative delle Professioni Sanitarie",
+      "class_code": "LM/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Riabilitative delle Professioni Sanitarie"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Servizio Sociale e Politiche Sociali",
+      "class_code": "LM-87",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Statistica e Data Science",
+      "class_code": "LM-82",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Statistics and Data Science"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Storia dell'Arte",
+      "class_code": "LM-89",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Art History",
+      "program_name_it": "Storia dell'Arte"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Storia e Civiltà",
+      "class_code": "LM-84",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "History and Civiltà",
+      "program_name_it": "Storia e Civiltà"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Strategie e Tecniche della Comunicazione",
+      "class_code": "LM-59",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Strategie e Tecniche della Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Studi Geografici e Antropologici",
+      "class_code": "LM-80",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Traduzione Letteraria e Saggistica",
+      "class_code": "LM-37",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unifi",
+      "degree_level": "master",
+      "program_name": "Turismo, Strategie e Territorio",
+      "class_code": "LM-49",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Turismo, Strategie e Territorio"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unifi",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "July 1",
+          "application_deadline": "",
+          "start_date": "September"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unifi.it/en/study-us/access-and-enrolment",
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Immatricolazioni dal 1° luglio per accesso libero. Corsi a numero programmato hanno scadenze specifiche."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unifi",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE ≤ 24000",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area - extended threshold"
+        },
+        {
+          "student_group": "ISEE 24001-26000",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Pay 50% of fees"
+        },
+        {
+          "student_group": "ISEE 26001-28000",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Pay 75% of fees"
+        },
+        {
+          "student_group": "ISEE 28001-30000",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "10% discount"
+        },
+        {
+          "student_group": "ISEE > 30000",
+          "amount_min": 156,
+          "amount_max": 3500,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full fees based on ISEE"
+        },
+        {
+          "student_group": "Disability ≥66% or L.104",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Regional tax",
+          "amount": 140,
+          "currency": "EUR",
+          "notes": "DSU regional tax"
+        },
+        {
+          "fee_name": "Stamp duty",
+          "amount": 16,
+          "currency": "EUR",
+          "notes": "Virtual stamp"
+        }
+      ],
+      "payment_schedule_notes": "Fees paid in two installments. Regional tax + stamp in first rate.",
+      "source_url": "https://www.unifi.it/en/study-us/access-and-enrolment/fees-and-charges",
+      "last_checked": "2026-01-05",
+      "confidence": 0.95,
+      "notes": "No tax area €24,000 (above national €22K). Living costs 700-900 EUR/month in Florence."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "unifi",
+      "scholarship_name": "DSU Toscana Regional Scholarship",
+      "description": "Regional scholarship for students with low ISEE covering tuition, accommodation, meals",
+      "eligibility": "ISEE threshold + merit requirements",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.dsu.toscana.it",
+      "source_url": "https://www.unifi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.8,
+      "notes": "ARDSU Toscana manages regional scholarships for all Tuscan universities."
+    }
+  ],
   "opportunities": []
 }

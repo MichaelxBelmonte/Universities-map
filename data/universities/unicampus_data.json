@@ -6,79 +6,200 @@
     "official_url": "https://www.unicampus.it",
     "country": "Italy",
     "city": "Rome",
-    "campuses": [{"city": "Rome", "address": "", "notes": "Trigoria campus with hospital"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "campuses": [
+      {
+        "city": "Rome",
+        "address": "",
+        "notes": "Trigoria campus with hospital"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Rome"
+    },
     "source_url": "https://www.unicampus.it",
     "last_checked": "2026-01-04",
     "confidence": 0.95,
     "notes": "Private medical university. Associated with Campus Bio-Medico Hospital. Medicine in Italian and English (MedTech). Strong research focus."
   },
   "programs": [
-    {"type":"program","university_id":"unicampus","degree_level":"single_cycle","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Rome","duration_years":6,"ects_total":360,"department":"Medicine","source_url":"https://www.unicampus.it","last_checked":"2026-01-04","confidence":0.95,"notes":"€14,900/year"},
-    {"type":"program","university_id":"unicampus","degree_level":"single_cycle","program_name":"Medicine and Surgery / MedTech","class_code":"LM-41","language":["English"],"campus_city":"Rome","duration_years":6,"ects_total":360,"department":"Medicine","source_url":"https://www.unicampus.it","last_checked":"2026-01-04","confidence":0.95,"notes":"€18,000/year"}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"unicampus",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[{"test_name":"Campus Bio-Medico Test","min_score":"","notes":"Competitive entrance exam"}],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "unicampus",
+      "degree_level": "single_cycle",
+      "program_name": "Medicina e Chirurgia",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 6,
+      "ects_total": 360,
+      "department": "Medicine",
+      "source_url": "https://www.unicampus.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "€14,900/year",
+      "program_name_en": "Medicine and Surgery",
+      "program_name_it": "Medicina e Chirurgia"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":""
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.unicampus.it/en/ammissioni-corsi-di-laurea",
-    "source_url":"https://www.unicampus.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Selective admission test. Bando 2024/25 and 2025/26 available."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"unicampus",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"Medicine Italian","amount_min":14900,"amount_max":14900,"currency":"EUR","period":"year","notes":"3 installments: €6,900 + €4,000 + €4,000"},
-      {"student_group":"Medicine/MedTech English","amount_min":18000,"amount_max":18000,"currency":"EUR","period":"year","notes":"3 installments: €8,000 + €5,000 + €5,000"},
-      {"student_group":"Low ISEE","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"20% reduction available"},
-      {"student_group":"Large family (4+ children < 26)","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"20% reduction"},
-      {"student_group":"Same family students","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"20% reduction"},
-      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption incl. regional tax"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"2024"}
-    ],
-    "payment_schedule_notes":"3 installments: 1st at enrollment, 2nd in January, 3rd mid-April.",
-    "source_url":"https://www.unicampus.it/en/ammissioni-corsi-di-laurea/tasse-e-contributi/",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"Medicine IT €14,900, EN €18,000. 20% discounts: ISEE-based, large families, siblings. Disability = full exemption. Student loans available."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"unicampus",
-    "scholarship_name":"Campus Bio-Medico Merit Scholarship",
-    "description":"Full or partial scholarships based on merit and income",
-    "eligibility":"Merit and ISEE criteria",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.unicampus.it",
-    "source_url":"https://www.unicampus.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Full or partial coverage. Student loans also available for capable students."
-  }],
+    {
+      "type": "program",
+      "university_id": "unicampus",
+      "degree_level": "single_cycle",
+      "program_name": "Medicine and Surgery / MedTech",
+      "class_code": "LM-41",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 6,
+      "ects_total": 360,
+      "department": "Medicine",
+      "source_url": "https://www.unicampus.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "€18,000/year",
+      "program_name_it": "Medicina e Chirurgia / MedTech",
+      "program_name_en": "Medicine and Surgery / MedTech"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unicampus",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [
+          {
+            "test_name": "Campus Bio-Medico Test",
+            "min_score": "",
+            "notes": "Competitive entrance exam"
+          }
+        ],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unicampus.it/en/ammissioni-corsi-di-laurea",
+      "source_url": "https://www.unicampus.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Selective admission test. Bando 2024/25 and 2025/26 available."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unicampus",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "Medicine Italian",
+          "amount_min": 14900,
+          "amount_max": 14900,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "3 installments: €6,900 + €4,000 + €4,000"
+        },
+        {
+          "student_group": "Medicine/MedTech English",
+          "amount_min": 18000,
+          "amount_max": 18000,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "3 installments: €8,000 + €5,000 + €5,000"
+        },
+        {
+          "student_group": "Low ISEE",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "20% reduction available"
+        },
+        {
+          "student_group": "Large family (4+ children < 26)",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "20% reduction"
+        },
+        {
+          "student_group": "Same family students",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "20% reduction"
+        },
+        {
+          "student_group": "Disability ≥66% or L.104",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption incl. regional tax"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Regional tax",
+          "amount": 140,
+          "currency": "EUR",
+          "notes": "2024"
+        }
+      ],
+      "payment_schedule_notes": "3 installments: 1st at enrollment, 2nd in January, 3rd mid-April.",
+      "source_url": "https://www.unicampus.it/en/ammissioni-corsi-di-laurea/tasse-e-contributi/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "Medicine IT €14,900, EN €18,000. 20% discounts: ISEE-based, large families, siblings. Disability = full exemption. Student loans available."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "unicampus",
+      "scholarship_name": "Campus Bio-Medico Merit Scholarship",
+      "description": "Full or partial scholarships based on merit and income",
+      "eligibility": "Merit and ISEE criteria",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.unicampus.it",
+      "source_url": "https://www.unicampus.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Full or partial coverage. Student loans also available for capable students."
+    }
+  ],
   "opportunities": []
 }

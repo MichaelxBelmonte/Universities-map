@@ -1,0 +1,227 @@
+[
+  {
+    "file": "hunimed_data.json",
+    "name": "MEDTEC School",
+    "type": "needs_italian"
+  },
+  {
+    "file": "imtlucca_data.json",
+    "name": "Cultural Systems",
+    "type": "needs_italian"
+  },
+  {
+    "file": "imtlucca_data.json",
+    "name": "Systems Science",
+    "type": "needs_italian"
+  },
+  {
+    "file": "johncabot_data.json",
+    "name": "Psychological Science",
+    "type": "needs_italian"
+  },
+  {
+    "file": "johncabot_data.json",
+    "name": "English Literature",
+    "type": "needs_italian"
+  },
+  {
+    "file": "liuc_data.json",
+    "name": "Manufacturing Strategy",
+    "type": "needs_italian"
+  },
+  {
+    "file": "polimi_data.json",
+    "name": "Management of Built Environment",
+    "type": "needs_italian"
+  },
+  {
+    "file": "santanna_data.json",
+    "name": "PhD in Law",
+    "type": "needs_english"
+  },
+  {
+    "file": "unibo_data.json",
+    "name": "Astronomia",
+    "type": "needs_english"
+  },
+  {
+    "file": "unibz_data.json",
+    "name": "Social Education",
+    "type": "needs_english"
+  },
+  {
+    "file": "unibz_data.json",
+    "name": "Social Work",
+    "type": "needs_english"
+  },
+  {
+    "file": "unibz_data.json",
+    "name": "Critical Creative Practices",
+    "type": "needs_italian"
+  },
+  {
+    "file": "unibz_data.json",
+    "name": "Data Analytics",
+    "type": "needs_italian"
+  },
+  {
+    "file": "unicatt_data.json",
+    "name": "Linguistic Computing",
+    "type": "needs_italian"
+  },
+  {
+    "file": "unict_data.json",
+    "name": "Ortottica",
+    "type": "needs_english"
+  },
+  {
+    "file": "unict_data.json",
+    "name": "Fisica",
+    "type": "needs_italian"
+  },
+  {
+    "file": "unict_data.json",
+    "name": "Biologia",
+    "type": "needs_english"
+  },
+  {
+    "file": "unict_data.json",
+    "name": "Scienze e Tecnologie Agrarie",
+    "type": "needs_italian"
+  },
+  {
+    "file": "unict_data.json",
+    "name": "Filologia Classica",
+    "type": "needs_english"
+  },
+  {
+    "file": "unifi_data.json",
+    "name": "Biologia",
+    "type": "needs_english"
+  },
+  {
+    "file": "unifi_data.json",
+    "name": "Geoengineering",
+    "type": "needs_italian"
+  },
+  {
+    "file": "unige_data.json",
+    "name": "Yacht Design",
+    "type": "needs_italian"
+  },
+  {
+    "file": "unimore_data.json",
+    "name": "Digital Education",
+    "type": "needs_english"
+  },
+  {
+    "file": "unina_data.json",
+    "name": "Biologia",
+    "type": "needs_english"
+  },
+  {
+    "file": "unipd_data.json",
+    "name": "Astronomia",
+    "type": "needs_english"
+  },
+  {
+    "file": "unipd_data.json",
+    "name": "DAMS",
+    "type": "needs_english"
+  },
+  {
+    "file": "unipd_data.json",
+    "name": "Bioengineering",
+    "type": "needs_italian"
+  },
+  {
+    "file": "unipd_data.json",
+    "name": "Astronomy",
+    "type": "needs_italian"
+  },
+  {
+    "file": "unipd_data.json",
+    "name": "Biotechnologies",
+    "type": "needs_italian"
+  },
+  {
+    "file": "unipg_data.json",
+    "name": "Biologia",
+    "type": "needs_english"
+  },
+  {
+    "file": "unipg_data.json",
+    "name": "Italianistica",
+    "type": "needs_english"
+  },
+  {
+    "file": "unipi_data.json",
+    "name": "Italianistica",
+    "type": "needs_english"
+  },
+  {
+    "file": "unipr_data.json",
+    "name": "New Bachelor in English",
+    "type": "needs_italian"
+  },
+  {
+    "file": "uniroma1_data.json",
+    "name": "Classics",
+    "type": "needs_italian"
+  },
+  {
+    "file": "uniroma1_data.json",
+    "name": "Biochemistry",
+    "type": "needs_italian"
+  },
+  {
+    "file": "unisi_data.json",
+    "name": "Biologia",
+    "type": "needs_english"
+  },
+  {
+    "file": "unitn_data.json",
+    "name": "Agrifood Innovation Management",
+    "type": "needs_italian"
+  },
+  {
+    "file": "unitn_data.json",
+    "name": "Innovation Management (MAIN)",
+    "type": "needs_italian"
+  },
+  {
+    "file": "unitn_data.json",
+    "name": "Cognitive Science",
+    "type": "needs_italian"
+  },
+  {
+    "file": "unitn_data.json",
+    "name": "Psychology",
+    "type": "needs_english"
+  },
+  {
+    "file": "unitn_data.json",
+    "name": "Human-Computer Interaction",
+    "type": "needs_italian"
+  },
+  {
+    "file": "uniud_data.json",
+    "name": "Italianistica",
+    "type": "needs_english"
+  },
+  {
+    "file": "uniud_data.json",
+    "name": "Management & Business Analytics",
+    "type": "needs_italian"
+  },
+  {
+    "file": "univaq_data.json",
+    "name": "Mathematical Modelling",
+    "type": "needs_italian"
+  },
+  {
+    "file": "univaq_data.json",
+    "name": "Neurosciences",
+    "type": "needs_italian"
+  }
+]
