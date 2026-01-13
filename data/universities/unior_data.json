@@ -6,48 +6,304 @@
     "official_url": "https://www.unior.it",
     "country": "Italy",
     "city": "Naples",
-    "campuses": [{"city": "Naples", "address": "Palazzo Du Mesnil, Via Chiatamone 61/62, 80121 Napoli", "notes": "Main campus"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "ateneo@pec.unior.it", "phone": "+390816909000", "address": "Palazzo Du Mesnil, Via Chiatamone 61/62, 80121 Napoli"},
+    "campuses": [
+      {
+        "city": "Naples",
+        "address": "Palazzo Du Mesnil, Via Chiatamone 61/62, 80121 Napoli",
+        "notes": "Main campus"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "ateneo@pec.unior.it",
+      "phone": "+390816909000",
+      "address": "Palazzo Du Mesnil, Via Chiatamone 61/62, 80121 Napoli"
+    },
     "source_url": "https://www.unior.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "18 degree programs, 1100 courses. Specializes in Oriental studies and languages."
   },
   "programs": [
-    {"type":"program","university_id":"unior","degree_level":"bachelor","program_name":"Lingue e Culture Orientali e Africane","class_code":"L-11","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.unior.it","last_checked":"2026-01-10","confidence":0.9,"notes":"TOLC-SU required. B1 English required."},
-    {"type":"program","university_id":"unior","degree_level":"bachelor","program_name":"Lingue, Letterature e Culture Europee e Americane","class_code":"L-11","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.unior.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unior","degree_level":"bachelor","program_name":"Relazioni Internazionali","class_code":"L-36","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.unior.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unior","degree_level":"bachelor","program_name":"Mediazione Linguistica e Culturale","class_code":"L-12","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.unior.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unior","degree_level":"master","program_name":"Lingue e Civiltà Orientali","class_code":"LM-36","language":["Italian"],"campus_city":"Naples","duration_years":2,"ects_total":120,"source_url":"https://www.unior.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"unior","degree_level":"master","program_name":"Letterature e Culture Comparate","class_code":"LM-37","language":["Italian"],"campus_city":"Naples","duration_years":2,"ects_total":120,"source_url":"https://www.unior.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"unior","degree_level":"master","program_name":"Relazioni e Istituzioni dell'Asia e dell'Africa","class_code":"LM-52","language":["Italian"],"campus_city":"Naples","duration_years":2,"ects_total":120,"source_url":"https://www.unior.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"unior","degree_level":"master","program_name":"International Relations (Double Degree)","class_code":"LM-52","language":["English"],"campus_city":"Naples","duration_years":2,"ects_total":120,"source_url":"https://www.unior.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Double degree with INALCO Paris."},
-    {"type":"program","university_id":"unior","degree_level":"master","program_name":"Archeologia: Asia, Africa e Mediterraneo","class_code":"LM-02","language":["Italian"],"campus_city":"Naples","duration_years":2,"ects_total":120,"source_url":"https://www.unior.it","last_checked":"2026-01-10","confidence":0.85,"notes":""}
+    {
+      "type": "program",
+      "university_id": "unior",
+      "degree_level": "bachelor",
+      "program_name": "Lingue e Culture Orientali e Africane",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unior.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "TOLC-SU required. B1 English required."
+    },
+    {
+      "type": "program",
+      "university_id": "unior",
+      "degree_level": "bachelor",
+      "program_name": "Lingue, Letterature e Culture Europee e Americane",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unior.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unior",
+      "degree_level": "bachelor",
+      "program_name": "Relazioni Internazionali",
+      "class_code": "L-36",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unior.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "International Relations"
+    },
+    {
+      "type": "program",
+      "university_id": "unior",
+      "degree_level": "bachelor",
+      "program_name": "Mediazione Linguistica e Culturale",
+      "class_code": "L-12",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unior.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Linguistic and Cultural Mediation"
+    },
+    {
+      "type": "program",
+      "university_id": "unior",
+      "degree_level": "master",
+      "program_name": "Lingue e Civiltà Orientali",
+      "class_code": "LM-36",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unior.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unior",
+      "degree_level": "master",
+      "program_name": "Letterature e Culture Comparate",
+      "class_code": "LM-37",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unior.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unior",
+      "degree_level": "master",
+      "program_name": "Relazioni e Istituzioni dell'Asia e dell'Africa",
+      "class_code": "LM-52",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unior.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unior",
+      "degree_level": "master",
+      "program_name": "International Relations (Double Degree)",
+      "class_code": "LM-52",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unior.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Double degree with INALCO Paris.",
+      "program_name_it": "Relazioni Internazionali (Double Degree)",
+      "program_name_en": "International Relations (Double Degree)"
+    },
+    {
+      "type": "program",
+      "university_id": "unior",
+      "degree_level": "master",
+      "program_name": "Archeologia: Asia, Africa e Mediterraneo",
+      "class_code": "LM-02",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unior.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": ""
+    }
   ],
-  "admissions": [{"type":"admissions","university_id":"unior","program_name":"","degree_level_scope":"general","applicant_scope":"all","requirements":{"academic_requirements":"Secondary school diploma","documents_required":[],"tests_required":[],"portfolio_required":false,"interview_required":false},"intakes":[{"intake_name":"fall","application_open_date":"","application_deadline":"2026-02-28","start_date":""}],"application_fee":{"amount":null,"currency":"EUR","notes":""},"how_to_apply_url":"https://www.unior.it","source_url":"http://www.unior.it/it","last_checked":"2026-01-04","confidence":0.8,"notes":"Late enrollment for magistrale until Feb 28, 2026. ESSE3 online portal."}],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"unior",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"No Tax Area (ISEE ≤ €27,726)","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption per national threshold"},
-      {"student_group":"ISEE €27,727 - €50,000","amount_min":300,"amount_max":1500,"currency":"EUR","period":"year","notes":"Progressive ISEE-based"},
-      {"student_group":"ISEE > €50,000 or no ISEE","amount_min":1500,"amount_max":2200,"currency":"EUR","period":"year","notes":"Maximum brackets"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Regional tax (ISEE < €25,500)","amount":125.50,"currency":"EUR","notes":"ADISURC"},
-      {"fee_name":"Regional tax (€25,500 < ISEE < €51,000)","amount":146.50,"currency":"EUR","notes":""},
-      {"fee_name":"Regional tax (ISEE > €51,000)","amount":167.50,"currency":"EUR","notes":""},
-      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":""}
-    ],
-    "payment_schedule_notes":"3 installments. Second: March 7, 2026. Third: April 10, 2026.",
-    "source_url":"https://www.unior.it/it/studia-con-noi/didattica/immatricolarsi-e-iscriversi/tasse-e-isee",
-    "last_checked":"2026-01-05",
-    "confidence":0.9,
-    "notes":"ISEE-based contribution. Online simulator available at unior.it. Specializes in Oriental studies and languages."
-  }],
-  "scholarships": [{"type":"scholarship","university_id":"unior","name":"Borsa di Studio Giorgio Primiceri (III Edizione)","type_category":"award","eligible_students":"all","benefits":["stipend"],"amount_text":"","deadline":"","requirements_summary":"Fondazione Banca Popolare Pugliese","official_url":"","source_url":"http://www.unior.it/it","last_checked":"2026-01-04","confidence":0.7,"notes":"Third edition"}],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unior",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "2026-02-28",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unior.it",
+      "source_url": "http://www.unior.it/it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Late enrollment for magistrale until Feb 28, 2026. ESSE3 online portal."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unior",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "No Tax Area (ISEE ≤ €27,726)",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption per national threshold"
+        },
+        {
+          "student_group": "ISEE €27,727 - €50,000",
+          "amount_min": 300,
+          "amount_max": 1500,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Progressive ISEE-based"
+        },
+        {
+          "student_group": "ISEE > €50,000 or no ISEE",
+          "amount_min": 1500,
+          "amount_max": 2200,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Maximum brackets"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Regional tax (ISEE < €25,500)",
+          "amount": 125.5,
+          "currency": "EUR",
+          "notes": "ADISURC"
+        },
+        {
+          "fee_name": "Regional tax (€25,500 < ISEE < €51,000)",
+          "amount": 146.5,
+          "currency": "EUR",
+          "notes": ""
+        },
+        {
+          "fee_name": "Regional tax (ISEE > €51,000)",
+          "amount": 167.5,
+          "currency": "EUR",
+          "notes": ""
+        },
+        {
+          "fee_name": "Stamp duty",
+          "amount": 16,
+          "currency": "EUR",
+          "notes": ""
+        }
+      ],
+      "payment_schedule_notes": "3 installments. Second: March 7, 2026. Third: April 10, 2026.",
+      "source_url": "https://www.unior.it/it/studia-con-noi/didattica/immatricolarsi-e-iscriversi/tasse-e-isee",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "ISEE-based contribution. Online simulator available at unior.it. Specializes in Oriental studies and languages."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarship",
+      "university_id": "unior",
+      "name": "Borsa di Studio Giorgio Primiceri (III Edizione)",
+      "type_category": "award",
+      "eligible_students": "all",
+      "benefits": [
+        "stipend"
+      ],
+      "amount_text": "",
+      "deadline": "",
+      "requirements_summary": "Fondazione Banca Popolare Pugliese",
+      "official_url": "",
+      "source_url": "http://www.unior.it/it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.7,
+      "notes": "Third edition"
+    }
+  ],
   "opportunities": []
 }

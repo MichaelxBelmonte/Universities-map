@@ -7,89 +7,322 @@
     "country": "Italy",
     "city": "Rome",
     "campuses": [
-      {"city": "Rome", "address": "", "notes": "Main campus"},
-      {"city": "Cefalù", "address": "", "notes": "Sicily campus"}
+      {
+        "city": "Rome",
+        "address": "",
+        "notes": "Main campus"
+      },
+      {
+        "city": "Cefalù",
+        "address": "",
+        "notes": "Sicily campus"
+      }
     ],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Rome"
+    },
     "source_url": "https://unicamillus.org",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "Private health sciences university. Medicine in Italian and English. International focus with humanitarian mission. No state funding - fully private."
   },
   "programs": [
-    {"type":"program","university_id":"unicamillus","degree_level":"bachelor","program_name":"Medicina e Chirurgia (Italiano)","class_code":"LM-41","language":["Italian"],"campus_city":"Rome","duration_years":6,"ects_total":360,"source_url":"https://unicamillus.org","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. €15,000/year. Also at Cefalù and Venezia."},
-    {"type":"program","university_id":"unicamillus","degree_level":"bachelor","program_name":"Medicine and Surgery (English)","class_code":"LM-41","language":["English"],"campus_city":"Rome","duration_years":6,"ects_total":360,"source_url":"https://unicamillus.org","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. €21,000/year. 425 places at Rome campus."},
-    {"type":"program","university_id":"unicamillus","degree_level":"bachelor","program_name":"Odontoiatria e Protesi Dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Rome","duration_years":6,"ects_total":360,"source_url":"https://unicamillus.org","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. €16,000/year. New dental clinic opening 2025."},
-    {"type":"program","university_id":"unicamillus","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://unicamillus.org","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicamillus","degree_level":"bachelor","program_name":"Nursing (English)","class_code":"L/SNT1","language":["English"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://unicamillus.org","last_checked":"2026-01-10","confidence":0.9,"notes":"English-taught nursing."},
-    {"type":"program","university_id":"unicamillus","degree_level":"bachelor","program_name":"Fisioterapia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://unicamillus.org","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicamillus","degree_level":"bachelor","program_name":"Tecniche di Radiologia Medica","class_code":"L/SNT3","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://unicamillus.org","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicamillus","degree_level":"bachelor","program_name":"Tecniche di Laboratorio Biomedico","class_code":"L/SNT3","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://unicamillus.org","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicamillus","degree_level":"bachelor","program_name":"Ostetricia","class_code":"L/SNT1","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://unicamillus.org","last_checked":"2026-01-10","confidence":0.9,"notes":"Midwifery."}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"unicamillus",
-    "program_name":"Medicine and Surgery",
-    "degree_level_scope":"single_cycle",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma, entrance exam",
-      "documents_required":[],
-      "tests_required":["UniCamillus admission test"],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "unicamillus",
+      "degree_level": "bachelor",
+      "program_name": "Medicina e Chirurgia (Italiano)",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://unicamillus.org",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico. €15,000/year. Also at Cefalù and Venezia.",
+      "program_name_en": "Medicine and Surgery (Italiano)",
+      "program_name_it": "Medicina e Chirurgia (Italiano)"
     },
-    "intakes":[{
-      "intake_name":"Medicine 2025/2026",
-      "application_open_date":"",
-      "application_deadline":"June 27, 2025 (test registration)",
-      "start_date":"",
-      "notes":"Test fee €180 via GOMP portal"
-    }],
-    "application_fee":{"amount":180,"currency":"EUR","notes":"Test registration fee"},
-    "how_to_apply_url":"https://unicamillus.org",
-    "source_url":"https://unicamillus.org",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Multiple test dates. Rome and Cefalù campuses available."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"unicamillus",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"Medicine in Italian","amount_min":15000,"amount_max":15000,"currency":"EUR","period":"year","notes":"4 rates: €2,000 + €4,000 + €4,500 + €4,500"},
-      {"student_group":"Medicine in English","amount_min":21000,"amount_max":21000,"currency":"EUR","period":"year","notes":"International program"},
-      {"student_group":"Dentistry (Odontoiatria)","amount_min":16000,"amount_max":16000,"currency":"EUR","period":"year","notes":""},
-      {"student_group":"Bachelor health programs","amount_min":5000,"amount_max":8000,"currency":"EUR","period":"year","notes":"Nursing, Physiotherapy, etc."}
-    ],
-    "additional_fees":[
-      {"fee_name":"Administrative fee (1st rate)","amount":2000,"currency":"EUR","notes":"Segreteria, due at enrollment"},
-      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"Annual"},
-      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":"One-time"}
-    ],
-    "payment_schedule_notes":"4 installments for Medicine. Deadlines: Dec 23 (rates 1-2), Jan 30 (rate 3), later (rate 4).",
-    "source_url":"https://unicamillus.org/en/services/annual-tuition-fees/",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Medicine Italian €15,000, English €21,000, Dentistry €16,000. No state funding - no state fee reductions."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"unicamillus",
-    "scholarship_name":"UniCamillus Scholarships",
-    "description":"Merit and need-based scholarships",
-    "eligibility":"High test scores or economic need",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://unicamillus.org",
-    "source_url":"https://unicamillus.org",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Annual bando for scholarships. DSU Lazio available for Rome campus. No state contributions - limited reductions."
-  }],
+    {
+      "type": "program",
+      "university_id": "unicamillus",
+      "degree_level": "bachelor",
+      "program_name": "Medicine and Surgery (English)",
+      "class_code": "LM-41",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://unicamillus.org",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico. €21,000/year. 425 places at Rome campus.",
+      "program_name_it": "Medicina e Chirurgia (English)",
+      "program_name_en": "Medicine and Surgery (English)"
+    },
+    {
+      "type": "program",
+      "university_id": "unicamillus",
+      "degree_level": "bachelor",
+      "program_name": "Odontoiatria e Protesi Dentaria",
+      "class_code": "LM-46",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://unicamillus.org",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico. €16,000/year. New dental clinic opening 2025.",
+      "program_name_en": "Dentistry and Dental Prosthetics"
+    },
+    {
+      "type": "program",
+      "university_id": "unicamillus",
+      "degree_level": "bachelor",
+      "program_name": "Infermieristica",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://unicamillus.org",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Nursing"
+    },
+    {
+      "type": "program",
+      "university_id": "unicamillus",
+      "degree_level": "bachelor",
+      "program_name": "Nursing (English)",
+      "class_code": "L/SNT1",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://unicamillus.org",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "English-taught nursing.",
+      "program_name_it": "Infermieristica (English)",
+      "program_name_en": "Nursing (English)"
+    },
+    {
+      "type": "program",
+      "university_id": "unicamillus",
+      "degree_level": "bachelor",
+      "program_name": "Fisioterapia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://unicamillus.org",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Physiotherapy"
+    },
+    {
+      "type": "program",
+      "university_id": "unicamillus",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche di Radiologia Medica",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://unicamillus.org",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Medical Radiology Techniques"
+    },
+    {
+      "type": "program",
+      "university_id": "unicamillus",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche di Laboratorio Biomedico",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://unicamillus.org",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biomedical Laboratory Techniques"
+    },
+    {
+      "type": "program",
+      "university_id": "unicamillus",
+      "degree_level": "bachelor",
+      "program_name": "Ostetricia",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://unicamillus.org",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Midwifery.",
+      "program_name_en": "Midwifery"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unicamillus",
+      "program_name": "Medicine and Surgery",
+      "degree_level_scope": "single_cycle",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma, entrance exam",
+        "documents_required": [],
+        "tests_required": [
+          "UniCamillus admission test"
+        ],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "Medicine 2025/2026",
+          "application_open_date": "",
+          "application_deadline": "June 27, 2025 (test registration)",
+          "start_date": "",
+          "notes": "Test fee €180 via GOMP portal"
+        }
+      ],
+      "application_fee": {
+        "amount": 180,
+        "currency": "EUR",
+        "notes": "Test registration fee"
+      },
+      "how_to_apply_url": "https://unicamillus.org",
+      "source_url": "https://unicamillus.org",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Multiple test dates. Rome and Cefalù campuses available."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unicamillus",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "Medicine in Italian",
+          "amount_min": 15000,
+          "amount_max": 15000,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "4 rates: €2,000 + €4,000 + €4,500 + €4,500"
+        },
+        {
+          "student_group": "Medicine in English",
+          "amount_min": 21000,
+          "amount_max": 21000,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "International program"
+        },
+        {
+          "student_group": "Dentistry (Odontoiatria)",
+          "amount_min": 16000,
+          "amount_max": 16000,
+          "currency": "EUR",
+          "period": "year",
+          "notes": ""
+        },
+        {
+          "student_group": "Bachelor health programs",
+          "amount_min": 5000,
+          "amount_max": 8000,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Nursing, Physiotherapy, etc."
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Administrative fee (1st rate)",
+          "amount": 2000,
+          "currency": "EUR",
+          "notes": "Segreteria, due at enrollment"
+        },
+        {
+          "fee_name": "Regional tax",
+          "amount": 140,
+          "currency": "EUR",
+          "notes": "Annual"
+        },
+        {
+          "fee_name": "Stamp duty",
+          "amount": 16,
+          "currency": "EUR",
+          "notes": "One-time"
+        }
+      ],
+      "payment_schedule_notes": "4 installments for Medicine. Deadlines: Dec 23 (rates 1-2), Jan 30 (rate 3), later (rate 4).",
+      "source_url": "https://unicamillus.org/en/services/annual-tuition-fees/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Medicine Italian €15,000, English €21,000, Dentistry €16,000. No state funding - no state fee reductions."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "unicamillus",
+      "scholarship_name": "UniCamillus Scholarships",
+      "description": "Merit and need-based scholarships",
+      "eligibility": "High test scores or economic need",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://unicamillus.org",
+      "source_url": "https://unicamillus.org",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Annual bando for scholarships. DSU Lazio available for Rome campus. No state contributions - limited reductions."
+    }
+  ],
   "opportunities": []
 }

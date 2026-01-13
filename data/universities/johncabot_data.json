@@ -7,86 +7,307 @@
     "country": "Italy",
     "city": "Rome",
     "campuses": [
-      {"city": "Rome (Trastevere)", "address": "", "notes": "American university in Rome"}
+      {
+        "city": "Rome (Trastevere)",
+        "address": "",
+        "notes": "American university in Rome"
+      }
     ],
-    "languages_offered": ["English"],
-    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "languages_offered": [
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Rome"
+    },
     "source_url": "https://www.johncabot.edu",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "American liberal arts university in Rome. US-accredited degrees. Billing in USD or EUR based on citizenship. Strong study abroad population."
   },
   "programs": [
-    {"type":"program","university_id":"johncabot","degree_level":"bachelor","program_name":"Art History","class_code":"BA","language":["English"],"campus_city":"Rome (Trastevere)","duration_years":4,"ects_total":240,"source_url":"https://www.johncabot.edu","last_checked":"2026-01-10","confidence":0.9,"notes":"US-accredited. Liberal arts curriculum."},
-    {"type":"program","university_id":"johncabot","degree_level":"bachelor","program_name":"International Affairs","class_code":"BA","language":["English"],"campus_city":"Rome (Trastevere)","duration_years":4,"ects_total":240,"source_url":"https://www.johncabot.edu","last_checked":"2026-01-10","confidence":0.9,"notes":"US-accredited."},
-    {"type":"program","university_id":"johncabot","degree_level":"bachelor","program_name":"International Business","class_code":"BA","language":["English"],"campus_city":"Rome (Trastevere)","duration_years":4,"ects_total":240,"source_url":"https://www.johncabot.edu","last_checked":"2026-01-10","confidence":0.9,"notes":"AACSB-accredited Guarini School of Business."},
-    {"type":"program","university_id":"johncabot","degree_level":"bachelor","program_name":"Psychological Science","class_code":"BA","language":["English"],"campus_city":"Rome (Trastevere)","duration_years":4,"ects_total":240,"source_url":"https://www.johncabot.edu","last_checked":"2026-01-10","confidence":0.9,"notes":"US-accredited."},
-    {"type":"program","university_id":"johncabot","degree_level":"bachelor","program_name":"Communications","class_code":"BA","language":["English"],"campus_city":"Rome (Trastevere)","duration_years":4,"ects_total":240,"source_url":"https://www.johncabot.edu","last_checked":"2026-01-10","confidence":0.9,"notes":"US-accredited."},
-    {"type":"program","university_id":"johncabot","degree_level":"bachelor","program_name":"Marketing","class_code":"BA","language":["English"],"campus_city":"Rome (Trastevere)","duration_years":4,"ects_total":240,"source_url":"https://www.johncabot.edu","last_checked":"2026-01-10","confidence":0.9,"notes":"AACSB-accredited."},
-    {"type":"program","university_id":"johncabot","degree_level":"bachelor","program_name":"English Literature","class_code":"BA","language":["English"],"campus_city":"Rome (Trastevere)","duration_years":4,"ects_total":240,"source_url":"https://www.johncabot.edu","last_checked":"2026-01-10","confidence":0.9,"notes":"US-accredited."},
-    {"type":"program","university_id":"johncabot","degree_level":"bachelor","program_name":"Political Science","class_code":"BA","language":["English"],"campus_city":"Rome (Trastevere)","duration_years":4,"ects_total":240,"source_url":"https://www.johncabot.edu","last_checked":"2026-01-10","confidence":0.9,"notes":"US-accredited."},
-    {"type":"program","university_id":"johncabot","degree_level":"master","program_name":"Art History","class_code":"MA","language":["English"],"campus_city":"Rome (Trastevere)","duration_years":2,"ects_total":120,"source_url":"https://www.johncabot.edu","last_checked":"2026-01-10","confidence":0.9,"notes":"Research focus on Roman monuments and museums."}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"johncabot",
-    "program_name":"",
-    "degree_level_scope":"undergraduate",
-    "applicant_scope":"international",
-    "requirements":{
-      "academic_requirements":"High school diploma, English proficiency",
-      "documents_required":[],
-      "tests_required":["SAT/ACT optional"],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "johncabot",
+      "degree_level": "bachelor",
+      "program_name": "Art History",
+      "class_code": "BA",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome (Trastevere)",
+      "duration_years": 4,
+      "ects_total": 240,
+      "source_url": "https://www.johncabot.edu",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "US-accredited. Liberal arts curriculum.",
+      "program_name_it": "Storia dell'Arte",
+      "program_name_en": "Art History"
     },
-    "intakes":[{
-      "intake_name":"Fall 2025 / Spring 2026",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":"",
-      "notes":"Rolling admissions"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.johncabot.edu/admissions/",
-    "source_url":"https://www.johncabot.edu",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"American-style application. SAT/ACT optional. Strong scholarship program."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"johncabot",
-    "program_name":"",
-    "degree_level_scope":"undergraduate",
-    "tuition":[
-      {"student_group":"Local/EU students (EUR)","amount_min":13000,"amount_max":14000,"currency":"EUR","period":"year","notes":"Approximately"},
-      {"student_group":"International students (USD)","amount_min":14000,"amount_max":15000,"currency":"USD","period":"year","notes":"Starting from"},
-      {"student_group":"Full-time annual (estimated)","amount_min":26000,"amount_max":28000,"currency":"USD","period":"year","notes":"Including fees"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Student activities fee","amount":320,"currency":"EUR","notes":"Included in tuition"},
-      {"fee_name":"Health insurance (CISI)","amount":null,"currency":"EUR","notes":"Required for non-EU students"}
-    ],
-    "payment_schedule_notes":"Payment by semester. Currency fixed at first payment for entire enrollment.",
-    "source_url":"https://www.johncabot.edu/admissions/tuition-and-fees/",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"US-accredited degrees. ~$14,000-$15,000/year starting. Scholarships can significantly reduce cost."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"johncabot",
-    "scholarship_name":"JCU Scholarships",
-    "description":"Merit and need-based scholarships",
-    "eligibility":"Academic merit, financial need",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.johncabot.edu/admissions/financial-aid/",
-    "source_url":"https://www.johncabot.edu",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Partial and full scholarships available. US federal loans accepted."
-  }],
+    {
+      "type": "program",
+      "university_id": "johncabot",
+      "degree_level": "bachelor",
+      "program_name": "International Affairs",
+      "class_code": "BA",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome (Trastevere)",
+      "duration_years": 4,
+      "ects_total": 240,
+      "source_url": "https://www.johncabot.edu",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "US-accredited.",
+      "program_name_it": "Internazionali Affairs",
+      "program_name_en": "International Affairs"
+    },
+    {
+      "type": "program",
+      "university_id": "johncabot",
+      "degree_level": "bachelor",
+      "program_name": "International Business",
+      "class_code": "BA",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome (Trastevere)",
+      "duration_years": 4,
+      "ects_total": 240,
+      "source_url": "https://www.johncabot.edu",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "AACSB-accredited Guarini School of Business.",
+      "program_name_it": "Commercio Internazionale",
+      "program_name_en": "International Business"
+    },
+    {
+      "type": "program",
+      "university_id": "johncabot",
+      "degree_level": "bachelor",
+      "program_name": "Psychological Science",
+      "class_code": "BA",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome (Trastevere)",
+      "duration_years": 4,
+      "ects_total": 240,
+      "source_url": "https://www.johncabot.edu",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "US-accredited.",
+      "program_name_en": "Psychological Science",
+      "program_name_it": "Scienze Psicologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "johncabot",
+      "degree_level": "bachelor",
+      "program_name": "Communications",
+      "class_code": "BA",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome (Trastevere)",
+      "duration_years": 4,
+      "ects_total": 240,
+      "source_url": "https://www.johncabot.edu",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "US-accredited.",
+      "program_name_it": "Comunicaziones",
+      "program_name_en": "Communications"
+    },
+    {
+      "type": "program",
+      "university_id": "johncabot",
+      "degree_level": "bachelor",
+      "program_name": "Marketing",
+      "class_code": "BA",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome (Trastevere)",
+      "duration_years": 4,
+      "ects_total": 240,
+      "source_url": "https://www.johncabot.edu",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "AACSB-accredited.",
+      "program_name_en": "Marketing"
+    },
+    {
+      "type": "program",
+      "university_id": "johncabot",
+      "degree_level": "bachelor",
+      "program_name": "English Literature",
+      "class_code": "BA",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome (Trastevere)",
+      "duration_years": 4,
+      "ects_total": 240,
+      "source_url": "https://www.johncabot.edu",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "US-accredited.",
+      "program_name_en": "English Literature",
+      "program_name_it": "Letteratura Inglese"
+    },
+    {
+      "type": "program",
+      "university_id": "johncabot",
+      "degree_level": "bachelor",
+      "program_name": "Political Science",
+      "class_code": "BA",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome (Trastevere)",
+      "duration_years": 4,
+      "ects_total": 240,
+      "source_url": "https://www.johncabot.edu",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "US-accredited.",
+      "program_name_it": "Scienze Politiche",
+      "program_name_en": "Political Science"
+    },
+    {
+      "type": "program",
+      "university_id": "johncabot",
+      "degree_level": "master",
+      "program_name": "Art History",
+      "class_code": "MA",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rome (Trastevere)",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.johncabot.edu",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Research focus on Roman monuments and museums.",
+      "program_name_it": "Storia dell'Arte",
+      "program_name_en": "Art History"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "johncabot",
+      "program_name": "",
+      "degree_level_scope": "undergraduate",
+      "applicant_scope": "international",
+      "requirements": {
+        "academic_requirements": "High school diploma, English proficiency",
+        "documents_required": [],
+        "tests_required": [
+          "SAT/ACT optional"
+        ],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "Fall 2025 / Spring 2026",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": "",
+          "notes": "Rolling admissions"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.johncabot.edu/admissions/",
+      "source_url": "https://www.johncabot.edu",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "American-style application. SAT/ACT optional. Strong scholarship program."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "johncabot",
+      "program_name": "",
+      "degree_level_scope": "undergraduate",
+      "tuition": [
+        {
+          "student_group": "Local/EU students (EUR)",
+          "amount_min": 13000,
+          "amount_max": 14000,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Approximately"
+        },
+        {
+          "student_group": "International students (USD)",
+          "amount_min": 14000,
+          "amount_max": 15000,
+          "currency": "USD",
+          "period": "year",
+          "notes": "Starting from"
+        },
+        {
+          "student_group": "Full-time annual (estimated)",
+          "amount_min": 26000,
+          "amount_max": 28000,
+          "currency": "USD",
+          "period": "year",
+          "notes": "Including fees"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Student activities fee",
+          "amount": 320,
+          "currency": "EUR",
+          "notes": "Included in tuition"
+        },
+        {
+          "fee_name": "Health insurance (CISI)",
+          "amount": null,
+          "currency": "EUR",
+          "notes": "Required for non-EU students"
+        }
+      ],
+      "payment_schedule_notes": "Payment by semester. Currency fixed at first payment for entire enrollment.",
+      "source_url": "https://www.johncabot.edu/admissions/tuition-and-fees/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "US-accredited degrees. ~$14,000-$15,000/year starting. Scholarships can significantly reduce cost."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "johncabot",
+      "scholarship_name": "JCU Scholarships",
+      "description": "Merit and need-based scholarships",
+      "eligibility": "Academic merit, financial need",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.johncabot.edu/admissions/financial-aid/",
+      "source_url": "https://www.johncabot.edu",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Partial and full scholarships available. US federal loans accepted."
+    }
+  ],
   "opportunities": []
 }

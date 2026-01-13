@@ -7,85 +7,222 @@
     "country": "Italy",
     "city": "Torrevecchia Teatina (Chieti)",
     "campuses": [
-      {"city": "Torrevecchia Teatina (Chieti)", "address": "Piazza San Rocco", "notes": "Main campus, free exams"},
-      {"city": "Chieti", "address": "", "notes": "Free exams"},
-      {"city": "Online", "address": "", "notes": "Telematic delivery"}
+      {
+        "city": "Torrevecchia Teatina (Chieti)",
+        "address": "Piazza San Rocco",
+        "notes": "Main campus, free exams"
+      },
+      {
+        "city": "Chieti",
+        "address": "",
+        "notes": "Free exams"
+      },
+      {
+        "city": "Online",
+        "address": "",
+        "notes": "Telematic delivery"
+      }
     ],
-    "languages_offered": ["Italian"],
-    "contacts": {"email": "", "phone": "", "address": "Torrevecchia Teatina, Chieti"},
+    "languages_offered": [
+      "Italian"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Torrevecchia Teatina, Chieti"
+    },
     "source_url": "https://www.unidav.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "Telematic campus of Università D'Annunzio Chieti-Pescara. One of Italy's 11 recognized telematic universities. Located in Abruzzo."
   },
   "programs": [
-    {"type":"program","university_id":"unidav","degree_level":"bachelor","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Online","duration_years":5,"ects_total":300,"source_url":"https://www.unidav.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Telematic. Virtual campus of D'Annunzio University."},
-    {"type":"program","university_id":"unidav","degree_level":"bachelor","program_name":"Scienze dell'Educazione e della Formazione","class_code":"L-19","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unidav.it","last_checked":"2026-01-10","confidence":0.9,"notes":"For 0-3 and 0-6 education services, asili nido, ludoteche."},
-    {"type":"program","university_id":"unidav","degree_level":"master","program_name":"Scienze dell'Economia","class_code":"LM-56","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unidav.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Course in esaurimento (closed to new enrollments)."}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"unidav",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "unidav",
+      "degree_level": "bachelor",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unidav.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico. Telematic. Virtual campus of D'Annunzio University.",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
     },
-    "intakes":[{
-      "intake_name":"rolling",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":"",
-      "notes":"Year-round enrollment"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.unidav.it",
-    "source_url":"https://www.unidav.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Virtual campus of D'Annunzio University. Open enrollment."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"unidav",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"Bachelor/Master annual","amount_min":2000,"amount_max":2200,"currency":"EUR","period":"year","notes":"Base tuition"},
-      {"student_group":"Enrollment fee (one-time)","amount_min":800,"amount_max":800,"currency":"EUR","period":"enrollment","notes":"First enrollment"},
-      {"student_group":"Degree completion fee","amount_min":1200,"amount_max":1200,"currency":"EUR","period":"one-time","notes":"At 60 CFU completion"},
-      {"student_group":"Masters","amount_min":500,"amount_max":500,"currency":"EUR","period":"program","notes":""},
-      {"student_group":"Perfezionamento courses","amount_min":400,"amount_max":500,"currency":"EUR","period":"course","notes":""}
-    ],
-    "additional_fees":[
-      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"Annual"},
-      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":"One-time"},
-      {"fee_name":"External exam location fee","amount":150,"currency":"EUR","notes":"Per year per location (Torrevecchia/Chieti free)"}
-    ],
-    "payment_schedule_notes":"Installment plans available. Conventions can reduce costs.",
-    "source_url":"https://www.unidav.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"~€2,200/year + €800 enrollment + €1,200 completion. External exam locations €150/year. Masters only €500."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"unidav",
-    "scholarship_name":"Conventions",
-    "description":"Discounts via partner conventions",
-    "eligibility":"Members of partner organizations",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.unidav.it",
-    "source_url":"https://www.unidav.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes": "Various conventions available for fee reductions."
-  }],
+    {
+      "type": "program",
+      "university_id": "unidav",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "class_code": "L-19",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unidav.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "For 0-3 and 0-6 education services, asili nido, ludoteche.",
+      "program_name_it": "Scienze dell'Educazione e della Formazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unidav",
+      "degree_level": "master",
+      "program_name": "Scienze dell'Economia",
+      "class_code": "LM-56",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unidav.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Course in esaurimento (closed to new enrollments).",
+      "program_name_it": "Scienze dell'Economia"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unidav",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "rolling",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": "",
+          "notes": "Year-round enrollment"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unidav.it",
+      "source_url": "https://www.unidav.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Virtual campus of D'Annunzio University. Open enrollment."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unidav",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "Bachelor/Master annual",
+          "amount_min": 2000,
+          "amount_max": 2200,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Base tuition"
+        },
+        {
+          "student_group": "Enrollment fee (one-time)",
+          "amount_min": 800,
+          "amount_max": 800,
+          "currency": "EUR",
+          "period": "enrollment",
+          "notes": "First enrollment"
+        },
+        {
+          "student_group": "Degree completion fee",
+          "amount_min": 1200,
+          "amount_max": 1200,
+          "currency": "EUR",
+          "period": "one-time",
+          "notes": "At 60 CFU completion"
+        },
+        {
+          "student_group": "Masters",
+          "amount_min": 500,
+          "amount_max": 500,
+          "currency": "EUR",
+          "period": "program",
+          "notes": ""
+        },
+        {
+          "student_group": "Perfezionamento courses",
+          "amount_min": 400,
+          "amount_max": 500,
+          "currency": "EUR",
+          "period": "course",
+          "notes": ""
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Regional tax",
+          "amount": 140,
+          "currency": "EUR",
+          "notes": "Annual"
+        },
+        {
+          "fee_name": "Stamp duty",
+          "amount": 16,
+          "currency": "EUR",
+          "notes": "One-time"
+        },
+        {
+          "fee_name": "External exam location fee",
+          "amount": 150,
+          "currency": "EUR",
+          "notes": "Per year per location (Torrevecchia/Chieti free)"
+        }
+      ],
+      "payment_schedule_notes": "Installment plans available. Conventions can reduce costs.",
+      "source_url": "https://www.unidav.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "~€2,200/year + €800 enrollment + €1,200 completion. External exam locations €150/year. Masters only €500."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "unidav",
+      "scholarship_name": "Conventions",
+      "description": "Discounts via partner conventions",
+      "eligibility": "Members of partner organizations",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.unidav.it",
+      "source_url": "https://www.unidav.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Various conventions available for fee reductions."
+    }
+  ],
   "opportunities": []
 }

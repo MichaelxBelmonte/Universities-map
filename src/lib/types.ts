@@ -13,7 +13,9 @@ export type DegreeLevel = "bachelor" | "master" | "ciclo_unico" | "phd";
 export interface Program {
   id: string; // Generated: university_id + program_name hash
   universityId: string;
-  programName: string;
+  programName: string; // Original name from data
+  programNameEn?: string; // English name
+  programNameIt?: string; // Italian name
   degreeLevel: DegreeLevel;
   classCode?: string; // e.g., "L-9", "LM-32"
   language: string[]; // e.g., ["Italian"], ["English"], ["Italian", "English"]
@@ -51,6 +53,8 @@ export interface RawProgram {
   university_id: string;
   degree_level: string;
   program_name: string;
+  program_name_en?: string; // English name
+  program_name_it?: string; // Italian name
   class_code?: string;
   language: string[];
   campus_city?: string;

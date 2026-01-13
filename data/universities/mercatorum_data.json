@@ -7,90 +7,360 @@
     "country": "Italy",
     "city": "Rome",
     "campuses": [
-      {"city": "Rome", "address": "", "notes": "Headquarters"},
-      {"city": "Online", "address": "", "notes": "Telematic delivery"}
+      {
+        "city": "Rome",
+        "address": "",
+        "notes": "Headquarters"
+      },
+      {
+        "city": "Online",
+        "address": "",
+        "notes": "Telematic delivery"
+      }
     ],
-    "languages_offered": ["Italian"],
-    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "languages_offered": [
+      "Italian"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Rome"
+    },
     "source_url": "https://www.unimercatorum.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "Part of Multiversity Group (with Pegaso, San Raffaele Roma). Business-focused telematic university. Promoted by Italian Chambers of Commerce."
   },
   "programs": [
-    {"type":"program","university_id":"mercatorum","degree_level":"bachelor","program_name":"Gastronomia, Ospitalità e Territori","class_code":"L-GASTR","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimercatorum.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic. Sole 24 Ore partnership."},
-    {"type":"program","university_id":"mercatorum","degree_level":"bachelor","program_name":"Ingegneria delle Infrastrutture per una Mobilità Sostenibile","class_code":"L-7","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimercatorum.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"mercatorum","degree_level":"bachelor","program_name":"Ingegneria Informatica","class_code":"L-8","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimercatorum.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"mercatorum","degree_level":"bachelor","program_name":"Ingegneria Gestionale","class_code":"L-9","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimercatorum.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"mercatorum","degree_level":"bachelor","program_name":"Scienze e Tecnologie delle Arti, dello Spettacolo e del Cinema","class_code":"L-3","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimercatorum.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"mercatorum","degree_level":"bachelor","program_name":"Design del Prodotto e della Moda","class_code":"L-4","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimercatorum.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"mercatorum","degree_level":"bachelor","program_name":"Statistica e Big Data","class_code":"L-41","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimercatorum.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"mercatorum","degree_level":"bachelor","program_name":"Gestione di Impresa","class_code":"L-18","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unimercatorum.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"mercatorum","degree_level":"master","program_name":"Comunicazione Digitale e Marketing","class_code":"LM-59","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unimercatorum.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"mercatorum","degree_level":"master","program_name":"Ingegneria Gestionale","class_code":"LM-31","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unimercatorum.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Curricula: Gestione del Rischio, Trasformazione Digitale."},
-    {"type":"program","university_id":"mercatorum","degree_level":"master","program_name":"Sicurezza Informatica","class_code":"LM-66","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unimercatorum.it","last_checked":"2026-01-10","confidence":0.85,"notes":"NEW 2025/26. Telematic."},
-    {"type":"program","university_id":"mercatorum","degree_level":"master","program_name":"Lingue per la Comunicazione Internazionale","class_code":"LM-38","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.unimercatorum.it","last_checked":"2026-01-10","confidence":0.85,"notes":"NEW 2025/26. Telematic."}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"mercatorum",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "mercatorum",
+      "degree_level": "bachelor",
+      "program_name": "Gastronomia, Ospitalità e Territori",
+      "class_code": "L-GASTR",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimercatorum.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic. Sole 24 Ore partnership.",
+      "program_name_en": "Gastronomia, Ospitalità and Territori"
     },
-    "intakes":[{
-      "intake_name":"rolling",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":"",
-      "notes":"Year-round enrollment"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.unimercatorum.it/studenti/iscrizioni",
-    "source_url":"https://www.unimercatorum.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Part of Multiversity Group. PROSEGUI CON NOI promo for group transfers."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"mercatorum",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"Bachelor programs","amount_min":1500,"amount_max":3600,"currency":"EUR","period":"year","notes":"Varies by course and convention"},
-      {"student_group":"Master's programs","amount_min":3000,"amount_max":3000,"currency":"EUR","period":"year","notes":"Standard rate"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Service fees + stamp","amount":240,"currency":"EUR","notes":"Annual, rateizable in 4 or 12 installments"},
-      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"Annual"},
-      {"fee_name":"Off-site exam fee","amount":175,"currency":"EUR","notes":"Per additional exam location per year"}
-    ],
-    "payment_schedule_notes":"4 or 12 monthly installments available for service fees.",
-    "source_url":"https://www.ateneionline.it/mercatorum-universita-telematica/costi-mercatorum-convenzioni/",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"€1,500-€3,600/year (bachelor), €3,000/year (master). Part of Multiversity with Pegaso. PROSEGUI CON NOI promo for group graduates."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"mercatorum",
-    "scholarship_name":"Multiversity Group Promotions",
-    "description":"Discounts for Multiversity group students",
-    "eligibility":"Graduates from Pegaso, San Raffaele Roma, or Mercatorum",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.unimercatorum.it",
-    "source_url":"https://www.unimercatorum.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"PROSEGUI CON NOI: free unlock of 2 exam locations for group alumni continuing to Master's."
-  }],
+    {
+      "type": "program",
+      "university_id": "mercatorum",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria delle Infrastrutture per una Mobilità Sostenibile",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimercatorum.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_en": "Engineering of the Infrastrutture for una Mobilità Sustainable",
+      "program_name_it": "Ingegneria delle Infrastrutture per una Mobilità Sostenibile"
+    },
+    {
+      "type": "program",
+      "university_id": "mercatorum",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Informatica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimercatorum.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_en": "Computer Engineering",
+      "program_name_it": "Ingegneria Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "mercatorum",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Gestionale",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimercatorum.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_en": "Management Engineering",
+      "program_name_it": "Ingegneria Gestionale"
+    },
+    {
+      "type": "program",
+      "university_id": "mercatorum",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Tecnologie delle Arti, dello Spettacolo e del Cinema",
+      "class_code": "L-3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimercatorum.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_it": "Scienze e Tecnologie delle Arti, dello Spettacolo e del Cinema"
+    },
+    {
+      "type": "program",
+      "university_id": "mercatorum",
+      "degree_level": "bachelor",
+      "program_name": "Design del Prodotto e della Moda",
+      "class_code": "L-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimercatorum.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_it": "Design del Prodotto e della Moda"
+    },
+    {
+      "type": "program",
+      "university_id": "mercatorum",
+      "degree_level": "bachelor",
+      "program_name": "Statistica e Big Data",
+      "class_code": "L-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimercatorum.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_en": "Statistics and Big Data"
+    },
+    {
+      "type": "program",
+      "university_id": "mercatorum",
+      "degree_level": "bachelor",
+      "program_name": "Gestione di Impresa",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimercatorum.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_it": "Gestione di Impresa"
+    },
+    {
+      "type": "program",
+      "university_id": "mercatorum",
+      "degree_level": "master",
+      "program_name": "Comunicazione Digitale e Marketing",
+      "class_code": "LM-59",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimercatorum.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_en": "Digital Communication and Marketing",
+      "program_name_it": "Comunicazione Digitale e Marketing"
+    },
+    {
+      "type": "program",
+      "university_id": "mercatorum",
+      "degree_level": "master",
+      "program_name": "Ingegneria Gestionale",
+      "class_code": "LM-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimercatorum.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Curricula: Gestione del Rischio, Trasformazione Digitale.",
+      "program_name_en": "Management Engineering",
+      "program_name_it": "Ingegneria Gestionale"
+    },
+    {
+      "type": "program",
+      "university_id": "mercatorum",
+      "degree_level": "master",
+      "program_name": "Sicurezza Informatica",
+      "class_code": "LM-66",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimercatorum.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "NEW 2025/26. Telematic.",
+      "program_name_en": "Sicurandzza Computer Science",
+      "program_name_it": "Sicurezza Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "mercatorum",
+      "degree_level": "master",
+      "program_name": "Lingue per la Comunicazione Internazionale",
+      "class_code": "LM-38",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimercatorum.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "NEW 2025/26. Telematic.",
+      "program_name_it": "Lingue per la Comunicazione Internazionale"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "mercatorum",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "rolling",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": "",
+          "notes": "Year-round enrollment"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unimercatorum.it/studenti/iscrizioni",
+      "source_url": "https://www.unimercatorum.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Part of Multiversity Group. PROSEGUI CON NOI promo for group transfers."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "mercatorum",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "Bachelor programs",
+          "amount_min": 1500,
+          "amount_max": 3600,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Varies by course and convention"
+        },
+        {
+          "student_group": "Master's programs",
+          "amount_min": 3000,
+          "amount_max": 3000,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Standard rate"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Service fees + stamp",
+          "amount": 240,
+          "currency": "EUR",
+          "notes": "Annual, rateizable in 4 or 12 installments"
+        },
+        {
+          "fee_name": "Regional tax",
+          "amount": 140,
+          "currency": "EUR",
+          "notes": "Annual"
+        },
+        {
+          "fee_name": "Off-site exam fee",
+          "amount": 175,
+          "currency": "EUR",
+          "notes": "Per additional exam location per year"
+        }
+      ],
+      "payment_schedule_notes": "4 or 12 monthly installments available for service fees.",
+      "source_url": "https://www.ateneionline.it/mercatorum-universita-telematica/costi-mercatorum-convenzioni/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "€1,500-€3,600/year (bachelor), €3,000/year (master). Part of Multiversity with Pegaso. PROSEGUI CON NOI promo for group graduates."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "mercatorum",
+      "scholarship_name": "Multiversity Group Promotions",
+      "description": "Discounts for Multiversity group students",
+      "eligibility": "Graduates from Pegaso, San Raffaele Roma, or Mercatorum",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.unimercatorum.it",
+      "source_url": "https://www.unimercatorum.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "PROSEGUI CON NOI: free unlock of 2 exam locations for group alumni continuing to Master's."
+    }
+  ],
   "opportunities": []
 }

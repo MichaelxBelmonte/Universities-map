@@ -6,137 +6,466 @@
     "official_url": "https://www.iulm.it",
     "country": "Italy",
     "city": "Milan",
-    "campuses": [{"city": "Milan", "address": "", "notes": "Main campus"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Milan"},
+    "campuses": [
+      {
+        "city": "Milan",
+        "address": "",
+        "notes": "Main campus"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Milan"
+    },
     "source_url": "https://www.iulm.it",
     "last_checked": "2026-01-04",
     "confidence": 0.95,
     "notes": "Private university. Communication, Translation, Tourism, Fashion, Arts. 5 ISEE brackets. Merit scholarships available."
   },
   "programs": [
-    {"type":"program","university_id":"iulm","degree_level":"bachelor","program_name":"Comunicazione, Media e Pubblicità","class_code":"L-20","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.iulm.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"iulm","degree_level":"bachelor","program_name":"Relazioni Pubbliche e Comunicazione d'Impresa","class_code":"L-20","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.iulm.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"iulm","degree_level":"bachelor","program_name":"Interpretariato e Comunicazione","class_code":"L-12","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.iulm.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"iulm","degree_level":"bachelor","program_name":"Turismo, Management e Cultura","class_code":"L-15","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.iulm.it","last_checked":"2026-01-10","confidence":0.9,"notes":"20 full scholarships available for top students"},
-    {"type":"program","university_id":"iulm","degree_level":"bachelor","program_name":"Arti ed Eventi Culturali","class_code":"L-3","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.iulm.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"iulm","degree_level":"bachelor","program_name":"Moda e Industrie Creative","class_code":"L-3","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.iulm.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"iulm","degree_level":"master","program_name":"Television, Cinema and New Media","class_code":"LM-65","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.iulm.it","last_checked":"2026-01-10","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"iulm","degree_level":"master","program_name":"Artificial Intelligence for Business and Society","class_code":"LM-91","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.iulm.it","last_checked":"2026-01-10","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"iulm","degree_level":"master","program_name":"Art, Valorization Strategies and the Market","class_code":"LM-76","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.iulm.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Dual Degree available"},
-    {"type":"program","university_id":"iulm","degree_level":"master","program_name":"Hospitality and Tourism Management","class_code":"LM-49","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.iulm.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Dual Degree available"},
-    {"type":"program","university_id":"iulm","degree_level":"master","program_name":"Translation, Interpreting and Digital Communication","class_code":"LM-94","language":["English","Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.iulm.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"iulm","degree_level":"master","program_name":"Fashion Communication and Luxury Strategies","class_code":"LM-92","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.iulm.it","last_checked":"2026-01-10","confidence":0.9,"notes":"English-taught"}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"iulm",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "iulm",
+      "degree_level": "bachelor",
+      "program_name": "Comunicazione, Media e Pubblicità",
+      "class_code": "L-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Comunicazione, Media e Pubblicità"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":""
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.iulm.it",
-    "source_url":"https://www.iulm.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Open Day for Bachelor's 2025-2026 available."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"iulm",
-    "program_name":"",
-    "degree_level_scope":"bachelor",
-    "tuition":[
-      {"student_group":"Bracket I (ISEE ≤ 13000)","amount_min":3656,"amount_max":3656,"currency":"EUR","period":"year","notes":"Lowest bracket"},
-      {"student_group":"Bracket II","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":""},
-      {"student_group":"Bracket III","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":""},
-      {"student_group":"Bracket IV","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":""},
-      {"student_group":"Bracket V (ISEE > 43000)","amount_min":8556,"amount_max":8556,"currency":"EUR","period":"year","notes":"Highest bracket"},
-      {"student_group":"No ISEE declared","amount_min":8556,"amount_max":8556,"currency":"EUR","period":"year","notes":"Bracket V automatic"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Regional DSU tax","amount":140,"currency":"EUR","notes":""},
-      {"fee_name":"Enrollment contribution","amount":250,"currency":"EUR","notes":""},
-      {"fee_name":"Earmarked contributions","amount":75,"currency":"EUR","notes":""},
-      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":""},
-      {"fee_name":"Total fixed costs","amount":481,"currency":"EUR","notes":"Added to ISEE-based fees"}
-    ],
-    "payment_schedule_notes":"3 installments: 1st fixed, 2nd-3rd variable by ISEE bracket.",
-    "source_url":"https://www.iulm.it/en/orientamento-iscrizioni/tasse-e-contributi/tasse-contributi",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"Bachelor €3,656-€8,556 + €481 fixed. Master €4,556-€9,956 + fixed. No ISEE = Bracket V."
-  },
-  {
-    "type":"tuition",
-    "university_id":"iulm",
-    "program_name":"",
-    "degree_level_scope":"master",
-    "tuition":[
-      {"student_group":"Bracket I","amount_min":4556,"amount_max":4556,"currency":"EUR","period":"year","notes":"Lowest bracket"},
-      {"student_group":"Bracket V","amount_min":9956,"amount_max":9956,"currency":"EUR","period":"year","notes":"Highest bracket"}
-    ],
-    "additional_fees":[],
-    "payment_schedule_notes":"",
-    "source_url":"https://www.iulm.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"Master's €4,556-€9,956 + €481 fixed costs."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"iulm",
-    "scholarship_name":"Tourism Full Scholarship",
-    "description":"Full tuition waiver for Tourism program",
-    "eligibility":"Top 20 meritorious students",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.iulm.it",
-    "source_url":"https://www.iulm.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"20 full exemptions (100%) for Tourism, Management e Cultura 2025/26."
-  },
-  {
-    "type":"scholarships",
-    "university_id":"iulm",
-    "scholarship_name":"High School Merit Discount",
-    "description":"20% reduction for 100/100 diploma holders",
-    "eligibility":"Diploma 100/100 in 2024/25",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.iulm.it",
-    "source_url":"https://www.iulm.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"20% reduction on 1st year fees for 100/100 diploma holders."
-  },
-  {
-    "type":"scholarships",
-    "university_id":"iulm",
-    "scholarship_name":"Master's Early Bird",
-    "description":"50% reduction for first 25 Master's enrollees",
-    "eligibility":"First 25 full-time Master's students",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.iulm.it",
-    "source_url":"https://www.iulm.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"50% off first year for first 25 Master's enrollees 2025/26."
-  }],
+    {
+      "type": "program",
+      "university_id": "iulm",
+      "degree_level": "bachelor",
+      "program_name": "Relazioni Pubbliche e Comunicazione d'Impresa",
+      "class_code": "L-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Relazioni Pubbliche e Comunicazione d'Impresa"
+    },
+    {
+      "type": "program",
+      "university_id": "iulm",
+      "degree_level": "bachelor",
+      "program_name": "Interpretariato e Comunicazione",
+      "class_code": "L-12",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Interpretariato e Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "iulm",
+      "degree_level": "bachelor",
+      "program_name": "Turismo, Management e Cultura",
+      "class_code": "L-15",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "20 full scholarships available for top students"
+    },
+    {
+      "type": "program",
+      "university_id": "iulm",
+      "degree_level": "bachelor",
+      "program_name": "Arti ed Eventi Culturali",
+      "class_code": "L-3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Arts ed Eventi Culturali"
+    },
+    {
+      "type": "program",
+      "university_id": "iulm",
+      "degree_level": "bachelor",
+      "program_name": "Moda e Industrie Creative",
+      "class_code": "L-3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Fashion and Industrie Creative"
+    },
+    {
+      "type": "program",
+      "university_id": "iulm",
+      "degree_level": "master",
+      "program_name": "Television, Cinema and New Media",
+      "class_code": "LM-65",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Television, Cinema e New Media",
+      "program_name_en": "Television, Cinema and New Media"
+    },
+    {
+      "type": "program",
+      "university_id": "iulm",
+      "degree_level": "master",
+      "program_name": "Artificial Intelligence for Business and Society",
+      "class_code": "LM-91",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_en": "Artificial Intelligence for Business and Society"
+    },
+    {
+      "type": "program",
+      "university_id": "iulm",
+      "degree_level": "master",
+      "program_name": "Art, Valorization Strategies and the Market",
+      "class_code": "LM-76",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Dual Degree available",
+      "program_name_it": "Art, Valorization Strategies e the Market",
+      "program_name_en": "Art, Valorization Strategies and the Market"
+    },
+    {
+      "type": "program",
+      "university_id": "iulm",
+      "degree_level": "master",
+      "program_name": "Hospitality and Tourism Management",
+      "class_code": "LM-49",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Dual Degree available",
+      "program_name_it": "Hospitality e Turismo Management",
+      "program_name_en": "Hospitality and Tourism Management"
+    },
+    {
+      "type": "program",
+      "university_id": "iulm",
+      "degree_level": "master",
+      "program_name": "Translation, Interpreting and Digital Communication",
+      "class_code": "LM-94",
+      "language": [
+        "English",
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Translation, Interpreting and Digital Communication"
+    },
+    {
+      "type": "program",
+      "university_id": "iulm",
+      "degree_level": "master",
+      "program_name": "Fashion Communication and Luxury Strategies",
+      "class_code": "LM-92",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Moda Comunicazione e Luxury Strategies",
+      "program_name_en": "Fashion Communication and Luxury Strategies"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "iulm",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.iulm.it",
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Open Day for Bachelor's 2025-2026 available."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "iulm",
+      "program_name": "",
+      "degree_level_scope": "bachelor",
+      "tuition": [
+        {
+          "student_group": "Bracket I (ISEE ≤ 13000)",
+          "amount_min": 3656,
+          "amount_max": 3656,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Lowest bracket"
+        },
+        {
+          "student_group": "Bracket II",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": ""
+        },
+        {
+          "student_group": "Bracket III",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": ""
+        },
+        {
+          "student_group": "Bracket IV",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": ""
+        },
+        {
+          "student_group": "Bracket V (ISEE > 43000)",
+          "amount_min": 8556,
+          "amount_max": 8556,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Highest bracket"
+        },
+        {
+          "student_group": "No ISEE declared",
+          "amount_min": 8556,
+          "amount_max": 8556,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Bracket V automatic"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Regional DSU tax",
+          "amount": 140,
+          "currency": "EUR",
+          "notes": ""
+        },
+        {
+          "fee_name": "Enrollment contribution",
+          "amount": 250,
+          "currency": "EUR",
+          "notes": ""
+        },
+        {
+          "fee_name": "Earmarked contributions",
+          "amount": 75,
+          "currency": "EUR",
+          "notes": ""
+        },
+        {
+          "fee_name": "Stamp duty",
+          "amount": 16,
+          "currency": "EUR",
+          "notes": ""
+        },
+        {
+          "fee_name": "Total fixed costs",
+          "amount": 481,
+          "currency": "EUR",
+          "notes": "Added to ISEE-based fees"
+        }
+      ],
+      "payment_schedule_notes": "3 installments: 1st fixed, 2nd-3rd variable by ISEE bracket.",
+      "source_url": "https://www.iulm.it/en/orientamento-iscrizioni/tasse-e-contributi/tasse-contributi",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "Bachelor €3,656-€8,556 + €481 fixed. Master €4,556-€9,956 + fixed. No ISEE = Bracket V."
+    },
+    {
+      "type": "tuition",
+      "university_id": "iulm",
+      "program_name": "",
+      "degree_level_scope": "master",
+      "tuition": [
+        {
+          "student_group": "Bracket I",
+          "amount_min": 4556,
+          "amount_max": 4556,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Lowest bracket"
+        },
+        {
+          "student_group": "Bracket V",
+          "amount_min": 9956,
+          "amount_max": 9956,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Highest bracket"
+        }
+      ],
+      "additional_fees": [],
+      "payment_schedule_notes": "",
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "Master's €4,556-€9,956 + €481 fixed costs."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "iulm",
+      "scholarship_name": "Tourism Full Scholarship",
+      "description": "Full tuition waiver for Tourism program",
+      "eligibility": "Top 20 meritorious students",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.iulm.it",
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "20 full exemptions (100%) for Tourism, Management e Cultura 2025/26."
+    },
+    {
+      "type": "scholarships",
+      "university_id": "iulm",
+      "scholarship_name": "High School Merit Discount",
+      "description": "20% reduction for 100/100 diploma holders",
+      "eligibility": "Diploma 100/100 in 2024/25",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.iulm.it",
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "20% reduction on 1st year fees for 100/100 diploma holders."
+    },
+    {
+      "type": "scholarships",
+      "university_id": "iulm",
+      "scholarship_name": "Master's Early Bird",
+      "description": "50% reduction for first 25 Master's enrollees",
+      "eligibility": "First 25 full-time Master's students",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.iulm.it",
+      "source_url": "https://www.iulm.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "50% off first year for first 25 Master's enrollees 2025/26."
+    }
+  ],
   "opportunities": []
 }

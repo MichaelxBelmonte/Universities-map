@@ -7,81 +7,280 @@
     "country": "Italy",
     "city": "Pavia",
     "campuses": [
-      {"city": "Pavia", "address": "", "notes": "Main campus, linked to Collegio system"}
+      {
+        "city": "Pavia",
+        "address": "",
+        "notes": "Main campus, linked to Collegio system"
+      }
     ],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Pavia"},
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Pavia"
+    },
     "source_url": "https://www.iusspavia.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "Elite special school (Scuola Superiore). Parallel to regular university degree. Linked to Pavia Collegi system. Free + €5,000 annual prize."
   },
   "programs": [
-    {"type":"program","university_id":"iuss","degree_level":"bachelor","program_name":"Classe di Scienze Umane e della Vita","class_code":"various","language":["Italian","English"],"campus_city":"Pavia","duration_years":3,"ects_total":180,"source_url":"https://www.iusspavia.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Corsi Ordinari. Parallel to UniPV degree. €5,000/year prize."},
-    {"type":"program","university_id":"iuss","degree_level":"bachelor","program_name":"Classe di Scienze, Tecnologie e Società","class_code":"various","language":["Italian","English"],"campus_city":"Pavia","duration_years":3,"ects_total":180,"source_url":"https://www.iusspavia.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Corsi Ordinari. Parallel to UniPV degree. €5,000/year prize."},
-    {"type":"program","university_id":"iuss","degree_level":"master","program_name":"Civil Engineering for Mitigation of Risk from Natural Hazards (CivRisk)","class_code":"LM-23/LM-35","language":["English"],"campus_city":"Pavia","duration_years":2,"ects_total":120,"source_url":"https://www.iusspavia.it","last_checked":"2026-01-10","confidence":0.9,"notes":"ROSE and HYRIS curricula. Joint with UniPV."},
-    {"type":"program","university_id":"iuss","degree_level":"master","program_name":"Psychology, Neuroscience and Human Sciences","class_code":"LM-51","language":["English"],"campus_city":"Pavia","duration_years":2,"ects_total":120,"source_url":"https://www.iusspavia.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Joint with UniPV Department of Brain Sciences."},
-    {"type":"program","university_id":"iuss","degree_level":"phd","program_name":"PhD in Cognitive Brain Sciences","class_code":"","language":["English"],"campus_city":"Pavia","duration_years":3,"ects_total":null,"source_url":"https://www.iusspavia.it","last_checked":"2026-01-10","confidence":0.9,"notes":"With UniPV. Full funding."},
-    {"type":"program","university_id":"iuss","degree_level":"phd","program_name":"PhD in Earthquake Engineering","class_code":"","language":["English"],"campus_city":"Pavia","duration_years":3,"ects_total":null,"source_url":"https://www.iusspavia.it","last_checked":"2026-01-10","confidence":0.9,"notes":"With UniPV. Full funding."},
-    {"type":"program","university_id":"iuss","degree_level":"phd","program_name":"PhD in The Human Mind and its Explanations (HUME)","class_code":"","language":["English"],"campus_city":"Pavia","duration_years":3,"ects_total":null,"source_url":"https://www.iusspavia.it","last_checked":"2026-01-10","confidence":0.9,"notes":"With UniMi and SNS. Full funding."},
-    {"type":"program","university_id":"iuss","degree_level":"phd","program_name":"PhD in Theoretical and Experimental Linguistics","class_code":"","language":["English"],"campus_city":"Pavia","duration_years":3,"ects_total":null,"source_url":"https://www.iusspavia.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Full funding."},
-    {"type":"program","university_id":"iuss","degree_level":"phd","program_name":"PhD in Sustainable Development and Climate Change","class_code":"","language":["English"],"campus_city":"Pavia","duration_years":3,"ects_total":null,"source_url":"https://www.iusspavia.it","last_checked":"2026-01-10","confidence":0.9,"notes":"National doctoral program. Full funding."}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"iuss",
-    "program_name":"Corsi Ordinari",
-    "degree_level_scope":"undergraduate",
-    "applicant_scope":"italian_eu",
-    "requirements":{
-      "academic_requirements":"Enrollment at UniPV or UniMi + competitive exam + Collegio placement",
-      "documents_required":[],
-      "tests_required":["IUSS competitive exam"],
-      "portfolio_required":false,
-      "interview_required":true
+    {
+      "type": "program",
+      "university_id": "iuss",
+      "degree_level": "bachelor",
+      "program_name": "Classe di Scienze Umane e della Vita",
+      "class_code": "various",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Pavia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.iusspavia.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Corsi Ordinari. Parallel to UniPV degree. €5,000/year prize.",
+      "program_name_it": "Classe di Scienze Umane e della Vita"
     },
-    "intakes":[{
-      "intake_name":"Annual intake",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":"",
-      "notes":"Must be enrolled at Uni Pavia or Uni Milano"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.iusspavia.it/en/education/undergraduate-courses/admissions",
-    "source_url":"https://www.iusspavia.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Highly selective. Requires residence at Collegio di Merito (Borromeo, Ghislieri, etc.)."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"iuss",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"All IUSS students","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Free + €5,000 annual prize"}
-    ],
-    "additional_fees":[],
-    "payment_schedule_notes":"No fees. Winners receive tuition exemption at UniPV/UniMi + €5,000 annual contribution for Collegio costs.",
-    "source_url":"https://www.iusspavia.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Completely free. €5,000/year prize. Full tuition exemption at base university (Pavia or Milano) guaranteed."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"iuss",
-    "scholarship_name":"IUSS Full Scholarship",
-    "description":"Full university exemption + €5,000 annual prize",
-    "eligibility":"Admission to IUSS Corsi Ordinari + Collegio placement",
-    "amount":{"min":5000,"max":5000,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.iusspavia.it/en/education/undergraduate-courses/admissions",
-    "source_url":"https://www.iusspavia.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"€5,000/year + total fee exemption at base university. Must reside in Collegio di Merito."
-  }],
+    {
+      "type": "program",
+      "university_id": "iuss",
+      "degree_level": "bachelor",
+      "program_name": "Classe di Scienze, Tecnologie e Società",
+      "class_code": "various",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Pavia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.iusspavia.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Corsi Ordinari. Parallel to UniPV degree. €5,000/year prize.",
+      "program_name_it": "Classe di Scienze, Tecnologie e Società"
+    },
+    {
+      "type": "program",
+      "university_id": "iuss",
+      "degree_level": "master",
+      "program_name": "Civil Engineering for Mitigation of Risk from Natural Hazards (CivRisk)",
+      "class_code": "LM-23/LM-35",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Pavia",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.iusspavia.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "ROSE and HYRIS curricula. Joint with UniPV.",
+      "program_name_it": "Ingegneria Civile per Mitigation of Risk from Natural Hazards (CivRisk)",
+      "program_name_en": "Civil Engineering for Mitigation of Risk from Natural Hazards (CivRisk)"
+    },
+    {
+      "type": "program",
+      "university_id": "iuss",
+      "degree_level": "master",
+      "program_name": "Psychology, Neuroscience and Human Sciences",
+      "class_code": "LM-51",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Pavia",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.iusspavia.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Joint with UniPV Department of Brain Sciences.",
+      "program_name_it": "Psicologia, Neuroscience e Human Scienze",
+      "program_name_en": "Psychology, Neuroscience and Human Sciences"
+    },
+    {
+      "type": "program",
+      "university_id": "iuss",
+      "degree_level": "phd",
+      "program_name": "PhD in Cognitive Brain Sciences",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Pavia",
+      "duration_years": 3,
+      "ects_total": null,
+      "source_url": "https://www.iusspavia.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "With UniPV. Full funding.",
+      "program_name_it": "Dottorato di Ricerca in Cognitive Brain Scienze",
+      "program_name_en": "PhD in Cognitive Brain Sciences"
+    },
+    {
+      "type": "program",
+      "university_id": "iuss",
+      "degree_level": "phd",
+      "program_name": "PhD in Earthquake Engineering",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Pavia",
+      "duration_years": 3,
+      "ects_total": null,
+      "source_url": "https://www.iusspavia.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "With UniPV. Full funding.",
+      "program_name_it": "Dottorato di Ricerca in Earthquake Ingegneria",
+      "program_name_en": "PhD in Earthquake Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "iuss",
+      "degree_level": "phd",
+      "program_name": "PhD in The Human Mind and its Explanations (HUME)",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Pavia",
+      "duration_years": 3,
+      "ects_total": null,
+      "source_url": "https://www.iusspavia.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "With UniMi and SNS. Full funding.",
+      "program_name_it": "Dottorato di Ricerca in The Human Mind e its Explanations (HUME)",
+      "program_name_en": "PhD in The Human Mind and its Explanations (HUME)"
+    },
+    {
+      "type": "program",
+      "university_id": "iuss",
+      "degree_level": "phd",
+      "program_name": "PhD in Theoretical and Experimental Linguistics",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Pavia",
+      "duration_years": 3,
+      "ects_total": null,
+      "source_url": "https://www.iusspavia.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Full funding.",
+      "program_name_it": "Dottorato di Ricerca in Theoretical e Experimental Linguistics",
+      "program_name_en": "PhD in Theoretical and Experimental Linguistics"
+    },
+    {
+      "type": "program",
+      "university_id": "iuss",
+      "degree_level": "phd",
+      "program_name": "PhD in Sustainable Development and Climate Change",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Pavia",
+      "duration_years": 3,
+      "ects_total": null,
+      "source_url": "https://www.iusspavia.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "National doctoral program. Full funding.",
+      "program_name_it": "Dottorato di Ricerca in Sostenibile Development e Climate Change",
+      "program_name_en": "PhD in Sustainable Development and Climate Change"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "iuss",
+      "program_name": "Corsi Ordinari",
+      "degree_level_scope": "undergraduate",
+      "applicant_scope": "italian_eu",
+      "requirements": {
+        "academic_requirements": "Enrollment at UniPV or UniMi + competitive exam + Collegio placement",
+        "documents_required": [],
+        "tests_required": [
+          "IUSS competitive exam"
+        ],
+        "portfolio_required": false,
+        "interview_required": true
+      },
+      "intakes": [
+        {
+          "intake_name": "Annual intake",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": "",
+          "notes": "Must be enrolled at Uni Pavia or Uni Milano"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.iusspavia.it/en/education/undergraduate-courses/admissions",
+      "source_url": "https://www.iusspavia.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Highly selective. Requires residence at Collegio di Merito (Borromeo, Ghislieri, etc.)."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "iuss",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "All IUSS students",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Free + €5,000 annual prize"
+        }
+      ],
+      "additional_fees": [],
+      "payment_schedule_notes": "No fees. Winners receive tuition exemption at UniPV/UniMi + €5,000 annual contribution for Collegio costs.",
+      "source_url": "https://www.iusspavia.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Completely free. €5,000/year prize. Full tuition exemption at base university (Pavia or Milano) guaranteed."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "iuss",
+      "scholarship_name": "IUSS Full Scholarship",
+      "description": "Full university exemption + €5,000 annual prize",
+      "eligibility": "Admission to IUSS Corsi Ordinari + Collegio placement",
+      "amount": {
+        "min": 5000,
+        "max": 5000,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.iusspavia.it/en/education/undergraduate-courses/admissions",
+      "source_url": "https://www.iusspavia.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "€5,000/year + total fee exemption at base university. Must reside in Collegio di Merito."
+    }
+  ],
   "opportunities": []
 }

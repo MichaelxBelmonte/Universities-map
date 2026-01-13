@@ -7,110 +7,226 @@
     "country": "Italy",
     "city": "Caserta",
     "campuses": [
-      {"city": "Caserta", "address": "", "notes": "Main campus"},
-      {"city": "Naples", "address": "", "notes": "Various faculties"}
+      {
+        "city": "Caserta",
+        "address": "",
+        "notes": "Main campus"
+      },
+      {
+        "city": "Naples",
+        "address": "",
+        "notes": "Various faculties"
+      }
     ],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Caserta"},
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Caserta"
+    },
     "source_url": "https://www.unicampania.it",
     "last_checked": "2026-01-05",
     "confidence": 0.95,
     "notes": "Founded 1991 as Seconda Università di Napoli. Renamed 2016. Multiple faculties including Architecture, Engineering, Medicine, Economics, Law, Psychology, Education."
   },
   "programs": [
-    {"type":"program","university_id":"unicampania","degree_level":"master","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Naples","duration_years":6,"ects_total":360,"source_url":"https://www.unicampania.it","last_checked":"2026-01-04","confidence":0.8,"notes":"Ciclo Unico. Semestre Aperto from 2025/2026 - open filter semester with exams Nov 20 & Dec 10, 2025"},
-    {"type":"program","university_id":"unicampania","degree_level":"master","program_name":"Odontoiatria e Protesi Dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Naples","duration_years":6,"ects_total":360,"source_url":"https://www.unicampania.it","last_checked":"2026-01-04","confidence":0.8,"notes":"Ciclo Unico. Semestre Aperto from 2025/2026"}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"unicampania",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "unicampania",
+      "degree_level": "master",
+      "program_name": "Medicina e Chirurgia",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.unicampania.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Ciclo Unico. Semestre Aperto from 2025/2026 - open filter semester with exams Nov 20 & Dec 10, 2025",
+      "program_name_en": "Medicine and Surgery",
+      "program_name_it": "Medicina e Chirurgia"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"",
-      "application_deadline":"2025-12-15",
-      "start_date":""
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":"No late fee until Dec 15, 2025"},
-    "how_to_apply_url":"https://www.unicampania.it",
-    "source_url":"https://www.unicampania.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.8,
-    "notes":"Open access programs: enrollment until Dec 15, 2025 without late fee. Medicine: Semestre Aperto requires 18/30 in 3 exams for national ranking."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"unicampania",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"No Tax Area (ISEE ≤ €22,000)","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption regardless of merit"},
-      {"student_group":"MAC 1 (with income/merit requirements)","amount_min":0,"amount_max":1500,"currency":"EUR","period":"year","notes":"Reduced contributions based on ISEE"},
-      {"student_group":"MAC 2 (without requirements)","amount_min":1500,"amount_max":3000,"currency":"EUR","period":"year","notes":"Standard contribution bands"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Regional tax (ISEE < €25,500)","amount":125.50,"currency":"EUR","notes":"ADISURC Campania"},
-      {"fee_name":"Regional tax (€25,500 < ISEE < €51,000)","amount":146.50,"currency":"EUR","notes":""},
-      {"fee_name":"Regional tax (ISEE > €51,000 or no ISEE)","amount":167.50,"currency":"EUR","notes":""},
-      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":""}
-    ],
-    "payment_schedule_notes":"ISEE retrieved automatically Aug 1 - Dec 16, 2024 or Jan 15 - Feb 28, 2025.",
-    "source_url":"https://www.unicampania.it/index.php/studenti/procedure-amministrative/tasse-e-scadenze",
-    "last_checked":"2026-01-05",
-    "confidence":0.95,
-    "notes":"Two Macro Areas of Contribution (MAC). MAC 1 for students meeting income/merit requirements. ISEE ≤ €22,000 = full exemption."
-  }],
+    {
+      "type": "program",
+      "university_id": "unicampania",
+      "degree_level": "master",
+      "program_name": "Odontoiatria e Protesi Dentaria",
+      "class_code": "LM-46",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.unicampania.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Ciclo Unico. Semestre Aperto from 2025/2026",
+      "program_name_en": "Dentistry and Dental Prosthetics"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unicampania",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "2025-12-15",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": "No late fee until Dec 15, 2025"
+      },
+      "how_to_apply_url": "https://www.unicampania.it",
+      "source_url": "https://www.unicampania.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Open access programs: enrollment until Dec 15, 2025 without late fee. Medicine: Semestre Aperto requires 18/30 in 3 exams for national ranking."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unicampania",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "No Tax Area (ISEE ≤ €22,000)",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption regardless of merit"
+        },
+        {
+          "student_group": "MAC 1 (with income/merit requirements)",
+          "amount_min": 0,
+          "amount_max": 1500,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Reduced contributions based on ISEE"
+        },
+        {
+          "student_group": "MAC 2 (without requirements)",
+          "amount_min": 1500,
+          "amount_max": 3000,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Standard contribution bands"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Regional tax (ISEE < €25,500)",
+          "amount": 125.5,
+          "currency": "EUR",
+          "notes": "ADISURC Campania"
+        },
+        {
+          "fee_name": "Regional tax (€25,500 < ISEE < €51,000)",
+          "amount": 146.5,
+          "currency": "EUR",
+          "notes": ""
+        },
+        {
+          "fee_name": "Regional tax (ISEE > €51,000 or no ISEE)",
+          "amount": 167.5,
+          "currency": "EUR",
+          "notes": ""
+        },
+        {
+          "fee_name": "Stamp duty",
+          "amount": 16,
+          "currency": "EUR",
+          "notes": ""
+        }
+      ],
+      "payment_schedule_notes": "ISEE retrieved automatically Aug 1 - Dec 16, 2024 or Jan 15 - Feb 28, 2025.",
+      "source_url": "https://www.unicampania.it/index.php/studenti/procedure-amministrative/tasse-e-scadenze",
+      "last_checked": "2026-01-05",
+      "confidence": 0.95,
+      "notes": "Two Macro Areas of Contribution (MAC). MAC 1 for students meeting income/merit requirements. ISEE ≤ €22,000 = full exemption."
+    }
+  ],
   "scholarships": [
     {
-      "type":"scholarships",
-      "university_id":"unicampania",
-      "scholarship_name":"ADISURC Borsa di Studio",
-      "description":"Regional scholarship covering tuition, housing, and living expenses",
-      "eligibility":"ISEE ≤ €25,500 + CFU merit requirements",
-      "amount":{"min":2827,"max":7015,"currency":"EUR","period":"year"},
-      "deadline":"Check ADISURC website",
-      "how_to_apply_url":"https://www.adisurcampania.it/borse-e-contributi/borse-di-studio",
-      "source_url":"https://www.adisurcampania.it",
-      "last_checked":"2026-01-05",
-      "confidence":0.95,
-      "notes":"Amounts: €7,015 (fuori sede), €4,100 (pendolare), €2,827 (in sede). Requires 20 CFU by Nov 30 for full amount. Regional tax refunded to scholarship recipients."
+      "type": "scholarships",
+      "university_id": "unicampania",
+      "scholarship_name": "ADISURC Borsa di Studio",
+      "description": "Regional scholarship covering tuition, housing, and living expenses",
+      "eligibility": "ISEE ≤ €25,500 + CFU merit requirements",
+      "amount": {
+        "min": 2827,
+        "max": 7015,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "Check ADISURC website",
+      "how_to_apply_url": "https://www.adisurcampania.it/borse-e-contributi/borse-di-studio",
+      "source_url": "https://www.adisurcampania.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.95,
+      "notes": "Amounts: €7,015 (fuori sede), €4,100 (pendolare), €2,827 (in sede). Requires 20 CFU by Nov 30 for full amount. Regional tax refunded to scholarship recipients."
     },
     {
-      "type":"scholarships",
-      "university_id":"unicampania",
-      "scholarship_name":"Alloggio ADISURC",
-      "description":"Student housing in regional residences",
-      "eligibility":"ISEE requirements + merit",
-      "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-      "deadline":"Check ADISURC website",
-      "how_to_apply_url":"https://www.adisurcampania.it",
-      "source_url":"https://www.adisurcampania.it",
-      "last_checked":"2026-01-05",
-      "confidence":0.9,
-      "notes":"Housing places in regional student residences."
+      "type": "scholarships",
+      "university_id": "unicampania",
+      "scholarship_name": "Alloggio ADISURC",
+      "description": "Student housing in regional residences",
+      "eligibility": "ISEE requirements + merit",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "Check ADISURC website",
+      "how_to_apply_url": "https://www.adisurcampania.it",
+      "source_url": "https://www.adisurcampania.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Housing places in regional student residences."
     },
     {
-      "type":"scholarships",
-      "university_id":"unicampania",
-      "scholarship_name":"Contributi Mobilità Internazionale",
-      "description":"Financial support for international mobility (Erasmus+)",
-      "eligibility":"ADISURC beneficiaries",
-      "amount":{"min":null,"max":null,"currency":"EUR","period":"semester"},
-      "deadline":"Check ADISURC website",
-      "how_to_apply_url":"https://www.adisurcampania.it",
-      "source_url":"https://www.adisurcampania.it",
-      "last_checked":"2026-01-05",
-      "confidence":0.9,
-      "notes":"Additional support for Erasmus and international programs."
+      "type": "scholarships",
+      "university_id": "unicampania",
+      "scholarship_name": "Contributi Mobilità Internazionale",
+      "description": "Financial support for international mobility (Erasmus+)",
+      "eligibility": "ADISURC beneficiaries",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "semester"
+      },
+      "deadline": "Check ADISURC website",
+      "how_to_apply_url": "https://www.adisurcampania.it",
+      "source_url": "https://www.adisurcampania.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Additional support for Erasmus and international programs."
     }
   ],
   "opportunities": []

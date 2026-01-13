@@ -6,34 +6,381 @@
     "official_url": "https://unisannio.it",
     "country": "Italy",
     "city": "Benevento",
-    "campuses": [{"city": "Benevento", "address": "", "notes": "Historic center location"}],
-    "languages_offered": ["Italian"],
-    "contacts": {"email": "", "phone": "", "address": "Benevento"},
+    "campuses": [
+      {
+        "city": "Benevento",
+        "address": "",
+        "notes": "Historic center location"
+      }
+    ],
+    "languages_offered": [
+      "Italian"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Benevento"
+    },
     "source_url": "https://www.unisannio.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "Founded 1998. ~8000 students. 28 degree programs, 3 PhD programs. 88.8% employment rate within 1 year (above national avg)."
   },
   "programs": [
-    {"type":"program","university_id":"unisannio","degree_level":"bachelor","program_name":"Economia Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Benevento","duration_years":3,"ects_total":180,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unisannio","degree_level":"bachelor","program_name":"Economia dei Servizi","class_code":"L-18","language":["Italian"],"campus_city":"Benevento","duration_years":3,"ects_total":180,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unisannio","degree_level":"bachelor","program_name":"Scienze Statistiche e Attuariali","class_code":"L-41","language":["Italian"],"campus_city":"Benevento","duration_years":3,"ects_total":180,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":"Unique in Campania and Southern Italy"},
-    {"type":"program","university_id":"unisannio","degree_level":"bachelor","program_name":"Ingegneria Civile","class_code":"L-7","language":["Italian"],"campus_city":"Benevento","duration_years":3,"ects_total":180,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unisannio","degree_level":"bachelor","program_name":"Ingegneria Elettronica per l'Automazione e le Telecomunicazioni","class_code":"L-8","language":["Italian"],"campus_city":"Benevento","duration_years":3,"ects_total":180,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unisannio","degree_level":"bachelor","program_name":"Ingegneria Informatica","class_code":"L-8","language":["Italian"],"campus_city":"Benevento","duration_years":3,"ects_total":180,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unisannio","degree_level":"bachelor","program_name":"Ingegneria Energetica","class_code":"L-9","language":["Italian"],"campus_city":"Benevento","duration_years":3,"ects_total":180,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unisannio","degree_level":"bachelor","program_name":"Biotecnologie","class_code":"L-2","language":["Italian"],"campus_city":"Benevento","duration_years":3,"ects_total":180,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unisannio","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Benevento","duration_years":3,"ects_total":180,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unisannio","degree_level":"bachelor","program_name":"Scienze Geologiche","class_code":"L-34","language":["Italian"],"campus_city":"Benevento","duration_years":3,"ects_total":180,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unisannio","degree_level":"master","program_name":"Ingegneria Civile","class_code":"LM-23","language":["Italian"],"campus_city":"Benevento","duration_years":2,"ects_total":120,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unisannio","degree_level":"master","program_name":"Ingegneria Elettronica per l'Automazione e le Telecomunicazioni","class_code":"LM-29","language":["Italian"],"campus_city":"Benevento","duration_years":2,"ects_total":120,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unisannio","degree_level":"master","program_name":"Ingegneria Energetica","class_code":"LM-30","language":["Italian"],"campus_city":"Benevento","duration_years":2,"ects_total":120,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unisannio","degree_level":"master","program_name":"Ingegneria Informatica","class_code":"LM-32","language":["Italian"],"campus_city":"Benevento","duration_years":2,"ects_total":120,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unisannio","degree_level":"master","program_name":"Economia e Management","class_code":"LM-77","language":["Italian"],"campus_city":"Benevento","duration_years":2,"ects_total":120,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unisannio","degree_level":"master","program_name":"Economia e Governance","class_code":"LM-77","language":["Italian"],"campus_city":"Benevento","duration_years":2,"ects_total":120,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unisannio","degree_level":"master","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Benevento","duration_years":5,"ects_total":300,"source_url":"https://www.unisannio.it/it/content/corsi-di-laurea-2024","last_checked":"2026-01-04","confidence":0.8,"notes":"Ciclo Unico"}
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "bachelor",
+      "program_name": "Economia Aziendale",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Business Administration",
+      "program_name_it": "Economia Aziendale"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "bachelor",
+      "program_name": "Economia dei Servizi",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Economics of thand Servizi",
+      "program_name_it": "Economia dei Servizi"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Statistiche e Attuariali",
+      "class_code": "L-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Unique in Campania and Southern Italy",
+      "program_name_it": "Scienze Statistiche e Attuariali"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Civile",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Civil Engineering",
+      "program_name_it": "Ingegneria Civile"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Elettronica per l'Automazione e le Telecomunicazioni",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_it": "Ingegneria Elettronica per l'Automazione e le Telecomunicazioni"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Informatica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Computer Engineering",
+      "program_name_it": "Ingegneria Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Energetica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Energy Engineering",
+      "program_name_it": "Ingegneria Energetica"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "bachelor",
+      "program_name": "Biotecnologie",
+      "class_code": "L-2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Biotechnology"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Biologiche",
+      "class_code": "L-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Biological Sciences",
+      "program_name_it": "Scienze Biologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Geologiche",
+      "class_code": "L-34",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Geological Sciences",
+      "program_name_it": "Scienze Geologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "master",
+      "program_name": "Ingegneria Civile",
+      "class_code": "LM-23",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Civil Engineering",
+      "program_name_it": "Ingegneria Civile"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "master",
+      "program_name": "Ingegneria Elettronica per l'Automazione e le Telecomunicazioni",
+      "class_code": "LM-29",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_it": "Ingegneria Elettronica per l'Automazione e le Telecomunicazioni"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "master",
+      "program_name": "Ingegneria Energetica",
+      "class_code": "LM-30",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Energy Engineering",
+      "program_name_it": "Ingegneria Energetica"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "master",
+      "program_name": "Ingegneria Informatica",
+      "class_code": "LM-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Computer Engineering",
+      "program_name_it": "Ingegneria Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "master",
+      "program_name": "Economia e Management",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Economics and Management",
+      "program_name_it": "Economia e Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "master",
+      "program_name": "Economia e Governance",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Economics and Governance",
+      "program_name_it": "Economia e Governance"
+    },
+    {
+      "type": "program",
+      "university_id": "unisannio",
+      "degree_level": "master",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Benevento",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unisannio.it/it/content/corsi-di-laurea-2024",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Ciclo Unico",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    }
   ],
-  "admissions": [{"type":"admissions","university_id":"unisannio","program_name":"","degree_level_scope":"general","applicant_scope":"all","requirements":{"academic_requirements":"Secondary school diploma","documents_required":[],"tests_required":[],"portfolio_required":false,"interview_required":false},"intakes":[{"intake_name":"fall","application_open_date":"","application_deadline":"","start_date":""}],"application_fee":{"amount":null,"currency":"EUR","notes":""},"how_to_apply_url":"https://www.unisannio.it","source_url":"https://www.unisannio.it","last_checked":"2026-01-04","confidence":0.7,"notes":""}],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unisannio",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unisannio.it",
+      "source_url": "https://www.unisannio.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.7,
+      "notes": ""
+    }
+  ],
   "tuition": [
     {
       "type": "tuition",
@@ -49,16 +396,44 @@
           "notes": "ISEE-based progressive rates"
         },
         "other_fees": [
-          {"name": "Bollo (stamp duty)", "amount": 16, "currency": "EUR", "frequency": "annual"},
-          {"name": "Tassa Regionale Campania", "amount_min": 125.50, "amount_max": 167.50, "currency": "EUR", "frequency": "annual", "notes": "€125.50 (ISEE <€40K), €146.50 (€40-100K), €167.50 (>€100K or no ISEE)"}
+          {
+            "name": "Bollo (stamp duty)",
+            "amount": 16,
+            "currency": "EUR",
+            "frequency": "annual"
+          },
+          {
+            "name": "Tassa Regionale Campania",
+            "amount_min": 125.5,
+            "amount_max": 167.5,
+            "currency": "EUR",
+            "frequency": "annual",
+            "notes": "€125.50 (ISEE <€40K), €146.50 (€40-100K), €167.50 (>€100K or no ISEE)"
+          }
         ],
         "payment_schedule": "2 installments"
       },
       "exemptions": [
-        {"name": "No Tax Area", "description": "Full tuition exemption for ISEE up to €28,000", "eligibility": "ISEE <= €28,000"},
-        {"name": "Partial Exemption", "description": "Reduced fees for ISEE €28,001-€40,000", "eligibility": "ISEE €28,001-€40,000"},
-        {"name": "Merit reduction", "description": "Additional reductions for excellent academic results", "eligibility": "Based on weighted average grade and CFU"},
-        {"name": "Disability exemption", "description": "Full exemption for disability >= 66%", "eligibility": "Disability certificate >= 66%"}
+        {
+          "name": "No Tax Area",
+          "description": "Full tuition exemption for ISEE up to €28,000",
+          "eligibility": "ISEE <= €28,000"
+        },
+        {
+          "name": "Partial Exemption",
+          "description": "Reduced fees for ISEE €28,001-€40,000",
+          "eligibility": "ISEE €28,001-€40,000"
+        },
+        {
+          "name": "Merit reduction",
+          "description": "Additional reductions for excellent academic results",
+          "eligibility": "Based on weighted average grade and CFU"
+        },
+        {
+          "name": "Disability exemption",
+          "description": "Full exemption for disability >= 66%",
+          "eligibility": "Disability certificate >= 66%"
+        }
       ],
       "source_url": "https://www.unisannio.it/it/amministrazione/contribuzione-studentesca",
       "last_checked": "2026-01-10",
@@ -116,7 +491,10 @@
         "nationality_requirements": "All graduating students",
         "other_requirements": "Timely graduation within standard duration"
       },
-      "benefits": ["Cash prize", "Recognition for academic excellence"],
+      "benefits": [
+        "Cash prize",
+        "Recognition for academic excellence"
+      ],
       "application_deadline": "Post-graduation",
       "renewable": false,
       "source_url": "https://www.unisannio.it",

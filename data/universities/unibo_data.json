@@ -7,113 +7,1894 @@
     "country": "Italy",
     "city": "Bologna",
     "campuses": [
-      {"city": "Bologna", "address": "Via Zamboni 33, 40126 Bologna", "notes": "Main campus"},
-      {"city": "Cesena", "address": "", "notes": ""},
-      {"city": "Forlì", "address": "", "notes": ""},
-      {"city": "Ravenna", "address": "", "notes": ""},
-      {"city": "Rimini", "address": "", "notes": ""}
+      {
+        "city": "Bologna",
+        "address": "Via Zamboni 33, 40126 Bologna",
+        "notes": "Main campus"
+      },
+      {
+        "city": "Cesena",
+        "address": "",
+        "notes": ""
+      },
+      {
+        "city": "Forlì",
+        "address": "",
+        "notes": ""
+      },
+      {
+        "city": "Ravenna",
+        "address": "",
+        "notes": ""
+      },
+      {
+        "city": "Rimini",
+        "address": "",
+        "notes": ""
+      }
     ],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Via Zamboni 33, 40126 Bologna"},
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Via Zamboni 33, 40126 Bologna"
+    },
     "source_url": "https://www.unibo.it",
     "last_checked": "2026-01-04",
-    "confidence": 1.0,
+    "confidence": 1,
     "notes": "Oldest university in Western world (founded 1088). 252 degree programs: 101 triennale, 137 magistrale, 14 ciclo unico. 96 international programs (79 in English). 31 departments, 5 schools, 5 campuses."
   },
   "programs": [
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Ingegneria Aerospaziale","class_code":"L-9","language":["Italian"],"campus_city":"Forlì","duration_years":3,"ects_total":180,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Ingegneria Meccanica","class_code":"L-9","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Ingegneria Biomedica","class_code":"L-8","language":["Italian"],"campus_city":"Cesena","duration_years":3,"ects_total":180,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Ingegneria Elettronica e Telecomunicazioni","class_code":"L-8","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Ingegneria e Scienze Informatiche","class_code":"L-31","language":["Italian"],"campus_city":"Cesena","duration_years":3,"ects_total":180,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Informatica","class_code":"L-31","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Informatica","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Ingegneria Gestionale","class_code":"L-9","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Ingegneria Civile","class_code":"L-7","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Ingegneria Edile","class_code":"L-23","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Ingegneria Chimica e Biochimica","class_code":"L-9","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Ingegneria dell'Energia Elettrica","class_code":"L-9","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Ingegneria per l'Ambiente e il Territorio","class_code":"L-7","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Economia, Mercati e Istituzioni","class_code":"L-33","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Economia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Economia e Finanza","class_code":"L-33","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Economia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Management e Marketing","class_code":"L-18","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Economia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Economics and Finance","class_code":"L-33","language":["English"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Economia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":"International program"},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Business and Economics","class_code":"L-18","language":["English"],"campus_city":"Rimini","duration_years":3,"ects_total":180,"department":"Economia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Economia del Turismo","class_code":"L-15","language":["Italian"],"campus_city":"Rimini","duration_years":3,"ects_total":180,"department":"Economia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Economia e Commercio","class_code":"L-33","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Economia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"ciclo_unico","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Bologna","duration_years":5,"ects_total":300,"department":"Giurisprudenza","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"ciclo_unico","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Ravenna","duration_years":5,"ects_total":300,"department":"Giurisprudenza","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"ciclo_unico","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Bologna","duration_years":6,"ects_total":360,"department":"Medicina","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"ciclo_unico","program_name":"Odontoiatria e Protesi Dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Bologna","duration_years":6,"ects_total":360,"department":"Medicina","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"ciclo_unico","program_name":"Farmacia","class_code":"LM-13","language":["Italian"],"campus_city":"Bologna","duration_years":5,"ects_total":300,"department":"Farmacia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"ciclo_unico","program_name":"Chimica e Tecnologia Farmaceutiche","class_code":"LM-13","language":["Italian"],"campus_city":"Bologna","duration_years":5,"ects_total":300,"department":"Farmacia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"ciclo_unico","program_name":"Medicina Veterinaria","class_code":"LM-42","language":["Italian"],"campus_city":"Bologna","duration_years":5,"ects_total":300,"department":"Veterinaria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"ciclo_unico","program_name":"Veterinary Medicine","class_code":"LM-42","language":["English"],"campus_city":"Bologna","duration_years":5,"ects_total":300,"department":"Veterinaria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":"NEW 2025 - First international veterinary medicine program"},
-    {"type":"program","university_id":"unibo","degree_level":"ciclo_unico","program_name":"Architettura","class_code":"LM-4","language":["Italian"],"campus_city":"Cesena","duration_years":5,"ects_total":300,"department":"Architettura","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"ciclo_unico","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Bologna","duration_years":5,"ects_total":300,"department":"Educazione","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Medicina","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":"Multiple locations"},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Fisioterapia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Medicina","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Logopedia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Medicina","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Dietistica","class_code":"L/SNT3","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Medicina","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Biotecnologie","class_code":"L-2","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Farmacia e Biotecnologie","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Scienze Farmaceutiche Applicate","class_code":"L-29","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Farmacia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Lettere","class_code":"L-10","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Lettere","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Filosofia","class_code":"L-5","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Filosofia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Storia","class_code":"L-42","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Storia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Beni Culturali","class_code":"L-1","language":["Italian"],"campus_city":"Ravenna","duration_years":3,"ects_total":180,"department":"Beni Culturali","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"DAMS - Discipline delle Arti, della Musica e dello Spettacolo","class_code":"L-3","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Arti","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Lingue e Letterature Straniere","class_code":"L-11","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Lingue","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Mediazione Linguistica Interculturale","class_code":"L-12","language":["Italian"],"campus_city":"Forlì","duration_years":3,"ects_total":180,"department":"Lingue","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Psicologia","class_code":"L-24","language":["Italian"],"campus_city":"Cesena","duration_years":3,"ects_total":180,"department":"Psicologia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Scienze Politiche, Sociali e Internazionali","class_code":"L-36","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Scienze Politiche","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Sociologia","class_code":"L-40","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Sociologia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Statistica","class_code":"L-41","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Statistica","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Scienze dell'Educazione e della Formazione","class_code":"L-19","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Educazione","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Scienze Motorie","class_code":"L-22","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Scienze Motorie","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Scienze","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Chimica","class_code":"L-27","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Scienze","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Fisica","class_code":"L-30","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Scienze","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Matematica","class_code":"L-35","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Scienze","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Scienze Geologiche","class_code":"L-34","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Scienze","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Scienze Naturali","class_code":"L-32","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Scienze","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Astronomia","class_code":"L-30","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Scienze","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Scienze e Tecnologie Agrarie","class_code":"L-25","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Agraria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Tecnologie Alimentari","class_code":"L-26","language":["Italian"],"campus_city":"Cesena","duration_years":3,"ects_total":180,"department":"Agraria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Viticoltura ed Enologia","class_code":"L-25","language":["Italian"],"campus_city":"Cesena","duration_years":3,"ects_total":180,"department":"Agraria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Scienze della Comunicazione","class_code":"L-20","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Comunicazione","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Informatica per il Management","class_code":"L-18","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Economia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"bachelor","program_name":"Servizio Sociale","class_code":"L-39","language":["Italian"],"campus_city":"Bologna","duration_years":3,"ects_total":180,"department":"Scienze Politiche","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Aerospace Engineering","class_code":"LM-20","language":["English"],"campus_city":"Forlì","duration_years":2,"ects_total":120,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Automation Engineering","class_code":"LM-25","language":["English"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Civil Engineering","class_code":"LM-23","language":["English"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Computer Science and Engineering","class_code":"LM-32","language":["English"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Artificial Intelligence","class_code":"LM-32","language":["English"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Ingegneria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Data Science","class_code":"LM-91","language":["English"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Scienze","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Applied Economics and Markets","class_code":"LM-56","language":["English"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Economia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Economics","class_code":"LM-56","language":["English"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Economia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Management","class_code":"LM-77","language":["English"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Economia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Quantitative Finance","class_code":"LM-77","language":["English"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Economia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Business Administration","class_code":"LM-77","language":["English"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Economia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"International Relations","class_code":"LM-52","language":["English"],"campus_city":"Forlì","duration_years":2,"ects_total":120,"department":"Scienze Politiche","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Translation","class_code":"LM-94","language":["English"],"campus_city":"Forlì","duration_years":2,"ects_total":120,"department":"Lingue","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Interpreting","class_code":"LM-94","language":["English"],"campus_city":"Forlì","duration_years":2,"ects_total":120,"department":"Lingue","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Biotecnologie Mediche","class_code":"LM-9","language":["Italian"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Farmacia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Antropologia Culturale ed Etnologia","class_code":"LM-1","language":["Italian"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Lettere","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Scienze Filosofiche","class_code":"LM-78","language":["Italian"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Filosofia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Psicologia Clinica","class_code":"LM-51","language":["Italian"],"campus_city":"Cesena","duration_years":2,"ects_total":120,"department":"Psicologia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Physics","class_code":"LM-17","language":["English"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Scienze","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Mathematics","class_code":"LM-40","language":["English"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Scienze","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Astrophysics and Cosmology","class_code":"LM-58","language":["English"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Scienze","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Bioinformatics","class_code":"LM-8","language":["English"],"campus_city":"Bologna","duration_years":2,"ects_total":120,"department":"Scienze","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Food Science","class_code":"LM-70","language":["English"],"campus_city":"Cesena","duration_years":2,"ects_total":120,"department":"Agraria","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Resource Economics and Sustainable Development","class_code":"LM-76","language":["English"],"campus_city":"Rimini","duration_years":2,"ects_total":120,"department":"Economia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibo","degree_level":"master","program_name":"Tourism Economics and Management","class_code":"LM-77","language":["English"],"campus_city":"Rimini","duration_years":2,"ects_total":120,"department":"Economia","source_url":"https://www.unibo.it/it/studiare","last_checked":"2026-01-04","confidence":0.9,"notes":""}
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Aerospaziale",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Forlì",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Aerospace Engineering",
+      "program_name_it": "Ingegneria Aerospaziale"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Meccanica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mechanical Engineering",
+      "program_name_it": "Ingegneria Meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Biomedica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Cesena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biomedical Engineering",
+      "program_name_it": "Ingegneria Biomedica"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Elettronica e Telecomunicazioni",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Elettronica e Telecomunicazioni"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria e Scienze Informatiche",
+      "class_code": "L-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Cesena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria e Scienze Informatiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Informatica",
+      "class_code": "L-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Informatica",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Computer Science",
+      "program_name_it": "Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Gestionale",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Management Engineering",
+      "program_name_it": "Ingegneria Gestionale"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Civile",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Civil Engineering",
+      "program_name_it": "Ingegneria Civile"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Edile",
+      "class_code": "L-23",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Building Engineering",
+      "program_name_it": "Ingegneria Edile"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Chimica e Biochimica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Chimica e Biochimica"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria dell'Energia Elettrica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria dell'Energia Elettrica"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria per l'Ambiente e il Territorio",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Environmental and Land Engineering",
+      "program_name_it": "Ingegneria per l'Ambiente e il Territorio"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Economia, Mercati e Istituzioni",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Economia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Economia, Mercati e Istituzioni"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Finanza",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Economia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics and Finance",
+      "program_name_it": "Economia e Finanza"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Management e Marketing",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Economia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Economics and Finance",
+      "class_code": "L-33",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Economia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "International program",
+      "program_name_it": "Economia e Finanza",
+      "program_name_en": "Economics and Finance"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Business and Economics",
+      "class_code": "L-18",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rimini",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Economia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Business e Economia",
+      "program_name_en": "Business and Economics"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Economia del Turismo",
+      "class_code": "L-15",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rimini",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Economia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics of thand Tourism",
+      "program_name_it": "Economia del Turismo"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Commercio",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Economia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics and Commercio",
+      "program_name_it": "Economia e Commercio"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "ciclo_unico",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 5,
+      "ects_total": 300,
+      "department": "Giurisprudenza",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "ciclo_unico",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Ravenna",
+      "duration_years": 5,
+      "ects_total": 300,
+      "department": "Giurisprudenza",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "ciclo_unico",
+      "program_name": "Medicina e Chirurgia",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 6,
+      "ects_total": 360,
+      "department": "Medicina",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Medicine and Surgery",
+      "program_name_it": "Medicina e Chirurgia"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "ciclo_unico",
+      "program_name": "Odontoiatria e Protesi Dentaria",
+      "class_code": "LM-46",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 6,
+      "ects_total": 360,
+      "department": "Medicina",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Dentistry and Dental Prosthetics"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "ciclo_unico",
+      "program_name": "Farmacia",
+      "class_code": "LM-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 5,
+      "ects_total": 300,
+      "department": "Farmacia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Pharmacy"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "ciclo_unico",
+      "program_name": "Chimica e Tecnologia Farmaceutiche",
+      "class_code": "LM-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 5,
+      "ects_total": 300,
+      "department": "Farmacia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Pharmaceutical Chemistry and Technology"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "ciclo_unico",
+      "program_name": "Medicina Veterinaria",
+      "class_code": "LM-42",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 5,
+      "ects_total": 300,
+      "department": "Veterinaria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Veterinary Medicine",
+      "program_name_it": "Medicina Veterinaria"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "ciclo_unico",
+      "program_name": "Veterinary Medicine",
+      "class_code": "LM-42",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 5,
+      "ects_total": 300,
+      "department": "Veterinaria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "NEW 2025 - First international veterinary medicine program",
+      "program_name_it": "Medicina Veterinaria",
+      "program_name_en": "Veterinary Medicine"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "ciclo_unico",
+      "program_name": "Architettura",
+      "class_code": "LM-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Cesena",
+      "duration_years": 5,
+      "ects_total": 300,
+      "department": "Architettura",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Architecture",
+      "program_name_it": "Architettura"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "ciclo_unico",
+      "program_name": "Scienze della Formazione Primaria",
+      "class_code": "LM-85 bis",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 5,
+      "ects_total": 300,
+      "department": "Educazione",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Primary Education Sciences",
+      "program_name_it": "Scienze della Formazione Primaria"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Infermieristica",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Medicina",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Multiple locations",
+      "program_name_en": "Nursing"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Fisioterapia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Medicina",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Physiotherapy"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Logopedia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Medicina",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Speech Therapy"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Dietistica",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Medicina",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Dietetics"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Biotecnologie",
+      "class_code": "L-2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Farmacia e Biotecnologie",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biotechnology"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Farmaceutiche Applicate",
+      "class_code": "L-29",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Farmacia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Farmaceutiche Applicate"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Lettere",
+      "class_code": "L-10",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Lettere",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Humanities",
+      "program_name_it": "Lettere"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Filosofia",
+      "class_code": "L-5",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Filosofia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Philosophy",
+      "program_name_it": "Filosofia"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Storia",
+      "class_code": "L-42",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Storia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "History",
+      "program_name_it": "Storia"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Beni Culturali",
+      "class_code": "L-1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Ravenna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Beni Culturali",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Bandni Culturali"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "DAMS - Discipline delle Arti, della Musica e dello Spettacolo",
+      "class_code": "L-3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Arti",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Lingue e Letterature Straniere",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Lingue",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Foreign Languages and Literatures"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Mediazione Linguistica Interculturale",
+      "class_code": "L-12",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Forlì",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Lingue",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mediazione Linguistica Interculturale"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Psicologia",
+      "class_code": "L-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Cesena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Psicologia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Psychology",
+      "program_name_it": "Psicologia"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Politiche, Sociali e Internazionali",
+      "class_code": "L-36",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Scienze Politiche",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Politiche, Sociali e Internazionali"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Sociologia",
+      "class_code": "L-40",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Sociologia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Sociology"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Statistica",
+      "class_code": "L-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Statistica",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Statistics"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "class_code": "L-19",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Educazione",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze dell'Educazione e della Formazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Motorie",
+      "class_code": "L-22",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Scienze Motorie",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Sport Sciences",
+      "program_name_it": "Scienze Motorie"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Biologiche",
+      "class_code": "L-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Scienze",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biological Sciences",
+      "program_name_it": "Scienze Biologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Chimica",
+      "class_code": "L-27",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Scienze",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Chemistry"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Fisica",
+      "class_code": "L-30",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Scienze",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Matematica",
+      "class_code": "L-35",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Scienze",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Geologiche",
+      "class_code": "L-34",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Scienze",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Geological Sciences",
+      "program_name_it": "Scienze Geologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Naturali",
+      "class_code": "L-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Scienze",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Natural Sciences",
+      "program_name_it": "Scienze Naturali"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Astronomia",
+      "class_code": "L-30",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Scienze",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Astronomy"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Tecnologie Agrarie",
+      "class_code": "L-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Agraria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Agricultural Sciences and Technologies",
+      "program_name_it": "Scienze e Tecnologie Agrarie"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Tecnologie Alimentari",
+      "class_code": "L-26",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Cesena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Agraria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Tandcnologie Alimentari"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Viticoltura ed Enologia",
+      "class_code": "L-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Cesena",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Agraria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Viticoltura ed Enologia"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Scienze della Comunicazione",
+      "class_code": "L-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Comunicazione",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Communication Sciences",
+      "program_name_it": "Scienze della Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Informatica per il Management",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Economia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Informatica per il Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "bachelor",
+      "program_name": "Servizio Sociale",
+      "class_code": "L-39",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Scienze Politiche",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Servizio Sociale"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Aerospace Engineering",
+      "class_code": "LM-20",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Forlì",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Aerospaziale",
+      "program_name_en": "Aerospace Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Automation Engineering",
+      "class_code": "LM-25",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria dell'Automazione",
+      "program_name_en": "Automation Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Civil Engineering",
+      "class_code": "LM-23",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Civile",
+      "program_name_en": "Civil Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Computer Science and Engineering",
+      "class_code": "LM-32",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Informatica e Ingegneria Informatica",
+      "program_name_en": "Computer Science and Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Artificial Intelligence",
+      "class_code": "LM-32",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Ingegneria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Intelligenza Artificiale",
+      "program_name_en": "Artificial Intelligence"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Data Science",
+      "class_code": "LM-91",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Scienze",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienza dei Dati",
+      "program_name_en": "Data Science"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Applied Economics and Markets",
+      "class_code": "LM-56",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Economia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Applied Economia e Markets",
+      "program_name_en": "Applied Economics and Markets"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Economics",
+      "class_code": "LM-56",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Economia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Economia",
+      "program_name_en": "Economics"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Management",
+      "class_code": "LM-77",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Economia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Quantitative Finance",
+      "class_code": "LM-77",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Economia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Quantitative Finanza",
+      "program_name_en": "Quantitative Finance"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Business Administration",
+      "class_code": "LM-77",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Economia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Economia Aziendale",
+      "program_name_en": "Business Administration"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "International Relations",
+      "class_code": "LM-52",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Forlì",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Scienze Politiche",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Relazioni Internazionali",
+      "program_name_en": "International Relations"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Translation",
+      "class_code": "LM-94",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Forlì",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Lingue",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Traduzione",
+      "program_name_en": "Translation"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Interpreting",
+      "class_code": "LM-94",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Forlì",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Lingue",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Interpretariato",
+      "program_name_en": "Interpreting"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Biotecnologie Mediche",
+      "class_code": "LM-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Farmacia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Medical Biotechnology"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Antropologia Culturale ed Etnologia",
+      "class_code": "LM-1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Lettere",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Anthropology Culturaland ed Etnologia"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Scienze Filosofiche",
+      "class_code": "LM-78",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Filosofia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Filosofiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Psicologia Clinica",
+      "class_code": "LM-51",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Cesena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Psicologia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Clinical Psychology",
+      "program_name_it": "Psicologia Clinica"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Physics",
+      "class_code": "LM-17",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Scienze",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Fisica",
+      "program_name_en": "Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Mathematics",
+      "class_code": "LM-40",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Scienze",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Matematica",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Astrophysics and Cosmology",
+      "class_code": "LM-58",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Scienze",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Astrophysics e Cosmology",
+      "program_name_en": "Astrophysics and Cosmology"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Bioinformatics",
+      "class_code": "LM-8",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bologna",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Scienze",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Bioinformatics"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Food Science",
+      "class_code": "LM-70",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Cesena",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Agraria",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Alimentare Science",
+      "program_name_en": "Food Science"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Resource Economics and Sustainable Development",
+      "class_code": "LM-76",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rimini",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Economia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Resource Economia e Sostenibile Development",
+      "program_name_en": "Resource Economics and Sustainable Development"
+    },
+    {
+      "type": "program",
+      "university_id": "unibo",
+      "degree_level": "master",
+      "program_name": "Tourism Economics and Management",
+      "class_code": "LM-77",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Rimini",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Economia",
+      "source_url": "https://www.unibo.it/it/studiare",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Turismo Economia e Management",
+      "program_name_en": "Tourism Economics and Management"
+    }
   ],
-  "admissions": [{"type":"admissions","university_id":"unibo","program_name":"","degree_level_scope":"general","applicant_scope":"all","requirements":{"academic_requirements":"Secondary school diploma","documents_required":["High school diploma","ID document"],"tests_required":[{"test_name":"TOLC","min_score":"","notes":"Required for many programs (TOLC-I, TOLC-E, TOLC-S, etc.)"}],"portfolio_required":false,"interview_required":false},"intakes":[{"intake_name":"fall","application_open_date":"","application_deadline":"","start_date":"September"}],"application_fee":{"amount":null,"currency":"EUR","notes":""},"how_to_apply_url":"https://www.unibo.it/it/studiare","source_url":"https://www.unibo.it","last_checked":"2026-01-04","confidence":0.9,"notes":"Access varies by program: open access, local programmato, national programmato. TOLC tests via CISIA."}],
-  "tuition": [{"type":"tuition","university_id":"unibo","program_name":"","degree_level_scope":"general","tuition":[{"student_group":"Standard","amount_min":158,"amount_max":2900,"currency":"EUR","period":"year","notes":"Varies by ISEE income bracket"},{"student_group":"ISEE ≤ 23000","amount_min":158,"amount_max":158,"currency":"EUR","period":"year","notes":"Minimum contribution only"}],"additional_fees":[],"payment_schedule_notes":"Three installments: October, January, March","source_url":"https://www.unibo.it/it/studiare/iscrizioni-tasse-e-altre-procedure/tasse-e-contributi","last_checked":"2026-01-04","confidence":0.9,"notes":""}],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unibo",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [
+          "High school diploma",
+          "ID document"
+        ],
+        "tests_required": [
+          {
+            "test_name": "TOLC",
+            "min_score": "",
+            "notes": "Required for many programs (TOLC-I, TOLC-E, TOLC-S, etc.)"
+          }
+        ],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": "September"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unibo.it/it/studiare",
+      "source_url": "https://www.unibo.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Access varies by program: open access, local programmato, national programmato. TOLC tests via CISIA."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unibo",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "Standard",
+          "amount_min": 158,
+          "amount_max": 2900,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Varies by ISEE income bracket"
+        },
+        {
+          "student_group": "ISEE ≤ 23000",
+          "amount_min": 158,
+          "amount_max": 158,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Minimum contribution only"
+        }
+      ],
+      "additional_fees": [],
+      "payment_schedule_notes": "Three installments: October, January, March",
+      "source_url": "https://www.unibo.it/it/studiare/iscrizioni-tasse-e-altre-procedure/tasse-e-contributi",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
   "scholarships": [
-    {"type":"scholarship","university_id":"unibo","scholarship_name":"ER.GO - Borsa di Studio Regionale","amount":{"min":2000,"max":6500,"currency":"EUR","period":"year"},"eligibility":{"degree_levels":["bachelor","master","ciclo_unico"],"nationalities":["all"],"merit_based":false,"need_based":true,"other_criteria":"ISEE requirement, merit requirements"},"application_deadline":"","renewable":true,"source_url":"https://www.er-go.it","last_checked":"2026-01-04","confidence":0.9,"notes":"Regional scholarship from Emilia-Romagna. Includes tuition waiver, accommodation, meals. Apply through ER.GO portal."},
-    {"type":"scholarship","university_id":"unibo","scholarship_name":"Unibo Action 1 - Study Grants for International Students","amount":{"min":11000,"max":11000,"currency":"EUR","period":"year"},"eligibility":{"degree_levels":["master"],"nationalities":["international"],"merit_based":true,"need_based":false,"other_criteria":"Admitted to master programs, high academic achievement"},"application_deadline":"","renewable":true,"source_url":"https://www.unibo.it/en/international","last_checked":"2026-01-04","confidence":0.9,"notes":"Full tuition waiver plus EUR 11,000 living allowance"},
-    {"type":"scholarship","university_id":"unibo","scholarship_name":"Unibo Action 2 - Tuition Fee Waivers","amount":{"min":null,"max":null,"currency":"EUR","period":"year"},"eligibility":{"degree_levels":["bachelor","master","ciclo_unico"],"nationalities":["international"],"merit_based":true,"need_based":false,"other_criteria":"High academic achievement"},"application_deadline":"","renewable":true,"source_url":"https://www.unibo.it/en/international","last_checked":"2026-01-04","confidence":0.9,"notes":"Full or partial tuition waiver based on merit"}
+    {
+      "type": "scholarship",
+      "university_id": "unibo",
+      "scholarship_name": "ER.GO - Borsa di Studio Regionale",
+      "amount": {
+        "min": 2000,
+        "max": 6500,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "eligibility": {
+        "degree_levels": [
+          "bachelor",
+          "master",
+          "ciclo_unico"
+        ],
+        "nationalities": [
+          "all"
+        ],
+        "merit_based": false,
+        "need_based": true,
+        "other_criteria": "ISEE requirement, merit requirements"
+      },
+      "application_deadline": "",
+      "renewable": true,
+      "source_url": "https://www.er-go.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Regional scholarship from Emilia-Romagna. Includes tuition waiver, accommodation, meals. Apply through ER.GO portal."
+    },
+    {
+      "type": "scholarship",
+      "university_id": "unibo",
+      "scholarship_name": "Unibo Action 1 - Study Grants for International Students",
+      "amount": {
+        "min": 11000,
+        "max": 11000,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "eligibility": {
+        "degree_levels": [
+          "master"
+        ],
+        "nationalities": [
+          "international"
+        ],
+        "merit_based": true,
+        "need_based": false,
+        "other_criteria": "Admitted to master programs, high academic achievement"
+      },
+      "application_deadline": "",
+      "renewable": true,
+      "source_url": "https://www.unibo.it/en/international",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Full tuition waiver plus EUR 11,000 living allowance"
+    },
+    {
+      "type": "scholarship",
+      "university_id": "unibo",
+      "scholarship_name": "Unibo Action 2 - Tuition Fee Waivers",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "eligibility": {
+        "degree_levels": [
+          "bachelor",
+          "master",
+          "ciclo_unico"
+        ],
+        "nationalities": [
+          "international"
+        ],
+        "merit_based": true,
+        "need_based": false,
+        "other_criteria": "High academic achievement"
+      },
+      "application_deadline": "",
+      "renewable": true,
+      "source_url": "https://www.unibo.it/en/international",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Full or partial tuition waiver based on merit"
+    }
   ],
   "opportunities": []
 }

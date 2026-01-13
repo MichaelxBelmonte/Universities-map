@@ -6,177 +6,1979 @@
     "official_url": "https://www.unimi.it",
     "country": "Italy",
     "city": "Milan",
-    "campuses": [{"city": "Milan", "address": "", "notes": "Multiple campuses across Milan"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Milan"},
+    "campuses": [
+      {
+        "city": "Milan",
+        "address": "",
+        "notes": "Multiple campuses across Milan"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Milan"
+    },
     "source_url": "https://www.unimi.it",
     "last_checked": "2026-01-05",
-    "confidence": 1.0,
+    "confidence": 1,
     "notes": "160 degree programs: 82 triennali/ciclo unico, 78 magistrali. 36 PhDs, 60 masters. 10 faculties/schools. Nearly half of students pay no tuition due to expanded no tax area (€30,000)."
   },
   "programs": [
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Agricoltura Sostenibile","class_code":"L-25","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Sustainable Agriculture"},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Architettura del Paesaggio","class_code":"L-3","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Landscape Architecture"},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Artificial Intelligence","class_code":"L-31","language":["English"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Assistenza Sanitaria","class_code":"L/SNT4","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Beni Culturali: Scienze, Tecnologie e Diagnostica","class_code":"L-43","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Cultural Heritage"},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Biotecnologie","class_code":"L-2","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Biotecnologie Mediche","class_code":"L-2","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Medical Biotechnology"},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Chimica","class_code":"L-27","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Chimica Industriale","class_code":"L-27","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Industrial Chemistry"},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Comunicazione Digitale","class_code":"L-20","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Dairy Enterprise Technologies and Management","class_code":"L-26","language":["English"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Dietistica","class_code":"L/SNT3","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Economia e Gestione Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Economia e Management","class_code":"L-33","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Educazione Professionale","class_code":"L/SNT2","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Filosofia","class_code":"L-5","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Fisica","class_code":"L-30","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Fisioterapia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Igiene Dentale","class_code":"L/SNT3","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Informatica","class_code":"L-31","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Informatica Musicale","class_code":"L-31","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Musical Informatics"},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Lettere","class_code":"L-10","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Lingue e Letterature Straniere","class_code":"L-11","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Logopedia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Matematica","class_code":"L-35","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Mediazione Linguistica e Culturale","class_code":"L-12","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Ostetricia","class_code":"L/SNT1","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Podologia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Produzione e Protezione delle Piante e dei Sistemi del Verde","class_code":"L-25","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Scienze dei Servizi Giuridici","class_code":"L-14","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Scienze dell'Educazione","class_code":"L-19","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Scienze e Politiche Ambientali","class_code":"L-32","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Scienze e Tecniche Psicologiche","class_code":"L-24","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Scienze e Tecnologie Agrarie","class_code":"L-25","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Scienze e Tecnologie Alimentari","class_code":"L-26","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Scienze Geologiche","class_code":"L-34","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Scienze Internazionali e Istituzioni Europee","class_code":"L-36","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Scienze Motorie, Sport e Salute","class_code":"L-22","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Scienze Naturali","class_code":"L-32","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Scienze Politiche","class_code":"L-36","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Scienze Umanistiche per la Comunicazione","class_code":"L-20","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Sicurezza dei Sistemi e delle Reti Informatiche","class_code":"L-31","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Online, cybersecurity"},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Storia","class_code":"L-42","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Tecniche Audioprotesiche","class_code":"L/SNT3","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Tecniche di Laboratorio Biomedico","class_code":"L/SNT3","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Tecniche di Radiologia Medica","class_code":"L/SNT3","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"bachelor","program_name":"Valorizzazione e Tutela dell'Ambiente e del Territorio Montano","class_code":"L-25","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Development and Protection of Mountain Environment"},
-    {"type":"program","university_id":"unimi","degree_level":"ciclo_unico","program_name":"Chimica e Tecnologia Farmaceutiche","class_code":"LM-13","language":["Italian"],"campus_city":"Milan","duration_years":5,"ects_total":300,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"ciclo_unico","program_name":"Farmacia","class_code":"LM-13","language":["Italian"],"campus_city":"Milan","duration_years":5,"ects_total":300,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"ciclo_unico","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Milan","duration_years":5,"ects_total":300,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"ciclo_unico","program_name":"Medicina e Chirurgia - Sede Policlinico","class_code":"LM-41","language":["Italian"],"campus_city":"Milan","duration_years":6,"ects_total":360,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Semestre filtro, no test iniziale"},
-    {"type":"program","university_id":"unimi","degree_level":"ciclo_unico","program_name":"Medicina e Chirurgia - Sede San Paolo","class_code":"LM-41","language":["Italian"],"campus_city":"Milan","duration_years":6,"ects_total":360,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"ciclo_unico","program_name":"Medicina Veterinaria","class_code":"LM-42","language":["Italian"],"campus_city":"Milan","duration_years":5,"ects_total":300,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"ciclo_unico","program_name":"Odontoiatria e Protesi Dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Milan","duration_years":6,"ects_total":360,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"ciclo_unico","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Milan","duration_years":5,"ects_total":300,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Alimentazione e Nutrizione Umana","class_code":"LM-61","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Human Nutrition and Food Science"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Amministrazione e Politiche Pubbliche","class_code":"LM-63","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Analysis, Planning and Sustainable Management of Land and Territory","class_code":"LM-48/LM-80","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Archeologia","class_code":"LM-2","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Artificial Intelligence for Science and Technology","class_code":"LM-91","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Biodiversity and Evolutionary Biology","class_code":"LM-6","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Bioinformatics for Computational Genomics","class_code":"LM-8","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught, with PoliMi"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Biologia Applicata alla Ricerca Biomedica","class_code":"LM-6","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Biologia Molecolare della Cellula","class_code":"LM-6","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Biotecnologie del Farmaco","class_code":"LM-9","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Pharmaceutical Biotechnology"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Biotecnologie Industriali e Ambientali","class_code":"LM-8","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Biotechnology for the Bioeconomy","class_code":"LM-8","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Business Administration, Law and Corporate Governance","class_code":"LM-77","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Chimica","class_code":"LM-54","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Chimica Industriale","class_code":"LM-71","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Computational Social and Political Science","class_code":"LM-62/LM-88","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Economics","class_code":"LM-56","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Economics and Management","class_code":"LM-77","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Economics and Political Science","class_code":"LM-56","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Environmental Change and Global Sustainability","class_code":"LM-75","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Filologia, Letterature e Storia dell'Antichità","class_code":"LM-15","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Filosofia","class_code":"LM-78","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Fisica","class_code":"LM-17","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Geoscienze","class_code":"LM-74","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Informatica","class_code":"LM-18","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Lingue e Letterature Europee ed Extraeuropee","class_code":"LM-37","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Management of Innovation and Entrepreneurship","class_code":"LM-77","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Matematica","class_code":"LM-40","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Migration Studies and New Societies","class_code":"LM-81","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught, €4,500 tuition"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Molecular Biology of the Cell","class_code":"LM-6","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Musicologia e Beni Musicali","class_code":"LM-45","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Psicologia Clinica","class_code":"LM-51","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Relazioni Internazionali","class_code":"LM-52","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Scienze Cognitive e Processi Decisionali","class_code":"LM-55","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Scienze della Nutrizione Umana","class_code":"LM-61","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Scienze e Tecnologie Agrarie","class_code":"LM-69","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Scienze e Tecnologie Alimentari","class_code":"LM-70","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Scienze Naturali","class_code":"LM-60","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Scienze Pedagogiche","class_code":"LM-85","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Storia","class_code":"LM-84","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Storia dell'Arte","class_code":"LM-89","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unimi","degree_level":"master","program_name":"Traduzione Specialistica e Interpretariato di Conferenza","class_code":"LM-94","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unimi.it","last_checked":"2026-01-05","confidence":0.9,"notes":""}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"unimi",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Agricoltura Sostenibile",
+      "class_code": "L-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Sustainable Agriculture",
+      "program_name_en": "Sustainable Agriculture"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"July 15",
-      "application_deadline":"September 30",
-      "start_date":"September"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.unimi.it/it/corsi/tutte-le-offerte-formative",
-    "source_url":"https://www.unimi.it",
-    "last_checked":"2026-01-05",
-    "confidence":0.9,
-    "notes":"10 schools: Studi Umanistici, Scienze, Medicina e Chirurgia, Giurisprudenza, etc. Medicine: semestre filtro (no initial test)."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"unimi",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"ISEE ≤ 30000","amount_min":156,"amount_max":156,"currency":"EUR","period":"year","notes":"No Tax Area - only first rate"},
-      {"student_group":"ISEE 30001-80000 (in corso)","amount_min":156,"amount_max":4257,"currency":"EUR","period":"year","notes":"Based on ISEE and field (humanities €3,360 / sciences €4,257)"},
-      {"student_group":"ISEE 30001-80000 (fuori corso 2+ years)","amount_min":156,"amount_max":6307,"currency":"EUR","period":"year","notes":"Higher second rate"},
-      {"student_group":"ISEE > 80000 or no ISEE","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Maximum contribution"},
-      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
-    ],
-    "additional_fees":[
-      {"fee_name":"First rate (fixed)","amount":156,"currency":"EUR","notes":"All students"},
-      {"fee_name":"Online Cybersecurity supplement","amount":500,"currency":"EUR","notes":"In corso students"},
-      {"fee_name":"Migration Studies supplement","amount":4344,"currency":"EUR","notes":"Special program"}
-    ],
-    "payment_schedule_notes":"First rate €156 at enrollment. Second rate mid-December, due Jan 31, 2026. Installments available for second rate ≥€700.",
-    "source_url":"https://www.unimi.it/en/study/bachelor-and-master-study/fees-and-how-pay-them/fees-current-year",
-    "last_checked":"2026-01-05",
-    "confidence":0.95,
-    "notes":"No tax area expanded to €30,000 (from €22,000). ISEE max raised to €80,000. Nearly half of students pay no tuition."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"unimi",
-    "scholarship_name":"DSU Lombardia Regional Scholarship",
-    "description":"Regional scholarship covering tuition, accommodation, meals",
-    "eligibility":"ISEE threshold + merit requirements",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"",
-    "source_url":"https://www.unimi.it",
-    "last_checked":"2026-01-05",
-    "confidence":0.8,
-    "notes":"Lombardia regional agency manages scholarships."
-  }],
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Architettura del Paesaggio",
+      "class_code": "L-3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Landscape Architecture",
+      "program_name_en": "Landscape Architecture",
+      "program_name_it": "Architettura del Paesaggio"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Artificial Intelligence",
+      "class_code": "L-31",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Intelligenza Artificiale",
+      "program_name_en": "Artificial Intelligence"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Assistenza Sanitaria",
+      "class_code": "L/SNT4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Healthcare Assistance"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Beni Culturali: Scienze, Tecnologie e Diagnostica",
+      "class_code": "L-43",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Cultural Heritage",
+      "program_name_it": "Beni Culturali: Scienze, Tecnologie e Diagnostica"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Biotecnologie",
+      "class_code": "L-2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biotechnology"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Biotecnologie Mediche",
+      "class_code": "L-2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Medical Biotechnology",
+      "program_name_en": "Medical Biotechnology"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Chimica",
+      "class_code": "L-27",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Chemistry"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Chimica Industriale",
+      "class_code": "L-27",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Industrial Chemistry",
+      "program_name_en": "Industrial Chemistry"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Comunicazione Digitale",
+      "class_code": "L-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Digital Communication",
+      "program_name_it": "Comunicazione Digitale"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Dairy Enterprise Technologies and Management",
+      "class_code": "L-26",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Dairy Enterprise Technologies e Management",
+      "program_name_en": "Dairy Enterprise Technologies and Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Dietistica",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Dietetics"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Gestione Aziendale",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Business Economics and Management",
+      "program_name_it": "Economia e Gestione Aziendale"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Management",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics and Management",
+      "program_name_it": "Economia e Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Educazione Professionale",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Professional Education"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Filosofia",
+      "class_code": "L-5",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Philosophy",
+      "program_name_it": "Filosofia"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Fisica",
+      "class_code": "L-30",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Fisioterapia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Physiotherapy"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Igiene Dentale",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Dental Hygiene"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Infermieristica",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Nursing"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Informatica",
+      "class_code": "L-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Computer Science",
+      "program_name_it": "Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Informatica Musicale",
+      "class_code": "L-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Musical Informatics",
+      "program_name_en": "Musical Informatics",
+      "program_name_it": "Informatica Musicale"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Lettere",
+      "class_code": "L-10",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Humanities",
+      "program_name_it": "Lettere"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Lingue e Letterature Straniere",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Foreign Languages and Literatures"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Logopedia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Speech Therapy"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Matematica",
+      "class_code": "L-35",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Mediazione Linguistica e Culturale",
+      "class_code": "L-12",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Linguistic and Cultural Mediation"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Ostetricia",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Midwifery"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Podologia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Podiatry"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Produzione e Protezione delle Piante e dei Sistemi del Verde",
+      "class_code": "L-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Biologiche",
+      "class_code": "L-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biological Sciences",
+      "program_name_it": "Scienze Biologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dei Servizi Giuridici",
+      "class_code": "L-14",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Legal Services Sciences",
+      "program_name_it": "Scienze dei Servizi Giuridici"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'Educazione",
+      "class_code": "L-19",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Educational Sciences",
+      "program_name_it": "Scienze dell'Educazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Politiche Ambientali",
+      "class_code": "L-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze e Politiche Ambientali"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Tecniche Psicologiche",
+      "class_code": "L-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Psychological Sciences and Techniques",
+      "program_name_it": "Scienze e Tecniche Psicologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Tecnologie Agrarie",
+      "class_code": "L-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Agricultural Sciences and Technologies",
+      "program_name_it": "Scienze e Tecnologie Agrarie"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Tecnologie Alimentari",
+      "class_code": "L-26",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Food Science and Technology",
+      "program_name_it": "Scienze e Tecnologie Alimentari"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Geologiche",
+      "class_code": "L-34",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Geological Sciences",
+      "program_name_it": "Scienze Geologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Internazionali e Istituzioni Europee",
+      "class_code": "L-36",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Internazionali e Istituzioni Europee"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Motorie, Sport e Salute",
+      "class_code": "L-22",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Sport Sciences, Sport and Health",
+      "program_name_it": "Scienze Motorie, Sport e Salute"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Naturali",
+      "class_code": "L-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Natural Sciences",
+      "program_name_it": "Scienze Naturali"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Politiche",
+      "class_code": "L-36",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Political Science",
+      "program_name_it": "Scienze Politiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Umanistiche per la Comunicazione",
+      "class_code": "L-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Umanistiche per la Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Sicurezza dei Sistemi e delle Reti Informatiche",
+      "class_code": "L-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Online, cybersecurity"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Storia",
+      "class_code": "L-42",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "History",
+      "program_name_it": "Storia"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche Audioprotesiche",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Hearing Aid Techniques"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche di Laboratorio Biomedico",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biomedical Laboratory Techniques"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche di Radiologia Medica",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Medical Radiology Techniques"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "bachelor",
+      "program_name": "Valorizzazione e Tutela dell'Ambiente e del Territorio Montano",
+      "class_code": "L-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Development and Protection of Mountain Environment",
+      "program_name_it": "Valorizzazione e Tutela dell'Ambiente e del Territorio Montano"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Chimica e Tecnologia Farmaceutiche",
+      "class_code": "LM-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Pharmaceutical Chemistry and Technology"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Farmacia",
+      "class_code": "LM-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Pharmacy"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Medicina e Chirurgia - Sede Policlinico",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Semestre filtro, no test iniziale",
+      "program_name_en": "Medicine and Surgery - Sede Policlinico",
+      "program_name_it": "Medicina e Chirurgia - Sede Policlinico"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Medicina e Chirurgia - Sede San Paolo",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Medicine and Surgery - Sede San Paolo",
+      "program_name_it": "Medicina e Chirurgia - Sede San Paolo"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Medicina Veterinaria",
+      "class_code": "LM-42",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Veterinary Medicine",
+      "program_name_it": "Medicina Veterinaria"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Odontoiatria e Protesi Dentaria",
+      "class_code": "LM-46",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Dentistry and Dental Prosthetics"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "ciclo_unico",
+      "program_name": "Scienze della Formazione Primaria",
+      "class_code": "LM-85 bis",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Primary Education Sciences",
+      "program_name_it": "Scienze della Formazione Primaria"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Alimentazione e Nutrizione Umana",
+      "class_code": "LM-61",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Human Nutrition and Food Science"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Amministrazione e Politiche Pubbliche",
+      "class_code": "LM-63",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Analysis, Planning and Sustainable Management of Land and Territory",
+      "class_code": "LM-48/LM-80",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_en": "Analysis, Planning and Sustainable Management of Land and Territory"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Archeologia",
+      "class_code": "LM-2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Archaeology"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Artificial Intelligence for Science and Technology",
+      "class_code": "LM-91",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_en": "Artificial Intelligence for Science and Technology"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Biodiversity and Evolutionary Biology",
+      "class_code": "LM-6",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Biodiversity e Evolutionary Biologia",
+      "program_name_en": "Biodiversity and Evolutionary Biology"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Bioinformatics for Computational Genomics",
+      "class_code": "LM-8",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught, with PoliMi",
+      "program_name_en": "Bioinformatics for Computational Genomics"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Biologia Applicata alla Ricerca Biomedica",
+      "class_code": "LM-6",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biologia Applicata alla Ricerca Biomedica"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Biologia Molecolare della Cellula",
+      "class_code": "LM-6",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biologia Molandcolare of the Cellula"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Biotecnologie del Farmaco",
+      "class_code": "LM-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Pharmaceutical Biotechnology",
+      "program_name_en": "Biotandchnology of the Farmaco"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Biotecnologie Industriali e Ambientali",
+      "class_code": "LM-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Biotechnology for the Bioeconomy",
+      "class_code": "LM-8",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Biotecnologie per the Bioeconomy",
+      "program_name_en": "Biotechnology for the Bioeconomy"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Business Administration, Law and Corporate Governance",
+      "class_code": "LM-77",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Economia Aziendale, Giurisprudenza e Corporate Governance",
+      "program_name_en": "Business Administration, Law and Corporate Governance"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Chimica",
+      "class_code": "LM-54",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Chemistry"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Chimica Industriale",
+      "class_code": "LM-71",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Industrial Chemistry"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Computational Social and Political Science",
+      "class_code": "LM-62/LM-88",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Computational Social e Scienze Politiche",
+      "program_name_en": "Computational Social and Political Science"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Economics",
+      "class_code": "LM-56",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Economia",
+      "program_name_en": "Economics"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Economics and Management",
+      "class_code": "LM-77",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Economia e Management",
+      "program_name_en": "Economics and Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Economics and Political Science",
+      "class_code": "LM-56",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Economia e Scienze Politiche",
+      "program_name_en": "Economics and Political Science"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Environmental Change and Global Sustainability",
+      "class_code": "LM-75",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Ambientale Change e Global Sustainability",
+      "program_name_en": "Environmental Change and Global Sustainability"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Filologia, Letterature e Storia dell'Antichità",
+      "class_code": "LM-15",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Filologia, Letterature e Storia dell'Antichità"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Filosofia",
+      "class_code": "LM-78",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Philosophy",
+      "program_name_it": "Filosofia"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Fisica",
+      "class_code": "LM-17",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Geoscienze",
+      "class_code": "LM-74",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Gandoscienze"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Informatica",
+      "class_code": "LM-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Computer Science",
+      "program_name_it": "Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Lingue e Letterature Europee ed Extraeuropee",
+      "class_code": "LM-37",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Management of Innovation and Entrepreneurship",
+      "class_code": "LM-77",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Management of Innovation e Entrepreneurship",
+      "program_name_en": "Management of Innovation and Entrepreneurship"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Matematica",
+      "class_code": "LM-40",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Migration Studies and New Societies",
+      "class_code": "LM-81",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught, €4,500 tuition",
+      "program_name_it": "Migration Studies e New Societies",
+      "program_name_en": "Migration Studies and New Societies"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Molecular Biology of the Cell",
+      "class_code": "LM-6",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Molecular Biologia dei Cell",
+      "program_name_en": "Molecular Biology of the Cell"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Musicologia e Beni Musicali",
+      "class_code": "LM-45",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Musicology and Beni Musicli"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Psicologia Clinica",
+      "class_code": "LM-51",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Clinical Psychology",
+      "program_name_it": "Psicologia Clinica"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Relazioni Internazionali",
+      "class_code": "LM-52",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "International Relations"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Scienze Cognitive e Processi Decisionali",
+      "class_code": "LM-55",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Cognitive e Processi Decisionali"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Scienze della Nutrizione Umana",
+      "class_code": "LM-61",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze della Nutrizione Umana"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Scienze e Tecnologie Agrarie",
+      "class_code": "LM-69",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Agricultural Sciences and Technologies",
+      "program_name_it": "Scienze e Tecnologie Agrarie"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Scienze e Tecnologie Alimentari",
+      "class_code": "LM-70",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Food Science and Technology",
+      "program_name_it": "Scienze e Tecnologie Alimentari"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Scienze Naturali",
+      "class_code": "LM-60",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Natural Sciences",
+      "program_name_it": "Scienze Naturali"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Scienze Pedagogiche",
+      "class_code": "LM-85",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Pedagogical Sciences",
+      "program_name_it": "Scienze Pedagogiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Storia",
+      "class_code": "LM-84",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "History",
+      "program_name_it": "Storia"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Storia dell'Arte",
+      "class_code": "LM-89",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Art History",
+      "program_name_it": "Storia dell'Arte"
+    },
+    {
+      "type": "program",
+      "university_id": "unimi",
+      "degree_level": "master",
+      "program_name": "Traduzione Specialistica e Interpretariato di Conferenza",
+      "class_code": "LM-94",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unimi",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "July 15",
+          "application_deadline": "September 30",
+          "start_date": "September"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unimi.it/it/corsi/tutte-le-offerte-formative",
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "10 schools: Studi Umanistici, Scienze, Medicina e Chirurgia, Giurisprudenza, etc. Medicine: semestre filtro (no initial test)."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unimi",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE ≤ 30000",
+          "amount_min": 156,
+          "amount_max": 156,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area - only first rate"
+        },
+        {
+          "student_group": "ISEE 30001-80000 (in corso)",
+          "amount_min": 156,
+          "amount_max": 4257,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Based on ISEE and field (humanities €3,360 / sciences €4,257)"
+        },
+        {
+          "student_group": "ISEE 30001-80000 (fuori corso 2+ years)",
+          "amount_min": 156,
+          "amount_max": 6307,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Higher second rate"
+        },
+        {
+          "student_group": "ISEE > 80000 or no ISEE",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Maximum contribution"
+        },
+        {
+          "student_group": "Disability ≥66% or L.104",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "First rate (fixed)",
+          "amount": 156,
+          "currency": "EUR",
+          "notes": "All students"
+        },
+        {
+          "fee_name": "Online Cybersecurity supplement",
+          "amount": 500,
+          "currency": "EUR",
+          "notes": "In corso students"
+        },
+        {
+          "fee_name": "Migration Studies supplement",
+          "amount": 4344,
+          "currency": "EUR",
+          "notes": "Special program"
+        }
+      ],
+      "payment_schedule_notes": "First rate €156 at enrollment. Second rate mid-December, due Jan 31, 2026. Installments available for second rate ≥€700.",
+      "source_url": "https://www.unimi.it/en/study/bachelor-and-master-study/fees-and-how-pay-them/fees-current-year",
+      "last_checked": "2026-01-05",
+      "confidence": 0.95,
+      "notes": "No tax area expanded to €30,000 (from €22,000). ISEE max raised to €80,000. Nearly half of students pay no tuition."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "unimi",
+      "scholarship_name": "DSU Lombardia Regional Scholarship",
+      "description": "Regional scholarship covering tuition, accommodation, meals",
+      "eligibility": "ISEE threshold + merit requirements",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "",
+      "source_url": "https://www.unimi.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.8,
+      "notes": "Lombardia regional agency manages scholarships."
+    }
+  ],
   "opportunities": []
 }

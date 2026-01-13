@@ -6,27 +6,243 @@
     "official_url": "https://www.unina.it",
     "country": "Italy",
     "city": "Naples",
-    "campuses": [{"city": "Naples", "address": "", "notes": "Multiple campuses across Naples"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Naples"},
+    "campuses": [
+      {
+        "city": "Naples",
+        "address": "",
+        "notes": "Multiple campuses across Naples"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Naples"
+    },
     "source_url": "https://www.unina.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "Founded 1224, oldest secular university. 26 departments, 4 schools, 172 courses (78 triennale, 84 magistrale, 10 ciclo unico). 3000+ professors. SSL cert issue."
   },
   "programs": [
-    {"type":"program","university_id":"unina","degree_level":"bachelor","program_name":"Archeologia, Storia delle Arti e Scienze del Patrimonio Culturale","class_code":"L-1","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.corsi.unina.it","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unina","degree_level":"master","program_name":"Architettura","class_code":"LM-4","language":["Italian"],"campus_city":"Naples","duration_years":5,"ects_total":300,"source_url":"https://www.corsi.unina.it","last_checked":"2026-01-04","confidence":0.8,"notes":"Ciclo Unico, accesso programmato nazionale"},
-    {"type":"program","university_id":"unina","degree_level":"bachelor","program_name":"Biologia","class_code":"L-13","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.corsi.unina.it","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unina","degree_level":"bachelor","program_name":"Biotecnologie Molecolari e Industriali","class_code":"L-2","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.corsi.unina.it","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unina","degree_level":"bachelor","program_name":"Biotecnologie per la Salute","class_code":"L-2","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.corsi.unina.it","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unina","degree_level":"bachelor","program_name":"Terapia Occupazionale","class_code":"L/SNT2","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.corsi.unina.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW - Dip. Sanità Pubblica"},
-    {"type":"program","university_id":"unina","degree_level":"bachelor","program_name":"Civil and Environmental Engineering","class_code":"L-7","language":["English"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://www.corsi.unina.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW - English-taught"},
-    {"type":"program","university_id":"unina","degree_level":"master","program_name":"Scienza e Tecnologia dell'Industria Cosmetica","class_code":"LM-71","language":["Italian"],"campus_city":"Naples","duration_years":2,"ects_total":120,"source_url":"https://www.corsi.unina.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW - Dip. Farmacia"},
-    {"type":"program","university_id":"unina","degree_level":"master","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Naples","duration_years":6,"ects_total":360,"source_url":"https://www.corsi.unina.it","last_checked":"2026-01-04","confidence":0.8,"notes":"Ciclo Unico, accesso programmato nazionale"},
-    {"type":"program","university_id":"unina","degree_level":"master","program_name":"Odontoiatria e Protesi Dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Naples","duration_years":6,"ects_total":360,"source_url":"https://www.corsi.unina.it","last_checked":"2026-01-04","confidence":0.8,"notes":"Ciclo Unico, accesso programmato nazionale"}
+    {
+      "type": "program",
+      "university_id": "unina",
+      "degree_level": "bachelor",
+      "program_name": "Archeologia, Storia delle Arti e Scienze del Patrimonio Culturale",
+      "class_code": "L-1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.corsi.unina.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_it": "Archeologia, Storia delle Arti e Scienze del Patrimonio Culturale"
+    },
+    {
+      "type": "program",
+      "university_id": "unina",
+      "degree_level": "master",
+      "program_name": "Architettura",
+      "class_code": "LM-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.corsi.unina.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Ciclo Unico, accesso programmato nazionale",
+      "program_name_en": "Architecture",
+      "program_name_it": "Architettura"
+    },
+    {
+      "type": "program",
+      "university_id": "unina",
+      "degree_level": "bachelor",
+      "program_name": "Biologia",
+      "class_code": "L-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.corsi.unina.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Biology"
+    },
+    {
+      "type": "program",
+      "university_id": "unina",
+      "degree_level": "bachelor",
+      "program_name": "Biotecnologie Molecolari e Industriali",
+      "class_code": "L-2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.corsi.unina.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unina",
+      "degree_level": "bachelor",
+      "program_name": "Biotecnologie per la Salute",
+      "class_code": "L-2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.corsi.unina.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unina",
+      "degree_level": "bachelor",
+      "program_name": "Terapia Occupazionale",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.corsi.unina.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "NEW - Dip. Sanità Pubblica",
+      "program_name_en": "Terapia Occupazionale"
+    },
+    {
+      "type": "program",
+      "university_id": "unina",
+      "degree_level": "bachelor",
+      "program_name": "Civil and Environmental Engineering",
+      "class_code": "L-7",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.corsi.unina.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "NEW - English-taught",
+      "program_name_it": "Ingegneria Civile e Ambientale",
+      "program_name_en": "Civil and Environmental Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unina",
+      "degree_level": "master",
+      "program_name": "Scienza e Tecnologia dell'Industria Cosmetica",
+      "class_code": "LM-71",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.corsi.unina.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "NEW - Dip. Farmacia"
+    },
+    {
+      "type": "program",
+      "university_id": "unina",
+      "degree_level": "master",
+      "program_name": "Medicina e Chirurgia",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.corsi.unina.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Ciclo Unico, accesso programmato nazionale",
+      "program_name_en": "Medicine and Surgery",
+      "program_name_it": "Medicina e Chirurgia"
+    },
+    {
+      "type": "program",
+      "university_id": "unina",
+      "degree_level": "master",
+      "program_name": "Odontoiatria e Protesi Dentaria",
+      "class_code": "LM-46",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.corsi.unina.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Ciclo Unico, accesso programmato nazionale",
+      "program_name_en": "Dentistry and Dental Prosthetics"
+    }
   ],
-  "admissions": [{"type":"admissions","university_id":"unina","program_name":"","degree_level_scope":"general","applicant_scope":"all","requirements":{"academic_requirements":"Secondary school diploma","documents_required":[],"tests_required":[],"portfolio_required":false,"interview_required":false},"intakes":[{"intake_name":"fall","application_open_date":"","application_deadline":"","start_date":""}],"application_fee":{"amount":null,"currency":"EUR","notes":""},"how_to_apply_url":"https://www.unina.it","source_url":"https://www.unina.it","last_checked":"2026-01-04","confidence":0.7,"notes":"Most humanities and social science programs are open access. Medicine, Dentistry, Architecture have national entrance exams."}],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unina",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unina.it",
+      "source_url": "https://www.unina.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.7,
+      "notes": "Most humanities and social science programs are open access. Medicine, Dentistry, Architecture have national entrance exams."
+    }
+  ],
   "tuition": [
     {
       "type": "tuition",
@@ -42,16 +258,44 @@
           "notes": "Range based on ISEE. These are standard degree fees."
         },
         "other_fees": [
-          {"name": "Bollo (stamp duty)", "amount": 16, "currency": "EUR", "frequency": "annual"},
-          {"name": "Tassa Regionale Campania", "amount_min": 125.50, "amount_max": 167.50, "currency": "EUR", "frequency": "annual", "notes": "€125.50 (ISEE <€40K), €146.50 (€40-100K), €167.50 (>€100K or no ISEE)"}
+          {
+            "name": "Bollo (stamp duty)",
+            "amount": 16,
+            "currency": "EUR",
+            "frequency": "annual"
+          },
+          {
+            "name": "Tassa Regionale Campania",
+            "amount_min": 125.5,
+            "amount_max": 167.5,
+            "currency": "EUR",
+            "frequency": "annual",
+            "notes": "€125.50 (ISEE <€40K), €146.50 (€40-100K), €167.50 (>€100K or no ISEE)"
+          }
         ],
         "payment_schedule": "2-3 installments"
       },
       "exemptions": [
-        {"name": "No Tax Area", "description": "Full tuition exemption for ISEE up to €30,000", "eligibility": "ISEE <= €30,000"},
-        {"name": "Partial reduction", "description": "Progressive reduction for ISEE €30,001-€50,000", "eligibility": "ISEE €30,001-€50,000"},
-        {"name": "Merit exemption", "description": "Additional reductions for excellent students", "eligibility": "High GPA and CFU completion rate"},
-        {"name": "Disability exemption", "description": "Full exemption for disability >= 66%", "eligibility": "Disability certificate >= 66%"}
+        {
+          "name": "No Tax Area",
+          "description": "Full tuition exemption for ISEE up to €30,000",
+          "eligibility": "ISEE <= €30,000"
+        },
+        {
+          "name": "Partial reduction",
+          "description": "Progressive reduction for ISEE €30,001-€50,000",
+          "eligibility": "ISEE €30,001-€50,000"
+        },
+        {
+          "name": "Merit exemption",
+          "description": "Additional reductions for excellent students",
+          "eligibility": "High GPA and CFU completion rate"
+        },
+        {
+          "name": "Disability exemption",
+          "description": "Full exemption for disability >= 66%",
+          "eligibility": "Disability certificate >= 66%"
+        }
       ],
       "source_url": "https://www.unina.it/didattica/sportello-tasse",
       "last_checked": "2026-01-10",
@@ -109,7 +353,11 @@
         "nationality_requirements": "All enrolled students",
         "other_requirements": "Varies by specific award"
       },
-      "benefits": ["Cash prizes", "Research funding", "Conference participation"],
+      "benefits": [
+        "Cash prizes",
+        "Research funding",
+        "Conference participation"
+      ],
       "application_deadline": "Varies",
       "renewable": false,
       "source_url": "https://www.unina.it",

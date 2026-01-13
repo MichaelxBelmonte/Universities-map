@@ -7,102 +7,466 @@
     "country": "Italy",
     "city": "Rome",
     "campuses": [
-      {"city": "Rome", "address": "", "notes": "Headquarters and exam center"},
-      {"city": "Milan", "address": "", "notes": "Exam center"},
-      {"city": "Online", "address": "", "notes": "Telematic delivery"}
+      {
+        "city": "Rome",
+        "address": "",
+        "notes": "Headquarters and exam center"
+      },
+      {
+        "city": "Milan",
+        "address": "",
+        "notes": "Exam center"
+      },
+      {
+        "city": "Online",
+        "address": "",
+        "notes": "Telematic delivery"
+      }
     ],
-    "languages_offered": ["Italian"],
-    "contacts": {"email": "", "phone": "", "address": "Rome"},
+    "languages_offered": [
+      "Italian"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Rome"
+    },
     "source_url": "https://www.uniroma5.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "Part of Multiversity Group (with Pegaso, Mercatorum). Telematic university with unique Scienze Biologiche program."
   },
   "programs": [
-    {"type":"program","university_id":"sanraffaele","degree_level":"bachelor","program_name":"Scienze dell'Alimentazione e Gastronomia","class_code":"L-26","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma5.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"sanraffaele","degree_level":"bachelor","program_name":"Scienze Motorie","class_code":"L-22","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma5.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic. FIGC partnership."},
-    {"type":"program","university_id":"sanraffaele","degree_level":"bachelor","program_name":"Scienze dell'Amministrazione e dell'Organizzazione","class_code":"L-16","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma5.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic. Multiple curricula."},
-    {"type":"program","university_id":"sanraffaele","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma5.it","last_checked":"2026-01-10","confidence":0.85,"notes":"NEW 2025/26. €5,000/year."},
-    {"type":"program","university_id":"sanraffaele","degree_level":"bachelor","program_name":"Moda e Design Industriale","class_code":"L-4","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma5.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"sanraffaele","degree_level":"bachelor","program_name":"Patrimonio Culturale in Era Digitale","class_code":"L-1","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma5.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"sanraffaele","degree_level":"bachelor","program_name":"Lingue e Culture Straniere per l'Era Digitale","class_code":"L-11","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma5.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"sanraffaele","degree_level":"bachelor","program_name":"Ingegneria Biomedica","class_code":"L-9","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma5.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"sanraffaele","degree_level":"bachelor","program_name":"Ingegneria Informatica e Intelligenza Artificiale","class_code":"L-8","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.uniroma5.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"sanraffaele","degree_level":"master","program_name":"Scienze e Tecniche delle Attività Motorie Preventive e Adattate","class_code":"LM-67","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma5.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"sanraffaele","degree_level":"master","program_name":"Scienze della Nutrizione Umana","class_code":"LM-61","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma5.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"sanraffaele","degree_level":"master","program_name":"Management e Consulenza Aziendale","class_code":"LM-77","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma5.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"sanraffaele","degree_level":"master","program_name":"Management, Diritto e Governance della Pubblica Amministrazione","class_code":"LM-63","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma5.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."},
-    {"type":"program","university_id":"sanraffaele","degree_level":"master","program_name":"Ingegneria Informatica e dell'Intelligenza Artificiale Applicata","class_code":"LM-32","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.uniroma5.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Telematic."}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"sanraffaele",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "sanraffaele",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'Alimentazione e Gastronomia",
+      "class_code": "L-26",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_it": "Scienze dell'Alimentazione e Gastronomia"
     },
-    "intakes":[{
-      "intake_name":"rolling",
-      "application_open_date":"September 1",
-      "application_deadline":"",
-      "start_date":"",
-      "notes":"Year-round enrollment from September 1"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.uniroma5.it/immatricolazione",
-    "source_url":"https://www.uniroma5.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Open enrollment year-round. Part of Multiversity Group."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"sanraffaele",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"Bachelor (standard)","amount_min":3600,"amount_max":3600,"currency":"EUR","period":"year","notes":"Full rate"},
-      {"student_group":"Master's (standard)","amount_min":3900,"amount_max":3900,"currency":"EUR","period":"year","notes":"Full rate"},
-      {"student_group":"Scienze Biologiche L-13","amount_min":5000,"amount_max":5000,"currency":"EUR","period":"year","notes":"Special program"},
-      {"student_group":"Calcio Administration (online)","amount_min":3480,"amount_max":3480,"currency":"EUR","period":"year","notes":"L-16 football management"},
-      {"student_group":"Calcio Administration (college)","amount_min":7500,"amount_max":7500,"currency":"EUR","period":"year","notes":"L-16 college formula"},
-      {"student_group":"Convention rate","amount_min":2000,"amount_max":2000,"currency":"EUR","period":"year","notes":"+€150 for non-Rome/Milan exams"},
-      {"student_group":"All Inclusive formula","amount_min":2500,"amount_max":2500,"currency":"EUR","period":"year","notes":"All exam locations included"},
-      {"student_group":"Military/Armed Forces (bachelor)","amount_min":1788,"amount_max":1788,"currency":"EUR","period":"year","notes":"€149/month"},
-      {"student_group":"Military/Armed Forces (master)","amount_min":1968,"amount_max":1968,"currency":"EUR","period":"year","notes":"€164/month"},
-      {"student_group":"Disability ≥45%","amount_min":1488,"amount_max":1488,"currency":"EUR","period":"year","notes":"€124/month"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Service contribution","amount":240,"currency":"EUR","notes":"Annual"},
-      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"Annual"},
-      {"fee_name":"Off-site exam fee","amount":175,"currency":"EUR","notes":"Per additional location per year"},
-      {"fee_name":"Graduation fee","amount":360,"currency":"EUR","notes":"One-time"}
-    ],
-    "payment_schedule_notes":"4 or 12 monthly installments available.",
-    "source_url":"https://www.uniroma5.it/immatricolazione",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Standard €3,600-€3,900. Convention €2,000. Military discounts available. Part of Multiversity Group."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"sanraffaele",
-    "scholarship_name":"Military and Category Discounts",
-    "description":"Reduced rates for military, disabled, and convention members",
-    "eligibility":"Armed forces, disability ≥45%, partner conventions",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.uniroma5.it",
-    "source_url":"https://www.uniroma5.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Up to 50%+ discount for eligible categories. PROSEGUI CON NOI for Multiversity group transfers."
-  }],
+    {
+      "type": "program",
+      "university_id": "sanraffaele",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Motorie",
+      "class_code": "L-22",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic. FIGC partnership.",
+      "program_name_en": "Sport Sciences",
+      "program_name_it": "Scienze Motorie"
+    },
+    {
+      "type": "program",
+      "university_id": "sanraffaele",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'Amministrazione e dell'Organizzazione",
+      "class_code": "L-16",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic. Multiple curricula.",
+      "program_name_it": "Scienze dell'Amministrazione e dell'Organizzazione"
+    },
+    {
+      "type": "program",
+      "university_id": "sanraffaele",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Biologiche",
+      "class_code": "L-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "NEW 2025/26. €5,000/year.",
+      "program_name_en": "Biological Sciences",
+      "program_name_it": "Scienze Biologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "sanraffaele",
+      "degree_level": "bachelor",
+      "program_name": "Moda e Design Industriale",
+      "class_code": "L-4",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_en": "Fashion and Design Industrial",
+      "program_name_it": "Moda e Design Industriale"
+    },
+    {
+      "type": "program",
+      "university_id": "sanraffaele",
+      "degree_level": "bachelor",
+      "program_name": "Patrimonio Culturale in Era Digitale",
+      "class_code": "L-1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_en": "Patrimonio Culturaland in Era Digital"
+    },
+    {
+      "type": "program",
+      "university_id": "sanraffaele",
+      "degree_level": "bachelor",
+      "program_name": "Lingue e Culture Straniere per l'Era Digitale",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic."
+    },
+    {
+      "type": "program",
+      "university_id": "sanraffaele",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Biomedica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_en": "Biomedical Engineering",
+      "program_name_it": "Ingegneria Biomedica"
+    },
+    {
+      "type": "program",
+      "university_id": "sanraffaele",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Informatica e Intelligenza Artificiale",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_it": "Ingegneria Informatica e Intelligenza Artificiale"
+    },
+    {
+      "type": "program",
+      "university_id": "sanraffaele",
+      "degree_level": "master",
+      "program_name": "Scienze e Tecniche delle Attività Motorie Preventive e Adattate",
+      "class_code": "LM-67",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_it": "Scienze e Tecniche delle Attività Motorie Preventive e Adattate"
+    },
+    {
+      "type": "program",
+      "university_id": "sanraffaele",
+      "degree_level": "master",
+      "program_name": "Scienze della Nutrizione Umana",
+      "class_code": "LM-61",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_it": "Scienze della Nutrizione Umana"
+    },
+    {
+      "type": "program",
+      "university_id": "sanraffaele",
+      "degree_level": "master",
+      "program_name": "Management e Consulenza Aziendale",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic."
+    },
+    {
+      "type": "program",
+      "university_id": "sanraffaele",
+      "degree_level": "master",
+      "program_name": "Management, Diritto e Governance della Pubblica Amministrazione",
+      "class_code": "LM-63",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic."
+    },
+    {
+      "type": "program",
+      "university_id": "sanraffaele",
+      "degree_level": "master",
+      "program_name": "Ingegneria Informatica e dell'Intelligenza Artificiale Applicata",
+      "class_code": "LM-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Telematic.",
+      "program_name_it": "Ingegneria Informatica e dell'Intelligenza Artificiale Applicata"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "sanraffaele",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "rolling",
+          "application_open_date": "September 1",
+          "application_deadline": "",
+          "start_date": "",
+          "notes": "Year-round enrollment from September 1"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.uniroma5.it/immatricolazione",
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Open enrollment year-round. Part of Multiversity Group."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "sanraffaele",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "Bachelor (standard)",
+          "amount_min": 3600,
+          "amount_max": 3600,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full rate"
+        },
+        {
+          "student_group": "Master's (standard)",
+          "amount_min": 3900,
+          "amount_max": 3900,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full rate"
+        },
+        {
+          "student_group": "Scienze Biologiche L-13",
+          "amount_min": 5000,
+          "amount_max": 5000,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Special program"
+        },
+        {
+          "student_group": "Calcio Administration (online)",
+          "amount_min": 3480,
+          "amount_max": 3480,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "L-16 football management"
+        },
+        {
+          "student_group": "Calcio Administration (college)",
+          "amount_min": 7500,
+          "amount_max": 7500,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "L-16 college formula"
+        },
+        {
+          "student_group": "Convention rate",
+          "amount_min": 2000,
+          "amount_max": 2000,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "+€150 for non-Rome/Milan exams"
+        },
+        {
+          "student_group": "All Inclusive formula",
+          "amount_min": 2500,
+          "amount_max": 2500,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "All exam locations included"
+        },
+        {
+          "student_group": "Military/Armed Forces (bachelor)",
+          "amount_min": 1788,
+          "amount_max": 1788,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "€149/month"
+        },
+        {
+          "student_group": "Military/Armed Forces (master)",
+          "amount_min": 1968,
+          "amount_max": 1968,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "€164/month"
+        },
+        {
+          "student_group": "Disability ≥45%",
+          "amount_min": 1488,
+          "amount_max": 1488,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "€124/month"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Service contribution",
+          "amount": 240,
+          "currency": "EUR",
+          "notes": "Annual"
+        },
+        {
+          "fee_name": "Regional tax",
+          "amount": 140,
+          "currency": "EUR",
+          "notes": "Annual"
+        },
+        {
+          "fee_name": "Off-site exam fee",
+          "amount": 175,
+          "currency": "EUR",
+          "notes": "Per additional location per year"
+        },
+        {
+          "fee_name": "Graduation fee",
+          "amount": 360,
+          "currency": "EUR",
+          "notes": "One-time"
+        }
+      ],
+      "payment_schedule_notes": "4 or 12 monthly installments available.",
+      "source_url": "https://www.uniroma5.it/immatricolazione",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Standard €3,600-€3,900. Convention €2,000. Military discounts available. Part of Multiversity Group."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "sanraffaele",
+      "scholarship_name": "Military and Category Discounts",
+      "description": "Reduced rates for military, disabled, and convention members",
+      "eligibility": "Armed forces, disability ≥45%, partner conventions",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.uniroma5.it",
+      "source_url": "https://www.uniroma5.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Up to 50%+ discount for eligible categories. PROSEGUI CON NOI for Multiversity group transfers."
+    }
+  ],
   "opportunities": []
 }

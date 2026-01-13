@@ -7,87 +7,265 @@
     "country": "Italy",
     "city": "Reggio Calabria",
     "campuses": [
-      {"city": "Reggio Calabria", "address": "", "notes": "Main campus"},
-      {"city": "Online", "address": "", "notes": "Distance learning option"}
+      {
+        "city": "Reggio Calabria",
+        "address": "",
+        "notes": "Main campus"
+      },
+      {
+        "city": "Online",
+        "address": "",
+        "notes": "Distance learning option"
+      }
     ],
-    "languages_offered": ["Italian"],
-    "contacts": {"email": "", "phone": "", "address": "Reggio Calabria"},
+    "languages_offered": [
+      "Italian"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Reggio Calabria"
+    },
     "source_url": "https://www.unidarc.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "University for foreigners specializing in Italian language and culture. Both online and in-person options. ISEE-based fees for in-person."
   },
   "programs": [
-    {"type":"program","university_id":"unidarc","degree_level":"bachelor","program_name":"Lingue e Letterature Straniere","class_code":"L-11","language":["Italian"],"campus_city":"Reggio Calabria","duration_years":3,"ects_total":180,"source_url":"https://www.unidarc.it","last_checked":"2026-01-10","confidence":0.9,"notes":"For foreigners specializing in Italian."},
-    {"type":"program","university_id":"unidarc","degree_level":"bachelor","program_name":"Scienze del Turismo per i Beni Culturali","class_code":"L-15","language":["Italian"],"campus_city":"Reggio Calabria","duration_years":3,"ects_total":180,"source_url":"https://www.unidarc.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Tourism and cultural heritage."},
-    {"type":"program","university_id":"unidarc","degree_level":"bachelor","program_name":"Discipline delle Arti, della Musica e dello Spettacolo (DAMS)","class_code":"L-3","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.unidarc.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Arts and performance. Online option available."},
-    {"type":"program","university_id":"unidarc","degree_level":"bachelor","program_name":"Scienze della Mediazione Linguistica","class_code":"L-12","language":["Italian"],"campus_city":"Reggio Calabria","duration_years":3,"ects_total":180,"source_url":"https://www.unidarc.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unidarc","degree_level":"master","program_name":"Lingue e Letterature Moderne per i Servizi Interculturali","class_code":"LM-37","language":["Italian"],"campus_city":"Reggio Calabria","duration_years":2,"ects_total":120,"source_url":"https://www.unidarc.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Intercultural services."},
-    {"type":"program","university_id":"unidarc","degree_level":"master","program_name":"Imprenditorialità e Qualità per il Sistema Turistico","class_code":"LM-49","language":["Italian"],"campus_city":"Reggio Calabria","duration_years":2,"ects_total":120,"source_url":"https://www.unidarc.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Tourism entrepreneurship."}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"unidarc",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"international",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "unidarc",
+      "degree_level": "bachelor",
+      "program_name": "Lingue e Letterature Straniere",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Calabria",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unidarc.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "For foreigners specializing in Italian.",
+      "program_name_en": "Foreign Languages and Literatures"
     },
-    "intakes":[{
-      "intake_name":"A.A. 2025/2026",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":"",
-      "notes":"Online and in-person options"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.unidarc.it/come-iscriversi/",
-    "source_url":"https://www.unidarc.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Specializes in Italian language/culture for foreigners. Open to all nationalities."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"unidarc",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"Online degree programs","amount_min":1490,"amount_max":1490,"currency":"EUR","period":"year","notes":"Fixed rate"},
-      {"student_group":"In-person (ISEE-based)","amount_min":500,"amount_max":2000,"currency":"EUR","period":"year","notes":"Varies by income bracket"},
-      {"student_group":"Master I level","amount_min":1000,"amount_max":1500,"currency":"EUR","period":"program","notes":""},
-      {"student_group":"Master II level","amount_min":2000,"amount_max":10000,"currency":"EUR","period":"program","notes":""}
-    ],
-    "additional_fees":[
-      {"fee_name":"Segreteria","amount":340,"currency":"EUR","notes":"Included in online fee"},
-      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"Included in online fee"},
-      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":""},
-      {"fee_name":"Insurance","amount":4,"currency":"EUR","notes":""}
-    ],
-    "payment_schedule_notes":"Single payment or quarterly installments. Payment via MAV only.",
-    "source_url":"https://www.unidarc.it/come-iscriversi/",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Online €1,490/year all-inclusive. In-person ISEE-based. Esoneri for disability, mafia victims, family members."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"unidarc",
-    "scholarship_name":"Esoneri e Agevolazioni",
-    "description":"Fee exemptions for various categories",
-    "eligibility":"Disability, merit, income, family members enrolled, mafia victims",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.unidarc.it",
-    "source_url":"https://www.unidarc.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Total or partial exemptions for disabled students, family groups, and special categories."
-  }],
+    {
+      "type": "program",
+      "university_id": "unidarc",
+      "degree_level": "bachelor",
+      "program_name": "Scienze del Turismo per i Beni Culturali",
+      "class_code": "L-15",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Calabria",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unidarc.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Tourism and cultural heritage.",
+      "program_name_it": "Scienze del Turismo per i Beni Culturali"
+    },
+    {
+      "type": "program",
+      "university_id": "unidarc",
+      "degree_level": "bachelor",
+      "program_name": "Discipline delle Arti, della Musica e dello Spettacolo (DAMS)",
+      "class_code": "L-3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unidarc.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Arts and performance. Online option available."
+    },
+    {
+      "type": "program",
+      "university_id": "unidarc",
+      "degree_level": "bachelor",
+      "program_name": "Scienze della Mediazione Linguistica",
+      "class_code": "L-12",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Calabria",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unidarc.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze della Mediazione Linguistica"
+    },
+    {
+      "type": "program",
+      "university_id": "unidarc",
+      "degree_level": "master",
+      "program_name": "Lingue e Letterature Moderne per i Servizi Interculturali",
+      "class_code": "LM-37",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Calabria",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unidarc.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Intercultural services."
+    },
+    {
+      "type": "program",
+      "university_id": "unidarc",
+      "degree_level": "master",
+      "program_name": "Imprenditorialità e Qualità per il Sistema Turistico",
+      "class_code": "LM-49",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Reggio Calabria",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unidarc.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Tourism entrepreneurship."
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unidarc",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "international",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "A.A. 2025/2026",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": "",
+          "notes": "Online and in-person options"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unidarc.it/come-iscriversi/",
+      "source_url": "https://www.unidarc.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Specializes in Italian language/culture for foreigners. Open to all nationalities."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unidarc",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "Online degree programs",
+          "amount_min": 1490,
+          "amount_max": 1490,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Fixed rate"
+        },
+        {
+          "student_group": "In-person (ISEE-based)",
+          "amount_min": 500,
+          "amount_max": 2000,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Varies by income bracket"
+        },
+        {
+          "student_group": "Master I level",
+          "amount_min": 1000,
+          "amount_max": 1500,
+          "currency": "EUR",
+          "period": "program",
+          "notes": ""
+        },
+        {
+          "student_group": "Master II level",
+          "amount_min": 2000,
+          "amount_max": 10000,
+          "currency": "EUR",
+          "period": "program",
+          "notes": ""
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Segreteria",
+          "amount": 340,
+          "currency": "EUR",
+          "notes": "Included in online fee"
+        },
+        {
+          "fee_name": "Regional tax",
+          "amount": 140,
+          "currency": "EUR",
+          "notes": "Included in online fee"
+        },
+        {
+          "fee_name": "Stamp duty",
+          "amount": 16,
+          "currency": "EUR",
+          "notes": ""
+        },
+        {
+          "fee_name": "Insurance",
+          "amount": 4,
+          "currency": "EUR",
+          "notes": ""
+        }
+      ],
+      "payment_schedule_notes": "Single payment or quarterly installments. Payment via MAV only.",
+      "source_url": "https://www.unidarc.it/come-iscriversi/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Online €1,490/year all-inclusive. In-person ISEE-based. Esoneri for disability, mafia victims, family members."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "unidarc",
+      "scholarship_name": "Esoneri e Agevolazioni",
+      "description": "Fee exemptions for various categories",
+      "eligibility": "Disability, merit, income, family members enrolled, mafia victims",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.unidarc.it",
+      "source_url": "https://www.unidarc.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Total or partial exemptions for disabled students, family groups, and special categories."
+    }
+  ],
   "opportunities": []
 }

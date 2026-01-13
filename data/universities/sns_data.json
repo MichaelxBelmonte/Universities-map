@@ -6,75 +6,203 @@
     "official_url": "https://www.sns.it",
     "country": "Italy",
     "city": "Pisa",
-    "campuses": [{"city": "Pisa", "address": "", "notes": "Historic campus in Piazza dei Cavalieri"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Pisa"},
+    "campuses": [
+      {
+        "city": "Pisa",
+        "address": "",
+        "notes": "Historic campus in Piazza dei Cavalieri"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Pisa"
+    },
     "source_url": "https://www.sns.it",
     "last_checked": "2026-01-04",
     "confidence": 0.95,
     "notes": "Elite public research institution. Founded by Napoleon (1810). Full scholarship for all admitted students. Associated with University of Pisa for degrees."
   },
   "programs": [
-    {"type":"program","university_id":"sns","degree_level":"bachelor","program_name":"Classe di Lettere e Filosofia - Percorso Integrato","class_code":"L-10/L-11/L-5","language":["Italian"],"campus_city":"Pisa","duration_years":3,"ects_total":180,"source_url":"https://www.sns.it","last_checked":"2026-01-10","confidence":0.9,"notes":"28 posti primo anno. Degree conferred by UniPi"},
-    {"type":"program","university_id":"sns","degree_level":"bachelor","program_name":"Classe di Scienze - Percorso Integrato","class_code":"L-30/L-35","language":["Italian"],"campus_city":"Pisa","duration_years":3,"ects_total":180,"source_url":"https://www.sns.it","last_checked":"2026-01-10","confidence":0.9,"notes":"32 posti primo anno. Degree conferred by UniPi"},
-    {"type":"program","university_id":"sns","degree_level":"master","program_name":"Classe di Lettere e Filosofia - Laurea Magistrale","class_code":"LM-14/LM-15/LM-37/LM-78","language":["Italian"],"campus_city":"Pisa","duration_years":2,"ects_total":120,"source_url":"https://www.sns.it","last_checked":"2026-01-10","confidence":0.9,"notes":"4 posti quarto anno. Degree conferred by UniPi"},
-    {"type":"program","university_id":"sns","degree_level":"master","program_name":"Classe di Scienze - Laurea Magistrale","class_code":"LM-17/LM-40","language":["Italian"],"campus_city":"Pisa","duration_years":2,"ects_total":120,"source_url":"https://www.sns.it","last_checked":"2026-01-10","confidence":0.9,"notes":"6 posti quarto anno. Degree conferred by UniPi"},
-    {"type":"program","university_id":"sns","degree_level":"master","program_name":"Classe di Scienze Politico-sociali - Firenze","class_code":"LM-52/LM-56","language":["Italian"],"campus_city":"Florence","duration_years":2,"ects_total":120,"source_url":"https://www.sns.it","last_checked":"2026-01-10","confidence":0.9,"notes":"6 posti quarto anno. Sede Firenze. Degree conferred by UniFi"}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"sns",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma with excellence",
-      "documents_required":[],
-      "tests_required":[{"test_name":"Competitive admission exam","min_score":"","notes":"Highly selective entrance exam"}],
-      "portfolio_required":false,
-      "interview_required":true
+    {
+      "type": "program",
+      "university_id": "sns",
+      "degree_level": "bachelor",
+      "program_name": "Classe di Lettere e Filosofia - Percorso Integrato",
+      "class_code": "L-10/L-11/L-5",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.sns.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "28 posti primo anno. Degree conferred by UniPi",
+      "program_name_it": "Classe di Lettere e Filosofia - Percorso Integrato"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":""
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.sns.it",
-    "source_url":"https://www.sns.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"Highly competitive admission. Students attend courses at UniPi and SNS. Classes: Sciences and Humanities."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"sns",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"All admitted students","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full scholarship for all admitted students"}
-    ],
-    "additional_fees":[],
-    "payment_schedule_notes":"All students receive full scholarship covering tuition, accommodation, and meals.",
-    "source_url":"https://www.sns.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"Elite institution - all admitted students receive full scholarship, free accommodation, free meals."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"sns",
-    "scholarship_name":"Scuola Normale Full Scholarship",
-    "description":"Full scholarship for all admitted students",
-    "eligibility":"Admission to SNS via competitive exam",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.sns.it",
-    "source_url":"https://www.sns.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"Covers tuition, accommodation, meals for all students. Admission via highly competitive exam."
-  }],
+    {
+      "type": "program",
+      "university_id": "sns",
+      "degree_level": "bachelor",
+      "program_name": "Classe di Scienze - Percorso Integrato",
+      "class_code": "L-30/L-35",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.sns.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "32 posti primo anno. Degree conferred by UniPi",
+      "program_name_it": "Classe di Scienze - Percorso Integrato"
+    },
+    {
+      "type": "program",
+      "university_id": "sns",
+      "degree_level": "master",
+      "program_name": "Classe di Lettere e Filosofia - Laurea Magistrale",
+      "class_code": "LM-14/LM-15/LM-37/LM-78",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.sns.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "4 posti quarto anno. Degree conferred by UniPi",
+      "program_name_it": "Classe di Lettere e Filosofia - Laurea Magistrale"
+    },
+    {
+      "type": "program",
+      "university_id": "sns",
+      "degree_level": "master",
+      "program_name": "Classe di Scienze - Laurea Magistrale",
+      "class_code": "LM-17/LM-40",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Pisa",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.sns.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "6 posti quarto anno. Degree conferred by UniPi",
+      "program_name_it": "Classe di Scienze - Laurea Magistrale"
+    },
+    {
+      "type": "program",
+      "university_id": "sns",
+      "degree_level": "master",
+      "program_name": "Classe di Scienze Politico-sociali - Firenze",
+      "class_code": "LM-52/LM-56",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Florence",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.sns.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "6 posti quarto anno. Sede Firenze. Degree conferred by UniFi",
+      "program_name_it": "Classe di Scienze Politico-sociali - Firenze"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "sns",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma with excellence",
+        "documents_required": [],
+        "tests_required": [
+          {
+            "test_name": "Competitive admission exam",
+            "min_score": "",
+            "notes": "Highly selective entrance exam"
+          }
+        ],
+        "portfolio_required": false,
+        "interview_required": true
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.sns.it",
+      "source_url": "https://www.sns.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "Highly competitive admission. Students attend courses at UniPi and SNS. Classes: Sciences and Humanities."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "sns",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "All admitted students",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full scholarship for all admitted students"
+        }
+      ],
+      "additional_fees": [],
+      "payment_schedule_notes": "All students receive full scholarship covering tuition, accommodation, and meals.",
+      "source_url": "https://www.sns.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "Elite institution - all admitted students receive full scholarship, free accommodation, free meals."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "sns",
+      "scholarship_name": "Scuola Normale Full Scholarship",
+      "description": "Full scholarship for all admitted students",
+      "eligibility": "Admission to SNS via competitive exam",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.sns.it",
+      "source_url": "https://www.sns.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "Covers tuition, accommodation, meals for all students. Admission via highly competitive exam."
+    }
+  ],
   "opportunities": []
 }

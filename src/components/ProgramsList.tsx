@@ -2,7 +2,7 @@
 
 import { useState, useMemo } from "react";
 import type { Program, DegreeLevel } from "@/lib/types";
-import { useTranslation } from "@/lib/i18n/LanguageContext";
+import { useTranslation, useLanguage } from "@/lib/i18n/LanguageContext";
 
 interface ProgramsListProps {
   programs: Program[];
@@ -26,9 +26,20 @@ export default function ProgramsList({
   onClose,
 }: ProgramsListProps) {
   const { t } = useTranslation();
+  const { language } = useLanguage();
   const [search, setSearch] = useState("");
   const [selectedLevel, setSelectedLevel] = useState<DegreeLevel | "all">("all");
   const [selectedLanguage, setSelectedLanguage] = useState<string | "all">("all");
+
+  // Helper to get the display name based on current language
+  const getDisplayName = (program: Program): string => {
+    if (language === "it") {
+      // Prefer Italian name, fall back to original
+      return program.programNameIt || program.programName;
+    }
+    // Prefer English name, fall back to original
+    return program.programNameEn || program.programName;
+  };
 
   // Get unique languages from programs
   const availableLanguages = useMemo(() => {
@@ -40,11 +51,13 @@ export default function ProgramsList({
   // Filter programs
   const filteredPrograms = useMemo(() => {
     return programs.filter((program) => {
-      // Search filter
+      // Search filter - search in all language variants
       if (search) {
         const searchLower = search.toLowerCase();
         const matchesSearch =
           program.programName.toLowerCase().includes(searchLower) ||
+          program.programNameEn?.toLowerCase().includes(searchLower) ||
+          program.programNameIt?.toLowerCase().includes(searchLower) ||
           program.campusCity?.toLowerCase().includes(searchLower) ||
           program.classCode?.toLowerCase().includes(searchLower);
         if (!matchesSearch) return false;
@@ -358,7 +371,7 @@ export default function ProgramsList({
                                 className="text-sm font-medium"
                                 style={{ color: "var(--text-primary)" }}
                               >
-                                {program.programName}
+                                {getDisplayName(program)}
                               </h4>
 
                               <div className="flex items-center flex-wrap gap-x-3 gap-y-1 mt-1.5">

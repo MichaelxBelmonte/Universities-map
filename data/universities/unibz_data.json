@@ -7,96 +7,505 @@
     "country": "Italy",
     "city": "Bolzano",
     "campuses": [
-      {"city": "Bolzano", "address": "", "notes": "Main campus"},
-      {"city": "Bressanone", "address": "", "notes": "Education faculty"},
-      {"city": "Brunico", "address": "", "notes": "Tourism"},
-      {"city": "NOI Techpark", "address": "", "notes": "Engineering/Tech"}
+      {
+        "city": "Bolzano",
+        "address": "",
+        "notes": "Main campus"
+      },
+      {
+        "city": "Bressanone",
+        "address": "",
+        "notes": "Education faculty"
+      },
+      {
+        "city": "Brunico",
+        "address": "",
+        "notes": "Tourism"
+      },
+      {
+        "city": "NOI Techpark",
+        "address": "",
+        "notes": "Engineering/Tech"
+      }
     ],
-    "languages_offered": ["Italian", "German", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Bolzano"},
+    "languages_offered": [
+      "Italian",
+      "German",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Bolzano"
+    },
     "source_url": "https://www.unibz.it",
     "last_checked": "2026-01-04",
     "confidence": 0.95,
     "notes": "Trilingual university (Italian, German, English). 5 faculties: Agriculture, Design/Art, Economics, Education, Engineering. Executive Masters and lifelong learning. PhD programs available."
   },
   "programs": [
-    {"type":"program","university_id":"unibz","degree_level":"bachelor","program_name":"Food and Enogastronomy Sciences","class_code":"","language":["Italian","German","English"],"campus_city":"Bolzano","duration_years":3,"ects_total":180,"department":"Agricultural Sciences","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibz","degree_level":"bachelor","program_name":"Art and Design","class_code":"","language":["Italian","German","English"],"campus_city":"Bolzano","duration_years":3,"ects_total":180,"department":"Design and Art","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibz","degree_level":"bachelor","program_name":"Economics, Politics and Ethics","class_code":"","language":["Italian","German","English"],"campus_city":"Bolzano","duration_years":3,"ects_total":180,"department":"Economics","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibz","degree_level":"bachelor","program_name":"Tourism, Sport and Event Management","class_code":"","language":["Italian","German","English"],"campus_city":"Brunico","duration_years":3,"ects_total":180,"department":"Economics","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":"Brunico campus"},
-    {"type":"program","university_id":"unibz","degree_level":"bachelor","program_name":"Communication Sciences","class_code":"","language":["Italian","German"],"campus_city":"Bressanone","duration_years":3,"ects_total":180,"department":"Education","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibz","degree_level":"bachelor","program_name":"Social Education","class_code":"","language":["Italian","German"],"campus_city":"Bressanone","duration_years":3,"ects_total":180,"department":"Education","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibz","degree_level":"bachelor","program_name":"Social Work","class_code":"","language":["Italian","German"],"campus_city":"Bressanone","duration_years":3,"ects_total":180,"department":"Education","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibz","degree_level":"bachelor","program_name":"Computer Science","class_code":"","language":["English"],"campus_city":"Bolzano","duration_years":3,"ects_total":180,"department":"Engineering","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibz","degree_level":"bachelor","program_name":"Electronic Engineering","class_code":"","language":["Italian","German","English"],"campus_city":"Bolzano","duration_years":3,"ects_total":180,"department":"Engineering","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibz","degree_level":"bachelor","program_name":"Mechanical Engineering","class_code":"","language":["Italian","German","English"],"campus_city":"Bolzano","duration_years":3,"ects_total":180,"department":"Engineering","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibz","degree_level":"bachelor","program_name":"Wood Technology","class_code":"","language":["Italian","German"],"campus_city":"Bolzano","duration_years":3,"ects_total":180,"department":"Engineering","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibz","degree_level":"master","program_name":"Environmental Management","class_code":"","language":["English"],"campus_city":"Bolzano","duration_years":2,"ects_total":120,"department":"Agricultural Sciences","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibz","degree_level":"master","program_name":"Food Sciences for Innovation","class_code":"","language":["English"],"campus_city":"Bolzano","duration_years":2,"ects_total":120,"department":"Agricultural Sciences","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibz","degree_level":"master","program_name":"Critical Creative Practices","class_code":"","language":["English"],"campus_city":"Bolzano","duration_years":2,"ects_total":120,"department":"Design and Art","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibz","degree_level":"master","program_name":"Data Analytics","class_code":"","language":["English"],"campus_city":"Bolzano","duration_years":2,"ects_total":120,"department":"Economics","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibz","degree_level":"master","program_name":"Energy Engineering","class_code":"","language":["English"],"campus_city":"Bolzano","duration_years":2,"ects_total":120,"department":"Engineering","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unibz","degree_level":"master","program_name":"Software Engineering","class_code":"","language":["English"],"campus_city":"Bolzano","duration_years":2,"ects_total":120,"department":"Engineering","source_url":"https://www.unibz.it","last_checked":"2026-01-04","confidence":0.9,"notes":""}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"unibz",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[{"test_name":"Language proficiency","min_score":"","notes":"Italian, German and/or English depending on program"}],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "bachelor",
+      "program_name": "Food and Enogastronomy Sciences",
+      "class_code": "",
+      "language": [
+        "Italian",
+        "German",
+        "English"
+      ],
+      "campus_city": "Bolzano",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Agricultural Sciences",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":""
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.unibz.it/it/applicants/studying-at-unibz/",
-    "source_url":"https://www.unibz.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Trilingual university requires language competencies in Italian, German, and/or English."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"unibz",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"Full exemption (scholarship)","amount_min":16,"amount_max":16,"currency":"EUR","period":"year","notes":"Only stamp duty if fully exempt"},
-      {"student_group":"ISEE ≤ 22000","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"No tax area exemption"},
-      {"student_group":"ISEE above threshold","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Progressive based on ISEE"},
-      {"student_group":"Provincial scholarship winner","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full tuition reimbursement"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Late payment penalty","amount":30,"currency":"EUR","notes":"If payment deadline missed"}
-    ],
-    "payment_schedule_notes":"Two installments via pagoPA. Deadlines communicated by Student Secretariat.",
-    "source_url":"https://guide.unibz.it/it/study-career/general-information/fees/",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"International government scholarship holders can request full exemption. Provincial scholarship winners receive full tuition reimbursement."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"unibz",
-    "scholarship_name":"Provincia Autonoma di Bolzano Scholarship",
-    "description":"Provincial scholarship with tuition reimbursement",
-    "eligibility":"Income requirements + merit",
-    "amount":{"min":1680,"max":6960,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"",
-    "source_url":"https://www.unibz.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Scholarship varies €1,680-€6,960/year based on income. Full tuition reimbursement included for winners."
-  }],
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "bachelor",
+      "program_name": "Art and Design",
+      "class_code": "",
+      "language": [
+        "Italian",
+        "German",
+        "English"
+      ],
+      "campus_city": "Bolzano",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Design and Art",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Art and Design"
+    },
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "bachelor",
+      "program_name": "Economics, Politics and Ethics",
+      "class_code": "",
+      "language": [
+        "Italian",
+        "German",
+        "English"
+      ],
+      "campus_city": "Bolzano",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Economics",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics, Politics and Ethics"
+    },
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "bachelor",
+      "program_name": "Tourism, Sport and Event Management",
+      "class_code": "",
+      "language": [
+        "Italian",
+        "German",
+        "English"
+      ],
+      "campus_city": "Brunico",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Economics",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Brunico campus",
+      "program_name_en": "Tourism, Sport and Evandnt Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "bachelor",
+      "program_name": "Communication Sciences",
+      "class_code": "",
+      "language": [
+        "Italian",
+        "German"
+      ],
+      "campus_city": "Bressanone",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Education",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "bachelor",
+      "program_name": "Social Education",
+      "class_code": "",
+      "language": [
+        "Italian",
+        "German"
+      ],
+      "campus_city": "Bressanone",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Education",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Social Education",
+      "program_name_it": "Educazione Sociale"
+    },
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "bachelor",
+      "program_name": "Social Work",
+      "class_code": "",
+      "language": [
+        "Italian",
+        "German"
+      ],
+      "campus_city": "Bressanone",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Education",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Social Work",
+      "program_name_it": "Servizio Sociale"
+    },
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "bachelor",
+      "program_name": "Computer Science",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bolzano",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Engineering",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Informatica",
+      "program_name_en": "Computer Science"
+    },
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "bachelor",
+      "program_name": "Electronic Engineering",
+      "class_code": "",
+      "language": [
+        "Italian",
+        "German",
+        "English"
+      ],
+      "campus_city": "Bolzano",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Engineering",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Electronic Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "bachelor",
+      "program_name": "Mechanical Engineering",
+      "class_code": "",
+      "language": [
+        "Italian",
+        "German",
+        "English"
+      ],
+      "campus_city": "Bolzano",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Engineering",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mechanical Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "bachelor",
+      "program_name": "Wood Technology",
+      "class_code": "",
+      "language": [
+        "Italian",
+        "German"
+      ],
+      "campus_city": "Bolzano",
+      "duration_years": 3,
+      "ects_total": 180,
+      "department": "Engineering",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Wood Tandchnology"
+    },
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "master",
+      "program_name": "Environmental Management",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bolzano",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Agricultural Sciences",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ambientale Management",
+      "program_name_en": "Environmental Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "master",
+      "program_name": "Food Sciences for Innovation",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bolzano",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Agricultural Sciences",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Alimentare Scienze per Innovation",
+      "program_name_en": "Food Sciences for Innovation"
+    },
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "master",
+      "program_name": "Critical Creative Practices",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bolzano",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Design and Art",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Critical Creative Practices",
+      "program_name_it": "Pratiche Creative Critiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "master",
+      "program_name": "Data Analytics",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bolzano",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Economics",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Data Analytics",
+      "program_name_it": "Analisi dei Dati"
+    },
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "master",
+      "program_name": "Energy Engineering",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bolzano",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Engineering",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Energetica",
+      "program_name_en": "Energy Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unibz",
+      "degree_level": "master",
+      "program_name": "Software Engineering",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bolzano",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Engineering",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Software Ingegneria",
+      "program_name_en": "Software Engineering"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unibz",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [
+          {
+            "test_name": "Language proficiency",
+            "min_score": "",
+            "notes": "Italian, German and/or English depending on program"
+          }
+        ],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unibz.it/it/applicants/studying-at-unibz/",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Trilingual university requires language competencies in Italian, German, and/or English."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unibz",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "Full exemption (scholarship)",
+          "amount_min": 16,
+          "amount_max": 16,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Only stamp duty if fully exempt"
+        },
+        {
+          "student_group": "ISEE ≤ 22000",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No tax area exemption"
+        },
+        {
+          "student_group": "ISEE above threshold",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Progressive based on ISEE"
+        },
+        {
+          "student_group": "Provincial scholarship winner",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full tuition reimbursement"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Late payment penalty",
+          "amount": 30,
+          "currency": "EUR",
+          "notes": "If payment deadline missed"
+        }
+      ],
+      "payment_schedule_notes": "Two installments via pagoPA. Deadlines communicated by Student Secretariat.",
+      "source_url": "https://guide.unibz.it/it/study-career/general-information/fees/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "International government scholarship holders can request full exemption. Provincial scholarship winners receive full tuition reimbursement."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "unibz",
+      "scholarship_name": "Provincia Autonoma di Bolzano Scholarship",
+      "description": "Provincial scholarship with tuition reimbursement",
+      "eligibility": "Income requirements + merit",
+      "amount": {
+        "min": 1680,
+        "max": 6960,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "",
+      "source_url": "https://www.unibz.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Scholarship varies €1,680-€6,960/year based on income. Full tuition reimbursement included for winners."
+    }
+  ],
   "opportunities": []
 }

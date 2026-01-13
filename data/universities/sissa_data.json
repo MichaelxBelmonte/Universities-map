@@ -7,84 +7,305 @@
     "country": "Italy",
     "city": "Trieste",
     "campuses": [
-      {"city": "Trieste", "address": "", "notes": "Main campus"}
+      {
+        "city": "Trieste",
+        "address": "",
+        "notes": "Main campus"
+      }
     ],
-    "languages_offered": ["English", "Italian"],
-    "contacts": {"email": "", "phone": "", "address": "Trieste"},
+    "languages_offered": [
+      "English",
+      "Italian"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Trieste"
+    },
     "source_url": "https://www.sissa.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "Elite research institution. One of Italy's 7 special schools (Scuole Superiori). PhD-focused. All admitted students receive full scholarship."
   },
   "programs": [
-    {"type":"program","university_id":"sissa","degree_level":"master","program_name":"Laurea Magistrale in Matematica (with UniTrieste)","class_code":"LM-40","language":["English"],"campus_city":"Trieste","duration_years":2,"ects_total":120,"source_url":"https://www.sissa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Joint program with University of Trieste. PFC curriculum."},
-    {"type":"program","university_id":"sissa","degree_level":"master","program_name":"Data Science and Scientific Computing (DSSC)","class_code":"LM-44","language":["English"],"campus_city":"Trieste","duration_years":2,"ects_total":120,"source_url":"https://www.sissa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Joint with UniTrieste, UniUdine, ICTP. Industry 4.0 focus."},
-    {"type":"program","university_id":"sissa","degree_level":"phd","program_name":"PhD in Astrophysics","class_code":"","language":["English"],"campus_city":"Trieste","duration_years":4,"ects_total":null,"source_url":"https://www.sissa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Full funding. Physics area."},
-    {"type":"program","university_id":"sissa","degree_level":"phd","program_name":"PhD in Theoretical Particle Physics","class_code":"","language":["English"],"campus_city":"Trieste","duration_years":4,"ects_total":null,"source_url":"https://www.sissa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Full funding. Physics area."},
-    {"type":"program","university_id":"sissa","degree_level":"phd","program_name":"PhD in Statistical Physics","class_code":"","language":["English"],"campus_city":"Trieste","duration_years":4,"ects_total":null,"source_url":"https://www.sissa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Full funding. Physics area."},
-    {"type":"program","university_id":"sissa","degree_level":"phd","program_name":"PhD in Condensed Matter Theory","class_code":"","language":["English"],"campus_city":"Trieste","duration_years":4,"ects_total":null,"source_url":"https://www.sissa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Full funding. Physics area."},
-    {"type":"program","university_id":"sissa","degree_level":"phd","program_name":"PhD in Mathematical Analysis, Modelling and Applications","class_code":"","language":["English"],"campus_city":"Trieste","duration_years":4,"ects_total":null,"source_url":"https://www.sissa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Full funding. Math area."},
-    {"type":"program","university_id":"sissa","degree_level":"phd","program_name":"PhD in Geometry and Mathematical Physics","class_code":"","language":["English"],"campus_city":"Trieste","duration_years":4,"ects_total":null,"source_url":"https://www.sissa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Full funding. Math area."},
-    {"type":"program","university_id":"sissa","degree_level":"phd","program_name":"PhD in Neuroscience","class_code":"","language":["English"],"campus_city":"Trieste","duration_years":4,"ects_total":null,"source_url":"https://www.sissa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Full funding. Neuroscience area."},
-    {"type":"program","university_id":"sissa","degree_level":"phd","program_name":"PhD in Cognitive Neuroscience","class_code":"","language":["English"],"campus_city":"Trieste","duration_years":4,"ects_total":null,"source_url":"https://www.sissa.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Full funding. Neuroscience area."}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"sissa",
-    "program_name":"PhD Programs",
-    "degree_level_scope":"phd",
-    "applicant_scope":"international",
-    "requirements":{
-      "academic_requirements":"Master's degree or equivalent, competitive admission",
-      "documents_required":[],
-      "tests_required":["SISSA admission exam"],
-      "portfolio_required":false,
-      "interview_required":true
+    {
+      "type": "program",
+      "university_id": "sissa",
+      "degree_level": "master",
+      "program_name": "Laurea Magistrale in Matematica (with UniTrieste)",
+      "class_code": "LM-40",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Trieste",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.sissa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Joint program with University of Trieste. PFC curriculum.",
+      "program_name_it": "Laurea Magistrale in Matematica (con UniTrieste)"
     },
-    "intakes":[{
-      "intake_name":"Annual intake",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":"",
-      "notes":"Annual PhD calls"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.sissa.it",
-    "source_url":"https://www.sissa.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Highly selective admission. All PhD students receive full funding."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"sissa",
-    "program_name":"",
-    "degree_level_scope":"phd",
-    "tuition":[
-      {"student_group":"All PhD students","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full scholarship for all admitted students"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Regional tax (if concurrent enrollment)","amount":120,"currency":"EUR","notes":"Only if enrolled elsewhere simultaneously"}
-    ],
-    "payment_schedule_notes":"No tuition. All PhD students receive stipend + housing support.",
-    "source_url":"https://www.sissa.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Elite institution - all PhD students receive full scholarship with stipend. ARDiS regional support available."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"sissa",
-    "scholarship_name":"Full PhD Scholarship",
-    "description":"All admitted PhD students receive full scholarship",
-    "eligibility":"Admission to SISSA PhD program",
-    "amount":{"min":16000,"max":16000,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.sissa.it",
-    "source_url":"https://www.sissa.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"~€16,000/year stipend + housing support + health insurance for all PhD students."
-  }],
+    {
+      "type": "program",
+      "university_id": "sissa",
+      "degree_level": "master",
+      "program_name": "Data Science and Scientific Computing (DSSC)",
+      "class_code": "LM-44",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Trieste",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.sissa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Joint with UniTrieste, UniUdine, ICTP. Industry 4.0 focus.",
+      "program_name_it": "Scienza dei Dati e Scientific Computing (DSSC)",
+      "program_name_en": "Data Science and Scientific Computing (DSSC)"
+    },
+    {
+      "type": "program",
+      "university_id": "sissa",
+      "degree_level": "phd",
+      "program_name": "PhD in Astrophysics",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Trieste",
+      "duration_years": 4,
+      "ects_total": null,
+      "source_url": "https://www.sissa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Full funding. Physics area.",
+      "program_name_it": "Dottorato di Ricerca in Astrophysics",
+      "program_name_en": "PhD in Astrophysics"
+    },
+    {
+      "type": "program",
+      "university_id": "sissa",
+      "degree_level": "phd",
+      "program_name": "PhD in Theoretical Particle Physics",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Trieste",
+      "duration_years": 4,
+      "ects_total": null,
+      "source_url": "https://www.sissa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Full funding. Physics area.",
+      "program_name_it": "Dottorato di Ricerca in Theoretical Particle Fisica",
+      "program_name_en": "PhD in Theoretical Particle Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "sissa",
+      "degree_level": "phd",
+      "program_name": "PhD in Statistical Physics",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Trieste",
+      "duration_years": 4,
+      "ects_total": null,
+      "source_url": "https://www.sissa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Full funding. Physics area.",
+      "program_name_it": "Dottorato di Ricerca in Statistical Fisica",
+      "program_name_en": "PhD in Statistical Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "sissa",
+      "degree_level": "phd",
+      "program_name": "PhD in Condensed Matter Theory",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Trieste",
+      "duration_years": 4,
+      "ects_total": null,
+      "source_url": "https://www.sissa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Full funding. Physics area.",
+      "program_name_it": "Dottorato di Ricerca in Condensed Matter Theory",
+      "program_name_en": "PhD in Condensed Matter Theory"
+    },
+    {
+      "type": "program",
+      "university_id": "sissa",
+      "degree_level": "phd",
+      "program_name": "PhD in Mathematical Analysis, Modelling and Applications",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Trieste",
+      "duration_years": 4,
+      "ects_total": null,
+      "source_url": "https://www.sissa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Full funding. Math area.",
+      "program_name_it": "Dottorato di Ricerca in Mathematical Analysis, Modelling e Applications",
+      "program_name_en": "PhD in Mathematical Analysis, Modelling and Applications"
+    },
+    {
+      "type": "program",
+      "university_id": "sissa",
+      "degree_level": "phd",
+      "program_name": "PhD in Geometry and Mathematical Physics",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Trieste",
+      "duration_years": 4,
+      "ects_total": null,
+      "source_url": "https://www.sissa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Full funding. Math area.",
+      "program_name_it": "Dottorato di Ricerca in Geometry e Mathematical Fisica",
+      "program_name_en": "PhD in Geometry and Mathematical Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "sissa",
+      "degree_level": "phd",
+      "program_name": "PhD in Neuroscience",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Trieste",
+      "duration_years": 4,
+      "ects_total": null,
+      "source_url": "https://www.sissa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Full funding. Neuroscience area.",
+      "program_name_it": "Dottorato di Ricerca in Neuroscience",
+      "program_name_en": "PhD in Neuroscience"
+    },
+    {
+      "type": "program",
+      "university_id": "sissa",
+      "degree_level": "phd",
+      "program_name": "PhD in Cognitive Neuroscience",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Trieste",
+      "duration_years": 4,
+      "ects_total": null,
+      "source_url": "https://www.sissa.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Full funding. Neuroscience area.",
+      "program_name_it": "Dottorato di Ricerca in Cognitive Neuroscience",
+      "program_name_en": "PhD in Cognitive Neuroscience"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "sissa",
+      "program_name": "PhD Programs",
+      "degree_level_scope": "phd",
+      "applicant_scope": "international",
+      "requirements": {
+        "academic_requirements": "Master's degree or equivalent, competitive admission",
+        "documents_required": [],
+        "tests_required": [
+          "SISSA admission exam"
+        ],
+        "portfolio_required": false,
+        "interview_required": true
+      },
+      "intakes": [
+        {
+          "intake_name": "Annual intake",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": "",
+          "notes": "Annual PhD calls"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.sissa.it",
+      "source_url": "https://www.sissa.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Highly selective admission. All PhD students receive full funding."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "sissa",
+      "program_name": "",
+      "degree_level_scope": "phd",
+      "tuition": [
+        {
+          "student_group": "All PhD students",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full scholarship for all admitted students"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Regional tax (if concurrent enrollment)",
+          "amount": 120,
+          "currency": "EUR",
+          "notes": "Only if enrolled elsewhere simultaneously"
+        }
+      ],
+      "payment_schedule_notes": "No tuition. All PhD students receive stipend + housing support.",
+      "source_url": "https://www.sissa.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Elite institution - all PhD students receive full scholarship with stipend. ARDiS regional support available."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "sissa",
+      "scholarship_name": "Full PhD Scholarship",
+      "description": "All admitted PhD students receive full scholarship",
+      "eligibility": "Admission to SISSA PhD program",
+      "amount": {
+        "min": 16000,
+        "max": 16000,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.sissa.it",
+      "source_url": "https://www.sissa.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "~€16,000/year stipend + housing support + health insurance for all PhD students."
+    }
+  ],
   "opportunities": []
 }

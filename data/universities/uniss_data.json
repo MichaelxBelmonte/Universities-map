@@ -6,89 +6,365 @@
     "official_url": "https://www.uniss.it",
     "country": "Italy",
     "city": "Sassari",
-    "campuses": [{"city": "Sassari", "address": "", "notes": "Main campus in northern Sardinia"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Sassari"},
+    "campuses": [
+      {
+        "city": "Sassari",
+        "address": "",
+        "notes": "Main campus in northern Sardinia"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Sassari"
+    },
     "source_url": "https://www.uniss.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "Northern Sardinia university. ISEE parificato accepted for foreign students. Special program for children of Sardinians abroad."
   },
   "programs": [
-    {"type":"program","university_id":"uniss","degree_level":"bachelor","program_name":"Economia e Management","class_code":"L-18","language":["Italian"],"campus_city":"Sassari","duration_years":3,"ects_total":180,"source_url":"https://www.uniss.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniss","degree_level":"bachelor","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Sassari","duration_years":5,"ects_total":300,"source_url":"https://www.uniss.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico."},
-    {"type":"program","university_id":"uniss","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Sassari","duration_years":3,"ects_total":180,"source_url":"https://www.uniss.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniss","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Sassari","duration_years":3,"ects_total":180,"source_url":"https://www.uniss.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniss","degree_level":"bachelor","program_name":"Scienze della Comunicazione","class_code":"L-20","language":["Italian"],"campus_city":"Sassari","duration_years":3,"ects_total":180,"source_url":"https://www.uniss.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniss","degree_level":"bachelor","program_name":"Architettura","class_code":"LM-4 c.u.","language":["Italian"],"campus_city":"Alghero","duration_years":5,"ects_total":300,"source_url":"https://www.uniss.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Campus Alghero."},
-    {"type":"program","university_id":"uniss","degree_level":"bachelor","program_name":"Ingegneria Informatica","class_code":"L-8","language":["Italian"],"campus_city":"Sassari","duration_years":3,"ects_total":180,"source_url":"https://www.uniss.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniss","degree_level":"bachelor","program_name":"Scienze Agrarie","class_code":"L-25","language":["Italian"],"campus_city":"Sassari","duration_years":3,"ects_total":180,"source_url":"https://www.uniss.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniss","degree_level":"bachelor","program_name":"Veterinaria","class_code":"LM-42","language":["Italian"],"campus_city":"Sassari","duration_years":5,"ects_total":300,"source_url":"https://www.uniss.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico."},
-    {"type":"program","university_id":"uniss","degree_level":"master","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Sassari","duration_years":6,"ects_total":360,"source_url":"https://www.uniss.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico."},
-    {"type":"program","university_id":"uniss","degree_level":"master","program_name":"Farmacia","class_code":"LM-13","language":["Italian"],"campus_city":"Sassari","duration_years":5,"ects_total":300,"source_url":"https://www.uniss.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico."}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"uniss",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "uniss",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Management",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Sassari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniss.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Economics and Management",
+      "program_name_it": "Economia e Management"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":""
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.uniss.it/en/teaching",
-    "source_url":"https://www.uniss.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Wait 10-15 days after ISEE request before enrolling."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"uniss",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"ISEE ≤ 22000","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"No Tax Area - national threshold"},
-      {"student_group":"ISEE above threshold","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Progressive based on ISEE"},
-      {"student_group":"Family income < 25000","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Exempt from regional DSU tax"},
-      {"student_group":"Scholarship winners/eligible","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Exempt from regional DSU tax"},
-      {"student_group":"Disability ≥66% or L.104","amount_min":16,"amount_max":16,"currency":"EUR","period":"year","notes":"Only stamp duty"},
-      {"student_group":"Children of Sardinians abroad","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full 1st year exemption - Ritorno alle Origini"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":"Always required"},
-      {"fee_name":"Late ISEE penalty","amount":null,"currency":"EUR","notes":"Mora for ISEE after Dec 31, 2025"}
-    ],
-    "payment_schedule_notes":"ISEE deadline: Dec 31, 2025. Late submission incurs penalty.",
-    "source_url":"https://www.uniss.it/en/teaching/student-services/guide-studenti/tuition-fees-and-isee",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"No tax area €22,000. ISEE parificato accepted for foreign students. 'Ritorno alle Origini' program for children of Sardinians abroad (full 1st year exemption)."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"uniss",
-    "scholarship_name":"ERSU Sassari Regional Scholarship",
-    "description":"Regional scholarship for students with low ISEE",
-    "eligibility":"ISEE threshold + merit requirements",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"",
-    "source_url":"https://www.uniss.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.8,
-    "notes":"Scholarship winners exempt from regional DSU tax."
-  }],
+    {
+      "type": "program",
+      "university_id": "uniss",
+      "degree_level": "bachelor",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Sassari",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.uniss.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico.",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "uniss",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Biologiche",
+      "class_code": "L-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Sassari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniss.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Biological Sciences",
+      "program_name_it": "Scienze Biologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "uniss",
+      "degree_level": "bachelor",
+      "program_name": "Infermieristica",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Sassari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniss.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Nursing"
+    },
+    {
+      "type": "program",
+      "university_id": "uniss",
+      "degree_level": "bachelor",
+      "program_name": "Scienze della Comunicazione",
+      "class_code": "L-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Sassari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniss.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Communication Sciences",
+      "program_name_it": "Scienze della Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "uniss",
+      "degree_level": "bachelor",
+      "program_name": "Architettura",
+      "class_code": "LM-4 c.u.",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Alghero",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.uniss.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico. Campus Alghero.",
+      "program_name_en": "Architecture",
+      "program_name_it": "Architettura"
+    },
+    {
+      "type": "program",
+      "university_id": "uniss",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Informatica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Sassari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniss.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Computer Engineering",
+      "program_name_it": "Ingegneria Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "uniss",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Agrarie",
+      "class_code": "L-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Sassari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniss.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_it": "Scienze Agrarie"
+    },
+    {
+      "type": "program",
+      "university_id": "uniss",
+      "degree_level": "bachelor",
+      "program_name": "Veterinaria",
+      "class_code": "LM-42",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Sassari",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.uniss.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico.",
+      "program_name_en": "Veterinary"
+    },
+    {
+      "type": "program",
+      "university_id": "uniss",
+      "degree_level": "master",
+      "program_name": "Medicina e Chirurgia",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Sassari",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.uniss.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico.",
+      "program_name_en": "Medicine and Surgery",
+      "program_name_it": "Medicina e Chirurgia"
+    },
+    {
+      "type": "program",
+      "university_id": "uniss",
+      "degree_level": "master",
+      "program_name": "Farmacia",
+      "class_code": "LM-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Sassari",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.uniss.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico.",
+      "program_name_en": "Pharmacy"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "uniss",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.uniss.it/en/teaching",
+      "source_url": "https://www.uniss.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Wait 10-15 days after ISEE request before enrolling."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "uniss",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE ≤ 22000",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area - national threshold"
+        },
+        {
+          "student_group": "ISEE above threshold",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Progressive based on ISEE"
+        },
+        {
+          "student_group": "Family income < 25000",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Exempt from regional DSU tax"
+        },
+        {
+          "student_group": "Scholarship winners/eligible",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Exempt from regional DSU tax"
+        },
+        {
+          "student_group": "Disability ≥66% or L.104",
+          "amount_min": 16,
+          "amount_max": 16,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Only stamp duty"
+        },
+        {
+          "student_group": "Children of Sardinians abroad",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full 1st year exemption - Ritorno alle Origini"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Stamp duty",
+          "amount": 16,
+          "currency": "EUR",
+          "notes": "Always required"
+        },
+        {
+          "fee_name": "Late ISEE penalty",
+          "amount": null,
+          "currency": "EUR",
+          "notes": "Mora for ISEE after Dec 31, 2025"
+        }
+      ],
+      "payment_schedule_notes": "ISEE deadline: Dec 31, 2025. Late submission incurs penalty.",
+      "source_url": "https://www.uniss.it/en/teaching/student-services/guide-studenti/tuition-fees-and-isee",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "No tax area €22,000. ISEE parificato accepted for foreign students. 'Ritorno alle Origini' program for children of Sardinians abroad (full 1st year exemption)."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "uniss",
+      "scholarship_name": "ERSU Sassari Regional Scholarship",
+      "description": "Regional scholarship for students with low ISEE",
+      "eligibility": "ISEE threshold + merit requirements",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "",
+      "source_url": "https://www.uniss.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Scholarship winners exempt from regional DSU tax."
+    }
+  ],
   "opportunities": []
 }

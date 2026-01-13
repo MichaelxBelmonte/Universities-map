@@ -6,84 +6,184 @@
     "official_url": "https://www.unife.it",
     "country": "Italy",
     "city": "Ferrara",
-    "campuses": [{"city": "Ferrara", "address": "via Saragat 2/D, 44122 Ferrara", "notes": "Main campus"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "+39 0532293528", "address": "via Saragat 2/D, 44122 Ferrara"},
+    "campuses": [
+      {
+        "city": "Ferrara",
+        "address": "via Saragat 2/D, 44122 Ferrara",
+        "notes": "Main campus"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "+39 0532293528",
+      "address": "via Saragat 2/D, 44122 Ferrara"
+    },
     "source_url": "https://www.unife.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "71 degree programs: 34 lauree triennali, 7 ciclo unico, 30 lauree magistrali. Unique Manager Didattico for each program. Quality-accredited university."
   },
   "programs": [
-    {"type":"program","university_id":"unife","degree_level":"master","program_name":"Design di prodotto e servizio per la cultura e la salute","class_code":"LM-12","language":["Italian"],"campus_city":"Ferrara","duration_years":2,"ects_total":120,"department":"Dipartimento di Architettura","source_url":"https://www.unife.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW 2025/26 - Unique in Italy. Focus on product and service design for culture and health."}
+    {
+      "type": "program",
+      "university_id": "unife",
+      "degree_level": "master",
+      "program_name": "Design di prodotto e servizio per la cultura e la salute",
+      "class_code": "LM-12",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Ferrara",
+      "duration_years": 2,
+      "ects_total": 120,
+      "department": "Dipartimento di Architettura",
+      "source_url": "https://www.unife.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "NEW 2025/26 - Unique in Italy. Focus on product and service design for culture and health.",
+      "program_name_it": "Design di prodotto e servizio per la cultura e la salute"
+    }
   ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"unife",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma (12+ years education)",
-      "documents_required":[],
-      "tests_required":[{"test_name":"TOLC","min_score":"","notes":"Required for some programs"}],
-      "portfolio_required":false,
-      "interview_required":false
-    },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"2025-07-14",
-      "application_deadline":"2025-10-31",
-      "start_date":"",
-      "notes":"Late enrollment until Dec 15 with additional fee"
-    },{
-      "intake_name":"spring (magistrali)",
-      "application_open_date":"2025-07-14",
-      "application_deadline":"2026-04-15",
-      "start_date":""
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.unife.it/it/iscriviti",
-    "source_url":"https://www.unife.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Programs now open access: Biotecnologie, Biotecnologie mediche, Scienze biologiche, Scienze dell'educazione, Scienze motorie, Scienze e tecnologie della comunicazione."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"unife",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"ISEE ≤ 27000","amount_min":156,"amount_max":156,"currency":"EUR","period":"year","notes":"No Tax Area - only bollo + regional tax"},
-      {"student_group":"ISEE 27001-60000","amount_min":156,"amount_max":null,"currency":"EUR","period":"year","notes":"Reduced fees based on ISEE"},
-      {"student_group":"ISEE > 60000","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Full contribution"},
-      {"student_group":"Students with 100/100 lode","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption for top graduates"},
-      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Bollo virtuale","amount":16,"currency":"EUR","notes":"Virtual stamp duty"},
-      {"fee_name":"Tassa regionale","amount":140,"currency":"EUR","notes":"Regional tax"}
-    ],
-    "payment_schedule_notes":"Fixed fees €156 (bollo €16 + regional tax €140) paid at enrollment.",
-    "source_url":"https://www.unife.it/it/iscriviti/tasse",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"No tax area expanded to €27,000 ISEE. Fuori corso students: calculation based on ISEE and credits earned."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"unife",
-    "scholarship_name":"ER.GO Regional Scholarship",
-    "description":"Regional scholarship for students with low ISEE covering tuition, accommodation, and meals",
-    "eligibility":"ISEE ≤ threshold, merit requirements (CFU)",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.er-go.it",
-    "source_url":"https://www.er-go.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.8,
-    "notes":"Apply via ER.GO portal. Includes accommodation and meal services."
-  }],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unife",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma (12+ years education)",
+        "documents_required": [],
+        "tests_required": [
+          {
+            "test_name": "TOLC",
+            "min_score": "",
+            "notes": "Required for some programs"
+          }
+        ],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "2025-07-14",
+          "application_deadline": "2025-10-31",
+          "start_date": "",
+          "notes": "Late enrollment until Dec 15 with additional fee"
+        },
+        {
+          "intake_name": "spring (magistrali)",
+          "application_open_date": "2025-07-14",
+          "application_deadline": "2026-04-15",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unife.it/it/iscriviti",
+      "source_url": "https://www.unife.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Programs now open access: Biotecnologie, Biotecnologie mediche, Scienze biologiche, Scienze dell'educazione, Scienze motorie, Scienze e tecnologie della comunicazione."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unife",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE ≤ 27000",
+          "amount_min": 156,
+          "amount_max": 156,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area - only bollo + regional tax"
+        },
+        {
+          "student_group": "ISEE 27001-60000",
+          "amount_min": 156,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Reduced fees based on ISEE"
+        },
+        {
+          "student_group": "ISEE > 60000",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full contribution"
+        },
+        {
+          "student_group": "Students with 100/100 lode",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption for top graduates"
+        },
+        {
+          "student_group": "Disability ≥66% or L.104",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Bollo virtuale",
+          "amount": 16,
+          "currency": "EUR",
+          "notes": "Virtual stamp duty"
+        },
+        {
+          "fee_name": "Tassa regionale",
+          "amount": 140,
+          "currency": "EUR",
+          "notes": "Regional tax"
+        }
+      ],
+      "payment_schedule_notes": "Fixed fees €156 (bollo €16 + regional tax €140) paid at enrollment.",
+      "source_url": "https://www.unife.it/it/iscriviti/tasse",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "No tax area expanded to €27,000 ISEE. Fuori corso students: calculation based on ISEE and credits earned."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "unife",
+      "scholarship_name": "ER.GO Regional Scholarship",
+      "description": "Regional scholarship for students with low ISEE covering tuition, accommodation, and meals",
+      "eligibility": "ISEE ≤ threshold, merit requirements (CFU)",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.er-go.it",
+      "source_url": "https://www.er-go.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Apply via ER.GO portal. Includes accommodation and meal services."
+    }
+  ],
   "opportunities": []
 }

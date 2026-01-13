@@ -7,193 +7,1680 @@
     "country": "Italy",
     "city": "Milan",
     "campuses": [
-      {"city": "Milan", "address": "Largo A. Gemelli 1", "notes": "Main campus"},
-      {"city": "Rome", "address": "Largo Francesco Vito 1", "notes": "Medicine campus (Policlinico Gemelli)"},
-      {"city": "Brescia", "address": "Via Trieste 17", "notes": ""},
-      {"city": "Piacenza", "address": "Via Emilia Parmense 84", "notes": ""},
-      {"city": "Cremona", "address": "Via Bissolati 74", "notes": "Music faculty"}
+      {
+        "city": "Milan",
+        "address": "Largo A. Gemelli 1",
+        "notes": "Main campus"
+      },
+      {
+        "city": "Rome",
+        "address": "Largo Francesco Vito 1",
+        "notes": "Medicine campus (Policlinico Gemelli)"
+      },
+      {
+        "city": "Brescia",
+        "address": "Via Trieste 17",
+        "notes": ""
+      },
+      {
+        "city": "Piacenza",
+        "address": "Via Emilia Parmense 84",
+        "notes": ""
+      },
+      {
+        "city": "Cremona",
+        "address": "Via Bissolati 74",
+        "notes": "Music faculty"
+      }
     ],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "info.immatricolazioni@unicatt.it", "phone": "+39 02 7234 1", "address": "Largo A. Gemelli 1, 20123 Milan"},
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "info.immatricolazioni@unicatt.it",
+      "phone": "+39 02 7234 1",
+      "address": "Largo A. Gemelli 1, 20123 Milan"
+    },
     "source_url": "https://www.unicatt.it",
     "last_checked": "2026-01-05",
     "confidence": 0.95,
     "notes": "Largest private university in Europe. 13 faculties across 5 campuses. 42,000+ students. EDUCatt Foundation scholarships. Medicine faculty in Rome (Policlinico Gemelli)."
   },
   "programs": [
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Economia Aziendale e Management","class_code":"L-18","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Economia e Gestione Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Piacenza","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Economics and Management","class_code":"L-18","language":["English"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English program"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Economia e Legislazione d'Impresa","class_code":"L-18","language":["Italian"],"campus_city":"Piacenza","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Scienze Bancarie, Finanziarie e Assicurative","class_code":"L-18","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Economia e Gestione dei Servizi","class_code":"L-18","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Rome campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Filosofia","class_code":"L-5","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Lettere","class_code":"L-10","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Lettere","class_code":"L-10","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Brescia campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Scienze dei Beni Culturali","class_code":"L-1","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Storia","class_code":"L-42","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Scienze Linguistiche","class_code":"L-11","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Scienze Linguistiche","class_code":"L-11","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Brescia campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Linguistic Computing","class_code":"L-11","language":["English"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English program, digital humanities"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Psicologia","class_code":"L-24","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Psicologia","class_code":"L-24","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Brescia campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Scienze dell'Educazione e della Formazione","class_code":"L-19","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Scienze dell'Educazione e della Formazione","class_code":"L-19","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Brescia campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Scienze dell'Educazione e della Formazione","class_code":"L-19","language":["Italian"],"campus_city":"Piacenza","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Piacenza campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Comunicazione e Società","class_code":"L-20","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Comunicazione e Società","class_code":"L-20","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Brescia campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Scienze Politiche e delle Relazioni Internazionali","class_code":"L-36","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Scienze del Servizio Sociale","class_code":"L-39","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Scienze del Servizio Sociale","class_code":"L-39","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Brescia campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Sociologia","class_code":"L-40","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Matematica","class_code":"L-35","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Brescia campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Fisica","class_code":"L-30","language":["Italian"],"campus_city":"Brescia","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Brescia campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Scienze e Tecnologie Agrarie","class_code":"L-25","language":["Italian"],"campus_city":"Piacenza","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Piacenza campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Scienze e Tecnologie Alimentari","class_code":"L-26","language":["Italian"],"campus_city":"Piacenza","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Piacenza campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Sustainable Agriculture for Food Quality and Environment","class_code":"L-25","language":["English"],"campus_city":"Piacenza","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English program"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Healthcare profession, Rome campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Fisioterapia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Healthcare profession, Rome campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Tecniche di Laboratorio Biomedico","class_code":"L/SNT3","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Healthcare profession"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Tecniche di Radiologia Medica","class_code":"L/SNT3","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Healthcare profession"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Logopedia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Healthcare profession"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Ostetricia","class_code":"L/SNT1","language":["Italian"],"campus_city":"Rome","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Healthcare profession"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Scienze Motorie e dello Sport","class_code":"L-22","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Turismo Enogastronomico e Sviluppo Locale","class_code":"L-15","language":["Italian"],"campus_city":"Piacenza","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Piacenza campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"bachelor","program_name":"Scienze Religiose","class_code":"L-ISSRS","language":["Italian"],"campus_city":"Milan","duration_years":3,"ects_total":180,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"ciclo_unico","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Milan","duration_years":5,"ects_total":300,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"ciclo_unico","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Piacenza","duration_years":5,"ects_total":300,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Piacenza campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"ciclo_unico","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Rome","duration_years":6,"ects_total":360,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Rome campus, Policlinico Gemelli"},
-    {"type":"program","university_id":"unicatt","degree_level":"ciclo_unico","program_name":"Odontoiatria e Protesi Dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Rome","duration_years":6,"ects_total":360,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Rome campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"ciclo_unico","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Milan","duration_years":5,"ects_total":300,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"ciclo_unico","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Brescia","duration_years":5,"ects_total":300,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Brescia campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"ciclo_unico","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Piacenza","duration_years":5,"ects_total":300,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Piacenza campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Economia e Gestione delle Imprese","class_code":"LM-77","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Management per l'Impresa","class_code":"LM-77","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"International Management","class_code":"LM-77","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English program"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Management dei Mercati Internazionali","class_code":"LM-77","language":["Italian"],"campus_city":"Piacenza","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Piacenza campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Economia e Gestione delle Aziende","class_code":"LM-77","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Rome campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Banking and Finance","class_code":"LM-16","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English program"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Gestione di Aziende e Servizi Sanitari","class_code":"LM-77","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Healthcare management"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Psicologia Clinica e Promozione della Salute","class_code":"LM-51","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Psicologia per il Benessere","class_code":"LM-51","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Psicologia dello Sviluppo e dei Processi Educativi","class_code":"LM-51","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Psicologia per le Organizzazioni","class_code":"LM-51","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Applied Psychology for the Community and Political Contexts","class_code":"LM-51","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English program"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Filologia Moderna","class_code":"LM-14","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Archeologia e Storia dell'Arte","class_code":"LM-2","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"World Politics and International Relations","class_code":"LM-52","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English program"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Communication Management","class_code":"LM-59","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English program"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Gestione dei Contenuti Digitali per i Media e le Imprese","class_code":"LM-59","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Comunicazione per l'Impresa, i Media e le Organizzazioni Complesse","class_code":"LM-59","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Scienze Agrarie e Alimentari","class_code":"LM-69","language":["Italian"],"campus_city":"Piacenza","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Piacenza campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Food Processing: Innovation and Tradition","class_code":"LM-70","language":["English"],"campus_city":"Piacenza","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English program"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Data Analytics for Business and Society","class_code":"LM-91","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English program"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Scienze Pedagogiche","class_code":"LM-85","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Progettazione Pedagogica e Formazione delle Risorse Umane","class_code":"LM-85","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Politiche e Servizi Sociali","class_code":"LM-87","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Sociologia e Ricerca Sociale","class_code":"LM-88","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Traduzione Specialistica e Interpretariato","class_code":"LM-94","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Lingue e Letterature Europee e Panamericane","class_code":"LM-37","language":["Italian"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Media Relations","class_code":"LM-59","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Rome campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Biotecnologie per l'Alimentazione","class_code":"LM-7","language":["Italian"],"campus_city":"Piacenza","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Piacenza campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Biotecnologie Mediche","class_code":"LM-9","language":["Italian"],"campus_city":"Rome","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Rome campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Fisica","class_code":"LM-17","language":["Italian"],"campus_city":"Brescia","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Brescia campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Matematica","class_code":"LM-40","language":["Italian"],"campus_city":"Brescia","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"Brescia campus"},
-    {"type":"program","university_id":"unicatt","degree_level":"master","program_name":"Sport Management and Media Relations","class_code":"LM-67","language":["English"],"campus_city":"Milan","duration_years":2,"ects_total":120,"source_url":"https://www.unicatt.it","last_checked":"2026-01-05","confidence":0.9,"notes":"English program"}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"unicatt",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma for bachelor, bachelor degree for master",
-      "documents_required":["Diploma","Identity document","Tax code","Income declaration (ISEE-U)"],
-      "tests_required":["Some programs require admission tests"],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Economia Aziendale e Management",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Economia Aziendale e Management"
     },
-    "intakes":[{
-      "intake_name":"A.A. 2025/2026",
-      "application_open_date":"February 2025",
-      "application_deadline":"September 22, 2025",
-      "start_date":"September 2025",
-      "notes":"First rate deadline Sep 22, 2025. Income declaration by Dec 4, 2025."
-    }],
-    "application_fee":{"amount":100,"currency":"EUR","notes":"Enrollment contribution"},
-    "how_to_apply_url":"https://www.unicatt.it/ammissione",
-    "source_url":"https://www.unicatt.it",
-    "last_checked":"2026-01-05",
-    "confidence":0.95,
-    "notes":"Some programs have numbered access. Medicine has national admission test. Income declaration deadline Dec 4, 2025 for fee calculation."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"unicatt",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"Minimum (low income)","amount_min":3300,"amount_max":3300,"currency":"EUR","period":"year","notes":"Most faculties, lowest ISEE bracket"},
-      {"student_group":"Maximum (high income, equiv. income >€150,000)","amount_min":11800,"amount_max":11800,"currency":"EUR","period":"year","notes":"Most faculties"},
-      {"student_group":"Medicine minimum","amount_min":3202,"amount_max":3202,"currency":"EUR","period":"year","notes":"Medicine and Healthcare faculties"},
-      {"student_group":"Medicine maximum","amount_min":15148,"amount_max":15148,"currency":"EUR","period":"year","notes":"Medicine and Healthcare faculties"},
-      {"student_group":"Master's programs","amount_min":3800,"amount_max":13000,"currency":"EUR","period":"year","notes":"Varies by program and income"},
-      {"student_group":"Working students (personal income ≥€9,000)","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"15% reduction on variable rates"}
-    ],
-    "additional_fees":[
-      {"fee_name":"First rate (fixed)","amount":1500,"currency":"EUR","notes":"Bachelor/ciclo unico at enrollment"},
-      {"fee_name":"Second rate (fixed)","amount":1000,"currency":"EUR","notes":"Bachelor €1,000; Master's €1,200 by Dec 18"},
-      {"fee_name":"Regional tax Lombardy","amount":140,"currency":"EUR","notes":"Annual"}
-    ],
-    "payment_schedule_notes":"5 installments. 1st rate €1,500 at enrollment, 2nd rate €1,000-1,200 by Dec 18, 2025. Rates 3-5 variable based on equivalent income. 50% reduction on 5th rate for some programs.",
-    "source_url":"https://www.unicatt.it/ammissione/costi-e-opportunita/quanto-costa-studiare-in-cattolica.html",
-    "last_checked":"2026-01-05",
-    "confidence":0.95,
-    "notes":"Private university. Range €3,300-€11,800 (€3,202-€15,148 for Medicine). Income-based calculation. 15% reduction for working students."
-  }],
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Gestione Aziendale",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Business Economics and Management",
+      "program_name_it": "Economia e Gestione Aziendale"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Economics and Management",
+      "class_code": "L-18",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English program",
+      "program_name_it": "Economia e Management",
+      "program_name_en": "Economics and Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Legislazione d'Impresa",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics and Legislazione d'Impresa",
+      "program_name_it": "Economia e Legislazione d'Impresa"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Bancarie, Finanziarie e Assicurative",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Bancarie, Finanziarie e Assicurative"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Gestione dei Servizi",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Rome campus",
+      "program_name_en": "Economics and Gestione of the Servizi",
+      "program_name_it": "Economia e Gestione dei Servizi"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Filosofia",
+      "class_code": "L-5",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Philosophy",
+      "program_name_it": "Filosofia"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Lettere",
+      "class_code": "L-10",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Humanities",
+      "program_name_it": "Lettere"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Lettere",
+      "class_code": "L-10",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Brescia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Brescia campus",
+      "program_name_en": "Humanities",
+      "program_name_it": "Lettere"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dei Beni Culturali",
+      "class_code": "L-1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze dei Beni Culturali"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Storia",
+      "class_code": "L-42",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "History",
+      "program_name_it": "Storia"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Linguistiche",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Linguistiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Linguistiche",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Brescia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Brescia campus",
+      "program_name_it": "Scienze Linguistiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Linguistic Computing",
+      "class_code": "L-11",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English program, digital humanities",
+      "program_name_en": "Linguistic Computing",
+      "program_name_it": "Informatica Linguistica"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Psicologia",
+      "class_code": "L-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Psychology",
+      "program_name_it": "Psicologia"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Psicologia",
+      "class_code": "L-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Brescia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Brescia campus",
+      "program_name_en": "Psychology",
+      "program_name_it": "Psicologia"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "class_code": "L-19",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze dell'Educazione e della Formazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "class_code": "L-19",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Brescia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Brescia campus",
+      "program_name_it": "Scienze dell'Educazione e della Formazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "class_code": "L-19",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Piacenza campus",
+      "program_name_it": "Scienze dell'Educazione e della Formazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Comunicazione e Società",
+      "class_code": "L-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Communication and Società",
+      "program_name_it": "Comunicazione e Società"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Comunicazione e Società",
+      "class_code": "L-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Brescia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Brescia campus",
+      "program_name_en": "Communication and Società",
+      "program_name_it": "Comunicazione e Società"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Politiche e delle Relazioni Internazionali",
+      "class_code": "L-36",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Politiche e delle Relazioni Internazionali"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Scienze del Servizio Sociale",
+      "class_code": "L-39",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze del Servizio Sociale"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Scienze del Servizio Sociale",
+      "class_code": "L-39",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Brescia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Brescia campus",
+      "program_name_it": "Scienze del Servizio Sociale"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Sociologia",
+      "class_code": "L-40",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Sociology"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Matematica",
+      "class_code": "L-35",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Brescia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Brescia campus",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Fisica",
+      "class_code": "L-30",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Brescia",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Brescia campus",
+      "program_name_en": "Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Tecnologie Agrarie",
+      "class_code": "L-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Piacenza campus",
+      "program_name_en": "Agricultural Sciences and Technologies",
+      "program_name_it": "Scienze e Tecnologie Agrarie"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Tecnologie Alimentari",
+      "class_code": "L-26",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Piacenza campus",
+      "program_name_en": "Food Science and Technology",
+      "program_name_it": "Scienze e Tecnologie Alimentari"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Sustainable Agriculture for Food Quality and Environment",
+      "class_code": "L-25",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English program",
+      "program_name_it": "Agricoltura Sostenibile per Alimentare Quality e Environment",
+      "program_name_en": "Sustainable Agriculture for Food Quality and Environment"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Infermieristica",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Healthcare profession, Rome campus",
+      "program_name_en": "Nursing"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Fisioterapia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Healthcare profession, Rome campus",
+      "program_name_en": "Physiotherapy"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche di Laboratorio Biomedico",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Healthcare profession",
+      "program_name_en": "Biomedical Laboratory Techniques"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Tecniche di Radiologia Medica",
+      "class_code": "L/SNT3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Healthcare profession",
+      "program_name_en": "Medical Radiology Techniques"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Logopedia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Healthcare profession",
+      "program_name_en": "Speech Therapy"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Ostetricia",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Healthcare profession",
+      "program_name_en": "Midwifery"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Motorie e dello Sport",
+      "class_code": "L-22",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Motorie e dello Sport"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Turismo Enogastronomico e Sviluppo Locale",
+      "class_code": "L-15",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Piacenza campus",
+      "program_name_en": "Tourism Enogastronomico and Sviluppo Locale"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Religiose",
+      "class_code": "L-ISSRS",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Religious Studies",
+      "program_name_it": "Scienze Religiose"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "ciclo_unico",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "ciclo_unico",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Piacenza campus",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "ciclo_unico",
+      "program_name": "Medicina e Chirurgia",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Rome campus, Policlinico Gemelli",
+      "program_name_en": "Medicine and Surgery",
+      "program_name_it": "Medicina e Chirurgia"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "ciclo_unico",
+      "program_name": "Odontoiatria e Protesi Dentaria",
+      "class_code": "LM-46",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Rome campus",
+      "program_name_en": "Dentistry and Dental Prosthetics"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "ciclo_unico",
+      "program_name": "Scienze della Formazione Primaria",
+      "class_code": "LM-85 bis",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Primary Education Sciences",
+      "program_name_it": "Scienze della Formazione Primaria"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "ciclo_unico",
+      "program_name": "Scienze della Formazione Primaria",
+      "class_code": "LM-85 bis",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Brescia",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Brescia campus",
+      "program_name_en": "Primary Education Sciences",
+      "program_name_it": "Scienze della Formazione Primaria"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "ciclo_unico",
+      "program_name": "Scienze della Formazione Primaria",
+      "class_code": "LM-85 bis",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Piacenza campus",
+      "program_name_en": "Primary Education Sciences",
+      "program_name_it": "Scienze della Formazione Primaria"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Economia e Gestione delle Imprese",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics and Gestione of the Imprese",
+      "program_name_it": "Economia e Gestione delle Imprese"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Management per l'Impresa",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "International Management",
+      "class_code": "LM-77",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English program",
+      "program_name_it": "Internazionali Management",
+      "program_name_en": "International Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Management dei Mercati Internazionali",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Piacenza campus",
+      "program_name_en": "Management of the Mercati International"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Economia e Gestione delle Aziende",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Rome campus",
+      "program_name_en": "Economics and Gestione of the Aziende",
+      "program_name_it": "Economia e Gestione delle Aziende"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Banking and Finance",
+      "class_code": "LM-16",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English program",
+      "program_name_it": "Banking e Finanza",
+      "program_name_en": "Banking and Finance"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Gestione di Aziende e Servizi Sanitari",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Healthcare management",
+      "program_name_it": "Gestione di Aziende e Servizi Sanitari"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Psicologia Clinica e Promozione della Salute",
+      "class_code": "LM-51",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Clinical Psychology and Promozione of the Salute",
+      "program_name_it": "Psicologia Clinica e Promozione della Salute"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Psicologia per il Benessere",
+      "class_code": "LM-51",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Psicologia per il Benessere"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Psicologia dello Sviluppo e dei Processi Educativi",
+      "class_code": "LM-51",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Psicologia dello Sviluppo e dei Processi Educativi"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Psicologia per le Organizzazioni",
+      "class_code": "LM-51",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Psychology for land Organizzazioni",
+      "program_name_it": "Psicologia per le Organizzazioni"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Applied Psychology for the Community and Political Contexts",
+      "class_code": "LM-51",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English program",
+      "program_name_it": "Applied Psicologia per the Community e Political Contexts",
+      "program_name_en": "Applied Psychology for the Community and Political Contexts"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Filologia Moderna",
+      "class_code": "LM-14",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Filologia Moderna"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Archeologia e Storia dell'Arte",
+      "class_code": "LM-2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Archeologia e Storia dell'Arte"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "World Politics and International Relations",
+      "class_code": "LM-52",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English program",
+      "program_name_it": "World Politics e Relazioni Internazionali",
+      "program_name_en": "World Politics and International Relations"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Communication Management",
+      "class_code": "LM-59",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English program",
+      "program_name_it": "Comunicazione Management",
+      "program_name_en": "Communication Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Gestione dei Contenuti Digitali per i Media e le Imprese",
+      "class_code": "LM-59",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Gestione dei Contenuti Digitali per i Media e le Imprese"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Comunicazione per l'Impresa, i Media e le Organizzazioni Complesse",
+      "class_code": "LM-59",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Comunicazione per l'Impresa, i Media e le Organizzazioni Complesse"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Scienze Agrarie e Alimentari",
+      "class_code": "LM-69",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Piacenza campus",
+      "program_name_it": "Scienze Agrarie e Alimentari"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Food Processing: Innovation and Tradition",
+      "class_code": "LM-70",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English program",
+      "program_name_it": "Alimentare Processing: Innovation e Tradition",
+      "program_name_en": "Food Processing: Innovation and Tradition"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Data Analytics for Business and Society",
+      "class_code": "LM-91",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English program",
+      "program_name_en": "Data Analytics for Business and Society"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Scienze Pedagogiche",
+      "class_code": "LM-85",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Pedagogical Sciences",
+      "program_name_it": "Scienze Pedagogiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Progettazione Pedagogica e Formazione delle Risorse Umane",
+      "class_code": "LM-85",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Politiche e Servizi Sociali",
+      "class_code": "LM-87",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Sociologia e Ricerca Sociale",
+      "class_code": "LM-88",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Sociology and Ricerca Sociale"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Traduzione Specialistica e Interpretariato",
+      "class_code": "LM-94",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Lingue e Letterature Europee e Panamericane",
+      "class_code": "LM-37",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Media Relations",
+      "class_code": "LM-59",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Rome campus",
+      "program_name_en": "Media Relations"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Biotecnologie per l'Alimentazione",
+      "class_code": "LM-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Piacenza",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Piacenza campus"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Biotecnologie Mediche",
+      "class_code": "LM-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Rome",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Rome campus",
+      "program_name_en": "Medical Biotechnology"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Fisica",
+      "class_code": "LM-17",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Brescia",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Brescia campus",
+      "program_name_en": "Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Matematica",
+      "class_code": "LM-40",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Brescia",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "Brescia campus",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "unicatt",
+      "degree_level": "master",
+      "program_name": "Sport Management and Media Relations",
+      "class_code": "LM-67",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Milan",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "English program",
+      "program_name_en": "Sport Management and Media Relations"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unicatt",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma for bachelor, bachelor degree for master",
+        "documents_required": [
+          "Diploma",
+          "Identity document",
+          "Tax code",
+          "Income declaration (ISEE-U)"
+        ],
+        "tests_required": [
+          "Some programs require admission tests"
+        ],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "A.A. 2025/2026",
+          "application_open_date": "February 2025",
+          "application_deadline": "September 22, 2025",
+          "start_date": "September 2025",
+          "notes": "First rate deadline Sep 22, 2025. Income declaration by Dec 4, 2025."
+        }
+      ],
+      "application_fee": {
+        "amount": 100,
+        "currency": "EUR",
+        "notes": "Enrollment contribution"
+      },
+      "how_to_apply_url": "https://www.unicatt.it/ammissione",
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.95,
+      "notes": "Some programs have numbered access. Medicine has national admission test. Income declaration deadline Dec 4, 2025 for fee calculation."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unicatt",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "Minimum (low income)",
+          "amount_min": 3300,
+          "amount_max": 3300,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Most faculties, lowest ISEE bracket"
+        },
+        {
+          "student_group": "Maximum (high income, equiv. income >€150,000)",
+          "amount_min": 11800,
+          "amount_max": 11800,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Most faculties"
+        },
+        {
+          "student_group": "Medicine minimum",
+          "amount_min": 3202,
+          "amount_max": 3202,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Medicine and Healthcare faculties"
+        },
+        {
+          "student_group": "Medicine maximum",
+          "amount_min": 15148,
+          "amount_max": 15148,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Medicine and Healthcare faculties"
+        },
+        {
+          "student_group": "Master's programs",
+          "amount_min": 3800,
+          "amount_max": 13000,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Varies by program and income"
+        },
+        {
+          "student_group": "Working students (personal income ≥€9,000)",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "15% reduction on variable rates"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "First rate (fixed)",
+          "amount": 1500,
+          "currency": "EUR",
+          "notes": "Bachelor/ciclo unico at enrollment"
+        },
+        {
+          "fee_name": "Second rate (fixed)",
+          "amount": 1000,
+          "currency": "EUR",
+          "notes": "Bachelor €1,000; Master's €1,200 by Dec 18"
+        },
+        {
+          "fee_name": "Regional tax Lombardy",
+          "amount": 140,
+          "currency": "EUR",
+          "notes": "Annual"
+        }
+      ],
+      "payment_schedule_notes": "5 installments. 1st rate €1,500 at enrollment, 2nd rate €1,000-1,200 by Dec 18, 2025. Rates 3-5 variable based on equivalent income. 50% reduction on 5th rate for some programs.",
+      "source_url": "https://www.unicatt.it/ammissione/costi-e-opportunita/quanto-costa-studiare-in-cattolica.html",
+      "last_checked": "2026-01-05",
+      "confidence": 0.95,
+      "notes": "Private university. Range €3,300-€11,800 (€3,202-€15,148 for Medicine). Income-based calculation. 15% reduction for working students."
+    }
+  ],
   "scholarships": [
     {
-      "type":"scholarships",
-      "university_id":"unicatt",
-      "scholarship_name":"EDUCatt Scholarship",
-      "description":"Scholarship from EDUCatt Foundation covering tuition and living expenses",
-      "eligibility":"ISEE ≤ €26,306.25, ISPE ≤ €57,187.53, merit requirements",
-      "amount":{"min":2500,"max":7000,"currency":"EUR","period":"year"},
-      "deadline":"July 2025",
-      "how_to_apply_url":"https://www.educatt.it/agevolazioni/bando",
-      "source_url":"https://www.unicatt.it",
-      "last_checked":"2026-01-05",
-      "confidence":0.9,
-      "notes":"EDUCatt Foundation in synergy with Istituto Toniolo. Includes tuition reduction, meal service, housing options."
+      "type": "scholarships",
+      "university_id": "unicatt",
+      "scholarship_name": "EDUCatt Scholarship",
+      "description": "Scholarship from EDUCatt Foundation covering tuition and living expenses",
+      "eligibility": "ISEE ≤ €26,306.25, ISPE ≤ €57,187.53, merit requirements",
+      "amount": {
+        "min": 2500,
+        "max": 7000,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "July 2025",
+      "how_to_apply_url": "https://www.educatt.it/agevolazioni/bando",
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.9,
+      "notes": "EDUCatt Foundation in synergy with Istituto Toniolo. Includes tuition reduction, meal service, housing options."
     },
     {
-      "type":"scholarships",
-      "university_id":"unicatt",
-      "scholarship_name":"Merit-Based Fee Reductions",
-      "description":"Fee reductions for academically excellent students",
-      "eligibility":"High GPA (varies by program), timely exam completion",
-      "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-      "deadline":"",
-      "how_to_apply_url":"https://www.unicatt.it",
-      "source_url":"https://www.unicatt.it",
-      "last_checked":"2026-01-05",
-      "confidence":0.85,
-      "notes":"50% reduction on 5th rate for some programs based on merit"
+      "type": "scholarships",
+      "university_id": "unicatt",
+      "scholarship_name": "Merit-Based Fee Reductions",
+      "description": "Fee reductions for academically excellent students",
+      "eligibility": "High GPA (varies by program), timely exam completion",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.unicatt.it",
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.85,
+      "notes": "50% reduction on 5th rate for some programs based on merit"
     },
     {
-      "type":"scholarships",
-      "university_id":"unicatt",
-      "scholarship_name":"Economic Hardship Support",
-      "description":"Additional support for students facing economic difficulties",
-      "eligibility":"Demonstrated financial need, special circumstances",
-      "amount":{"min":null,"max":null,"currency":"EUR","period":"one-time"},
-      "deadline":"",
-      "how_to_apply_url":"https://www.unicatt.it",
-      "source_url":"https://www.unicatt.it",
-      "last_checked":"2026-01-05",
-      "confidence":0.8,
-      "notes":"Emergency funds and special contributions available"
+      "type": "scholarships",
+      "university_id": "unicatt",
+      "scholarship_name": "Economic Hardship Support",
+      "description": "Additional support for students facing economic difficulties",
+      "eligibility": "Demonstrated financial need, special circumstances",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "one-time"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.unicatt.it",
+      "source_url": "https://www.unicatt.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.8,
+      "notes": "Emergency funds and special contributions available"
     }
   ],
   "opportunities": []

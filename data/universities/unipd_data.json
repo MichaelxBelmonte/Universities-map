@@ -7,96 +7,1538 @@
     "country": "Italy",
     "city": "Padua",
     "campuses": [
-      {"city": "Padua", "address": "", "notes": "Main campus, founded 1222"},
-      {"city": "Vicenza", "address": "", "notes": "Engineering campus"},
-      {"city": "Treviso", "address": "", "notes": ""},
-      {"city": "Rovigo", "address": "", "notes": ""},
-      {"city": "Feltre", "address": "", "notes": ""}
+      {
+        "city": "Padua",
+        "address": "",
+        "notes": "Main campus, founded 1222"
+      },
+      {
+        "city": "Vicenza",
+        "address": "",
+        "notes": "Engineering campus"
+      },
+      {
+        "city": "Treviso",
+        "address": "",
+        "notes": ""
+      },
+      {
+        "city": "Rovigo",
+        "address": "",
+        "notes": ""
+      },
+      {
+        "city": "Feltre",
+        "address": "",
+        "notes": ""
+      }
     ],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "benefici.studenti@unipd.it", "phone": "049.8273131", "address": "Padua"},
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "benefici.studenti@unipd.it",
+      "phone": "049.8273131",
+      "address": "Padua"
+    },
     "source_url": "https://www.unipd.it",
     "last_checked": "2026-01-04",
-    "confidence": 1.0,
+    "confidence": 1,
     "notes": "One of the oldest universities (1222). 203 programs: 92 bachelor, 14 ciclo unico, 97 master (42 in English). Scuola Galileiana honors college. ~17,000 students pay no fees."
   },
   "programs": [
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Ingegneria Civile","class_code":"L-7","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Ingegneria per l'Ambiente e il Territorio","class_code":"L-7","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Ingegneria Biomedica","class_code":"L-8","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Ingegneria dell'Informazione","class_code":"L-8","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Ingegneria Elettronica","class_code":"L-8","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Ingegneria Informatica","class_code":"L-8","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":"Also at Feltre, Rovigo, Treviso"},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Ingegneria Meccanica","class_code":"L-9","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":"Also at Vicenza"},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Ingegneria Meccatronica","class_code":"L-9","language":["Italian"],"campus_city":"Vicenza","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Ingegneria Aerospaziale","class_code":"L-9","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Ingegneria Chimica e dei Materiali","class_code":"L-9","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Ingegneria dell'Energia","class_code":"L-9","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Ingegneria Gestionale","class_code":"L-9","language":["Italian"],"campus_city":"Vicenza","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Economia","class_code":"L-33","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Economia e Management","class_code":"L-18","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Economia Internazionale","class_code":"L-33","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Statistica per l'Economia e l'Impresa","class_code":"L-41","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Statistica per le Tecnologie e le Scienze","class_code":"L-41","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"ciclo_unico","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Padua","duration_years":5,"ects_total":300,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"ciclo_unico","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Padua","duration_years":6,"ects_total":360,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"ciclo_unico","program_name":"Medicine and Surgery","class_code":"LM-41","language":["English"],"campus_city":"Padua","duration_years":6,"ects_total":360,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"ciclo_unico","program_name":"Odontoiatria e Protesi Dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Padua","duration_years":6,"ects_total":360,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"ciclo_unico","program_name":"Farmacia","class_code":"LM-13","language":["Italian"],"campus_city":"Padua","duration_years":5,"ects_total":300,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"ciclo_unico","program_name":"Chimica e Tecnologia Farmaceutiche","class_code":"LM-13","language":["Italian"],"campus_city":"Padua","duration_years":5,"ects_total":300,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"ciclo_unico","program_name":"Medicina Veterinaria","class_code":"LM-42","language":["Italian"],"campus_city":"Padua","duration_years":5,"ects_total":300,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"ciclo_unico","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Padua","duration_years":5,"ects_total":300,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":"Multiple locations"},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Fisioterapia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Logopedia","class_code":"L/SNT2","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Psicologia","class_code":"L-24","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Scienze Psicologiche Cognitive e Psicobiologiche","class_code":"L-24","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Scienze Psicologiche Sociali e del Lavoro","class_code":"L-24","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Lettere","class_code":"L-10","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Filosofia","class_code":"L-5","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Storia","class_code":"L-42","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Beni Culturali","class_code":"L-1","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Lingue, Letterature e Mediazione Culturale","class_code":"L-11","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Mediazione Linguistica e Culturale","class_code":"L-12","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Scienze Biologiche","class_code":"L-13","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Biotecnologie","class_code":"L-2","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Chimica","class_code":"L-27","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Fisica","class_code":"L-30","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Matematica","class_code":"L-35","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Informatica","class_code":"L-31","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Astronomia","class_code":"L-30","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Scienze Geologiche","class_code":"L-34","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Scienze Naturali","class_code":"L-32","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Scienze e Tecnologie Agrarie","class_code":"L-25","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Scienze e Tecnologie Alimentari","class_code":"L-26","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Scienze e Tecnologie per l'Ambiente","class_code":"L-32","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Scienze Politiche, Relazioni Internazionali, Diritti Umani","class_code":"L-36","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Sociologia","class_code":"L-40","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Servizio Sociale","class_code":"L-39","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Scienze dell'Educazione e della Formazione","class_code":"L-19","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Scienze Motorie","class_code":"L-22","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"Scienze della Comunicazione","class_code":"L-20","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"bachelor","program_name":"DAMS","class_code":"L-3","language":["Italian"],"campus_city":"Padua","duration_years":3,"ects_total":180,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Computer Engineering","class_code":"LM-32","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Data Science","class_code":"LM-91","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Cybersecurity","class_code":"LM-66","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Bioengineering","class_code":"LM-21","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Mechanical Engineering","class_code":"LM-33","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Environmental Engineering","class_code":"LM-35","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Business Administration","class_code":"LM-77","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Economics and Finance","class_code":"LM-56","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Entrepreneurship and Innovation","class_code":"LM-77","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Cognitive Neuroscience and Clinical Neuropsychology","class_code":"LM-51","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Physics","class_code":"LM-17","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Astronomy","class_code":"LM-58","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Mathematics","class_code":"LM-40","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Molecular Biology","class_code":"LM-6","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Biotechnologies","class_code":"LM-8","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"Human Rights and Multi-level Governance","class_code":"LM-52","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"unipd","degree_level":"master","program_name":"European and Global Studies","class_code":"LM-90","language":["English"],"campus_city":"Padua","duration_years":2,"ects_total":120,"source_url":"https://www.unipd.it/offerta-didattica","last_checked":"2026-01-04","confidence":0.9,"notes":""}
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Civile",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Civil Engineering",
+      "program_name_it": "Ingegneria Civile"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria per l'Ambiente e il Territorio",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Environmental and Land Engineering",
+      "program_name_it": "Ingegneria per l'Ambiente e il Territorio"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Biomedica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biomedical Engineering",
+      "program_name_it": "Ingegneria Biomedica"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria dell'Informazione",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria dell'Informazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Elettronica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Electronic Engineering",
+      "program_name_it": "Ingegneria Elettronica"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Informatica",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Also at Feltre, Rovigo, Treviso",
+      "program_name_en": "Computer Engineering",
+      "program_name_it": "Ingegneria Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Meccanica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Also at Vicenza",
+      "program_name_en": "Mechanical Engineering",
+      "program_name_it": "Ingegneria Meccanica"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Meccatronica",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Vicenza",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Engineering Meccatronica",
+      "program_name_it": "Ingegneria Meccatronica"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Aerospaziale",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Aerospace Engineering",
+      "program_name_it": "Ingegneria Aerospaziale"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Chimica e dei Materiali",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Chimica e dei Materiali"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria dell'Energia",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria dell'Energia"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Gestionale",
+      "class_code": "L-9",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Vicenza",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Management Engineering",
+      "program_name_it": "Ingegneria Gestionale"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Economia",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics",
+      "program_name_it": "Economia"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Management",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics and Management",
+      "program_name_it": "Economia e Management"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Economia Internazionale",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Economics International",
+      "program_name_it": "Economia Internazionale"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Statistica per l'Economia e l'Impresa",
+      "class_code": "L-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Statistica per l'Economia e l'Impresa"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Statistica per le Tecnologie e le Scienze",
+      "class_code": "L-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Statistica per le Tecnologie e le Scienze"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "ciclo_unico",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "ciclo_unico",
+      "program_name": "Medicina e Chirurgia",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Medicine and Surgery",
+      "program_name_it": "Medicina e Chirurgia"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "ciclo_unico",
+      "program_name": "Medicine and Surgery",
+      "class_code": "LM-41",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Medicina e Chirurgia",
+      "program_name_en": "Medicine and Surgery"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "ciclo_unico",
+      "program_name": "Odontoiatria e Protesi Dentaria",
+      "class_code": "LM-46",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Dentistry and Dental Prosthetics"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "ciclo_unico",
+      "program_name": "Farmacia",
+      "class_code": "LM-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Pharmacy"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "ciclo_unico",
+      "program_name": "Chimica e Tecnologia Farmaceutiche",
+      "class_code": "LM-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Pharmaceutical Chemistry and Technology"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "ciclo_unico",
+      "program_name": "Medicina Veterinaria",
+      "class_code": "LM-42",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Veterinary Medicine",
+      "program_name_it": "Medicina Veterinaria"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "ciclo_unico",
+      "program_name": "Scienze della Formazione Primaria",
+      "class_code": "LM-85 bis",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Primary Education Sciences",
+      "program_name_it": "Scienze della Formazione Primaria"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Infermieristica",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Multiple locations",
+      "program_name_en": "Nursing"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Fisioterapia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Physiotherapy"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Logopedia",
+      "class_code": "L/SNT2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Speech Therapy"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Psicologia",
+      "class_code": "L-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Psychology",
+      "program_name_it": "Psicologia"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Psicologiche Cognitive e Psicobiologiche",
+      "class_code": "L-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Psicologiche Cognitive e Psicobiologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Psicologiche Sociali e del Lavoro",
+      "class_code": "L-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze Psicologiche Sociali e del Lavoro"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Lettere",
+      "class_code": "L-10",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Humanities",
+      "program_name_it": "Lettere"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Filosofia",
+      "class_code": "L-5",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Philosophy",
+      "program_name_it": "Filosofia"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Storia",
+      "class_code": "L-42",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "History",
+      "program_name_it": "Storia"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Beni Culturali",
+      "class_code": "L-1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Bandni Culturali"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Lingue, Letterature e Mediazione Culturale",
+      "class_code": "L-11",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Mediazione Linguistica e Culturale",
+      "class_code": "L-12",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Linguistic and Cultural Mediation"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Biologiche",
+      "class_code": "L-13",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biological Sciences",
+      "program_name_it": "Scienze Biologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Biotecnologie",
+      "class_code": "L-2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biotechnology"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Chimica",
+      "class_code": "L-27",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Chemistry"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Fisica",
+      "class_code": "L-30",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Matematica",
+      "class_code": "L-35",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Informatica",
+      "class_code": "L-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Computer Science",
+      "program_name_it": "Informatica"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Astronomia",
+      "class_code": "L-30",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Astronomy"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Geologiche",
+      "class_code": "L-34",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Geological Sciences",
+      "program_name_it": "Scienze Geologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Naturali",
+      "class_code": "L-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Natural Sciences",
+      "program_name_it": "Scienze Naturali"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Tecnologie Agrarie",
+      "class_code": "L-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Agricultural Sciences and Technologies",
+      "program_name_it": "Scienze e Tecnologie Agrarie"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Tecnologie Alimentari",
+      "class_code": "L-26",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Food Science and Technology",
+      "program_name_it": "Scienze e Tecnologie Alimentari"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Scienze e Tecnologie per l'Ambiente",
+      "class_code": "L-32",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze e Tecnologie per l'Ambiente"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Politiche, Relazioni Internazionali, Diritti Umani",
+      "class_code": "L-36",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Political Sciandnce, International Relations, Diritti Umani",
+      "program_name_it": "Scienze Politiche, Relazioni Internazionali, Diritti Umani"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Sociologia",
+      "class_code": "L-40",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Sociology"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Servizio Sociale",
+      "class_code": "L-39",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Servizio Sociale"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'Educazione e della Formazione",
+      "class_code": "L-19",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienze dell'Educazione e della Formazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Motorie",
+      "class_code": "L-22",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Sport Sciences",
+      "program_name_it": "Scienze Motorie"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "Scienze della Comunicazione",
+      "class_code": "L-20",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Communication Sciences",
+      "program_name_it": "Scienze della Comunicazione"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "bachelor",
+      "program_name": "DAMS",
+      "class_code": "L-3",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "DAMS - Drama, Art and Music Studies",
+      "program_name_it": "DAMS - Discipline delle Arti, della Musica e dello Spettacolo"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Computer Engineering",
+      "class_code": "LM-32",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Informatica",
+      "program_name_en": "Computer Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Data Science",
+      "class_code": "LM-91",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Scienza dei Dati",
+      "program_name_en": "Data Science"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Cybersecurity",
+      "class_code": "LM-66",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Sicurezza Informatica",
+      "program_name_en": "Cybersecurity"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Bioengineering",
+      "class_code": "LM-21",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Bioengineering",
+      "program_name_it": "Bioingegneria"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Mechanical Engineering",
+      "class_code": "LM-33",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ingegneria Meccanica",
+      "program_name_en": "Mechanical Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Environmental Engineering",
+      "class_code": "LM-35",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Ambientale Ingegneria",
+      "program_name_en": "Environmental Engineering"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Business Administration",
+      "class_code": "LM-77",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Economia Aziendale",
+      "program_name_en": "Business Administration"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Economics and Finance",
+      "class_code": "LM-56",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Economia e Finanza",
+      "program_name_en": "Economics and Finance"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Entrepreneurship and Innovation",
+      "class_code": "LM-77",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Entrepreneurship e Innovation",
+      "program_name_en": "Entrepreneurship and Innovation"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Cognitive Neuroscience and Clinical Neuropsychology",
+      "class_code": "LM-51",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Cognitive Neuroscience e Clinical Neuropsychology",
+      "program_name_en": "Cognitive Neuroscience and Clinical Neuropsychology"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Physics",
+      "class_code": "LM-17",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Fisica",
+      "program_name_en": "Physics"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Astronomy",
+      "class_code": "LM-58",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Astronomy",
+      "program_name_it": "Astronomia"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Mathematics",
+      "class_code": "LM-40",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Matematica",
+      "program_name_en": "Mathematics"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Molecular Biology",
+      "class_code": "LM-6",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Molecular Biologia",
+      "program_name_en": "Molecular Biology"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Biotechnologies",
+      "class_code": "LM-8",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Biotechnologies",
+      "program_name_it": "Biotecnologie"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "Human Rights and Multi-level Governance",
+      "class_code": "LM-52",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Human Rights e Multi-level Governance",
+      "program_name_en": "Human Rights and Multi-level Governance"
+    },
+    {
+      "type": "program",
+      "university_id": "unipd",
+      "degree_level": "master",
+      "program_name": "European and Global Studies",
+      "class_code": "LM-90",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Padua",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.unipd.it/offerta-didattica",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Europee e Global Studies",
+      "program_name_en": "European and Global Studies"
+    }
   ],
-  "admissions": [{"type":"admissions","university_id":"unipd","program_name":"","degree_level_scope":"general","applicant_scope":"all","requirements":{"academic_requirements":"Secondary school diploma","documents_required":[],"tests_required":[],"portfolio_required":false,"interview_required":false},"intakes":[{"intake_name":"fall","application_open_date":"","application_deadline":"2025-11-30","start_date":"","notes":"Fee reduction request deadline: Nov 30, 2025"}],"application_fee":{"amount":null,"currency":"EUR","notes":""},"how_to_apply_url":"https://www.unipd.it/corsi","source_url":"https://www.unipd.it","last_checked":"2026-01-04","confidence":0.9,"notes":"Early selections available for 2026/27 English programs with local entrance exams."}],
-  "tuition": [{"type":"tuition","university_id":"unipd","program_name":"","degree_level_scope":"general","tuition":[{"student_group":"ISEE ≤ 13000","amount_min":205,"amount_max":205,"currency":"EUR","period":"year","notes":"No Tax Area without merit requirements"},{"student_group":"ISEE 13001-30000","amount_min":205,"amount_max":205,"currency":"EUR","period":"year","notes":"No Tax Area with merit requirements"},{"student_group":"ISEE 30001-50000","amount_min":205,"amount_max":null,"currency":"EUR","period":"year","notes":"Partial exemption"},{"student_group":"Disability 66-100% or L.104","amount_min":16,"amount_max":16,"currency":"EUR","period":"year","notes":"Only stamp duty"},{"student_group":"First year 20 CFU by Aug 10","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}],"additional_fees":[{"fee_name":"First year enrollment","amount":205,"currency":"EUR","notes":"EUR 189 regional tax + EUR 16 stamp duty"}],"payment_schedule_notes":"First rate at enrollment. Second rate by Feb 15, 2026. Third rate by May 15, 2026.","source_url":"https://www.unipd.it/contribuzione-studentesca","last_checked":"2026-01-04","confidence":0.95,"notes":"No tax area expanded to EUR 30,000 (from EUR 25,000). ~17,000 students exempt."}],
-  "scholarships": [{"type":"scholarship","university_id":"unipd","scholarship_name":"ESU Padova Regional Scholarship","amount":{"min":2000,"max":6000,"currency":"EUR","period":"year"},"eligibility":{"degree_levels":["bachelor","master","ciclo_unico"],"nationalities":["all"],"merit_based":false,"need_based":true,"other_criteria":"ISEE threshold + merit requirements"},"application_deadline":"","renewable":true,"source_url":"https://www.unipd.it","last_checked":"2026-01-04","confidence":0.9,"notes":"Veneto regional agency. Includes tuition waiver, housing, meals."}],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "unipd",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "2025-11-30",
+          "start_date": "",
+          "notes": "Fee reduction request deadline: Nov 30, 2025"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.unipd.it/corsi",
+      "source_url": "https://www.unipd.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Early selections available for 2026/27 English programs with local entrance exams."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "unipd",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE ≤ 13000",
+          "amount_min": 205,
+          "amount_max": 205,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area without merit requirements"
+        },
+        {
+          "student_group": "ISEE 13001-30000",
+          "amount_min": 205,
+          "amount_max": 205,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area with merit requirements"
+        },
+        {
+          "student_group": "ISEE 30001-50000",
+          "amount_min": 205,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Partial exemption"
+        },
+        {
+          "student_group": "Disability 66-100% or L.104",
+          "amount_min": 16,
+          "amount_max": 16,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Only stamp duty"
+        },
+        {
+          "student_group": "First year 20 CFU by Aug 10",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "First year enrollment",
+          "amount": 205,
+          "currency": "EUR",
+          "notes": "EUR 189 regional tax + EUR 16 stamp duty"
+        }
+      ],
+      "payment_schedule_notes": "First rate at enrollment. Second rate by Feb 15, 2026. Third rate by May 15, 2026.",
+      "source_url": "https://www.unipd.it/contribuzione-studentesca",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "No tax area expanded to EUR 30,000 (from EUR 25,000). ~17,000 students exempt."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarship",
+      "university_id": "unipd",
+      "scholarship_name": "ESU Padova Regional Scholarship",
+      "amount": {
+        "min": 2000,
+        "max": 6000,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "eligibility": {
+        "degree_levels": [
+          "bachelor",
+          "master",
+          "ciclo_unico"
+        ],
+        "nationalities": [
+          "all"
+        ],
+        "merit_based": false,
+        "need_based": true,
+        "other_criteria": "ISEE threshold + merit requirements"
+      },
+      "application_deadline": "",
+      "renewable": true,
+      "source_url": "https://www.unipd.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Veneto regional agency. Includes tuition waiver, housing, meals."
+    }
+  ],
   "opportunities": []
 }

@@ -7,32 +7,293 @@
     "country": "Italy",
     "city": "Naples",
     "campuses": [
-      {"city": "Naples", "address": "Via Generale Parisi, 13 (Campus Pacanowsky)", "notes": "Main campus"},
-      {"city": "Nola", "address": "", "notes": "Secondary campus with Economics, Engineering, Sports, Law programs"},
-      {"city": "Caivano", "address": "", "notes": "Sports Sciences campus"}
+      {
+        "city": "Naples",
+        "address": "Via Generale Parisi, 13 (Campus Pacanowsky)",
+        "notes": "Main campus"
+      },
+      {
+        "city": "Nola",
+        "address": "",
+        "notes": "Secondary campus with Economics, Engineering, Sports, Law programs"
+      },
+      {
+        "city": "Caivano",
+        "address": "",
+        "notes": "Sports Sciences campus"
+      }
     ],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Naples"},
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Naples"
+    },
     "source_url": "https://www.uniparthenope.it",
     "last_checked": "2026-01-04",
     "confidence": 0.8,
     "notes": "Founded 1920 as Istituto Superiore Navale. Specializes in maritime, nautical, economic, engineering studies. SSL cert issue."
   },
   "programs": [
-    {"type":"program","university_id":"uniparthenope","degree_level":"bachelor","program_name":"Economia Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://orienta.uniparthenope.it/laurea-triennale/","last_checked":"2026-01-04","confidence":0.8,"notes":"SIEGI"},
-    {"type":"program","university_id":"uniparthenope","degree_level":"bachelor","program_name":"Economia e Management","class_code":"L-18","language":["Italian"],"campus_city":"Nola","duration_years":3,"ects_total":180,"source_url":"https://orienta.uniparthenope.it/corsi-di-laurea-sede-di-nola/","last_checked":"2026-01-04","confidence":0.8,"notes":"Sede di Nola"},
-    {"type":"program","university_id":"uniparthenope","degree_level":"bachelor","program_name":"Economia e Commercio","class_code":"L-33","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://orienta.uniparthenope.it/laurea-triennale/","last_checked":"2026-01-04","confidence":0.8,"notes":"SIEGI"},
-    {"type":"program","university_id":"uniparthenope","degree_level":"bachelor","program_name":"Management delle Imprese Internazionali","class_code":"L-18","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://orienta.uniparthenope.it/laurea-triennale/","last_checked":"2026-01-04","confidence":0.8,"notes":"SIEGI"},
-    {"type":"program","university_id":"uniparthenope","degree_level":"bachelor","program_name":"Management delle Imprese Turistiche","class_code":"L-18","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://orienta.uniparthenope.it/laurea-triennale/","last_checked":"2026-01-04","confidence":0.8,"notes":"SIEGI"},
-    {"type":"program","university_id":"uniparthenope","degree_level":"bachelor","program_name":"Organizzazione e Gestione delle Risorse Umane","class_code":"L-36","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://orienta.uniparthenope.it/laurea-triennale/","last_checked":"2026-01-04","confidence":0.8,"notes":"SIEGI"},
-    {"type":"program","university_id":"uniparthenope","degree_level":"bachelor","program_name":"Scienze dell'Amministrazione e dell'Organizzazione","class_code":"L-16","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://orienta.uniparthenope.it/laurea-triennale/","last_checked":"2026-01-04","confidence":0.8,"notes":"SIEGI"},
-    {"type":"program","university_id":"uniparthenope","degree_level":"bachelor","program_name":"Conduzione del Mezzo Navale","class_code":"L-28","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://orienta.uniparthenope.it","last_checked":"2026-01-04","confidence":0.8,"notes":"Prova selettiva di accesso"},
-    {"type":"program","university_id":"uniparthenope","degree_level":"bachelor","program_name":"Scienze Motorie","class_code":"L-22","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://orienta.uniparthenope.it","last_checked":"2026-01-04","confidence":0.8,"notes":"720 posti Naples, 180 posti Caivano. Accesso libero programmato"},
-    {"type":"program","university_id":"uniparthenope","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Naples","duration_years":3,"ects_total":180,"source_url":"https://orienta.uniparthenope.it","last_checked":"2026-01-04","confidence":0.8,"notes":"NEW - In collaboration with Univ. Campania Vanvitelli. Focus: maritime and sports nursing"},
-    {"type":"program","university_id":"uniparthenope","degree_level":"bachelor","program_name":"Ingegneria e Scienze Informatiche per la Cybersecurity","class_code":"L-8","language":["Italian"],"campus_city":"Nola","duration_years":3,"ects_total":180,"source_url":"https://orienta.uniparthenope.it/corsi-di-laurea-sede-di-nola/","last_checked":"2026-01-04","confidence":0.8,"notes":"Sede di Nola"},
-    {"type":"program","university_id":"uniparthenope","degree_level":"master","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Nola","duration_years":5,"ects_total":300,"source_url":"https://orienta.uniparthenope.it/corsi-di-laurea-sede-di-nola/","last_checked":"2026-01-04","confidence":0.8,"notes":"Ciclo Unico, Sede di Nola"}
+    {
+      "type": "program",
+      "university_id": "uniparthenope",
+      "degree_level": "bachelor",
+      "program_name": "Economia Aziendale",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://orienta.uniparthenope.it/laurea-triennale/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "SIEGI",
+      "program_name_en": "Business Administration",
+      "program_name_it": "Economia Aziendale"
+    },
+    {
+      "type": "program",
+      "university_id": "uniparthenope",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Management",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Nola",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://orienta.uniparthenope.it/corsi-di-laurea-sede-di-nola/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Sede di Nola",
+      "program_name_en": "Economics and Management",
+      "program_name_it": "Economia e Management"
+    },
+    {
+      "type": "program",
+      "university_id": "uniparthenope",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Commercio",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://orienta.uniparthenope.it/laurea-triennale/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "SIEGI",
+      "program_name_en": "Economics and Commercio",
+      "program_name_it": "Economia e Commercio"
+    },
+    {
+      "type": "program",
+      "university_id": "uniparthenope",
+      "degree_level": "bachelor",
+      "program_name": "Management delle Imprese Internazionali",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://orienta.uniparthenope.it/laurea-triennale/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "SIEGI",
+      "program_name_en": "Management of the Imprese International"
+    },
+    {
+      "type": "program",
+      "university_id": "uniparthenope",
+      "degree_level": "bachelor",
+      "program_name": "Management delle Imprese Turistiche",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://orienta.uniparthenope.it/laurea-triennale/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "SIEGI",
+      "program_name_en": "Management of the Imprese Turistiche"
+    },
+    {
+      "type": "program",
+      "university_id": "uniparthenope",
+      "degree_level": "bachelor",
+      "program_name": "Organizzazione e Gestione delle Risorse Umane",
+      "class_code": "L-36",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://orienta.uniparthenope.it/laurea-triennale/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "SIEGI",
+      "program_name_it": "Organizzazione e Gestione delle Risorse Umane"
+    },
+    {
+      "type": "program",
+      "university_id": "uniparthenope",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'Amministrazione e dell'Organizzazione",
+      "class_code": "L-16",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://orienta.uniparthenope.it/laurea-triennale/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "SIEGI",
+      "program_name_it": "Scienze dell'Amministrazione e dell'Organizzazione"
+    },
+    {
+      "type": "program",
+      "university_id": "uniparthenope",
+      "degree_level": "bachelor",
+      "program_name": "Conduzione del Mezzo Navale",
+      "class_code": "L-28",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://orienta.uniparthenope.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Prova selettiva di accesso",
+      "program_name_en": "Conduzionand of the Mezzo Navale"
+    },
+    {
+      "type": "program",
+      "university_id": "uniparthenope",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Motorie",
+      "class_code": "L-22",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://orienta.uniparthenope.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "720 posti Naples, 180 posti Caivano. Accesso libero programmato",
+      "program_name_en": "Sport Sciences",
+      "program_name_it": "Scienze Motorie"
+    },
+    {
+      "type": "program",
+      "university_id": "uniparthenope",
+      "degree_level": "bachelor",
+      "program_name": "Infermieristica",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://orienta.uniparthenope.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "NEW - In collaboration with Univ. Campania Vanvitelli. Focus: maritime and sports nursing",
+      "program_name_en": "Nursing"
+    },
+    {
+      "type": "program",
+      "university_id": "uniparthenope",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria e Scienze Informatiche per la Cybersecurity",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Nola",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://orienta.uniparthenope.it/corsi-di-laurea-sede-di-nola/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Sede di Nola",
+      "program_name_it": "Ingegneria e Scienze Informatiche per la Cybersecurity"
+    },
+    {
+      "type": "program",
+      "university_id": "uniparthenope",
+      "degree_level": "master",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Nola",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://orienta.uniparthenope.it/corsi-di-laurea-sede-di-nola/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Ciclo Unico, Sede di Nola",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    }
   ],
-  "admissions": [{"type":"admissions","university_id":"uniparthenope","program_name":"","degree_level_scope":"general","applicant_scope":"all","requirements":{"academic_requirements":"Secondary school diploma","documents_required":[],"tests_required":[],"portfolio_required":false,"interview_required":false},"intakes":[{"intake_name":"fall","application_open_date":"","application_deadline":"","start_date":""}],"application_fee":{"amount":null,"currency":"EUR","notes":""},"how_to_apply_url":"https://orienta.uniparthenope.it/modalita-accesso-bandi-selezione/","source_url":"https://orienta.uniparthenope.it","last_checked":"2026-01-04","confidence":0.8,"notes":"SIEGI courses open access. Conduzione Mezzo Navale has selective test. Precorsi in Sept 2025."}],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "uniparthenope",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://orienta.uniparthenope.it/modalita-accesso-bandi-selezione/",
+      "source_url": "https://orienta.uniparthenope.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "SIEGI courses open access. Conduzione Mezzo Navale has selective test. Precorsi in Sept 2025."
+    }
+  ],
   "tuition": [
     {
       "type": "tuition",
@@ -48,16 +309,44 @@
           "notes": "Maximum €2,283. ISEE-based progressive calculation."
         },
         "other_fees": [
-          {"name": "Bollo (stamp duty)", "amount": 16, "currency": "EUR", "frequency": "annual"},
-          {"name": "Tassa Regionale Campania", "amount_min": 125.50, "amount_max": 167.50, "currency": "EUR", "frequency": "annual", "notes": "€125.50 (ISEE <€40K), €146.50 (€40-100K), €167.50 (>€100K or no ISEE)"}
+          {
+            "name": "Bollo (stamp duty)",
+            "amount": 16,
+            "currency": "EUR",
+            "frequency": "annual"
+          },
+          {
+            "name": "Tassa Regionale Campania",
+            "amount_min": 125.5,
+            "amount_max": 167.5,
+            "currency": "EUR",
+            "frequency": "annual",
+            "notes": "€125.50 (ISEE <€40K), €146.50 (€40-100K), €167.50 (>€100K or no ISEE)"
+          }
         ],
         "payment_schedule": "2 installments"
       },
       "exemptions": [
-        {"name": "No Tax Area", "description": "Full tuition exemption for very low ISEE", "eligibility": "ISEE <= €22,000"},
-        {"name": "Partial Exemption", "description": "Reduced fees for mid-range ISEE", "eligibility": "ISEE €22,001-€30,000"},
-        {"name": "Merit reduction", "description": "Additional reductions for high performers", "eligibility": "Based on academic credits and grades"},
-        {"name": "Disability exemption", "description": "Full exemption for disability >= 66%", "eligibility": "Disability certificate >= 66%"}
+        {
+          "name": "No Tax Area",
+          "description": "Full tuition exemption for very low ISEE",
+          "eligibility": "ISEE <= €22,000"
+        },
+        {
+          "name": "Partial Exemption",
+          "description": "Reduced fees for mid-range ISEE",
+          "eligibility": "ISEE €22,001-€30,000"
+        },
+        {
+          "name": "Merit reduction",
+          "description": "Additional reductions for high performers",
+          "eligibility": "Based on academic credits and grades"
+        },
+        {
+          "name": "Disability exemption",
+          "description": "Full exemption for disability >= 66%",
+          "eligibility": "Disability certificate >= 66%"
+        }
       ],
       "source_url": "https://www.uniparthenope.it/ugov/degree/4618",
       "last_checked": "2026-01-10",
@@ -115,7 +404,11 @@
         "nationality_requirements": "All enrolled students",
         "other_requirements": "Specific to each program"
       },
-      "benefits": ["Cash awards", "Fee reductions", "Internship opportunities"],
+      "benefits": [
+        "Cash awards",
+        "Fee reductions",
+        "Internship opportunities"
+      ],
       "application_deadline": "Varies by program",
       "renewable": false,
       "source_url": "https://www.uniparthenope.it",

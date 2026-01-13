@@ -7,88 +7,300 @@
     "country": "Italy",
     "city": "Florence",
     "campuses": [
-      {"city": "Florence", "address": "Via M. Buonarroti, 10", "notes": "Headquarters"},
-      {"city": "Online", "address": "", "notes": "Telematic delivery"}
+      {
+        "city": "Florence",
+        "address": "Via M. Buonarroti, 10",
+        "notes": "Headquarters"
+      },
+      {
+        "city": "Online",
+        "address": "",
+        "notes": "Telematic delivery"
+      }
     ],
-    "languages_offered": ["Italian"],
-    "contacts": {"email": "", "phone": "", "address": "Florence"},
+    "languages_offered": [
+      "Italian"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Florence"
+    },
     "source_url": "https://www.iuline.it",
     "last_checked": "2026-01-04",
     "confidence": 0.9,
     "notes": "No-profit telematic university promoted by public entities. Carta del Docente accepted. Income-based reductions (not ISEE)."
   },
   "programs": [
-    {"type":"program","university_id":"iul","degree_level":"bachelor","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Online","duration_years":5,"ects_total":300,"source_url":"https://www.iuline.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico. Telematic."},
-    {"type":"program","university_id":"iul","degree_level":"bachelor","program_name":"Scienze Motorie, Pratica e Gestione delle Attività Sportive","class_code":"L-22","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.iuline.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Sports sciences."},
-    {"type":"program","university_id":"iul","degree_level":"bachelor","program_name":"Scienze Psicologiche delle Risorse Umane, delle Organizzazioni e delle Imprese","class_code":"L-24","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.iuline.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Organizational psychology focus."},
-    {"type":"program","university_id":"iul","degree_level":"bachelor","program_name":"Scienze dell'Educazione","class_code":"L-19","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.iuline.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"iul","degree_level":"bachelor","program_name":"Innovazione Educativa e Apprendimento Permanente","class_code":"L-19","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.iuline.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Lifelong learning specialization."},
-    {"type":"program","university_id":"iul","degree_level":"bachelor","program_name":"Economia, Management e Mercati Internazionali","class_code":"L-33","language":["Italian"],"campus_city":"Online","duration_years":3,"ects_total":180,"source_url":"https://www.iuline.it","last_checked":"2026-01-10","confidence":0.9,"notes":""},
-    {"type":"program","university_id":"iul","degree_level":"master","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Online","duration_years":5,"ects_total":300,"source_url":"https://www.iuline.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Ciclo Unico. Teaching qualification."},
-    {"type":"program","university_id":"iul","degree_level":"master","program_name":"Scienze Motorie per la Prevenzione e il Benessere","class_code":"LM-67","language":["Italian"],"campus_city":"Online","duration_years":2,"ects_total":120,"source_url":"https://www.iuline.it","last_checked":"2026-01-10","confidence":0.85,"notes":""}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"iul",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "iul",
+      "degree_level": "bachelor",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.iuline.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico. Telematic.",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
     },
-    "intakes":[{
-      "intake_name":"rolling",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":"",
-      "notes":"Year-round enrollment, A.A. 2025-26 open"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.iuline.it",
-    "source_url":"https://www.iuline.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Open enrollment. No-profit public entity university."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"iul",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"Standard courses","amount_min":1800,"amount_max":2500,"currency":"EUR","period":"year","notes":"Varies by program"},
-      {"student_group":"Giurisprudenza","amount_min":2000,"amount_max":2500,"currency":"EUR","period":"year","notes":"Income-based"},
-      {"student_group":"Scienze Motorie","amount_min":2500,"amount_max":2500,"currency":"EUR","period":"year","notes":""},
-      {"student_group":"Other programs","amount_min":1800,"amount_max":2200,"currency":"EUR","period":"year","notes":"Income-based"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":"One-time"},
-      {"fee_name":"Regional tax (Lazio)","amount":140,"currency":"EUR","notes":"Annual"},
-      {"fee_name":"Graduation fee","amount":70,"currency":"EUR","notes":"Pergamena + shipping"}
-    ],
-    "payment_schedule_notes":"Up to 5 bimonthly installments available. PagoPA, PayPal, Carta del Docente accepted.",
-    "source_url":"https://www.iuline.it/studenti/tasse-contributi/",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"€1,800-€2,500/year. Income-based reductions (not ISEE). Convention discounts available."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"iul",
-    "scholarship_name":"Income-based Reductions",
-    "description":"Tuition reductions based on individual income",
-    "eligibility":"Based on individual income declaration (not ISEE)",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.iuline.it",
-    "source_url":"https://www.iuline.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":"Income-based reductions, not ISEE. Various conventions available."
-  }],
+    {
+      "type": "program",
+      "university_id": "iul",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Motorie, Pratica e Gestione delle Attività Sportive",
+      "class_code": "L-22",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.iuline.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Sports sciences.",
+      "program_name_it": "Scienze Motorie, Pratica e Gestione delle Attività Sportive"
+    },
+    {
+      "type": "program",
+      "university_id": "iul",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Psicologiche delle Risorse Umane, delle Organizzazioni e delle Imprese",
+      "class_code": "L-24",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.iuline.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Organizational psychology focus.",
+      "program_name_it": "Scienze Psicologiche delle Risorse Umane, delle Organizzazioni e delle Imprese"
+    },
+    {
+      "type": "program",
+      "university_id": "iul",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dell'Educazione",
+      "class_code": "L-19",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.iuline.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_en": "Educational Sciences",
+      "program_name_it": "Scienze dell'Educazione"
+    },
+    {
+      "type": "program",
+      "university_id": "iul",
+      "degree_level": "bachelor",
+      "program_name": "Innovazione Educativa e Apprendimento Permanente",
+      "class_code": "L-19",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.iuline.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Lifelong learning specialization."
+    },
+    {
+      "type": "program",
+      "university_id": "iul",
+      "degree_level": "bachelor",
+      "program_name": "Economia, Management e Mercati Internazionali",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.iuline.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "",
+      "program_name_it": "Economia, Management e Mercati Internazionali"
+    },
+    {
+      "type": "program",
+      "university_id": "iul",
+      "degree_level": "master",
+      "program_name": "Scienze della Formazione Primaria",
+      "class_code": "LM-85 bis",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.iuline.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Ciclo Unico. Teaching qualification.",
+      "program_name_en": "Primary Education Sciences",
+      "program_name_it": "Scienze della Formazione Primaria"
+    },
+    {
+      "type": "program",
+      "university_id": "iul",
+      "degree_level": "master",
+      "program_name": "Scienze Motorie per la Prevenzione e il Benessere",
+      "class_code": "LM-67",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Online",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.iuline.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_it": "Scienze Motorie per la Prevenzione e il Benessere"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "iul",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "rolling",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": "",
+          "notes": "Year-round enrollment, A.A. 2025-26 open"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.iuline.it",
+      "source_url": "https://www.iuline.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Open enrollment. No-profit public entity university."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "iul",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "Standard courses",
+          "amount_min": 1800,
+          "amount_max": 2500,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Varies by program"
+        },
+        {
+          "student_group": "Giurisprudenza",
+          "amount_min": 2000,
+          "amount_max": 2500,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Income-based"
+        },
+        {
+          "student_group": "Scienze Motorie",
+          "amount_min": 2500,
+          "amount_max": 2500,
+          "currency": "EUR",
+          "period": "year",
+          "notes": ""
+        },
+        {
+          "student_group": "Other programs",
+          "amount_min": 1800,
+          "amount_max": 2200,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Income-based"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Stamp duty",
+          "amount": 16,
+          "currency": "EUR",
+          "notes": "One-time"
+        },
+        {
+          "fee_name": "Regional tax (Lazio)",
+          "amount": 140,
+          "currency": "EUR",
+          "notes": "Annual"
+        },
+        {
+          "fee_name": "Graduation fee",
+          "amount": 70,
+          "currency": "EUR",
+          "notes": "Pergamena + shipping"
+        }
+      ],
+      "payment_schedule_notes": "Up to 5 bimonthly installments available. PagoPA, PayPal, Carta del Docente accepted.",
+      "source_url": "https://www.iuline.it/studenti/tasse-contributi/",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "€1,800-€2,500/year. Income-based reductions (not ISEE). Convention discounts available."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "iul",
+      "scholarship_name": "Income-based Reductions",
+      "description": "Tuition reductions based on individual income",
+      "eligibility": "Based on individual income declaration (not ISEE)",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.iuline.it",
+      "source_url": "https://www.iuline.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": "Income-based reductions, not ISEE. Various conventions available."
+    }
+  ],
   "opportunities": []
 }

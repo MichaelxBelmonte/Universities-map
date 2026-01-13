@@ -6,99 +6,579 @@
     "official_url": "https://www.uniba.it",
     "country": "Italy",
     "city": "Bari",
-    "campuses": [{"city": "Bari", "address": "", "notes": "Main campus in Puglia"}],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Bari"},
+    "campuses": [
+      {
+        "city": "Bari",
+        "address": "",
+        "notes": "Main campus in Puglia"
+      }
+    ],
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Bari"
+    },
     "source_url": "https://www.uniba.it",
     "last_checked": "2026-01-04",
     "confidence": 0.95,
     "notes": "Major Puglia university. No tax area €26,000. Extended to 2nd year fuori corso. Special provisions for workers and DSA students."
   },
   "programs": [
-    {"type":"program","university_id":"uniba","degree_level":"bachelor","program_name":"Economia Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Also available at Brindisi"},
-    {"type":"program","university_id":"uniba","degree_level":"bachelor","program_name":"Marketing e Comunicazione d'Azienda","class_code":"L-18","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniba","degree_level":"bachelor","program_name":"Economia e Amministrazione delle Aziende","class_code":"L-18","language":["Italian"],"campus_city":"Taranto","duration_years":3,"ects_total":180,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Sede Jonico"},
-    {"type":"program","university_id":"uniba","degree_level":"bachelor","program_name":"Economia e Commercio","class_code":"L-33","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniba","degree_level":"bachelor","program_name":"Scienze dei Servizi Giuridici","class_code":"L-14","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniba","degree_level":"bachelor","program_name":"Scienze dei Servizi Giuridici d'Impresa","class_code":"L-14","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniba","degree_level":"bachelor","program_name":"Viticoltura ed Enologia","class_code":"L-25","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniba","degree_level":"bachelor","program_name":"Informatica e Tecnologie dell'Informazione","class_code":"L-31","language":["Italian"],"campus_city":"Taranto","duration_years":3,"ects_total":180,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":"NEW 2025/26 - Sede Taranto"},
-    {"type":"program","university_id":"uniba","degree_level":"bachelor","program_name":"Infermieristica","class_code":"L/SNT1","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":"Poli: Bari Policlinico, Bari Di Venere, ASL Taranto"},
-    {"type":"program","university_id":"uniba","degree_level":"bachelor","program_name":"Ingegneria dei Sistemi Medicali","class_code":"L-8","language":["Italian"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniba","degree_level":"bachelor","program_name":"Sciences of Cultural Heritage for Tourism","class_code":"L-1","language":["English"],"campus_city":"Bari","duration_years":3,"ects_total":180,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":"English-taught"},
-    {"type":"program","university_id":"uniba","degree_level":"master","program_name":"Giurisprudenza","class_code":"LMG/01","language":["Italian"],"campus_city":"Bari","duration_years":5,"ects_total":300,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
-    {"type":"program","university_id":"uniba","degree_level":"master","program_name":"Medicina e Chirurgia","class_code":"LM-41","language":["Italian"],"campus_city":"Bari","duration_years":6,"ects_total":360,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"2025/26: accesso libero primo semestre (DL 71/2025)"},
-    {"type":"program","university_id":"uniba","degree_level":"master","program_name":"Medicine and Surgery","class_code":"LM-41","language":["English"],"campus_city":"Bari","duration_years":6,"ects_total":360,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"English-taught"},
-    {"type":"program","university_id":"uniba","degree_level":"master","program_name":"Odontoiatria e Protesi Dentaria","class_code":"LM-46","language":["Italian"],"campus_city":"Bari","duration_years":6,"ects_total":360,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Ciclo Unico"},
-    {"type":"program","university_id":"uniba","degree_level":"master","program_name":"Ingegneria dei Sistemi Medicali","class_code":"LM-21","language":["Italian"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniba","degree_level":"master","program_name":"Economia degli Intermediari e dei Mercati Finanziari","class_code":"LM-56","language":["Italian"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniba","degree_level":"master","program_name":"Economia e Gestione delle Aziende e dei Sistemi Turistici","class_code":"LM-77","language":["Italian"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniba","degree_level":"master","program_name":"Consulenza Professionale per le Aziende","class_code":"LM-77","language":["Italian"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniba","degree_level":"master","program_name":"Economia e Management","class_code":"LM-77","language":["Italian"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniba","degree_level":"master","program_name":"Marketing","class_code":"LM-77","language":["Italian"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniba","degree_level":"master","program_name":"Strategie d'Impresa e Management","class_code":"LM-77","language":["Italian"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":""},
-    {"type":"program","university_id":"uniba","degree_level":"master","program_name":"Chimica Industriale","class_code":"LM-71","language":["Italian"],"campus_city":"Bari","duration_years":2,"ects_total":120,"source_url":"https://www.uniba.it","last_checked":"2026-01-10","confidence":0.85,"notes":""}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"uniba",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Secondary school diploma",
-      "documents_required":[],
-      "tests_required":[],
-      "portfolio_required":false,
-      "interview_required":false
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "bachelor",
+      "program_name": "Economia Aziendale",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Also available at Brindisi",
+      "program_name_en": "Business Administration",
+      "program_name_it": "Economia Aziendale"
     },
-    "intakes":[{
-      "intake_name":"fall",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":""
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.uniba.it",
-    "source_url":"https://www.uniba.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.9,
-    "notes":""
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"uniba",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"ISEE ≤ 26000","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"No Tax Area - extended to 2nd year fuori corso"},
-      {"student_group":"Working students (all ISEE ≤ 26000)","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Extended no tax area for workers"},
-      {"student_group":"ISEE 26001-28000","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"35% reduction"},
-      {"student_group":"ISEE 28001-30000","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"15% reduction"},
-      {"student_group":"DSA students","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"€75 reduction"},
-      {"student_group":"Graduates 1st year fuori corso","amount_min":null,"amount_max":null,"currency":"EUR","period":"year","notes":"Bonus laureati extended"},
-      {"student_group":"Disability ≥66% or L.104","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"Full exemption"}
-    ],
-    "additional_fees":[],
-    "payment_schedule_notes":"",
-    "source_url":"https://www.uniba.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.95,
-    "notes":"No tax area €26,000 extended to 2nd year fuori corso. 35% reduction ISEE 26-28K, 15% reduction 28-30K. DSA reduction €75. Bonus laureati for 1st year fuori corso graduates."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"uniba",
-    "scholarship_name":"ADISU Puglia Regional Scholarship",
-    "description":"Regional scholarship for students with low ISEE",
-    "eligibility":"ISEE threshold + merit requirements",
-    "amount":{"min":null,"max":null,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"",
-    "source_url":"https://www.uniba.it",
-    "last_checked":"2026-01-04",
-    "confidence":0.8,
-    "notes":""
-  }],
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "bachelor",
+      "program_name": "Marketing e Comunicazione d'Azienda",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_it": "Marketing e Comunicazione d'Azienda"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Amministrazione delle Aziende",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Taranto",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Sede Jonico",
+      "program_name_en": "Economics and Amministrazione of the Aziende",
+      "program_name_it": "Economia e Amministrazione delle Aziende"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "bachelor",
+      "program_name": "Economia e Commercio",
+      "class_code": "L-33",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Economics and Commercio",
+      "program_name_it": "Economia e Commercio"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dei Servizi Giuridici",
+      "class_code": "L-14",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Legal Services Sciences",
+      "program_name_it": "Scienze dei Servizi Giuridici"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "bachelor",
+      "program_name": "Scienze dei Servizi Giuridici d'Impresa",
+      "class_code": "L-14",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Landgal Services Sciences d'Impresa",
+      "program_name_it": "Scienze dei Servizi Giuridici d'Impresa"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "bachelor",
+      "program_name": "Viticoltura ed Enologia",
+      "class_code": "L-25",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Viticoltura ed Enologia"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "bachelor",
+      "program_name": "Informatica e Tecnologie dell'Informazione",
+      "class_code": "L-31",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Taranto",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "NEW 2025/26 - Sede Taranto",
+      "program_name_it": "Informatica e Tecnologie dell'Informazione"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "bachelor",
+      "program_name": "Infermieristica",
+      "class_code": "L/SNT1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "Poli: Bari Policlinico, Bari Di Venere, ASL Taranto",
+      "program_name_en": "Nursing"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria dei Sistemi Medicali",
+      "class_code": "L-8",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Engineering of the Sistemi Medicali",
+      "program_name_it": "Ingegneria dei Sistemi Medicali"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "bachelor",
+      "program_name": "Sciences of Cultural Heritage for Tourism",
+      "class_code": "L-1",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "English-taught",
+      "program_name_it": "Scienze of Beni Culturali per Turismo",
+      "program_name_en": "Sciences of Cultural Heritage for Tourism"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "master",
+      "program_name": "Giurisprudenza",
+      "class_code": "LMG/01",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico",
+      "program_name_en": "Law",
+      "program_name_it": "Giurisprudenza"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "master",
+      "program_name": "Medicina e Chirurgia",
+      "class_code": "LM-41",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "2025/26: accesso libero primo semestre (DL 71/2025)",
+      "program_name_en": "Medicine and Surgery",
+      "program_name_it": "Medicina e Chirurgia"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "master",
+      "program_name": "Medicine and Surgery",
+      "class_code": "LM-41",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "English-taught",
+      "program_name_it": "Medicina e Chirurgia",
+      "program_name_en": "Medicine and Surgery"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "master",
+      "program_name": "Odontoiatria e Protesi Dentaria",
+      "class_code": "LM-46",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 6,
+      "ects_total": 360,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Ciclo Unico",
+      "program_name_en": "Dentistry and Dental Prosthetics"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "master",
+      "program_name": "Ingegneria dei Sistemi Medicali",
+      "class_code": "LM-21",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Engineering of the Sistemi Medicali",
+      "program_name_it": "Ingegneria dei Sistemi Medicali"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "master",
+      "program_name": "Economia degli Intermediari e dei Mercati Finanziari",
+      "class_code": "LM-56",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_it": "Economia degli Intermediari e dei Mercati Finanziari"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "master",
+      "program_name": "Economia e Gestione delle Aziende e dei Sistemi Turistici",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_it": "Economia e Gestione delle Aziende e dei Sistemi Turistici"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "master",
+      "program_name": "Consulenza Professionale per le Aziende",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "master",
+      "program_name": "Economia e Management",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Economics and Management",
+      "program_name_it": "Economia e Management"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "master",
+      "program_name": "Marketing",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Marketing"
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "master",
+      "program_name": "Strategie d'Impresa e Management",
+      "class_code": "LM-77",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": ""
+    },
+    {
+      "type": "program",
+      "university_id": "uniba",
+      "degree_level": "master",
+      "program_name": "Chimica Industriale",
+      "class_code": "LM-71",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Bari",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.85,
+      "notes": "",
+      "program_name_en": "Industrial Chemistry"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "uniba",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Secondary school diploma",
+        "documents_required": [],
+        "tests_required": [],
+        "portfolio_required": false,
+        "interview_required": false
+      },
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.uniba.it",
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.9,
+      "notes": ""
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "uniba",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "ISEE ≤ 26000",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "No Tax Area - extended to 2nd year fuori corso"
+        },
+        {
+          "student_group": "Working students (all ISEE ≤ 26000)",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Extended no tax area for workers"
+        },
+        {
+          "student_group": "ISEE 26001-28000",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "35% reduction"
+        },
+        {
+          "student_group": "ISEE 28001-30000",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "15% reduction"
+        },
+        {
+          "student_group": "DSA students",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "€75 reduction"
+        },
+        {
+          "student_group": "Graduates 1st year fuori corso",
+          "amount_min": null,
+          "amount_max": null,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Bonus laureati extended"
+        },
+        {
+          "student_group": "Disability ≥66% or L.104",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "Full exemption"
+        }
+      ],
+      "additional_fees": [],
+      "payment_schedule_notes": "",
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.95,
+      "notes": "No tax area €26,000 extended to 2nd year fuori corso. 35% reduction ISEE 26-28K, 15% reduction 28-30K. DSA reduction €75. Bonus laureati for 1st year fuori corso graduates."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "uniba",
+      "scholarship_name": "ADISU Puglia Regional Scholarship",
+      "description": "Regional scholarship for students with low ISEE",
+      "eligibility": "ISEE threshold + merit requirements",
+      "amount": {
+        "min": null,
+        "max": null,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "",
+      "source_url": "https://www.uniba.it",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": ""
+    }
+  ],
   "opportunities": []
 }

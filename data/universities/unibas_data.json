@@ -7,29 +7,254 @@
     "country": "Italy",
     "city": "Potenza",
     "campuses": [
-      {"city": "Potenza", "address": "", "notes": "Main campus"},
-      {"city": "Matera", "address": "", "notes": "Second campus"}
+      {
+        "city": "Potenza",
+        "address": "",
+        "notes": "Main campus"
+      },
+      {
+        "city": "Matera",
+        "address": "",
+        "notes": "Second campus"
+      }
     ],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "", "phone": "", "address": "Potenza"},
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "",
+      "phone": "",
+      "address": "Potenza"
+    },
     "source_url": "https://portale.unibas.it",
     "last_checked": "2026-01-04",
     "confidence": 0.8,
     "notes": "36 degree programs: 16 triennale, 16 magistrale, 4 ciclo unico. 5 PhD programs. SSL cert issue on direct fetch."
   },
   "programs": [
-    {"type":"program","university_id":"unibas","degree_level":"bachelor","program_name":"Biotecnologie","class_code":"L-2","language":["Italian"],"campus_city":"Potenza","duration_years":3,"ects_total":180,"source_url":"https://portale.unibas.it/site/home/didattica/articolo12955.html","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unibas","degree_level":"bachelor","program_name":"Chimica","class_code":"L-27","language":["Italian"],"campus_city":"Potenza","duration_years":3,"ects_total":180,"source_url":"https://portale.unibas.it/site/home/didattica/articolo12955.html","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unibas","degree_level":"bachelor","program_name":"Scienze Geologiche","class_code":"L-34","language":["Italian"],"campus_city":"Potenza","duration_years":3,"ects_total":180,"source_url":"https://portale.unibas.it/site/home/didattica/articolo12955.html","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unibas","degree_level":"bachelor","program_name":"Economia Aziendale","class_code":"L-18","language":["Italian"],"campus_city":"Potenza","duration_years":3,"ects_total":180,"source_url":"https://portale.unibas.it/site/home/didattica/articolo12955.html","last_checked":"2026-01-04","confidence":0.8,"notes":"Accesso programmato, 230 posti"},
-    {"type":"program","university_id":"unibas","degree_level":"bachelor","program_name":"Ingegneria Civile e Ambientale","class_code":"L-7","language":["Italian"],"campus_city":"Potenza","duration_years":3,"ects_total":180,"source_url":"https://portale.unibas.it/site/home/didattica/articolo12955.html","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unibas","degree_level":"bachelor","program_name":"Operatore dei Beni Culturali","class_code":"L-1","language":["Italian"],"campus_city":"Matera","duration_years":3,"ects_total":180,"source_url":"https://portale.unibas.it/site/home/didattica/articolo3155.html","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unibas","degree_level":"bachelor","program_name":"Paesaggio, Ambiente e Verde Urbano","class_code":"L-21","language":["Italian"],"campus_city":"Matera","duration_years":3,"ects_total":180,"source_url":"https://portale.unibas.it/site/home/didattica/articolo3155.html","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unibas","degree_level":"master","program_name":"Economia delle Risorse Naturali e Culturali / Natural and Cultural Resources Economics","class_code":"LM-56","language":["Italian","English"],"campus_city":"Potenza","duration_years":2,"ects_total":120,"source_url":"https://portale.unibas.it/site/home/didattica/articolo12955.html","last_checked":"2026-01-04","confidence":0.8,"notes":"International program"},
-    {"type":"program","university_id":"unibas","degree_level":"master","program_name":"Geoscienze e Georisorse / Geosciences and Georesources","class_code":"LM-74","language":["Italian","English"],"campus_city":"Potenza","duration_years":2,"ects_total":120,"source_url":"https://portale.unibas.it/site/home/didattica/articolo12955.html","last_checked":"2026-01-04","confidence":0.8,"notes":"International program"},
-    {"type":"program","university_id":"unibas","degree_level":"master","program_name":"Gestione Sostenibile della Qualità Alimentare / Sustainable Management of Food Quality","class_code":"LM-70","language":["Italian","English"],"campus_city":"Potenza","duration_years":2,"ects_total":120,"source_url":"https://portale.unibas.it/site/home/didattica/articolo12955.html","last_checked":"2026-01-04","confidence":0.8,"notes":"International program"},
-    {"type":"program","university_id":"unibas","degree_level":"master","program_name":"Scienze del Turismo e dei Patrimoni Culturali","class_code":"LM-49","language":["Italian"],"campus_city":"Matera","duration_years":2,"ects_total":120,"source_url":"https://portale.unibas.it/site/home/didattica/articolo3155.html","last_checked":"2026-01-04","confidence":0.8,"notes":""},
-    {"type":"program","university_id":"unibas","degree_level":"master","program_name":"Scienze della Formazione Primaria","class_code":"LM-85 bis","language":["Italian"],"campus_city":"Potenza","duration_years":5,"ects_total":300,"source_url":"https://portale.unibas.it/site/home/studenti/articolo8212.html","last_checked":"2026-01-04","confidence":0.8,"notes":"Ciclo unico, accesso programmato nazionale"}
+    {
+      "type": "program",
+      "university_id": "unibas",
+      "degree_level": "bachelor",
+      "program_name": "Biotecnologie",
+      "class_code": "L-2",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Potenza",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://portale.unibas.it/site/home/didattica/articolo12955.html",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Biotechnology"
+    },
+    {
+      "type": "program",
+      "university_id": "unibas",
+      "degree_level": "bachelor",
+      "program_name": "Chimica",
+      "class_code": "L-27",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Potenza",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://portale.unibas.it/site/home/didattica/articolo12955.html",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Chemistry"
+    },
+    {
+      "type": "program",
+      "university_id": "unibas",
+      "degree_level": "bachelor",
+      "program_name": "Scienze Geologiche",
+      "class_code": "L-34",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Potenza",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://portale.unibas.it/site/home/didattica/articolo12955.html",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Geological Sciences",
+      "program_name_it": "Scienze Geologiche"
+    },
+    {
+      "type": "program",
+      "university_id": "unibas",
+      "degree_level": "bachelor",
+      "program_name": "Economia Aziendale",
+      "class_code": "L-18",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Potenza",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://portale.unibas.it/site/home/didattica/articolo12955.html",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Accesso programmato, 230 posti",
+      "program_name_en": "Business Administration",
+      "program_name_it": "Economia Aziendale"
+    },
+    {
+      "type": "program",
+      "university_id": "unibas",
+      "degree_level": "bachelor",
+      "program_name": "Ingegneria Civile e Ambientale",
+      "class_code": "L-7",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Potenza",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://portale.unibas.it/site/home/didattica/articolo12955.html",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Civil and Environmental Engineering",
+      "program_name_it": "Ingegneria Civile e Ambientale"
+    },
+    {
+      "type": "program",
+      "university_id": "unibas",
+      "degree_level": "bachelor",
+      "program_name": "Operatore dei Beni Culturali",
+      "class_code": "L-1",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Matera",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://portale.unibas.it/site/home/didattica/articolo3155.html",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_en": "Oforatorand of the Beni Culturali"
+    },
+    {
+      "type": "program",
+      "university_id": "unibas",
+      "degree_level": "bachelor",
+      "program_name": "Paesaggio, Ambiente e Verde Urbano",
+      "class_code": "L-21",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Matera",
+      "duration_years": 3,
+      "ects_total": 180,
+      "source_url": "https://portale.unibas.it/site/home/didattica/articolo3155.html",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_it": "Paesaggio, Ambiente e Verde Urbano"
+    },
+    {
+      "type": "program",
+      "university_id": "unibas",
+      "degree_level": "master",
+      "program_name": "Economia delle Risorse Naturali e Culturali / Natural and Cultural Resources Economics",
+      "class_code": "LM-56",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Potenza",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://portale.unibas.it/site/home/didattica/articolo12955.html",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "International program",
+      "program_name_it": "Economia delle Risorse Naturali e Culturali / Natural and Cultural Resources Economics"
+    },
+    {
+      "type": "program",
+      "university_id": "unibas",
+      "degree_level": "master",
+      "program_name": "Geoscienze e Georisorse / Geosciences and Georesources",
+      "class_code": "LM-74",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Potenza",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://portale.unibas.it/site/home/didattica/articolo12955.html",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "International program"
+    },
+    {
+      "type": "program",
+      "university_id": "unibas",
+      "degree_level": "master",
+      "program_name": "Gestione Sostenibile della Qualità Alimentare / Sustainable Management of Food Quality",
+      "class_code": "LM-70",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Potenza",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://portale.unibas.it/site/home/didattica/articolo12955.html",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "International program",
+      "program_name_it": "Gestione Sostenibile della Qualità Alimentare / Sustainable Management of Food Quality"
+    },
+    {
+      "type": "program",
+      "university_id": "unibas",
+      "degree_level": "master",
+      "program_name": "Scienze del Turismo e dei Patrimoni Culturali",
+      "class_code": "LM-49",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Matera",
+      "duration_years": 2,
+      "ects_total": 120,
+      "source_url": "https://portale.unibas.it/site/home/didattica/articolo3155.html",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "",
+      "program_name_it": "Scienze del Turismo e dei Patrimoni Culturali"
+    },
+    {
+      "type": "program",
+      "university_id": "unibas",
+      "degree_level": "master",
+      "program_name": "Scienze della Formazione Primaria",
+      "class_code": "LM-85 bis",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Potenza",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://portale.unibas.it/site/home/studenti/articolo8212.html",
+      "last_checked": "2026-01-04",
+      "confidence": 0.8,
+      "notes": "Ciclo unico, accesso programmato nazionale",
+      "program_name_en": "Primary Education Sciences",
+      "program_name_it": "Scienze della Formazione Primaria"
+    }
   ],
   "admissions": [
     {
@@ -45,8 +270,19 @@
         "portfolio_required": false,
         "interview_required": false
       },
-      "intakes": [{"intake_name": "fall", "application_open_date": "", "application_deadline": "", "start_date": ""}],
-      "application_fee": {"amount": null, "currency": "EUR", "notes": ""},
+      "intakes": [
+        {
+          "intake_name": "fall",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": ""
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
       "how_to_apply_url": "https://portale.unibas.it/site/home/studenti/",
       "source_url": "https://portale.unibas.it",
       "last_checked": "2026-01-04",
@@ -69,16 +305,44 @@
           "notes": "ISEE-based progressive rates. Minimum is registration fee only."
         },
         "other_fees": [
-          {"name": "Bollo (stamp duty)", "amount": 16, "currency": "EUR", "frequency": "annual"},
-          {"name": "Tassa Regionale Basilicata", "amount_min": 120, "amount_max": 160, "currency": "EUR", "frequency": "annual", "notes": "Based on ISEE brackets"}
+          {
+            "name": "Bollo (stamp duty)",
+            "amount": 16,
+            "currency": "EUR",
+            "frequency": "annual"
+          },
+          {
+            "name": "Tassa Regionale Basilicata",
+            "amount_min": 120,
+            "amount_max": 160,
+            "currency": "EUR",
+            "frequency": "annual",
+            "notes": "Based on ISEE brackets"
+          }
         ],
         "payment_schedule": "2 installments"
       },
       "exemptions": [
-        {"name": "No Tax Area", "description": "Full tuition exemption for ISEE up to €22,000", "eligibility": "ISEE <= €22,000"},
-        {"name": "Partial Exemption", "description": "Reduced fees for ISEE €22,001-€30,000", "eligibility": "ISEE €22,001-€30,000"},
-        {"name": "Merit-based reduction", "description": "Reductions available for students with high academic performance", "eligibility": "Based on CFU acquired and GPA"},
-        {"name": "Disability exemption", "description": "Full exemption for students with disability >= 66%", "eligibility": "Disability certificate >= 66%"}
+        {
+          "name": "No Tax Area",
+          "description": "Full tuition exemption for ISEE up to €22,000",
+          "eligibility": "ISEE <= €22,000"
+        },
+        {
+          "name": "Partial Exemption",
+          "description": "Reduced fees for ISEE €22,001-€30,000",
+          "eligibility": "ISEE €22,001-€30,000"
+        },
+        {
+          "name": "Merit-based reduction",
+          "description": "Reductions available for students with high academic performance",
+          "eligibility": "Based on CFU acquired and GPA"
+        },
+        {
+          "name": "Disability exemption",
+          "description": "Full exemption for students with disability >= 66%",
+          "eligibility": "Disability certificate >= 66%"
+        }
       ],
       "source_url": "https://portale.unibas.it/site/home/studenti/tasse-e-contributi.html",
       "last_checked": "2026-01-10",

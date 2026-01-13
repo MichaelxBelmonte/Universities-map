@@ -7,83 +7,258 @@
     "country": "Italy",
     "city": "Naples",
     "campuses": [
-      {"city": "Naples", "address": "", "notes": "Main campus with residences"},
-      {"city": "Naples (Federico II)", "address": "", "notes": "Classes at Università Federico II"}
+      {
+        "city": "Naples",
+        "address": "",
+        "notes": "Main campus with residences"
+      },
+      {
+        "city": "Naples (Federico II)",
+        "address": "",
+        "notes": "Classes at Università Federico II"
+      }
     ],
-    "languages_offered": ["Italian", "English"],
-    "contacts": {"email": "ssm@ssmeridionale.it", "phone": "", "address": "Naples"},
+    "languages_offered": [
+      "Italian",
+      "English"
+    ],
+    "contacts": {
+      "email": "ssm@ssmeridionale.it",
+      "phone": "",
+      "address": "Naples"
+    },
     "source_url": "https://www.ssmeridionale.it",
     "last_checked": "2026-01-05",
     "confidence": 0.95,
     "notes": "Elite Scuola Superiore (like SNS, Sant'Anna). 100% FREE tuition + €1,500/year stipend + FREE room and board. Highly selective (40-50 places/year, maturità ≥85/100 required). Students study at Federico II + SSM courses in parallel."
   },
   "programs": [
-    {"type":"program","university_id":"ssm","degree_level":"bachelor","program_name":"Corso Ordinario - Area Umanistico-Giuridica","class_code":"","language":["Italian"],"campus_city":"Naples","duration_years":5,"ects_total":300,"source_url":"https://www.ssmeridionale.it","last_checked":"2026-01-10","confidence":0.95,"notes":"Students study at Federico II + SSM parallel courses. 100% FREE + €1,500 stipend + room & board."},
-    {"type":"program","university_id":"ssm","degree_level":"bachelor","program_name":"Corso Ordinario - Area Scientifico-Tecnologica","class_code":"","language":["Italian"],"campus_city":"Naples","duration_years":5,"ects_total":300,"source_url":"https://www.ssmeridionale.it","last_checked":"2026-01-10","confidence":0.95,"notes":"Elite program. Must maintain 27/30 average with no grades below 24."},
-    {"type":"program","university_id":"ssm","degree_level":"phd","program_name":"PhD in Archeologia e Culture del Mediterraneo Antico","class_code":"","language":["Italian","English"],"campus_city":"Naples","duration_years":4,"ects_total":0,"source_url":"https://www.ssmeridionale.it","last_checked":"2026-01-10","confidence":0.9,"notes":"With Federico II. 10% research budget. Full funding."},
-    {"type":"program","university_id":"ssm","degree_level":"phd","program_name":"PhD in Ricerca Storica, Conservazione","class_code":"","language":["Italian","English"],"campus_city":"Naples","duration_years":4,"ects_total":0,"source_url":"https://www.ssmeridionale.it","last_checked":"2026-01-10","confidence":0.9,"notes":"With Scuola Normale Superiore. Full funding."},
-    {"type":"program","university_id":"ssm","degree_level":"phd","program_name":"PhD in Testi, Tradizioni e Culture del Libro (TTCL)","class_code":"","language":["Italian","English"],"campus_city":"Naples","duration_years":4,"ects_total":0,"source_url":"https://www.ssmeridionale.it","last_checked":"2026-01-10","confidence":0.9,"notes":"With Scuola Normale Superiore. Full funding."},
-    {"type":"program","university_id":"ssm","degree_level":"phd","program_name":"PhD in Studi Italiani e Romanzi","class_code":"","language":["Italian","English"],"campus_city":"Naples","duration_years":4,"ects_total":0,"source_url":"https://www.ssmeridionale.it","last_checked":"2026-01-10","confidence":0.9,"notes":"Full funding."},
-    {"type":"program","university_id":"ssm","degree_level":"phd","program_name":"PhD in Global History and Governance","class_code":"","language":["English"],"campus_city":"Naples","duration_years":4,"ects_total":0,"source_url":"https://www.ssmeridionale.it","last_checked":"2026-01-10","confidence":0.9,"notes":"English-taught. Full funding."}
-  ],
-  "admissions": [{
-    "type":"admissions",
-    "university_id":"ssm",
-    "program_name":"Corso Ordinario",
-    "degree_level_scope":"bachelor_master",
-    "applicant_scope":"all",
-    "requirements":{
-      "academic_requirements":"Maturità ≥85/100",
-      "documents_required":["Diploma with score ≥85/100"],
-      "tests_required":["SSM competitive admission exam"],
-      "portfolio_required":false,
-      "interview_required":true
+    {
+      "type": "program",
+      "university_id": "ssm",
+      "degree_level": "bachelor",
+      "program_name": "Corso Ordinario - Area Umanistico-Giuridica",
+      "class_code": "",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.ssmeridionale.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.95,
+      "notes": "Students study at Federico II + SSM parallel courses. 100% FREE + €1,500 stipend + room & board.",
+      "program_name_en": "Corso Ordinario - Aranda Umanistico-Giuridica"
     },
-    "intakes":[{
-      "intake_name":"A.A. 2025/2026",
-      "application_open_date":"",
-      "application_deadline":"",
-      "start_date":"",
-      "notes":"40-50 places available per year"
-    }],
-    "application_fee":{"amount":null,"currency":"EUR","notes":""},
-    "how_to_apply_url":"https://www.ssmeridionale.it/admission-ordinary-course/",
-    "source_url":"https://www.ssmeridionale.it",
-    "last_checked":"2026-01-05",
-    "confidence":0.95,
-    "notes":"Highly selective: requires maturità ≥85/100, competitive exam, interview. Must maintain 27/30 average with no grades below 24."
-  }],
-  "tuition": [{
-    "type":"tuition",
-    "university_id":"ssm",
-    "program_name":"",
-    "degree_level_scope":"general",
-    "tuition":[
-      {"student_group":"All admitted students","amount_min":0,"amount_max":0,"currency":"EUR","period":"year","notes":"100% FREE - no tuition at SSM or Federico II"}
-    ],
-    "additional_fees":[
-      {"fee_name":"Regional tax","amount":140,"currency":"EUR","notes":"Only fee required"},
-      {"fee_name":"Stamp duty","amount":16,"currency":"EUR","notes":""}
-    ],
-    "payment_schedule_notes":"No tuition fees. Only regional tax and stamp duty.",
-    "source_url":"https://www.ssmeridionale.it",
-    "last_checked":"2026-01-05",
-    "confidence":0.95,
-    "notes":"100% FREE tuition at both SSM and Federico II. PLUS: €1,500/year stipend + FREE room and board in SSM residences (mandatory residence)."
-  }],
-  "scholarships": [{
-    "type":"scholarships",
-    "university_id":"ssm",
-    "scholarship_name":"Full Scholarship Package",
-    "description":"All admitted students receive full scholarship",
-    "eligibility":"All admitted students (by default)",
-    "amount":{"min":1500,"max":1500,"currency":"EUR","period":"year"},
-    "deadline":"",
-    "how_to_apply_url":"https://www.ssmeridionale.it",
-    "source_url":"https://www.ssmeridionale.it",
-    "last_checked":"2026-01-05",
-    "confidence":0.95,
-    "notes":"All students receive: €1,500/year stipend + FREE vitto e alloggio (room & board in double room) + exemption from ALL fees at SSM and Federico II."
-  }],
+    {
+      "type": "program",
+      "university_id": "ssm",
+      "degree_level": "bachelor",
+      "program_name": "Corso Ordinario - Area Scientifico-Tecnologica",
+      "class_code": "",
+      "language": [
+        "Italian"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 5,
+      "ects_total": 300,
+      "source_url": "https://www.ssmeridionale.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.95,
+      "notes": "Elite program. Must maintain 27/30 average with no grades below 24.",
+      "program_name_en": "Corso Ordinario - Aranda Scientifico-Tecnologica"
+    },
+    {
+      "type": "program",
+      "university_id": "ssm",
+      "degree_level": "phd",
+      "program_name": "PhD in Archeologia e Culture del Mediterraneo Antico",
+      "class_code": "",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 4,
+      "ects_total": 0,
+      "source_url": "https://www.ssmeridionale.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "With Federico II. 10% research budget. Full funding."
+    },
+    {
+      "type": "program",
+      "university_id": "ssm",
+      "degree_level": "phd",
+      "program_name": "PhD in Ricerca Storica, Conservazione",
+      "class_code": "",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 4,
+      "ects_total": 0,
+      "source_url": "https://www.ssmeridionale.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "With Scuola Normale Superiore. Full funding.",
+      "program_name_en": "PhD in Ricerca Storica, Conservazione"
+    },
+    {
+      "type": "program",
+      "university_id": "ssm",
+      "degree_level": "phd",
+      "program_name": "PhD in Testi, Tradizioni e Culture del Libro (TTCL)",
+      "class_code": "",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 4,
+      "ects_total": 0,
+      "source_url": "https://www.ssmeridionale.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "With Scuola Normale Superiore. Full funding."
+    },
+    {
+      "type": "program",
+      "university_id": "ssm",
+      "degree_level": "phd",
+      "program_name": "PhD in Studi Italiani e Romanzi",
+      "class_code": "",
+      "language": [
+        "Italian",
+        "English"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 4,
+      "ects_total": 0,
+      "source_url": "https://www.ssmeridionale.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "Full funding.",
+      "program_name_en": "PhD in Studi Italiani and Romanzi"
+    },
+    {
+      "type": "program",
+      "university_id": "ssm",
+      "degree_level": "phd",
+      "program_name": "PhD in Global History and Governance",
+      "class_code": "",
+      "language": [
+        "English"
+      ],
+      "campus_city": "Naples",
+      "duration_years": 4,
+      "ects_total": 0,
+      "source_url": "https://www.ssmeridionale.it",
+      "last_checked": "2026-01-10",
+      "confidence": 0.9,
+      "notes": "English-taught. Full funding.",
+      "program_name_it": "Dottorato di Ricerca in Global Storia e Governance",
+      "program_name_en": "PhD in Global History and Governance"
+    }
+  ],
+  "admissions": [
+    {
+      "type": "admissions",
+      "university_id": "ssm",
+      "program_name": "Corso Ordinario",
+      "degree_level_scope": "bachelor_master",
+      "applicant_scope": "all",
+      "requirements": {
+        "academic_requirements": "Maturità ≥85/100",
+        "documents_required": [
+          "Diploma with score ≥85/100"
+        ],
+        "tests_required": [
+          "SSM competitive admission exam"
+        ],
+        "portfolio_required": false,
+        "interview_required": true
+      },
+      "intakes": [
+        {
+          "intake_name": "A.A. 2025/2026",
+          "application_open_date": "",
+          "application_deadline": "",
+          "start_date": "",
+          "notes": "40-50 places available per year"
+        }
+      ],
+      "application_fee": {
+        "amount": null,
+        "currency": "EUR",
+        "notes": ""
+      },
+      "how_to_apply_url": "https://www.ssmeridionale.it/admission-ordinary-course/",
+      "source_url": "https://www.ssmeridionale.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.95,
+      "notes": "Highly selective: requires maturità ≥85/100, competitive exam, interview. Must maintain 27/30 average with no grades below 24."
+    }
+  ],
+  "tuition": [
+    {
+      "type": "tuition",
+      "university_id": "ssm",
+      "program_name": "",
+      "degree_level_scope": "general",
+      "tuition": [
+        {
+          "student_group": "All admitted students",
+          "amount_min": 0,
+          "amount_max": 0,
+          "currency": "EUR",
+          "period": "year",
+          "notes": "100% FREE - no tuition at SSM or Federico II"
+        }
+      ],
+      "additional_fees": [
+        {
+          "fee_name": "Regional tax",
+          "amount": 140,
+          "currency": "EUR",
+          "notes": "Only fee required"
+        },
+        {
+          "fee_name": "Stamp duty",
+          "amount": 16,
+          "currency": "EUR",
+          "notes": ""
+        }
+      ],
+      "payment_schedule_notes": "No tuition fees. Only regional tax and stamp duty.",
+      "source_url": "https://www.ssmeridionale.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.95,
+      "notes": "100% FREE tuition at both SSM and Federico II. PLUS: €1,500/year stipend + FREE room and board in SSM residences (mandatory residence)."
+    }
+  ],
+  "scholarships": [
+    {
+      "type": "scholarships",
+      "university_id": "ssm",
+      "scholarship_name": "Full Scholarship Package",
+      "description": "All admitted students receive full scholarship",
+      "eligibility": "All admitted students (by default)",
+      "amount": {
+        "min": 1500,
+        "max": 1500,
+        "currency": "EUR",
+        "period": "year"
+      },
+      "deadline": "",
+      "how_to_apply_url": "https://www.ssmeridionale.it",
+      "source_url": "https://www.ssmeridionale.it",
+      "last_checked": "2026-01-05",
+      "confidence": 0.95,
+      "notes": "All students receive: €1,500/year stipend + FREE vitto e alloggio (room & board in double room) + exemption from ALL fees at SSM and Federico II."
+    }
+  ],
   "opportunities": []
 }
